@@ -1,11 +1,11 @@
 # Sprint Backlog — 2026-03-15-2214
 
-**Sprint Goal:** Break Chapter 7 (*Evidence-Based Practice and Quality Improvement*) into five independently deliverable components, then execute each component to produce a complete chapter draft.
+**Sprint Goal:** Advance Chapter 4 (*Therapeutic Communication*) from first draft (v1.0) to editorially polished second draft (v2.0) through a structured developmental edit and copy edit.
 
 **Sprint Start:** 2026-03-15 22:14 UTC  
 **Previous Sprint:** 2026-03-15-2140  
 **Format:** Markdown (`.md`)  
-**Output Target:** `content/chapter-07.md`  
+**Output Target:** `content/chapter-04.md` (version 2.0)  
 **Tone:** Formal/academic  
 **Citation Style:** APA 7th edition
 
@@ -18,85 +18,69 @@
 
 ---
 
-## Milestone 0 — Sprint Planning
-
-| # | Task | Status | File |
-|---|------|--------|------|
-| 0.1 | Sprint questionnaire | [x] | `activity/2026-03-15-2214/2026-03-15-2214.md` |
-| 0.2 | Sprint backlog (this file) | [x] | `activity/2026-03-15-2214/sprint-backlog.md` |
-| 0.3 | Define Chapter 7 component breakdown | [x] | Embedded in questionnaire |
-
----
-
-## Component A — Chapter Header + Sections 7.1–7.2
+## Subtask 1 — Sprint Artifacts
 
 | Task | Status | File |
 |------|--------|------|
-| Chapter header (metadata, objectives, key terms) | [x] | `content/chapter-07.md` |
-| Introduction (~1 page) | [x] | `content/chapter-07.md` |
-| Section 7.1 — What Is Evidence-Based Practice (EBP)? (~5 pp) | [x] | `content/chapter-07.md` |
-| Section 7.2 — Levels of Evidence and the Research Hierarchy (~5 pp) | [x] | `content/chapter-07.md` |
+| Sprint questionnaire | [x] | `activity/2026-03-15-2214/2026-03-15-2214.md` |
+| Sprint backlog (this file) | [x] | `activity/2026-03-15-2214/sprint-backlog.md` |
 
 ---
 
-## Component B — Sections 7.3–7.4
+## Subtask 2 — Developmental Edit
+
+**Scope:** Structural completeness, internal consistency, learning-objective alignment, editorial artifact removal, and missing content.
+
+| Task | Status | Detail |
+|------|--------|--------|
+| Remove `**Purpose:**` editorial artifact lines (×9) | [x] | Lines 66, 108, 147, 196, 254, 294, 333, 378, 433 — present in Chapter 4 but absent in Chapter 1 and the chapter template |
+| Add non-therapeutic communication table to Section 4.5.1 | [x] | Specified in `activity/2026-03-15-2030/chapter-04-outline.md` but missing from draft |
+| Verify all 4 figure placeholders have captions and alt-text | [x] | Figures 4.1–4.4 |
+| Verify all 5 callout boxes present | [x] | Safety Alert, Professional Practice, EBP Spotlight, Clinical Tip, Quality Improvement |
+| Verify 9 Key Takeaways map 1:1 to 9 Learning Objectives | [x] | Chapter Summary section |
+| Verify case study: 3 scenes, 4 discussion questions | [x] | "Lost in Translation" |
+| Verify NCLEX questions: 10 items, answer key, rationales | [x] | 7 single-best-answer, 2 SATA, 1 NGN unfolding case |
+
+---
+
+## Subtask 3 — Copy Edit / Proofread
+
+**Scope:** Grammar, punctuation, APA 7th citation format, heading consistency, key-term bolding, and terminology consistency.
+
+| Task | Status | Detail |
+|------|--------|--------|
+| APA citation audit: all in-text citations match reference list | [x] | Added Hockenberry et al. (2022) and American Foundation for the Blind (2022) to reference list |
+| APA reference list audit: format, alphabetical order, DOI consistency | [x] | Fixed Mullen-Fortino journal name (*Nursing* only, year removed from title) |
+| Heading level audit: `##` for major sections, `###` for subsections | [x] | All headings correct |
+| Key-term bold audit: each key term bolded on first use, not repeated | [x] | 15 key terms confirmed |
+| Terminology consistency: "therapeutic communication," "health literacy," etc. | [x] | Consistent throughout |
+| Grammar and punctuation review: em dashes, serial commas, sentence fragments | [x] | Full chapter reviewed |
+| Update Production Notes: version → 2.0, sprint → 2026-03-15-2214 | [x] | End of chapter updated |
+
+---
+
+## Subtask 4 — Master Backlog Update
 
 | Task | Status | File |
 |------|--------|------|
-| Section 7.3 — Finding and Appraising Clinical Evidence (~6 pp) | [x] | `content/chapter-07.md` |
-| Section 7.4 — Quality Improvement and Patient Safety: The QSEN Framework (~6 pp) | [x] | `content/chapter-07.md` |
-
----
-
-## Component C — Sections 7.5–7.6
-
-| Task | Status | File |
-|------|--------|------|
-| Section 7.5 — Translating Evidence into Practice: Barriers and Facilitators (~5 pp) | [x] | `content/chapter-07.md` |
-| Section 7.6 — Quality Measures, Outcome Reporting, and NDNQI (~5 pp) | [x] | `content/chapter-07.md` |
-
----
-
-## Component D — Assessments
-
-| Task | Status | File |
-|------|--------|------|
-| Case Study: "The Protocol That Wasn't" (3-scene, 4 discussion questions) | [x] | `content/chapter-07.md` |
-| NCLEX-Style Review Questions (10 items with answer key) | [x] | `content/chapter-07.md` |
-
----
-
-## Component E — Closing Matter
-
-| Task | Status | File |
-|------|--------|------|
-| Chapter Summary | [x] | `content/chapter-07.md` |
-| Key Takeaways (aligned to 8 objectives) | [x] | `content/chapter-07.md` |
-| References (APA 7th, ≥15 sources) | [x] | `content/chapter-07.md` |
-| Chapter Production Notes | [x] | `content/chapter-07.md` |
-
----
-
-## Post-Chapter Tasks
-
-| Task | Status |
-|------|--------|
-| Update `docs/js/app.js` Chapter 7 status to `'draft'` | [x] |
-| Update master backlog to reflect Chapter 7 draft `[x]` complete | [x] |
+| Mark Chapter 4 developmental edit `[x]` complete | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 4 copy edit / proofread `[x]` complete | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
 
 ---
 
 ## Remaining Work (Future Sprints)
 
-- Chapter 7 developmental edit and copy edit / proofread
-- Chapter 2 outline and draft (unblocked — depends on Chapter 1)
-- Chapter 3 outline and draft (unblocked — depends on Chapter 2)
-- Chapter 5 outline and draft (unblocked — depends on Chapter 4)
-- Chapter 8 outline and draft (unblocked — depends on Chapters 4 and 7)
-- Figures and diagrams (design-ready list in Chapter 7)
+- Chapter 2 outline and draft (*Legal, Ethical, and Professional Standards* — unblocked, depends on Chapter 1)
+- Chapter 3 outline and draft (*Patient Rights, Advocacy, and Informed Consent* — unblocked, depends on Chapter 2)
+- Chapter 5 outline and draft (*Cultural Humility, Health Literacy, and Inclusive Care* — unblocked, depends on Chapter 4)
+- Chapters 7, 10 outlines (unblocked — depend only on Chapter 1)
+- Chapter 1 developmental edit and copy edit / proofread
+- Figures and diagrams for Chapters 1 and 4 (design-ready placeholders in place)
 - NCLEX answer key expansion and NGN alignment review
+- Front matter (Preface, How to Use This Book)
 
 ---
 
+*Sprint started: 2026-03-15 22:14 UTC*  
 *Sprint completed: 2026-03-15 UTC*  
 *Sprint version: 1.0*
