@@ -32,10 +32,10 @@
 
 | Task | Status | Content |
 |------|--------|---------|
-| Chapter header (metadata, objectives, key terms) | [ ] | `content/chapter-10.md` |
-| Introduction (~1 page) | [ ] | `content/chapter-10.md` |
-| Section 10.1 — Definitions and Models of Health and Wellness (~5 pp) | [ ] | `content/chapter-10.md` |
-| Section 10.2 — The Health-Illness Continuum (~5 pp) | [ ] | `content/chapter-10.md` |
+| Chapter header (metadata, objectives, key terms) | [x] | `content/chapter-10.md` |
+| Introduction (~1 page) | [x] | `content/chapter-10.md` |
+| Section 10.1 — Definitions and Models of Health and Wellness (~5 pp) | [x] | `content/chapter-10.md` |
+| Section 10.2 — The Health-Illness Continuum (~5 pp) | [x] | `content/chapter-10.md` |
 
 ---
 
