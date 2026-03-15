@@ -82,8 +82,8 @@
 
 | Task | Status |
 |------|--------|
-| Update `docs/js/app.js` Chapter 2 status from `soon` to `draft` | [ ] |
-| Update master backlog to reflect Chapter 2 draft `[x]` complete | [ ] |
+| Update `docs/js/app.js` Chapter 2 status from `soon` to `draft` | [x] |
+| Update master backlog to reflect Chapter 2 draft `[x]` complete | [x] |
 
 ---
 
