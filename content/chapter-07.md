@@ -381,7 +381,7 @@ Research on EBP barriers, including the landmark Funk et al. (1991) barriers sur
 - *Conflicting evidence:* When high-quality studies reach conflicting conclusions, even evidence-literate nurses face genuine uncertainty about best practice.
 
 > **EBP Connection: The Funk Barriers Survey**  
-> Stetler Funk and colleagues (1991) developed the BARRIERS to Research Utilization Scale, which has been used in over 200 nursing studies in more than 30 countries. The most consistently cited barriers across studies are: nurses not having time to read research, nurses not seeing the value of research for practice, facilities not having time for implementation, and research not being readily available. These barriers have changed remarkably little over three decades, suggesting that information alone — knowing that evidence exists — is insufficient to change practice.
+> Funk and colleagues (1991) developed the BARRIERS to Research Utilization Scale, which has been used in over 200 nursing studies in more than 30 countries. The most consistently cited barriers across studies are: nurses not having time to read research, nurses not seeing the value of research for practice, facilities not having time for implementation, and research not being readily available. These barriers have changed remarkably little over three decades, suggesting that information alone — knowing that evidence exists — is insufficient to change practice.
 
 ### 7.5.3 Facilitators of EBP Implementation
 
