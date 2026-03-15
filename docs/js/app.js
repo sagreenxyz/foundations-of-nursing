@@ -32,7 +32,7 @@ const UNITS = [
   {
     label: 'Unit 3: Health, Wellness, and Human Development',
     chapters: [
-      { num: 10, title: 'Health, Wellness, and Illness',                      file: 'chapter-10.md', status: 'soon'    },
+      { num: 10, title: 'Health, Wellness, and Illness',                      file: 'chapter-10.md', status: 'draft'   },
       { num: 11, title: 'Lifespan Development and Age-Related Nursing',       file: 'chapter-11.md', status: 'soon'    },
       { num: 12, title: 'Nutrition and Metabolic Health',                     file: 'chapter-12.md', status: 'soon'    },
     ],

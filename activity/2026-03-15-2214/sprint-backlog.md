@@ -82,8 +82,8 @@
 
 | Task | Status | File |
 |------|--------|------|
-| Update `docs/js/app.js` — Chapter 10 `status: 'draft'` | [ ] | `docs/js/app.js` |
-| Update master backlog to reflect Chapter 10 draft complete | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Update `docs/js/app.js` — Chapter 10 `status: 'draft'` | [x] | `docs/js/app.js` |
+| Update master backlog to reflect Chapter 10 draft complete | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
 
 ---
 
