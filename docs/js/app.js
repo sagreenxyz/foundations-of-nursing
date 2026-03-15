@@ -46,6 +46,68 @@ const UNITS = [
       { num: 16, title: 'Cardiovascular Pathophysiology',                     file: 'chapter-16.md', status: 'soon'    },
       { num: 17, title: 'Respiratory Pathophysiology',                        file: 'chapter-17.md', status: 'soon'    },
       { num: 18, title: 'Neurological Pathophysiology',                       file: 'chapter-18.md', status: 'soon'    },
+      { num: 19, title: 'Musculoskeletal Pathophysiology',                    file: 'chapter-19.md', status: 'soon'    },
+      { num: 20, title: 'Gastrointestinal Pathophysiology',                   file: 'chapter-20.md', status: 'soon'    },
+      { num: 21, title: 'Renal and Urinary Pathophysiology',                  file: 'chapter-21.md', status: 'soon'    },
+      { num: 22, title: 'Endocrine Pathophysiology',                          file: 'chapter-22.md', status: 'soon'    },
+      { num: 23, title: 'Immune System and Infectious Disease',               file: 'chapter-23.md', status: 'soon'    },
+    ],
+  },
+  {
+    label: 'Unit 5: Pharmacology',
+    chapters: [
+      { num: 24, title: 'Principles of Pharmacology',                         file: 'chapter-24.md', status: 'soon'    },
+      { num: 25, title: 'Safe Medication Administration',                     file: 'chapter-25.md', status: 'soon'    },
+      { num: 26, title: 'Drug Classifications and Mechanisms',                file: 'chapter-26.md', status: 'soon'    },
+      { num: 27, title: 'Patient Education for Medications',                  file: 'chapter-27.md', status: 'soon'    },
+    ],
+  },
+  {
+    label: 'Unit 6: Clinical Skills',
+    chapters: [
+      { num: 28, title: 'Vital Signs and Physical Assessment',                file: 'chapter-28.md', status: 'soon'    },
+      { num: 29, title: 'Infection Control and Sterile Technique',            file: 'chapter-29.md', status: 'soon'    },
+      { num: 30, title: 'Hygiene, Mobility, and Skin Integrity',              file: 'chapter-30.md', status: 'soon'    },
+      { num: 31, title: 'IV Therapy and Venous Access',                       file: 'chapter-31.md', status: 'soon'    },
+      { num: 32, title: 'Urinary and Bowel Elimination',                      file: 'chapter-32.md', status: 'soon'    },
+      { num: 33, title: 'Oxygenation and Airway Management',                  file: 'chapter-33.md', status: 'soon'    },
+      { num: 34, title: 'Perioperative Nursing Care',                         file: 'chapter-34.md', status: 'soon'    },
+    ],
+  },
+  {
+    label: 'Unit 7: Mental Health Nursing',
+    chapters: [
+      { num: 35, title: 'Foundations of Mental Health Nursing',               file: 'chapter-35.md', status: 'soon'    },
+      { num: 36, title: 'Common Psychiatric Disorders and Nursing Care',      file: 'chapter-36.md', status: 'soon'    },
+    ],
+  },
+  {
+    label: 'Unit 8: Maternal-Newborn and Pediatric Nursing',
+    chapters: [
+      { num: 37, title: 'Maternal-Newborn Nursing',                           file: 'chapter-37.md', status: 'soon'    },
+      { num: 38, title: 'Pediatric Nursing',                                  file: 'chapter-38.md', status: 'soon'    },
+    ],
+  },
+  {
+    label: 'Unit 9: Community and Public Health',
+    chapters: [
+      { num: 39, title: 'Community and Public Health Nursing',                file: 'chapter-39.md', status: 'soon'    },
+      { num: 40, title: 'Home Health and Transitional Care',                  file: 'chapter-40.md', status: 'soon'    },
+    ],
+  },
+  {
+    label: 'Unit 10: Leadership and Management',
+    chapters: [
+      { num: 41, title: 'Leadership and Management in Nursing',               file: 'chapter-41.md', status: 'soon'    },
+      { num: 42, title: 'Delegation, Supervision, and Team Nursing',          file: 'chapter-42.md', status: 'soon'    },
+      { num: 43, title: 'Professional Development and Career Planning',       file: 'chapter-43.md', status: 'soon'    },
+    ],
+  },
+  {
+    label: 'Unit 11: Integration and Capstone',
+    chapters: [
+      { num: 44, title: 'Integrated Case Studies',                            file: 'chapter-44.md', status: 'soon'    },
+      { num: 45, title: 'NCLEX Preparation and Clinical Readiness',           file: 'chapter-45.md', status: 'soon'    },
     ],
   },
 ];
