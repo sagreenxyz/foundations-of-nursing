@@ -180,3 +180,198 @@ This distinction has direct implications for nursing assessment. A complete nurs
 > **Callout — Evidence-Based Practice: Explanatory Models in Patient Assessment**
 > Arthur Kleinman's Explanatory Model Interview (1988) provides a structured approach to eliciting the patient's illness experience. Eight questions explore the patient's understanding of cause, timeline, severity, feared effects, and desired treatment. Integration of Kleinman's model into nursing assessment has been associated with improved patient satisfaction and adherence in culturally diverse populations (Betancourt et al., 2016).
 
+
+---
+
+## Section 10.3 — Determinants of Health: Biological, Behavioral, and Social
+
+### 10.3.1 Overview of Health Determinants
+
+A *determinant of health* is any factor — genetic, behavioral, environmental, or systemic — that influences the probability of a health outcome. The landmark 2008 report of the WHO Commission on Social Determinants of Health concluded that *"the conditions in which people are born, grow, live, work, and age"* account for the majority of health inequities within and between countries (CSDH, 2008, p. 1). In the United States, the Healthy People 2030 framework groups determinants into five broad domains: economic stability, education access and quality, healthcare access and quality, neighborhood and built environment, and social and community context (U.S. DHHS, 2020).
+
+For nurses, understanding determinants is not merely an intellectual exercise. Every patient's health status is the product of a lifetime of determinant exposure. Recognizing those determinants enables nurses to contextualize the patient's current presentation, identify modifiable risk factors, and connect patients to resources that address the upstream causes of poor health.
+
+### 10.3.2 Biological Determinants
+
+Biological determinants are the constitutional, genetic, and physiological factors a person inherits or develops that predispose to health or disease. They include:
+
+**Genetics and Family History**
+
+Single-gene disorders (e.g., sickle cell disease, cystic fibrosis) represent the clearest examples of biological determinism in health, but they account for a small fraction of overall disease burden. Far more consequential are polygenic conditions — including cardiovascular disease, type 2 diabetes, hypertension, and many cancers — in which multiple genetic variants interact with each other and with environmental exposures to determine risk. Family history remains the most accessible and cost-effective genetic risk tool available at the bedside (National Human Genome Research Institute, 2020).
+
+**Age and Sex**
+
+Age is among the strongest biological determinants of health. Physiological reserve declines with age; immune senescence increases infection vulnerability; cumulative environmental exposures magnify risk over decades. Sex — biological differences in chromosomal complement, hormonal profiles, and organ structure — contributes to differential disease risk and presentation. Cardiovascular disease, for example, presents with atypical symptoms in women more frequently than in men, a pattern attributable in part to hormonal and anatomical differences (Mehta et al., 2016).
+
+**Epigenetics**
+
+Emerging evidence reveals that biological determinism is not destiny. Epigenetic mechanisms — DNA methylation, histone modification, non-coding RNA regulation — allow environmental exposures to modify gene expression without altering the DNA sequence. Adverse childhood experiences (ACEs), chronic stress, nutritional deficiencies, and toxic environmental exposures can all leave epigenetic marks that alter health trajectories across the lifespan and even across generations (Shonkoff et al., 2012). Epigenetics represents the biological bridge between social experience and physical health.
+
+### 10.3.3 Behavioral Determinants
+
+Behavioral determinants are modifiable lifestyle factors that exert substantial influence on health outcomes. The CDC estimates that approximately 40% of premature deaths in the United States are attributable to preventable behaviors (Mokdad et al., 2018). Major behavioral determinants include:
+
+| Behavior | Primary Health Consequences | Nursing Intervention |
+|----------|----------------------------|---------------------|
+| **Tobacco use** | Lung cancer, COPD, cardiovascular disease, stroke | Cessation counseling (5 A's), pharmacotherapy referral |
+| **Physical inactivity** | Obesity, type 2 diabetes, cardiovascular disease, depression | Exercise prescription, motivational interviewing |
+| **Unhealthy diet** | Obesity, metabolic syndrome, cardiovascular disease | Nutritional assessment, dietary counseling, referral |
+| **Excessive alcohol use** | Liver disease, pancreatitis, trauma, fetal alcohol syndrome | AUDIT screening, brief intervention (SBIRT) |
+| **Unsafe sexual practices** | HIV, STIs, unintended pregnancy | Sexual health education, contraceptive counseling |
+| **Non-adherence to medication** | Disease exacerbation, complications, preventable hospitalization | Adherence assessment, simplified regimens, teach-back |
+| **Inadequate sleep** | Metabolic dysfunction, immune impairment, cognitive decline | Sleep hygiene education, obstructive sleep apnea screening |
+
+Behavioral determinants are not simply matters of individual willpower. They are powerfully shaped by upstream social determinants: a person living in a food desert cannot easily adopt a healthy diet; a person working two jobs without childcare has limited capacity for regular exercise; a person experiencing chronic stress may use tobacco as a coping mechanism. Nurses who counsel behavioral change without acknowledging these upstream constraints risk victim-blaming and eroding therapeutic alliance.
+
+### 10.3.4 Social Determinants of Health (SDOH)
+
+Social determinants of health are the structural conditions in which people are born, grow, live, work, and age. The SDOH framework, central to Healthy People 2030 and the American Nurses Association's (ANA) scope of practice, encompasses five domains:
+
+1. **Economic stability** — Income level, employment status, food security, housing stability
+2. **Education access and quality** — Educational attainment, literacy, early childhood development, language access
+3. **Healthcare access and quality** — Insurance coverage, provider availability, transportation to care, quality of care received
+4. **Neighborhood and built environment** — Air and water quality, housing quality, walkability, exposure to crime and violence, food environment
+5. **Social and community context** — Social cohesion, civic participation, discrimination, incarceration, community safety
+
+Research consistently demonstrates that SDOH exert greater influence on health outcomes than medical care. An estimated 80% of health outcomes are driven by non-medical factors; only 20% are attributable to healthcare access and quality (Hood et al., 2016). This finding does not minimize the importance of clinical nursing — it amplifies the importance of the nursing role in identifying and addressing SDOH through referral, advocacy, care coordination, and community partnership.
+
+> **Callout — Professional Practice: SDOH Screening in Clinical Settings**
+> The Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences (PRAPARE) and the Accountable Health Communities (AHC) Screening Tool are validated instruments for systematically identifying SDOH in clinical encounters. Both tools are integrated into many EHR platforms. Nurses play a primary role in administering these tools, interpreting results, and initiating referral pathways to community health workers, social workers, and community-based organizations.
+
+[FIGURE 10.3 — Conceptual diagram of Healthy People 2030 SDOH framework showing five domains (economic stability, education, healthcare access, neighborhood/built environment, social and community context) converging on the central outcome of health and well-being. Alt text: Five-domain social determinants of health conceptual model. Each domain is represented by a color-coded box arranged around a central hub labeled "Health and Well-Being." Arrows from each domain point to the central hub, indicating that all five domains contribute to health outcomes.]
+
+---
+
+## Section 10.4 — Health Promotion and Disease Prevention: Primary, Secondary, and Tertiary
+
+### 10.4.1 Distinguishing Health Promotion from Disease Prevention
+
+*Health promotion* and *disease prevention* are related but conceptually distinct activities. Health promotion is directed at all people, regardless of disease status, with the goal of increasing overall well-being and potential. Disease prevention is targeted at specific diseases or risk factors, with the goal of reducing incidence, severity, or consequences.
+
+The Ottawa Charter for Health Promotion (WHO, 1986) identified five action areas for health promotion: building healthy public policy, creating supportive environments, strengthening community action, developing personal skills, and reorienting health services. These actions operate at the population level and exceed any single nurse's scope — but nurses are critical agents in the personal skills and health services domains.
+
+Nursing's role in disease prevention is codified in the Pender Revised Health Promotion Model (HPM), which posits that individual characteristics and prior experiences, behavior-specific cognitions and affect, and behavioral outcomes interact to determine health-promoting behavior (Pender et al., 2015). The HPM is one of the most tested models in nursing science and provides a theoretically grounded framework for designing nursing interventions that move patients toward preventive action.
+
+### 10.4.2 Levels of Prevention
+
+The three-level prevention framework — introduced by Leavell and Clark in 1953 and refined over subsequent decades — organizes preventive interventions by timing relative to disease onset:
+
+**Primary Prevention**
+
+Primary prevention occurs *before disease onset* and targets the reduction of disease incidence in the healthy population. Goals are to eliminate risk factors or strengthen host resistance before pathological processes begin.
+
+Examples in nursing practice:
+- Administering immunizations (influenza, pneumococcal, HPV) in primary care and public health settings
+- Providing tobacco cessation counseling to non-smokers and adolescents at risk for initiation
+- Educating pregnant patients about folic acid supplementation to prevent neural tube defects
+- Teaching car seat installation and helmet use to reduce pediatric injury
+- Conducting food safety education in community settings to prevent foodborne illness
+
+**Secondary Prevention**
+
+Secondary prevention occurs *after disease onset but before symptoms are established* — or early in the symptomatic phase — with the goal of identifying disease early and treating it promptly to limit severity and prevent progression.
+
+Examples in nursing practice:
+- Performing blood pressure screening at community events to identify undiagnosed hypertension
+- Conducting breast self-examination education and facilitating mammography referrals
+- Administering colorectal cancer screening (fecal immunochemical test distribution) in underserved communities
+- Completing tuberculin skin testing in high-risk populations (corrections, homeless shelters, healthcare workers)
+- Screening for intimate partner violence using validated tools (e.g., HITS, WAST) at well-woman visits
+
+**Tertiary Prevention**
+
+Tertiary prevention occurs *after disease is established* and focuses on reducing disability, preventing complications, and restoring function to the highest possible level. Most of what occurs in hospital and rehabilitation settings is tertiary prevention.
+
+Examples in nursing practice:
+- Providing diabetic foot care education and wound surveillance to prevent amputation in patients with established diabetes
+- Delivering cardiac rehabilitation education to post-MI patients to prevent recurrent events
+- Facilitating physical therapy referrals and fall prevention protocols in post-stroke rehabilitation
+- Managing anticoagulation therapy and INR monitoring in patients with atrial fibrillation
+- Providing cognitive stimulation activities and caregiver support in patients with dementia
+
+| Level | Timing | Target Population | Goal | Nursing Examples |
+|-------|--------|------------------|------|-----------------|
+| **Primary** | Before disease | Healthy individuals | Prevent incidence | Immunizations, health education |
+| **Secondary** | Early disease / pre-symptomatic | At-risk or early-stage individuals | Detect and treat early | Screening programs, early intervention |
+| **Tertiary** | Established disease | Diagnosed patients | Minimize disability, restore function | Rehabilitation, complication management |
+
+### 10.4.3 Health Promotion Across the Lifespan
+
+Preventive priorities shift substantially across the lifespan, requiring nurses to adapt their health promotion strategies to developmental context:
+
+- **Infancy and childhood:** Immunizations, developmental screening, injury prevention, breastfeeding support, dental hygiene education
+- **Adolescence:** Substance abuse prevention, sexual health education, mental health screening, physical activity promotion
+- **Young adulthood:** Contraceptive counseling, STI prevention, cardiovascular risk factor identification, stress management
+- **Middle adulthood:** Cancer screening (colorectal, cervical, breast, prostate), hypertension and diabetes surveillance, workplace ergonomics
+- **Older adulthood:** Fall prevention, medication reconciliation, cognitive screening, immunizations (zoster, pneumococcal), advance care planning
+
+> **Callout — Clinical Application: The USPSTF in Practice**
+> The United States Preventive Services Task Force (USPSTF) issues evidence-based recommendations for preventive services, graded A through D. Grade A and B recommendations are covered without cost-sharing under the Affordable Care Act. Nurses who know USPSTF guidelines can efficiently guide patients toward covered preventive services — a critical competency in primary care nursing and population health.
+
+[FIGURE 10.4 — Three-level prevention pyramid with primary prevention at the base (widest), secondary in the middle, and tertiary at the apex (narrowest). Each tier is labeled with timing, target population, and two clinical nursing examples. Alt text: Inverted pyramid diagram divided into three horizontal tiers. The widest tier at the bottom is labeled "Primary Prevention" and includes examples such as immunizations and health education. The middle tier is labeled "Secondary Prevention" with examples including screening and early detection. The narrowest tier at the top is labeled "Tertiary Prevention" with examples including rehabilitation and complication management.]
+
+---
+
+## Section 10.5 — Acute vs. Chronic Illness: Nursing Implications
+
+### 10.5.1 Characteristics of Acute Illness
+
+Acute illness is characterized by a rapid onset of symptoms, a relatively short duration, clear pathophysiological cause, and a generally predictable trajectory toward recovery, chronic disease, or death. The episodic nature of acute illness has historically driven the structure of the healthcare system — hospitals were built to manage discrete acute events — and continues to shape nurse-patient interactions in emergency, critical care, and medical-surgical settings.
+
+Key characteristics of acute illness:
+
+| Feature | Characteristics |
+|---------|----------------|
+| **Onset** | Sudden; patient and family can often identify a specific onset event |
+| **Duration** | Hours to days; recovery expected within days to weeks |
+| **Pathophysiology** | Often identifiable single cause (infection, injury, obstruction) |
+| **Treatment goal** | Cure or restoration to pre-illness baseline |
+| **Patient role** | Passive; accepts treatments; expects provider to "fix" the problem |
+| **Nursing focus** | Acute assessment, monitoring, symptom management, safety, discharge planning |
+| **Family impact** | Disruption of routine; temporary reorganization of roles |
+
+**Nursing priorities in acute illness** center on rapid assessment and intervention, close physiological monitoring, symptom management, patient safety (fall prevention, pressure injury prevention, infection control), and early discharge planning to prevent complications of immobility and hospitalization itself.
+
+### 10.5.2 Characteristics of Chronic Illness
+
+Chronic illness is a long-lasting condition, generally defined as lasting three months or longer, that cannot be prevented by vaccines or cured by medication alone, and that requires ongoing medical and self-management (CDC, 2023). Approximately 60% of American adults have at least one chronic condition; 40% have two or more (CDC, 2023). Chronic illness accounts for 90% of the nation's $4.1 trillion annual healthcare expenditures.
+
+Key characteristics of chronic illness:
+
+| Feature | Characteristics |
+|---------|----------------|
+| **Onset** | Gradual; often insidious; may go unrecognized for years |
+| **Duration** | Months to lifelong; trajectory is variable and often includes exacerbations |
+| **Pathophysiology** | Multifactorial; involves irreversible pathological changes |
+| **Treatment goal** | Control, management, quality of life preservation; cure typically not possible |
+| **Patient role** | Active; self-management is essential; patient is the primary manager of daily care |
+| **Nursing focus** | Education, self-management support, care coordination, complication surveillance |
+| **Family impact** | Sustained reorganization of roles, relationships, finances, and identity |
+
+### 10.5.3 Nursing Implications of Chronic Illness Management
+
+The nursing role in chronic illness management differs substantially from the acute care role. The most important shift is from *doing for* the patient to *supporting the patient in doing for themselves*.
+
+**Self-Management Support**
+
+The Chronic Care Model (Wagner et al., 1996) identifies informed, activated patients as one of the two essential ingredients for improved chronic illness outcomes (along with a prepared, proactive practice team). Self-management support encompasses five core functions:
+
+1. **Assessment** — Understanding the patient's current self-management practices, barriers, and readiness to change
+2. **Goal setting** — Collaborating with the patient to establish specific, achievable, time-bound behavior change goals
+3. **Planning** — Developing a realistic action plan that fits the patient's context
+4. **Problem-solving** — Anticipating and addressing barriers before they derail progress
+5. **Follow-up** — Monitoring progress and adjusting plans in response to outcomes
+
+**The Role of Patient Activation**
+
+*Patient activation* — the degree to which a patient has the knowledge, skills, and confidence to manage their own health — is a powerful predictor of chronic illness outcomes. The Patient Activation Measure (PAM), developed by Hibbard et al. (2004), quantifies activation on a 1–100 scale and has been validated in dozens of chronic conditions. Highly activated patients have lower hospitalization rates, better adherence, and higher quality of life. Nurses who assess and build patient activation — rather than simply delivering information — produce measurably better chronic illness outcomes.
+
+**Illness Trajectory and the Corbin-Strauss Model**
+
+Anselm Strauss and Juliet Corbin (1988) proposed the *illness trajectory* model to describe the dynamic course of chronic illness. The trajectory includes phases — acute, stable, unstable, downward, dying — each of which demands different nursing responses. The model emphasizes that managing a chronic illness is not a single event but an ongoing trajectory-shaping endeavor involving the patient, family, and healthcare team.
+
+> **Callout — Clinical Application: The Teach-Back Method in Chronic Illness Education**
+> The teach-back method — asking patients to explain back what they have just learned in their own words — is the gold standard for confirming health education comprehension in chronic illness management. The Institute for Healthcare Improvement (IHI) and Joint Commission both identify teach-back as a high-reliability strategy for preventing patient harm from medication errors and failure to recognize warning signs. Research demonstrates that teach-back reduces 30-day readmission rates by up to 30% in heart failure and COPD populations (White et al., 2013).
+
+[FIGURE 10.5 — Side-by-side comparison table of acute versus chronic illness across six dimensions (onset, duration, treatment goal, patient role, nursing focus, family impact), with each dimension illustrated by a clinical example. Alt text: Two-column comparison diagram contrasting acute illness and chronic illness across six dimensions. The left column describes acute illness features with the example of community-acquired pneumonia; the right column describes chronic illness features with the example of type 2 diabetes. Color coding differentiates the two illness types.]
+

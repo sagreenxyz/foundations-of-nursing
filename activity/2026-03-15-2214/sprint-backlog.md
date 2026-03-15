@@ -43,9 +43,9 @@
 
 | Task | Status | Content |
 |------|--------|---------|
-| Section 10.3 — Determinants of Health: Biological, Behavioral, and Social (~5 pp) | [ ] | `content/chapter-10.md` |
-| Section 10.4 — Health Promotion and Disease Prevention (~6 pp) | [ ] | `content/chapter-10.md` |
-| Section 10.5 — Acute vs. Chronic Illness: Nursing Implications (~5 pp) | [ ] | `content/chapter-10.md` |
+| Section 10.3 — Determinants of Health: Biological, Behavioral, and Social (~5 pp) | [x] | `content/chapter-10.md` |
+| Section 10.4 — Health Promotion and Disease Prevention (~6 pp) | [x] | `content/chapter-10.md` |
+| Section 10.5 — Acute vs. Chronic Illness: Nursing Implications (~5 pp) | [x] | `content/chapter-10.md` |
 
 ---
 
