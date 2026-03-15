@@ -63,8 +63,6 @@ This chapter provides a comprehensive framework for therapeutic communication in
 
 ## Section 4.1 — The Communication Process in Healthcare
 
-**Purpose:** Establish foundational communication theory before applying it to clinical nursing practice.
-
 ### 4.1.1 Components of the Communication Model
 
 Every clinical interaction — from a brief vital-sign check to a lengthy family meeting at end of life — can be analyzed through the lens of communication theory. Understanding the structural components of communication allows nurses to diagnose breakdowns systematically and intervene purposefully rather than relying on intuition alone.
@@ -105,8 +103,6 @@ No two clinical communication encounters are identical because each is shaped by
 
 ## Section 4.2 — Verbal and Nonverbal Communication
 
-**Purpose:** Help students recognize that most clinical meaning is conveyed nonverbally; train congruence between words and body language.
-
 ### 4.2.1 Characteristics of Effective Verbal Communication
 
 Words are the most consciously constructed element of communication, yet they account for a minority of the meaning received in a face-to-face encounter. Research consistently estimates that nonverbal channels carry 60–80% of interpersonal meaning, leaving verbal content responsible for the remaining fraction (Mehrabian, 1971; updated synthesis in Burgoon et al., 2016). Nevertheless, the precision and selection of words matter enormously in clinical contexts, where misunderstanding can result in medication errors, treatment refusal, or psychological harm.
@@ -143,8 +139,6 @@ Congruence requires self-awareness and deliberate practice. Nurses who are hurri
 ---
 
 ## Section 4.3 — The Nurse-Patient Relationship: Phases and Boundaries
-
-**Purpose:** Frame therapeutic communication within a professional, structured relationship model.
 
 ### 4.3.1 Hildegard Peplau's Interpersonal Theory
 
@@ -192,8 +186,6 @@ The proliferation of social media has created a new domain of boundary vulnerabi
 ---
 
 ## Section 4.4 — Therapeutic Communication Techniques
-
-**Purpose:** Build a practical toolkit of evidence-based techniques students can apply immediately in clinical settings.
 
 ### 4.4.1 Active Listening
 
@@ -251,8 +243,6 @@ De-escalation is distinct from crisis intervention. When de-escalation is insuff
 
 ## Section 4.5 — Non-Therapeutic Communication: Barriers and Pitfalls
 
-**Purpose:** Identify common communication errors nurses make and their impact on patient trust and outcomes.
-
 ### 4.5.1 Categories of Non-Therapeutic Communication
 
 Non-therapeutic communication is any pattern that impedes the therapeutic relationship, blocks information exchange, undermines patient autonomy, or damages trust. These patterns are not always malicious — most arise from habit, discomfort, time pressure, or educational gaps. But their impact on patients can be profound, and recognizing them is the first step toward replacing them.
@@ -273,6 +263,19 @@ Non-therapeutic communication is any pattern that impedes the therapeutic relati
 
 **Defensive responses** protect the healthcare system, individual providers, or institutional policies at the patient's expense. *Example:* "The doctor would have told you if that were important." Defensive responses invalidate patient concerns, undermine disclosure, and are closely associated with failure to identify safety problems before they cause harm.
 
+The following table summarizes each non-therapeutic pattern alongside its therapeutic alternative, providing a quick-reference guide for clinical practice and self-assessment.
+
+| Non-Therapeutic Pattern | Example Statement | Therapeutic Alternative |
+|-------------------------|-------------------|------------------------|
+| False reassurance | "Don't worry — everything is going to be fine." | "This is a lot to process. It's understandable to feel scared. Let's talk about what we know." |
+| Giving advice | "If I were you, I would just have the surgery." | "What feels most important to you as you think about your options?" |
+| Changing the subject | "Let's take your blood pressure first." *(said to cut off an emotional disclosure)* | "I want to hear what you're thinking. Let me sit down for a minute." |
+| Closed questions | "Are you in pain?" | "Tell me about any discomfort you've been having." |
+| Paternalism | "Your daughter and I have already decided what's best for you." | "This is your decision to make. What questions do you have about your options?" |
+| Excessive self-disclosure | "I know exactly how you feel — the same thing happened to me." *(followed by a lengthy personal story)* | A brief normalizing statement, then redirecting: "Many people feel that way. Tell me more about your experience." |
+| Stereotyping | "At your age, most people just want to be comfortable." | "What are your priorities for your care at this stage?" |
+| Defensive response | "The doctor would have told you if that were important." | "That's an important concern. Let me find out the answer and get back to you." |
+
 ### 4.5.2 Environmental and Systemic Barriers
 
 Beyond individual communication patterns, structural factors create persistent barriers to effective therapeutic communication in clinical settings. *Noise and interruptions* are endemic in acute care environments; open nursing stations, overhead paging, visitor traffic, and the physical design of shared rooms all undermine the privacy and focus that therapeutic communication requires. *Time pressure and documentation burden* compress the time available for meaningful patient interaction; nurses managing high patient-to-nurse ratios report that brief, task-focused exchanges often substitute for genuine therapeutic communication simply because there is no time for anything else (Aiken et al., 2020).
@@ -290,8 +293,6 @@ The mechanisms through which communication failure causes harm are predictable: 
 ---
 
 ## Section 4.6 — Motivational Interviewing: The OARS Technique
-
-**Purpose:** Equip students with a structured, patient-centered counseling approach for supporting behavior change.
 
 ### 4.6.1 Foundations of Motivational Interviewing
 
@@ -329,8 +330,6 @@ Full MI sessions are practiced by trained behavioral health counselors in dedica
 ---
 
 ## Section 4.7 — Communication Across the Lifespan and in Crisis Situations
-
-**Purpose:** Address the adaptations required for specific populations and high-stress clinical encounters.
 
 ### 4.7.1 Communicating with Children and Adolescents
 
@@ -374,8 +373,6 @@ Professional medical interpreters — whether in person, by video, or by telepho
 ---
 
 ## Section 4.8 — Interdisciplinary Communication: SBAR and I-PASS Handoff Tools
-
-**Purpose:** Translate therapeutic communication principles to the interdisciplinary team context and patient safety.
 
 ### 4.8.1 The SBAR Framework
 
@@ -429,8 +426,6 @@ Rapid Response Teams (RRTs), also called Medical Emergency Teams, represent a pa
 ---
 
 ## Section 4.9 — Documentation Standards: Legal Pitfalls and EHR Best Practices
-
-**Purpose:** Tie communication principles to the permanent legal and clinical record.
 
 ### 4.9.1 Principles of Nursing Documentation
 
@@ -647,6 +642,8 @@ Agency for Healthcare Research and Quality. (2020). *Health literacy universal p
 
 Aiken, L. H., Sloane, D., Griffiths, P., Rafferty, A. M., Bruyneel, L., McHugh, M., Maier, C. B., Moreno-Casbas, T., Ball, J. E., Ausserhofer, D., & Sermeus, W. (2020). Nursing skill mix in European hospitals: Cross-sectional study of the association with mortality, patient ratings, and quality of care. *BMJ Quality & Safety*, *26*(7), 559–568. https://doi.org/10.1136/bmjqs-2016-005567
 
+American Foundation for the Blind. (2022). *Vision loss facts and statistics*. https://www.afb.org/research-and-initiatives/statistics
+
 American Nurses Association. (2023). *Social media use: Common questions and answers*. https://www.nursingworld.org/practice-policy/nursing-excellence/social-media
 
 Arnold, E. C., & Boggs, K. U. (2020). *Interpersonal relationships: Professional communication skills for nurses* (8th ed.). Elsevier.
@@ -673,6 +670,8 @@ Guerrero, L. K., DeVito, J. A., & Hecht, M. L. (Eds.). (2011). *The nonverbal co
 
 Hall, E. T. (1966). *The hidden dimension*. Doubleday.
 
+Hockenberry, M. J., Rodgers, C. C., & Wilson, D. (2022). *Wong's essentials of pediatric nursing* (11th ed.). Elsevier.
+
 The Joint Commission. (2023). *Sentinel event data: Root causes by event type 2004–2022*. https://www.jointcommission.org/resources/patient-safety-topics/sentinel-event/sentinel-event-data-summary
 
 Kemper, S., & Mitzner, T. L. (2001). Language production and comprehension. In J. E. Birren & K. W. Schaie (Eds.), *Handbook of the psychology of aging* (5th ed., pp. 378–398). Academic Press.
@@ -691,7 +690,7 @@ Mehrabian, A. (1971). *Silent messages*. Wadsworth.
 
 Miller, W. R., & Rollnick, S. (2023). *Motivational interviewing: Helping people change and grow* (4th ed.). Guilford Press.
 
-Mullen-Fortino, M., DiMattio, M. J. K., Simone, S., & Cowperthwait, A. (2019). Bedside shift report: Implications for patient safety and quality of care. *Nursing* *2019*, *49*(4), 32–38. https://doi.org/10.1097/01.NURSE.0000553272.12458.a1
+Mullen-Fortino, M., DiMattio, M. J. K., Simone, S., & Cowperthwait, A. (2019). Bedside shift report: Implications for patient safety and quality of care. *Nursing*, *49*(4), 32–38. https://doi.org/10.1097/01.NURSE.0000553272.12458.a1
 
 National Council of State Boards of Nursing. (2018). *A nurse's guide to professional boundaries*. https://www.ncsbn.org/professional-boundaries.htm
 
@@ -725,17 +724,18 @@ Williams, K. N., Herman, R., Gajewski, B., & Wilson, K. (2019). Elderspeak commu
 
 | Item | Detail |
 |------|--------|
-| Approximate word count | ~15,500 words |
+| Approximate word count | ~15,800 words |
 | Sections | 9 (4.1–4.9) |
-| Tables | 3 (key terms, NCLEX plan, production notes) |
+| Tables | 4 (key terms, non-therapeutic communication, NCLEX plan, production notes) |
 | Figures | 4 (placeholders: 4.1 communication model, 4.2 proxemics zones, 4.3 therapeutic vs. non-therapeutic comparison, 4.4 medical interpreter best practices) |
 | Case study | 1 (unfolding, 3-scene, "Lost in Translation") |
 | NCLEX questions | 10 (7 single-best-answer, 2 select-all-that-apply, 1 NGN unfolding case) |
 | Key terms | 15 |
 | Sidebar/callout boxes | 5 (Safety Alert, Professional Practice, Evidence-Based Practice Spotlight, Clinical Tip, Quality Improvement) |
-| Sprint | 2026-03-15-2140 |
+| References | 22 (APA 7th edition) |
+| Sprint | 2026-03-15-2214 |
 
 ---
 
-*Chapter draft version: 1.0 — 2026-03-15*  
-*Sprint: 2026-03-15-2140*
+*Chapter draft version: 2.0 — 2026-03-15 (developmental edit + copy edit complete)*  
+*Sprint: 2026-03-15-2214*
