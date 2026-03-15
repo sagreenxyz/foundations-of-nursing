@@ -632,4 +632,100 @@ Marcus presents his findings to the unit practice council. With the nurse manage
 | 10B | B | The data pattern — high admission assessment compliance, very low reassessment compliance, low repositioning and surface compliance — indicates systematic failure to act on risk after the admission encounter. The Braden Scale's validity (A) is well-established. Staffing (C) and benchmarking applicability (D) may be contributing factors but do not explain the specific pattern observed. |
 | 10C | B | A practice council–led RCA and PDSA cycle is the appropriate systems-level response to a quality indicator problem; it identifies root causes without blame and structures a testable improvement cycle. Increasing staffing (A) may be part of an eventual solution but is not the first action for a process compliance problem. Individual counseling (C) is a punitive response inconsistent with a just culture. An immediate chart audit (D) may generate data but does not constitute an improvement action. |
 
+---
+
+## Chapter Summary
+
+Chapter 7 has examined evidence-based practice and quality improvement as the dual engines of contemporary nursing practice. EBP, grounded in the three-component model of best research evidence, clinical expertise, and patient values, provides the epistemological framework for answering clinical questions — how do we know what to do? — while quality improvement provides the operational methodology for doing it consistently and measuring whether it works.
+
+Section 7.1 established EBP's definition, its professional foundations in ANA standards and QSEN competencies, its distinction from research, and the PICO(T) framework as the starting tool for evidence inquiry. Section 7.2 examined the research hierarchy — from expert opinion at the base to systematic reviews and meta-analyses at the apex — and introduced the GRADE system for translating evidence quality into recommendation strength. Section 7.3 walked through the practical mechanics of EBP: selecting databases, building search strategies, applying critical appraisal tools, and navigating EBP implementation models such as the Iowa, Johns Hopkins, and Stetler frameworks.
+
+Section 7.4 introduced the QSEN framework's six competency domains — patient-centered care, teamwork, EBP, quality improvement, safety, and informatics — and examined the major QI methodologies: PDSA, Lean, and Six Sigma. It also presented root cause analysis and failure mode and effects analysis as complementary retrospective and prospective QI tools. Section 7.5 confronted the reality of the research-to-practice gap, cataloguing individual, organizational, communication, and evidence-level barriers to EBP adoption and the evidence-based strategies — EBP mentors, transformational leadership, synthesized guidelines, and implementation science frameworks — that overcome them.
+
+Section 7.6 closed the chapter by situating nurses within the quality measurement ecosystem: the Donabedian framework's structure, process, and outcome categories; nursing-sensitive indicators and the NDNQI; and the federal value-based purchasing programs that link nursing quality performance to hospital reimbursement. The case study and NCLEX questions applied all six sections to a realistic clinical scenario, tracing the path from a bedside nurse's observation to a structured PDSA improvement cycle.
+
+Together, EBP and QI represent a professional commitment: to question, to search, to appraise, to implement, to measure, and to improve — in a continuous cycle that compresses the gap between what science discovers and what patients receive.
+
+**Key Takeaways:**
+
+1. EBP integrates three components — best research evidence, clinical expertise, and patient values — and is a professional obligation for every registered nurse, not only researchers.
+2. The PICO(T) framework structures clinical questions into answerable, searchable form; skipping this step makes literature searching inefficient and the resulting evidence unreliable.
+3. The research hierarchy stratifies evidence by susceptibility to bias: Level I (systematic reviews/meta-analyses of RCTs) provides the strongest evidence; Level VII (expert opinion) the weakest. Evidence type must match the question type.
+4. Critical appraisal — systematic evaluation of validity, reliability, and clinical applicability — is the bridge between finding evidence and applying it. A statistically significant finding is not automatically clinically significant.
+5. QSEN's six competency domains (patient-centered care, teamwork, EBP, QI, safety, informatics) define what pre-licensure nurses must know, do, and value to practice safely in contemporary healthcare systems.
+6. QI models — PDSA, Lean, Six Sigma — provide structured, data-driven methodologies for improving care processes; PDSA's iterative small-scale testing approach is the most widely used in nursing.
+7. Barriers to EBP are multilevel (individual, organizational, communication, evidence); overcoming them requires multifaceted strategies led by EBP mentors, supported by transformational leadership, and sustained by organizational culture.
+8. Nursing-sensitive indicators (HAPIs, falls, CAUTIs, CLABSIs) are tracked by the NDNQI at the unit level, enabling benchmarking and informing federal value-based purchasing programs that directly link nursing quality to hospital reimbursement.
+
+---
+
+## References
+
+*(APA 7th edition — listed alphabetically by first author's last name)*
+
+Agency for Healthcare Research and Quality. (2020). *Making health care safer II: An updated critical analysis of the evidence for patient safety practices*. https://www.ahrq.gov/research/findings/evidence-based-reports/ptsafetyuptp.html
+
+American Nurses Association. (2021). *Nursing: Scope and standards of practice* (4th ed.). American Nurses Association.
+
+American Nurses Credentialing Center. (2023). *Magnet recognition program® model*. https://www.nursingworld.org/organizational-programs/magnet/
+
+Cronenwett, L., Sherwood, G., Barnsteiner, J., Disch, J., Johnson, J., Mitchell, P., Sullivan, D. T., & Warren, J. (2007). Quality and safety education for nurses. *Nursing Outlook*, *55*(3), 122–131. https://doi.org/10.1016/j.outlook.2007.02.006
+
+Damschroder, L. J., Aron, D. C., Keith, R. E., Kirsh, S. R., Alexander, J. A., & Lowery, J. C. (2009). Fostering implementation of health services research findings into practice: A consolidated framework for advancing implementation science. *Implementation Science*, *4*(1), Article 50. https://doi.org/10.1186/1748-5908-4-50
+
+Donabedian, A. (1966). Evaluating the quality of medical care. *The Milbank Memorial Fund Quarterly*, *44*(3), 166–206. https://doi.org/10.2307/3348969
+
+Funk, S. G., Champagne, M. T., Wiese, R. A., & Tornquist, E. M. (1991). BARRIERS: The barriers to research utilization scale. *Applied Nursing Research*, *4*(1), 39–45. https://doi.org/10.1016/s0897-1897(05)80052-7
+
+Guyatt, G., Cairns, J., Churchill, D., Cook, D., Haynes, B., Hirsh, J., Irvine, J., Levine, M., Levine, M., Nishikawa, J., Sackett, D., Brill-Edwards, P., Gerstein, H., Gibson, J., Jaeschke, R., Kerigan, A., Neville, A., Panju, A., Detsky, A., … Tugwell, P. (1992). Evidence-based medicine: A new approach to teaching the practice of medicine. *JAMA*, *268*(17), 2420–2425. https://doi.org/10.1001/jama.1992.03490170092032
+
+Guyatt, G. H., Oxman, A. D., Vist, G. E., Kunz, R., Falck-Ytter, Y., Alonso-Coello, P., & Schünemann, H. J. (2008). GRADE: An emerging consensus on rating quality of evidence and strength of recommendations. *BMJ*, *336*(7650), 924–926. https://doi.org/10.1136/bmj.39489.470347.AD
+
+Institute of Medicine. (2001). *Crossing the quality chasm: A new health system for the 21st century*. National Academies Press. https://doi.org/10.17226/10027
+
+Institute of Medicine. (2003). *Health professions education: A bridge to quality*. National Academies Press. https://doi.org/10.17226/10681
+
+Iowa Model Collaborative. (2017). Iowa model of evidence-based practice: Revisions and validation. *Worldviews on Evidence-Based Nursing*, *14*(3), 175–182. https://doi.org/10.1111/wvn.12223
+
+McGlynn, E. A., Asch, S. M., Adams, J., Keesey, J., Hicks, J., DeCristofaro, A., & Kerr, E. A. (2003). The quality of health care delivered to adults in the United States. *New England Journal of Medicine*, *348*(26), 2635–2645. https://doi.org/10.1056/NEJMsa022615
+
+Melnyk, B. M., & Fineout-Overholt, E. (2023). *Evidence-based practice in nursing and healthcare: A guide to best practice* (5th ed.). Wolters Kluwer.
+
+Melnyk, B. M., Gallagher-Ford, L., Thomas, B. K., Troseth, M., Wyngarden, K., & Szalacha, L. (2016). A study of chief nurse executives indicates low prioritization of evidence-based practice and shortcomings in hospital performance metrics across the United States. *Worldviews on Evidence-Based Nursing*, *13*(1), 6–14. https://doi.org/10.1111/wvn.12133
+
+Morris, Z. S., Wooding, S., & Grant, J. (2011). The answer is 17 years, what is the question: Understanding time lags in translational research. *Journal of the Royal Society of Medicine*, *104*(12), 510–520. https://doi.org/10.1258/jrsm.2011.110180
+
+National Pressure Injury Advisory Panel. (2019). *Prevention and treatment of pressure ulcers/injuries: Clinical practice guideline* (3rd ed.). NPIAP.
+
+Reason, J. (1990). *Human error*. Cambridge University Press.
+
+Richardson, W. S., Wilson, M. C., Nishikawa, J., & Hayward, R. S. A. (1995). The well-built clinical question: A key to evidence-based decisions. *ACP Journal Club*, *123*(3), A12–A13. https://doi.org/10.7326/ACPJC-1995-123-3-A12
+
+Sackett, D. L., Rosenberg, W. M. C., Gray, J. A. M., Haynes, R. B., & Richardson, W. S. (1996). Evidence based medicine: What it is and what it isn't. *BMJ*, *312*(7023), 71–72. https://doi.org/10.1136/bmj.312.7023.71
+
+Titler, M. G., Kleiber, C., Steelman, V. J., Rakel, B. A., Budreau, G., Everett, L. Q., Buckwalter, K. C., Tripp-Reimer, T., & Goode, C. J. (2001). The Iowa model of evidence-based practice to promote quality care. *Critical Care Nursing Clinics of North America*, *13*(4), 497–509. https://doi.org/10.1016/S0899-5885(18)30017-0
+
+---
+
+## Chapter Production Notes
+
+| Item | Detail |
+|------|--------|
+| Approximate word count | 14,000–16,000 words |
+| Tables | 3 (Key Terms, Nursing-Sensitive Indicators, NCLEX Answer Key) |
+| Figures | 6 (EBP Venn diagram, Research Hierarchy Pyramid, Iowa Model flow diagram, PDSA cycle, Barriers vs. Facilitators diagram, Donabedian framework) |
+| Case study | 1 unfolding case ("The Protocol That Wasn't"), 3-scene format, 4 discussion questions |
+| NCLEX questions | 10 (7 traditional single/multi-answer, 1 select-all-that-apply, 1 process-ordering, 1 NGN extended-thinking with 3 sub-items) |
+| Key terms | 15 (minimum 10 required; expanded to cover EBP, QI, and quality measurement vocabulary) |
+| Sidebar/callout boxes | 8 (3 EBP Connection, 2 Clinical Tip, 2 Safety Alert, 1 Historical Spotlight) |
+| Prerequisites | Chapter 1 |
+| Unit | 2 — The Clinical Mindset |
+| Sprint | 2026-03-15-2214 |
+
+---
+
+*Chapter 7 draft completed: 2026-03-15 UTC*  
+*Sprint: 2026-03-15-2214*  
+*Version: 1.0 (first draft)*
+
 
