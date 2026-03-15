@@ -475,4 +475,161 @@ Nurses who understand the full quality measurement landscape — from bedside do
 [FIGURE 7.6: The Donabedian quality framework displayed as three nested boxes or a flow diagram. The outermost box is labeled "Structure" (staffing, facilities, certification). The middle box is labeled "Process" (evidence-based care delivered). The innermost box or final outcome box is labeled "Outcomes" (patient health, safety, experience). Arrows connect the three elements, indicating the influence of structure on process and process on outcomes.]  
 *Alt text: A three-element diagram representing the Donabedian framework. Three rectangles are arranged from left to right. The leftmost is labeled "Structure: organizational conditions enabling care (staffing, technology, accreditation)." The center is labeled "Process: evidence-based care actions performed." The rightmost is labeled "Outcomes: patient health, safety, and experience results." Arrows connect each element to the next, indicating causal relationships.*
 
+---
+
+## Case Study: "The Protocol That Wasn't"
+
+**Setting:** A 28-bed medical-surgical unit at a 350-bed community hospital. The hospital received Magnet Recognition five years ago and is currently preparing for re-designation.
+
+**Scene 1 — The Trigger**
+
+Marcus is a third-year staff nurse who has worked on Unit 4-West since graduation. Over the past three months, he has noticed that the unit's hospital-acquired pressure injury (HAPI) rate — reported monthly at staff meetings — has risen from 0.8 per 1,000 patient days to 2.4 per 1,000 patient days. At the most recent unit council meeting, the nurse manager acknowledges the trend but attributes it to the recent influx of heavier, less mobile patients transferred from the ICU. Marcus is not satisfied with this explanation. He recalls reading that ICU patients represent a known risk factor for HAPIs but that structured evidence-based prevention protocols consistently reduce incidence even in high-acuity populations. He decides to investigate.
+
+**Scene 2 — The Evidence**
+
+Marcus formulates a PICO(T) question: *In adult patients at high risk for pressure injuries in acute care settings (P), does implementation of a structured, evidence-based pressure injury prevention protocol including risk assessment, skin inspection, repositioning schedules, and appropriate support surfaces (I) compared to standard unit care without a formal protocol (C) reduce hospital-acquired pressure injury incidence (O) over a 12-week implementation period (T)?*
+
+He searches CINAHL using the subject headings "pressure ulcer/prevention and control" AND "evidence-based nursing" AND "quality improvement" and limits results to systematic reviews published in the past five years. He retrieves 14 relevant studies, including two Cochrane reviews and a clinical practice guideline from the National Pressure Injury Advisory Panel (NPIAP). His appraisal confirms that multicomponent prevention bundles — risk assessment with a validated tool (Braden Scale), daily head-to-toe skin inspections documented in the EHR, two-hour repositioning protocols for at-risk patients, and pressure-redistributing support surfaces for patients with Braden scores ≤ 18 — reduce HAPI incidence by 40–60% compared to non-protocol care.
+
+Marcus reviews his unit's current practice and discovers the source of the problem: the unit has a documented pressure injury prevention policy, but staff routinely complete the Braden Scale only on admission, not the required reassessment every 48 hours or with any change in condition. Repositioning documentation is inconsistent, and several patients transferred from the ICU were placed on standard foam mattresses rather than low-air-loss surfaces despite Braden scores indicating high risk.
+
+**Scene 3 — The Improvement Cycle**
+
+Marcus presents his findings to the unit practice council. With the nurse manager's support, the council initiates a PDSA cycle:
+
+- **Plan:** Standardize Braden reassessment at 48 hours, with EHR alert reminders; establish a visual cue system (color-coded repositioning cards at the head of bed) for at-risk patients; conduct a prospective FMEA on the mattress-ordering process to identify why appropriate surfaces are not ordered for high-risk ICU transfer patients.
+- **Do:** Pilot the Braden reassessment alert and repositioning cards on one section of the unit (12 beds) for four weeks, with Marcus and two nursing assistants trained as unit champions.
+- **Study:** At four weeks, compare Braden reassessment completion rates and new HAPI incidence in the pilot section versus the non-pilot section.
+- **Act:** If the pilot demonstrates improved compliance and reduced incidence, present findings to the nursing quality committee and request unit-wide rollout and EHR build for the alert system.
+
+**Discussion Questions:**
+
+1. Marcus chose to use CINAHL rather than PubMed for his initial literature search. What are the advantages of CINAHL for nursing practice questions? What would you add to his search strategy to ensure completeness?
+
+2. In Scene 2, Marcus identified a discrepancy between the unit's documented policy and its actual practice. What organizational and individual factors likely contributed to this policy-practice gap? How do these factors relate to the EBP barriers described in Section 7.5?
+
+3. The nurse manager initially attributed the rising HAPI rate to higher patient acuity. How does risk adjustment affect the interpretation of nursing-sensitive quality indicators? Is the manager's explanation evidence-based? How would you evaluate it?
+
+4. Marcus's PDSA plan assigns him and two nursing assistants as unit champions for the pilot. What is the role of interprofessional collaboration — including certified nursing assistants, wound care nurses, and physicians — in implementing a pressure injury prevention bundle? How does the QSEN teamwork and collaboration competency apply here?
+
+---
+
+## NCLEX-Style Review Questions
+
+*Directions: Choose the best answer for each question. For "select all that apply" questions, select all options that are correct.*
+
+**1.** A nurse is preparing to implement a change in wound care practice based on new research evidence. Which action best represents the first step in the evidence-based practice process?
+
+   - A. Implement the new dressing technique immediately on all patients
+   - B. Formulate a focused clinical question using the PICO(T) framework
+   - C. Consult with the most experienced nurse on the unit about current practice
+   - D. Review the hospital's current wound care policy before searching the literature
+
+**2.** Which of the following best describes the three-component model of evidence-based practice?
+
+   - A. Research evidence, clinical expertise, and patient values and preferences
+   - B. Systematic reviews, clinical guidelines, and institutional policies
+   - C. Randomized controlled trials, expert opinion, and case reports
+   - D. Research utilization, quality improvement, and informatics
+
+**3.** A nurse is searching for evidence on the effectiveness of fall-prevention interventions for older adults in acute care. Which database would be MOST appropriate as the primary search resource?
+
+   - A. Google Scholar
+   - B. CINAHL
+   - C. EMBASE
+   - D. PsycINFO
+
+**4.** A nurse locates a systematic review that synthesizes 22 randomized controlled trials on a clinical question. According to the nursing research hierarchy, this represents which level of evidence?
+
+   - A. Level I
+   - B. Level II
+   - C. Level IV
+   - D. Level VI
+
+**5.** A quality improvement team is analyzing the process of medication administration on a medical-surgical unit. Which QI tool would be MOST useful for prospectively identifying all the points in the process where errors could occur *before* implementing a change?
+
+   - A. Root cause analysis (RCA)
+   - B. Failure mode and effects analysis (FMEA)
+   - C. Plan-Do-Study-Act (PDSA) cycle
+   - D. Fishbone diagram
+
+**6.** A nurse manager reviews monthly NDNQI data and notes that the unit's catheter-associated urinary tract infection (CAUTI) rate has been consistently above the national benchmark for six months. Which of the following actions is MOST consistent with the quality improvement competency? (Select all that apply.)
+
+   - A. Report the data to hospital administration and request additional staffing
+   - B. Conduct a root cause analysis to identify contributing factors
+   - C. Benchmark the unit's CAUTI prevention bundle compliance against best-practice standards
+   - D. Attribute the elevated rate to the complexity of the patient population and continue monitoring
+   - E. Implement a PDSA cycle targeting the identified contributing factors
+
+**7.** According to the Donabedian quality framework, which of the following is an example of a *process* measure?
+
+   - A. The unit's nurse-to-patient staffing ratio
+   - B. The percentage of ventilated patients receiving oral care per the VAE prevention bundle
+   - C. The hospital's 30-day all-cause readmission rate
+   - D. The availability of pressure-redistributing support surfaces on the unit
+
+**8.** A staff nurse wants to propose a change in central line dressing change frequency based on new evidence. She is using the Iowa Model to guide her approach. After identifying the clinical trigger, what is the NEXT step in the Iowa Model?
+
+   - A. Implement the practice change unit-wide immediately
+   - B. Determine whether the topic is a priority for the organization
+   - C. Conduct a systematic review of the literature
+   - D. Evaluate the outcomes of the change after six months
+
+**9.** A nurse is critically appraising a randomized controlled trial on the use of chlorhexidine bathing for CLABSI prevention. Which feature of the study's methodology would MOST increase confidence in the validity of its findings?
+
+   - A. A large sample size with convenience sampling
+   - B. Random allocation to groups with allocation concealment
+   - C. Use of a crossover design without a washout period
+   - D. Outcome assessment by the intervention nurses themselves
+
+**10.** (NGN Extended Thinking — Clinical Judgment Item)
+
+*A nurse on a 30-bed medical-surgical unit reviews the following data from the most recent monthly quality report:*
+
+- *Hospital-acquired pressure injury rate: 3.2 per 1,000 patient days (national benchmark: 1.1)*
+- *Braden Scale completion on admission: 97%*
+- *Braden Scale reassessment at 48 hours: 41%*
+- *Repositioning documentation compliance: 58%*
+- *Percentage of high-risk patients (Braden ≤ 18) on appropriate pressure-redistributing surfaces: 44%*
+
+**Part A — Recognizing Cues:** Which data point is the MOST clinically significant cue suggesting a process failure directly contributing to the elevated HAPI rate?
+
+   - A. Braden Scale completion on admission (97%)
+   - B. Braden Scale reassessment at 48 hours (41%)
+   - C. The national benchmark HAPI rate (1.1 per 1,000 patient days)
+   - D. The unit census of 30 beds
+
+**Part B — Analyzing Cues:** Based on the data, what is the MOST likely explanation for the discrepancy between high admission Braden completion rates and poor patient outcomes?
+
+   - A. The Braden Scale is not a valid predictor of pressure injury risk
+   - B. Risk is being identified on admission but not tracked across the patient's stay, leading to failure to adjust preventive interventions
+   - C. The unit is admitting too many high-acuity patients for the available nursing staff
+   - D. The national benchmark is not applicable to this unit's patient population
+
+**Part C — Taking Action:** Which action should the nurse prioritize FIRST in responding to these data?
+
+   - A. Request that the nurse manager increase the nurse-to-patient staffing ratio
+   - B. Convene the unit practice council to perform a root cause analysis and initiate a PDSA cycle targeting Braden reassessment and repositioning compliance
+   - C. Individually counsel staff members whose patients developed HAPIs
+   - D. Request an immediate audit of all patient charts to identify documentation errors
+
+---
+
+### Answer Key
+
+| Question | Answer | Rationale |
+|----------|--------|-----------|
+| 1 | B | The PICO(T) framework is the foundational first step in EBP; it structures the clinical question to enable effective literature searching. Implementing changes before searching evidence (A) bypasses EBP. Consulting experienced colleagues (C) represents expert opinion, not a systematic search. Reviewing policy (D) may be useful but is not the first EBP step. |
+| 2 | A | The three-component model integrates best research evidence, clinical expertise, and patient values. The other options describe types of evidence or practice activities but do not represent the full three-component definition. |
+| 3 | B | CINAHL is the premier database for nursing and allied health literature and is the most appropriate primary resource for nursing practice questions. Google Scholar (A) is broad and unsystematic. EMBASE (C) and PsycINFO (D) are specialized databases with limited nursing coverage. |
+| 4 | A | A systematic review synthesizing multiple RCTs represents Level I evidence — the highest level in the nursing research hierarchy. An individual RCT would be Level II. |
+| 5 | B | FMEA is a prospective tool used to identify potential failure modes *before* an error occurs. RCA (A) is retrospective. The PDSA cycle (C) tests a change after it is designed. The fishbone diagram (D) is a root cause analysis tool, not a prospective failure analysis tool. |
+| 6 | B, C, E | A QI response to a performance problem includes RCA to understand causes (B), benchmarking against best practice (C), and a structured improvement cycle (E). Requesting additional staffing alone (A) does not address process factors. Attributing the rate to patient complexity without investigation (D) bypasses the QI obligation. |
+| 7 | B | Oral care bundle compliance is a *process* measure — it assesses whether an evidence-based care action is performed. Staffing ratio (A) and surface availability (D) are structure measures. Readmission rate (C) is an outcome measure. |
+| 8 | B | The Iowa Model's second step, after identifying a trigger, is to determine whether the topic is an organizational priority. Only if it is prioritized does the team proceed to evidence review and practice change. |
+| 9 | B | Random allocation with allocation concealment is the design feature that most distinguishes RCTs from lower-level designs and most reduces selection bias. Large convenience samples (A) do not improve randomization. Crossover without washout (C) introduces carryover bias. Non-blinded outcome assessment by intervention nurses (D) introduces detection bias. |
+| 10A | B | Braden reassessment at 48 hours (41%) is critically low, indicating that risk is not being tracked longitudically. Admission assessment (97%) is a strength, not a problem. The benchmark (C) and census (D) are contextual data, not process failure indicators. |
+| 10B | B | The data pattern — high admission assessment compliance, very low reassessment compliance, low repositioning and surface compliance — indicates systematic failure to act on risk after the admission encounter. The Braden Scale's validity (A) is well-established. Staffing (C) and benchmarking applicability (D) may be contributing factors but do not explain the specific pattern observed. |
+| 10C | B | A practice council–led RCA and PDSA cycle is the appropriate systems-level response to a quality indicator problem; it identifies root causes without blame and structures a testable improvement cycle. Increasing staffing (A) may be part of an eventual solution but is not the first action for a process compliance problem. Individual counseling (C) is a punitive response inconsistent with a just culture. An immediate chart audit (D) may generate data but does not constitute an improvement action. |
+
 
