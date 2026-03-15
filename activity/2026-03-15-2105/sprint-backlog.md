@@ -32,10 +32,10 @@
 
 | Task | Status | File |
 |------|--------|------|
-| Update README with project description and usage instructions | [ ] | `README.md` |
-| Create web app home page with sidebar navigation | [ ] | `docs/index.html` |
-| Create academic CSS stylesheet | [ ] | `docs/css/style.css` |
-| Create markdown rendering and navigation logic | [ ] | `docs/js/app.js` |
+| Update README with project description and usage instructions | [x] | `README.md` |
+| Create web app home page with sidebar navigation | [x] | `docs/index.html` |
+| Create academic CSS stylesheet | [x] | `docs/css/style.css` |
+| Create markdown rendering and navigation logic | [x] | `docs/js/app.js` |
 
 ---
 
