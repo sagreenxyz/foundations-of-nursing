@@ -1044,7 +1044,8 @@ World Health Organization. (2021). *Social determinants of health*. WHO. https:/
 
 ---
 
-*Chapter 2 — First Draft Complete*  
+*Chapter 2 — Second Draft Complete*  
 *Sprint: 2026-03-15-2214*  
-*Draft version: 1.0*
+*Draft version: 2.0 (developmental edit and copy edit complete)*  
+*Edited in Sprint: 2026-03-15-2354*
 

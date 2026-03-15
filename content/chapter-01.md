@@ -672,9 +672,10 @@ World Health Organization. (2020). *State of the world's nursing 2020: Investing
 | NCLEX questions | 10 (single-answer, multiple-response, ordered-response, NGN extended thinking) |
 | Key terms | 10 |
 | Sidebar/callout boxes | 4 (Healing in the Ancient World; Augustinian Nuns at the Hôtel-Dieu; Mary Mahoney; EBP Connection: Nightingale's Statistical Methods) |
-| Draft status | First draft complete — ready for developmental edit |
+| Draft status | Second draft complete — developmental edit and copy edit passed |
 
 ---
 
-*Chapter 1 draft version: 1.0 — 2026-03-15*
+*Chapter 1 draft version: 2.0 — 2026-03-15*
 *Sprint: 2026-03-15-2105*
+*Edited in Sprint: 2026-03-15-2354*
