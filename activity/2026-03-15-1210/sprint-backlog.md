@@ -36,7 +36,11 @@
 | 0.2 | Create merged Table of Contents (`strategy/merged-toc.md`) | [x] | 0.1 |
 | 0.3 | Create sprint backlog and roadmap (this file) | [x] | 0.2 |
 | 0.4 | Create Chapter 1 detailed outline | [x] | 0.2 |
-| 0.5 | Establish chapter template (standard structure for all chapters) | [ ] | 0.2 |
+| 0.5 | Establish chapter template (standard structure for all chapters) | [x] (see `activity/2026-03-15-1739/chapter-template.md`) | 0.2 |
+| 0.6 | Create web application foundation (`docs/` directory) | [x] (Sprint 2026-03-15-1739) | — |
+| 0.7 | Update README with project description and web app instructions | [x] (Sprint 2026-03-15-1739) | 0.6 |
+| 0.8 | Identify chapter workable in parallel with Chapter 1 | [x] (Sprint 2026-03-15-2030: Chapter 4 selected) | Chapter 1 draft |
+| 0.9 | Update master backlog to reflect Chapter 4 in-progress | [x] (Sprint 2026-03-15-2030) | 0.8 |
 
 ---
 
@@ -49,15 +53,15 @@
 | Task | Status |
 |------|--------|
 | Outline review | [x] (see `chapter-01-outline.md`) |
-| Chapter draft | [ ] |
-| Key terms | [ ] |
-| Case study | [ ] |
-| NCLEX questions | [ ] |
-| Summary | [ ] |
-| References | [ ] |
+| Chapter draft | [x] (see `content/chapter-01.md` — Sprint 2026-03-15-1739) |
+| Key terms | [x] (embedded in `content/chapter-01.md`) |
+| Case study | [x] (embedded in `content/chapter-01.md`) |
+| NCLEX questions | [x] (embedded in `content/chapter-01.md`) |
+| Summary | [x] (embedded in `content/chapter-01.md`) |
+| References | [x] (embedded in `content/chapter-01.md`) |
 | Developmental edit | [ ] |
 | Copy edit / proofread | [ ] |
-| HTML formatting | [ ] |
+| HTML formatting | [x] (rendered via `docs/` web app — Sprint 2026-03-15-1739) |
 
 ---
 
@@ -101,11 +105,11 @@
 
 ### Chapter 4: Therapeutic Communication
 
-*Depends on: Chapter 1*
+*Depends on: Chapter 1 — prerequisite satisfied (draft `[x]` complete)*
 
 | Task | Status |
 |------|--------|
-| Outline review | [ ] |
+| Outline review | [x] (see `activity/2026-03-15-2030/chapter-04-outline.md`) |
 | Chapter draft | [ ] |
 | Key terms | [ ] |
 | Case study | [ ] |
