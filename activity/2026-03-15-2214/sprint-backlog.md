@@ -32,7 +32,7 @@
 
 | Task | Status | File |
 |------|--------|------|
-| Chapter 2 detailed outline (all 13 sections, subsections, callout boxes, figures) | [ ] | `activity/2026-03-15-2214/chapter-02-outline.md` |
+| Chapter 2 detailed outline (all 13 sections, subsections, callout boxes, figures) | [x] | `activity/2026-03-15-2214/chapter-02-outline.md` |
 
 ---
 
