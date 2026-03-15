@@ -474,3 +474,147 @@ BSR also involves the patient as an active participant: the nurse invites the pa
 
 > **Quality Improvement: Bedside Shift Report and HCAHPS Scores**
 > Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) survey data consistently show that nurse communication is among the top predictors of patient experience scores and is directly linked to reimbursement rates through CMS value-based purchasing. Bedside shift report has been associated with improvements in the HCAHPS domains of "Nurses always communicated well," "Staff always explained medicines before giving them," and "Overall hospital rating." Institutions that implement and sustain structured BSR protocols report measurable and sustained improvements in communication-related quality metrics (Mullen-Fortino et al., 2019).
+
+---
+
+## Case Study: "Lost in Translation"
+
+**Setting:** Medical-surgical unit, tertiary care hospital
+
+**Scenario:**
+
+Maria Delgado is a 72-year-old Spanish-speaking woman with limited English proficiency who is admitted to the medical-surgical unit for management of newly diagnosed type 2 diabetes. She emigrated from Mexico twenty years ago and speaks conversational English, but her medical vocabulary is minimal and she frequently defers to her son, Eduardo, a 45-year-old bilingual contractor, to navigate healthcare interactions. Eduardo accompanies Maria to the admission assessment and immediately volunteers: "I'll translate for her. It's easier this way, and she doesn't like talking to strangers."
+
+The night nurse, Rosalind, completes the admission history using Eduardo as the interpreter. Maria nods frequently and says "sí, sí" when Eduardo summarizes Rosalind's questions. The assessment is efficient — completed in under 15 minutes. The nursing note reads: "Patient alert and oriented x3, pleasant and cooperative. History obtained with assistance of family member. Patient denies pain. Verbalized understanding of reason for admission."
+
+Later that evening, Rosalind returns to check Maria's blood glucose and finds her sitting upright, wide-eyed, looking at the insulin syringe on the bedside table. Using the hospital's telephone interpreter service, Rosalind begins to speak with Maria directly. Within minutes, the interpreter reveals what Eduardo's translations had not: Maria believes insulin is a sign that her diabetes has reached a terminal stage — a belief rooted in the experience of watching her mother die of complications shortly after starting insulin in Mexico. She is terrified and has decided she would rather die than "go on the needle." She has told Eduardo these fears but he has not relayed them, saying, "I didn't want to worry anyone."
+
+**Scene 2:** The following morning, the diabetes educator, Tomas, arrives for a structured teaching session. He is aware of Maria's fears from Rosalind's amended nursing note. He uses a telephone interpreter, sits at Maria's level, and opens with: "I understand you have some very serious concerns about the insulin. I'd really like to hear what this feels like from your perspective before we talk about anything else." The session runs 45 minutes. By the end, Maria has not committed to insulin but has agreed to review written materials in Spanish and to meet with Tomas again before discharge.
+
+**Scene 3:** At 0700, the night nurse gives morning report to the incoming day nurse, Janelle, at the nursing station. The SBAR handoff takes two minutes: "Maria Delgado, room 614, type 2 DM, stable. Her glucose was 182 this morning. She's refusing insulin. Educator will be back." Janelle does not learn about the language barrier, the cultural belief, or the specifics of the education plan. At 0900, Janelle attempts to administer Maria's morning insulin. Maria shakes her head vigorously and tries to explain in Spanish. Janelle, who speaks no Spanish, documents "Patient non-compliant with insulin administration" and moves to her next patient.
+
+**Discussion Questions:**
+
+1. Why is using a family member as an interpreter problematic in Maria's case, even when the patient appears to consent? What are the nurse's legal obligations under federal law, and what specific harm occurred in this case as a direct result of the ad hoc interpretation?
+
+2. Identify three specific therapeutic communication techniques that Rosalind used effectively in her second interaction with Maria. For each technique, describe how it contributed to Maria's disclosure and what would likely have happened if that technique had not been used.
+
+3. Using the I-PASS framework, reconstruct the morning handoff from Rosalind to Janelle as it should have been conducted. What information was missing from the actual handoff, and how did that omission contribute to the adverse event in Scene 3?
+
+4. Janelle's documentation reads "Patient non-compliant with insulin administration." Identify at least three problems with this documentation entry — including concerns about language, accuracy, and professional implications — and rewrite the entry to meet the FACT criteria.
+
+---
+
+## NCLEX-Style Review Questions
+
+*Directions: Choose the best answer for each question. For "select all that apply" questions, select all options that are correct.*
+
+**1.** A nurse is preparing to discuss a new cancer diagnosis with a patient. Which action best demonstrates the therapeutic use of the working phase of the nurse-patient relationship?
+
+- A. Introducing herself and explaining the purpose of the visit
+- B. Summarizing what was accomplished and preparing the patient for discharge
+- C. Collaborating with the patient to identify fears and explore coping strategies
+- D. Reviewing the patient's prior medical history with the family before entering the room
+
+**2.** A nurse is conducting a shift assessment when the patient becomes tearful and says, "I just don't see the point anymore." Which initial response is most therapeutic?
+
+- A. "Let's finish the assessment and then I'll have someone from mental health come by."
+- B. "I'm going to have the doctor order something to help you feel better."
+- C. "I hear that you're feeling hopeless right now. Tell me more about what's been happening."
+- D. "I know things are hard, but you have so much to live for."
+
+**3.** A nurse is delivering discharge instructions to a 78-year-old patient with moderate hearing loss. Which action is most appropriate to ensure effective communication? (Select all that apply.)
+
+- A. Speak slowly and slightly louder than normal in a face-to-face position
+- B. Use simple language and avoid medical jargon
+- C. Provide written instructions in addition to verbal teaching
+- D. Ask the patient's adult daughter to relay the information afterward
+- E. Use teach-back to verify the patient's understanding
+
+**4.** A nurse calls a physician using the SBAR framework to report a patient with increasing shortness of breath. Which element of the call represents the "Assessment" component?
+
+- A. "Mr. Park is a 61-year-old in room 508 with a history of COPD."
+- B. "His respiratory rate is now 28, SpO2 is 88% on 2L nasal cannula."
+- C. "I am concerned this patient may be developing an acute exacerbation and may require respiratory therapy."
+- D. "I am requesting a physician evaluation now and would like to initiate the respiratory distress protocol."
+
+**5.** A nurse says to a patient who has just disclosed a plan to leave the hospital against medical advice, "I understand you want to go home, and I also heard you say earlier that you're really scared about missing your granddaughter's birthday. It sounds like there are two really important things pulling in different directions." This statement is an example of which motivational interviewing skill?
+
+- A. Affirmation
+- B. Double-sided reflection
+- C. Simple restatement
+- D. Summarizing
+
+**6.** Which of the following nursing documentation entries is written correctly according to the FACT principles?
+
+- A. "Patient appears to be in considerable pain based on facial grimacing."
+- B. "Patient was non-compliant with morning medications."
+- C. "Patient states pain is 9/10 in the left lower extremity. Refused scheduled acetaminophen, stating 'It doesn't do anything for me.' Physician notified at 0914. Return call received at 0932 with order for IV ketorolac 15 mg."
+- D. "Wound appears to be healing well. No concerns at this time."
+
+**7.** Which of the following statements or actions represent non-therapeutic communication? (Select all that apply.)
+
+- A. "Don't worry — the doctor does this procedure every day. You'll be fine."
+- B. Asking the patient to describe what concerns them most about their diagnosis
+- C. "If I were you, I would just go ahead with the surgery."
+- D. Changing the subject when a patient begins crying during a medication teaching session
+- E. Sitting at the patient's eye level during a sensitive conversation
+
+**8.** A nurse is working with a patient who has been hospitalized for alcohol use disorder. The patient says, "I know I need to stop drinking, but I don't think I can. My whole social life revolves around it." Which response best reflects a motivational interviewing approach?
+
+- A. "You really do need to stop. Continued drinking at your level is life-threatening."
+- B. "Let's set a goal: no alcohol for 30 days. Do you think you can commit to that?"
+- C. "It sounds like you can see how important it is to make a change, and at the same time, you're not sure how your life would look without alcohol."
+- D. "Have you tried attending AA meetings? A lot of people find them very helpful."
+
+**9.** Place the following steps in escalating a patient safety concern using the chain of command in the correct order, from first to last.
+
+- A. Contact the department chief or administrator on call
+- B. Call the attending physician with a complete SBAR
+- C. Document the concern, all communication attempts, and responses received
+- D. Contact the attending's supervising physician or fellow if no timely response is received
+
+**10.** NGN Clinical Judgment — Unfolding Case
+
+*Clinical Scenario:* James, a 45-year-old male, was admitted 18 hours ago following a motor vehicle accident with a closed head injury (GCS 14 on admission) and fractured left femur. He is now on post-operative day 1 following surgical repair of the femur. His night nurse documented that he was "confused and anxious" during the night, attributing it to "normal post-operative disorientation." At 0730 shift change, James's GCS is 12 (down from 14). He is unable to follow a two-step command, is not oriented to time or place, and is pulling at his IV. His wife, who stayed at the bedside overnight, says: "He's been getting worse all night. I kept telling the night nurse but she said it was normal."
+
+*Question A (Recognize Cues):* Which findings from the scenario represent the most clinically significant change from baseline that requires immediate nurse action? Select all that apply.
+
+- A. GCS decreased from 14 to 12
+- B. Patient is pulling at his IV
+- C. Patient not oriented to time or place
+- D. Wife reports overnight deterioration that was not acted upon
+- E. Patient on post-operative day 1
+
+*Question B (Prioritize Hypotheses):* What is the priority nursing concern at this time, and why does it take precedence over the other clinical findings?
+
+*Question C (Take Action):* Using the SBAR framework, construct the complete call to the physician that should be placed immediately. Include all four components.
+
+*Question D (Evaluate Outcomes):* The night nurse's documentation read "Patient confused and anxious — normal post-operative disorientation." Using the FACT criteria, identify all documentation problems with this entry and rewrite it correctly based on the clinical information available.
+
+---
+
+### Answer Key
+
+| Question | Answer | Rationale |
+|----------|--------|-----------|
+| 1 | C | The working phase involves collaborative goal-directed therapeutic work. A = orientation phase (introductions). B = termination phase. D = pre-interaction phase work. |
+| 2 | C | Acknowledging the patient's statement and inviting elaboration is the therapeutic first response. A delays assessment of possible suicidal ideation. B bypasses therapeutic listening. D offers false reassurance and shifts focus from the patient's experience. |
+| 3 | A, B, C, E | Face-to-face speech, simple language, written backup, and teach-back are all evidence-based strategies for patients with hearing loss. D inappropriately delegates patient education and may omit critical information. |
+| 4 | C | Assessment = the nurse's clinical judgment about what is happening. A = Background. B = Situation data. D = Recommendation. |
+| 5 | B | A double-sided reflection acknowledges both sides of the patient's ambivalence explicitly. |
+| 6 | C | C is objective, complete, timely, and factual. A uses subjective language ("appears to be") without observable data. B uses judgmental language ("non-compliant"). D is vague and nonspecific. |
+| 7 | A, C, D | A = false reassurance. C = giving advice. D = changing the subject. B and E are therapeutic techniques. |
+| 8 | C | This is a double-sided reflection that acknowledges change talk (knows he needs to stop) and sustain talk (doesn't know if he can; social life concerns) without arguing. A confronts and creates reactance. B is premature action planning. D gives advice and redirects. |
+| 9 | B, D, A, C | Correct order: (1) Call attending with SBAR; (2) Contact supervising physician if no response; (3) Contact department chief/administrator; (4) Document throughout. Documentation (C) occurs continuously, not last; but among the listed discrete escalation actions, it finalizes the chain of events. |
+| 10 | See below | See below |
+
+**Question 10 — Discussion:**
+
+*A:* Priority findings: A (GCS decrease), C (orientation change), D (wife's report of overnight deterioration ignored). Pulling at IV (B) is a behavioral symptom of altered mental status and reinforces A and C. Post-operative day 1 (E) is context, not a finding.
+
+*B:* Priority concern is acute neurological deterioration (decreasing GCS + disorientation) in a patient with a known closed head injury. This must be prioritized because it may represent intracranial hemorrhage — a life-threatening emergency with a narrow treatment window. All other findings are secondary to this possibility.
+
+*C:* Sample SBAR — **S:** "I am calling about James Whitfield in room 316 with a concern for acute neurological deterioration. He sustained a closed head injury 18 hours ago and his GCS has dropped from 14 to 12 in the past hour." **B:** "He is post-op day 1 for left femur repair. Overnight nursing notes describe confusion attributed to post-operative disorientation. His wife reports ongoing deterioration overnight. He is now not following two-step commands and is not oriented to time or place." **A:** "I am concerned this patient is experiencing an intracranial hemorrhage or other secondary brain injury requiring immediate evaluation." **R:** "I am requesting an urgent bedside evaluation now. I have already ensured IV access and I am ready to initiate any ordered interventions."
+
+*D:* Problems with "Patient confused and anxious — normal post-operative disorientation": (1) "Confused" and "anxious" are vague; the note should document GCS score, specific orientation deficits, and behavioral observations. (2) "Normal post-operative disorientation" is a clinical conclusion unsupported by documented assessment data, and it is dangerous because it dismisses a potentially life-threatening finding. (3) The wife's report of ongoing deterioration is not documented and was not acted upon — this omission is a serious legal exposure. Rewritten: "0300 — Patient not oriented to place ('Where am I?') or time ('I don't know what day it is'). GCS 13 (Eyes 4, Verbal 3, Motor 6). Patient pulling at peripheral IV in left hand; IV secured with additional tape. Wife at bedside reports patient has been increasingly confused since 2200, repeating questions and not recognizing her intermittently. Wife's concerns communicated to charge nurse and documented. Physician notified."
