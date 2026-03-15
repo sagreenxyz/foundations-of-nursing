@@ -14,7 +14,7 @@ const UNITS = [
     label: 'Unit 1: The Professional Architecture',
     chapters: [
       { num: 1,  title: 'History and Evolution of Nursing',                  file: 'chapter-01.md', status: 'draft'   },
-      { num: 2,  title: 'Legal, Ethical, and Professional Standards',         file: 'chapter-02.md', status: 'soon'    },
+      { num: 2,  title: 'Legal, Ethical, and Professional Standards',         file: 'chapter-02.md', status: 'draft'   },
       { num: 3,  title: 'Patient Rights, Advocacy, and Informed Consent',     file: 'chapter-03.md', status: 'soon'    },
       { num: 4,  title: 'Therapeutic Communication',                          file: 'chapter-04.md', status: 'draft'  },
       { num: 5,  title: 'Cultural Humility, Health Literacy, and Inclusive Care', file: 'chapter-05.md', status: 'soon' },
