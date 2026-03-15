@@ -24,7 +24,7 @@ const UNITS = [
   {
     label: 'Unit 2: The Clinical Mindset',
     chapters: [
-      { num: 7,  title: 'Evidence-Based Practice and Quality Improvement',    file: 'chapter-07.md', status: 'soon'    },
+      { num: 7,  title: 'Evidence-Based Practice and Quality Improvement',    file: 'chapter-07.md', status: 'draft'   },
       { num: 8,  title: 'The Nursing Process (ADPIE)',                        file: 'chapter-08.md', status: 'soon'    },
       { num: 9,  title: 'Clinical Judgment and the NCSBN CJMM',              file: 'chapter-09.md', status: 'soon'    },
     ],

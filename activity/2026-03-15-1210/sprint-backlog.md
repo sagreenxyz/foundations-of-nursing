@@ -116,8 +116,8 @@
 | NCLEX questions | [x] (embedded in `content/chapter-04.md`) |
 | Summary | [x] (embedded in `content/chapter-04.md`) |
 | References | [x] (embedded in `content/chapter-04.md`) |
-| Developmental edit | [ ] |
-| Copy edit / proofread | [ ] |
+| Developmental edit | [x] (Sprint 2026-03-15-2214) |
+| Copy edit / proofread | [x] (Sprint 2026-03-15-2214) |
 | HTML formatting | [x] (rendered via `docs/` web app — Sprint 2026-03-15-2140) |
 
 ---
@@ -168,13 +168,13 @@
 
 | Task | Status |
 |------|--------|
-| Outline review | [ ] |
-| Chapter draft | [ ] |
-| Key terms | [ ] |
-| Case study | [ ] |
-| NCLEX questions | [ ] |
-| Summary | [ ] |
-| References | [ ] |
+| Outline review | [x] |
+| Chapter draft | [x] |
+| Key terms | [x] |
+| Case study | [x] |
+| NCLEX questions | [x] |
+| Summary | [x] |
+| References | [x] |
 | Developmental edit | [ ] |
 | Copy edit / proofread | [ ] |
 | HTML formatting | [ ] |
