@@ -1,0 +1,1146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Foundations of Nursing — Project Dependency Tree</title>
+<style>
+*,*::before,*::after{box-sizing:border-box}
+html,body{margin:0;padding:0;width:100%;height:100%;overflow:hidden}
+body{
+  font-family:system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;
+  background:#0d1117;color:#c9d1d9;
+  display:flex;flex-direction:column;height:100vh;
+}
+
+/* ── Header ─────────────────────────────────────────────── */
+header{
+  background:#161b22;border-bottom:1px solid #30363d;
+  padding:10px 20px;display:flex;align-items:center;gap:16px;
+  flex-shrink:0;z-index:20;
+}
+.hdr-title{font-size:17px;font-weight:700;color:#f0f6fc}
+.hdr-sub{font-size:12px;color:#8b949e;margin-top:2px}
+.view-tabs{display:flex;gap:4px;margin-left:auto}
+.tab-btn{
+  background:transparent;border:1px solid #30363d;color:#8b949e;
+  padding:5px 14px;border-radius:6px;font-size:13px;cursor:pointer;
+  transition:all .15s;
+}
+.tab-btn:hover{background:#21262d;color:#c9d1d9}
+.tab-btn.active{background:#1f6feb;border-color:#388bfd;color:#fff}
+
+/* ── Controls ────────────────────────────────────────────── */
+.controls{
+  background:#161b22;border-bottom:1px solid #30363d;
+  padding:7px 20px;display:flex;align-items:center;gap:10px;
+  flex-shrink:0;z-index:20;flex-wrap:wrap;
+}
+.ctrl-btn{
+  background:#21262d;border:1px solid #30363d;color:#c9d1d9;
+  padding:4px 11px;border-radius:6px;font-size:13px;cursor:pointer;
+  transition:all .15s;white-space:nowrap;
+}
+.ctrl-btn:hover{background:#30363d}
+.ctrl-sep{width:1px;height:20px;background:#30363d;flex-shrink:0}
+.ctrl-stats{display:flex;gap:14px;margin-left:auto;flex-wrap:wrap}
+.stat-item{font-size:12px;color:#8b949e;white-space:nowrap}
+.stat-item b{color:#c9d1d9}
+.stat-dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:4px;vertical-align:middle}
+
+/* ── Main area ───────────────────────────────────────────── */
+.main{flex:1;position:relative;overflow:hidden;display:flex}
+#wave-view{width:100%;height:100%}
+svg{width:100%;height:100%;cursor:grab;display:block}
+svg:active{cursor:grabbing}
+
+/* ── SVG graph elements ──────────────────────────────────── */
+.wave-label{font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.05em;fill:#8b949e}
+.node-group{cursor:pointer}
+.node-rect{transition:filter .12s}
+.node-group:hover .node-rect{filter:brightness(1.18)}
+.node-badge-text{font-size:10px;font-weight:700;fill:#fff}
+.node-label{font-size:11px;font-weight:500;fill:#c9d1d9}
+.node-label-lo{font-size:10px;fill:#8b949e}
+.node-prog-txt{font-size:10px;fill:#8b949e}
+.node-deps-all{font-size:9px;fill:#8b949e}
+.edge{fill:none;stroke:#30363d;stroke-width:1.5}
+.edge.hl-fwd{stroke:#388bfd;stroke-width:2.5}
+.edge.hl-bwd{stroke:#f0883e;stroke-width:2.5}
+
+/* ── Detail panel ────────────────────────────────────────── */
+.detail{
+  position:absolute;top:0;right:0;width:320px;height:100%;
+  background:#161b22;border-left:1px solid #30363d;
+  display:flex;flex-direction:column;
+  transform:translateX(100%);transition:transform .25s ease;
+  z-index:50;overflow:hidden;
+}
+.detail.open{transform:translateX(0)}
+.detail-header{padding:14px 16px 10px;border-bottom:1px solid #21262d;flex-shrink:0}
+.detail-close{
+  float:right;background:#21262d;border:1px solid #30363d;color:#8b949e;
+  width:24px;height:24px;border-radius:50%;cursor:pointer;
+  font-size:14px;line-height:24px;text-align:center;padding:0;
+}
+.detail-close:hover{background:#30363d;color:#c9d1d9}
+.detail-badge{
+  display:inline-block;font-size:11px;font-weight:700;
+  padding:2px 8px;border-radius:4px;margin-bottom:6px;color:#fff;
+}
+.detail-title{font-size:14px;font-weight:700;color:#f0f6fc;line-height:1.4;margin-bottom:4px}
+.detail-unit-name{font-size:11px;color:#8b949e;margin-bottom:10px}
+.detail-status{
+  display:inline-flex;align-items:center;gap:6px;font-size:12px;
+  padding:3px 10px;border-radius:12px;border:1px solid;margin-bottom:2px;
+}
+.detail-scroll{flex:1;overflow-y:auto;padding:12px 16px 20px}
+.detail-section{margin-bottom:14px}
+.dsec-hdr{
+  font-size:11px;font-weight:600;text-transform:uppercase;
+  letter-spacing:.05em;color:#8b949e;margin-bottom:6px;
+}
+.prog-wrap{background:#21262d;border-radius:4px;height:6px;margin:4px 0 8px;overflow:hidden}
+.prog-fill{height:100%;border-radius:4px;transition:width .3s}
+.task-row{
+  display:flex;align-items:center;gap:8px;padding:5px 0;
+  border-bottom:1px solid #21262d;font-size:12px;color:#c9d1d9;
+}
+.task-dot{width:9px;height:9px;border-radius:50%;flex-shrink:0}
+.chip-list{display:flex;flex-wrap:wrap;gap:4px}
+.chip{
+  background:#21262d;border:1px solid #30363d;border-radius:4px;
+  padding:2px 8px;font-size:11px;color:#c9d1d9;
+}
+
+/* ── Legend ──────────────────────────────────────────────── */
+#legend{
+  position:absolute;bottom:14px;left:14px;
+  background:rgba(22,27,34,.97);border:1px solid #30363d;
+  border-radius:10px;padding:12px 14px;z-index:40;
+  min-width:195px;backdrop-filter:blur(6px);
+  max-height:calc(100% - 28px);overflow-y:auto;
+}
+#legend.hidden{display:none}
+.leg-title{
+  font-size:11px;font-weight:700;text-transform:uppercase;
+  letter-spacing:.05em;color:#8b949e;margin-bottom:8px;
+}
+.leg-row{display:flex;align-items:center;gap:7px;font-size:12px;color:#c9d1d9;margin-bottom:5px}
+.leg-sw{width:11px;height:11px;border-radius:3px;flex-shrink:0}
+.leg-sep{border-top:1px solid #21262d;margin:8px 0}
+
+/* ── Zoom indicator ──────────────────────────────────────── */
+#zoom-ind{
+  position:absolute;bottom:14px;right:14px;
+  background:rgba(22,27,34,.9);border:1px solid #30363d;
+  border-radius:6px;padding:5px 10px;font-size:12px;color:#8b949e;z-index:40;
+}
+
+/* ── Tooltip ─────────────────────────────────────────────── */
+#tooltip{
+  position:fixed;background:#1c2128;border:1px solid #30363d;
+  border-radius:7px;padding:9px 12px;font-size:12px;color:#c9d1d9;
+  pointer-events:none;z-index:300;max-width:240px;line-height:1.65;
+  box-shadow:0 8px 24px rgba(0,0,0,.7);display:none;
+}
+
+/* ── Phase roadmap view ──────────────────────────────────── */
+#phase-view{
+  width:100%;height:100%;overflow-y:auto;
+  padding:24px 32px;display:none;
+}
+#phase-view.active{display:block}
+.phase-card{
+  background:#161b22;border:1px solid #30363d;border-radius:10px;
+  padding:16px 20px;margin-bottom:14px;border-left:4px solid;
+}
+.phase-num{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:#8b949e;margin-bottom:3px}
+.phase-title{font-size:16px;font-weight:700;margin-bottom:4px}
+.phase-goal{font-size:13px;color:#8b949e;margin-bottom:10px}
+.phase-acts{font-size:13px;color:#c9d1d9;padding-left:18px;margin:0 0 8px}
+.phase-acts li{margin-bottom:3px}
+.phase-del{background:#21262d;border-radius:6px;padding:8px 12px;font-size:12px;color:#c9d1d9;margin-top:8px}
+.phase-footer{font-size:11px;color:#8b949e;margin-top:8px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px}
+</style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- HEADER -->
+<!-- ════════════════════════════════════════════════════════ -->
+<header>
+  <div>
+    <div class="hdr-title">📚 Foundations of Nursing</div>
+    <div class="hdr-sub">Project Dependency Tree · 45 Chapters · 11 Back-Matter items · 12 Production Phases</div>
+  </div>
+  <div class="view-tabs">
+    <button class="tab-btn active" id="tab-wave"  onclick="switchView('wave')">🌊 Wave Timeline</button>
+    <button class="tab-btn"        id="tab-phase" onclick="switchView('phase')">📋 Phase Roadmap</button>
+  </div>
+</header>
+
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- CONTROLS -->
+<!-- ════════════════════════════════════════════════════════ -->
+<div class="controls">
+  <button class="ctrl-btn" onclick="adjustZoom(-0.25)" title="Zoom out">− Zoom</button>
+  <button class="ctrl-btn" onclick="adjustZoom( 0.25)" title="Zoom in">+ Zoom</button>
+  <button class="ctrl-btn" onclick="resetView()"        title="Fit entire graph">↺ Fit</button>
+  <div class="ctrl-sep"></div>
+  <button class="ctrl-btn" onclick="toggleLegend()">🎨 Legend</button>
+  <div class="ctrl-sep"></div>
+  <div class="ctrl-stats">
+    <span class="stat-item"><span class="stat-dot" style="background:#22c55e"></span>Complete: <b id="s-complete">—</b></span>
+    <span class="stat-item"><span class="stat-dot" style="background:#f59e0b"></span>In Progress: <b id="s-inprog">—</b></span>
+    <span class="stat-item"><span class="stat-dot" style="background:#3b82f6"></span>Available: <b id="s-avail">—</b></span>
+    <span class="stat-item"><span class="stat-dot" style="background:#475569"></span>Blocked: <b id="s-blocked">—</b></span>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- MAIN -->
+<!-- ════════════════════════════════════════════════════════ -->
+<div class="main">
+
+  <!-- Wave / DAG view -->
+  <div id="wave-view">
+    <svg id="svg-main">
+      <defs>
+        <marker id="arr"     markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0,8 3,0 6" fill="#30363d"/></marker>
+        <marker id="arr-fwd" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0,8 3,0 6" fill="#388bfd"/></marker>
+        <marker id="arr-bwd" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0,8 3,0 6" fill="#f0883e"/></marker>
+      </defs>
+      <g id="zoom-g"></g>
+    </svg>
+  </div>
+
+  <!-- Phase roadmap view -->
+  <div id="phase-view"></div>
+
+  <!-- Detail panel (right slide-in) -->
+  <div class="detail" id="detail-panel">
+    <div class="detail-header">
+      <button class="detail-close" onclick="closeDetail()">✕</button>
+      <div id="dp-badge"  class="detail-badge"></div>
+      <div id="dp-title"  class="detail-title"></div>
+      <div id="dp-unit"   class="detail-unit-name"></div>
+      <div id="dp-status" class="detail-status"></div>
+    </div>
+    <div class="detail-scroll">
+      <div id="dp-content"></div>
+    </div>
+  </div>
+
+  <!-- Legend -->
+  <div id="legend">
+    <div class="leg-title">Status</div>
+    <div class="leg-row"><div class="leg-sw" style="background:#22c55e"></div>Complete</div>
+    <div class="leg-row"><div class="leg-sw" style="background:#f59e0b"></div>In Progress</div>
+    <div class="leg-row"><div class="leg-sw" style="background:#3b82f6"></div>Available (ready to start)</div>
+    <div class="leg-row"><div class="leg-sw" style="background:#475569"></div>Blocked (prereqs pending)</div>
+    <div class="leg-sep"></div>
+    <div class="leg-title">Units</div>
+    <div class="leg-row"><div class="leg-sw" style="background:#1d4ed8"></div>Unit 1 · Professional Architecture</div>
+    <div class="leg-row"><div class="leg-sw" style="background:#4338ca"></div>Unit 2 · Clinical Mindset</div>
+    <div class="leg-row"><div class="leg-sw" style="background:#15803d"></div>Unit 3 · Health &amp; Development</div>
+    <div class="leg-row"><div class="leg-sw" style="background:#b45309"></div>Unit 4 · Pathophysiology</div>
+    <div class="leg-row"><div class="leg-sw" style="background:#dc2626"></div>Unit 5 · Pharmacology</div>
+    <div class="leg-row"><div class="leg-sw" style="background:#be185d"></div>Unit 6 · Clinical Skills</div>
+    <div class="leg-row"><div class="leg-sw" style="background:#7c3aed"></div>Unit 7 · Mental Health</div>
+    <div class="leg-row"><div class="leg-sw" style="background:#0369a1"></div>Unit 8 · Maternal / Peds</div>
+    <div class="leg-row"><div class="leg-sw" style="background:#166534"></div>Unit 9 · Community Health</div>
+    <div class="leg-row"><div class="leg-sw" style="background:#d97706"></div>Unit 10 · Leadership</div>
+    <div class="leg-row"><div class="leg-sw" style="background:#9333ea"></div>Unit 11 · Integration</div>
+    <div class="leg-row"><div class="leg-sw" style="background:#334155"></div>Back Matter</div>
+    <div class="leg-sep"></div>
+    <div style="font-size:11px;color:#8b949e">Hover node → highlight edges<br>Click node → task detail</div>
+  </div>
+
+  <!-- Zoom indicator -->
+  <div id="zoom-ind">100%</div>
+
+  <!-- Tooltip -->
+  <div id="tooltip"></div>
+</div>
+
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- APP SCRIPT  (self-contained, no external dependencies) -->
+<!-- ════════════════════════════════════════════════════════ -->
+<script>
+/* ============================================================
+   1. DATA DEFINITIONS
+   ============================================================ */
+const UNIT_INFO = {
+  0:  {name:'Project Setup',                    fill:'#161b22', stroke:'#475569', badge:'#4b5563'},
+  1:  {name:'Unit 1 · Professional Architecture',fill:'#0d1b3e', stroke:'#1d4ed8', badge:'#1d4ed8'},
+  2:  {name:'Unit 2 · Clinical Mindset',         fill:'#1a1a4e', stroke:'#4338ca', badge:'#4338ca'},
+  3:  {name:'Unit 3 · Health & Development',     fill:'#052e16', stroke:'#16a34a', badge:'#15803d'},
+  4:  {name:'Unit 4 · Pathophysiology',          fill:'#2a1000', stroke:'#b45309', badge:'#b45309'},
+  5:  {name:'Unit 5 · Pharmacology',             fill:'#2d0000', stroke:'#dc2626', badge:'#dc2626'},
+  6:  {name:'Unit 6 · Clinical Skills',          fill:'#2d0019', stroke:'#be185d', badge:'#be185d'},
+  7:  {name:'Unit 7 · Mental Health',            fill:'#1e0a3c', stroke:'#7c3aed', badge:'#7c3aed'},
+  8:  {name:'Unit 8 · Maternal / Peds',          fill:'#02182a', stroke:'#0369a1', badge:'#0369a1'},
+  9:  {name:'Unit 9 · Community Health',         fill:'#042c14', stroke:'#15803d', badge:'#166534'},
+  10: {name:'Unit 10 · Leadership',              fill:'#2d1500', stroke:'#d97706', badge:'#d97706'},
+  11: {name:'Unit 11 · Integration',             fill:'#2a0e44', stroke:'#9333ea', badge:'#9333ea'},
+  12: {name:'Back Matter',                       fill:'#111827', stroke:'#334155', badge:'#334155'},
+};
+
+const STATUS = {
+  'complete':    {color:'#22c55e', label:'Complete'},
+  'in-progress': {color:'#f59e0b', label:'In Progress'},
+  'available':   {color:'#3b82f6', label:'Available'},
+  'blocked':     {color:'#475569', label:'Blocked'},
+};
+
+function blankTasks() {
+  return [
+    {name:'Outline review',       s:'not-started'},
+    {name:'Chapter draft',        s:'not-started'},
+    {name:'Key terms',            s:'not-started'},
+    {name:'Case study',           s:'not-started'},
+    {name:'NCLEX questions',      s:'not-started'},
+    {name:'Summary',              s:'not-started'},
+    {name:'References',           s:'not-started'},
+    {name:'Developmental edit',   s:'not-started'},
+    {name:'Copy edit/proofread',  s:'not-started'},
+    {name:'HTML formatting',      s:'not-started'},
+  ];
+}
+
+/* Raw node definitions.
+   deps  = array of prerequisite node IDs
+   depsAll = true means "depends on all Ch 1–43" (capstone chapters) */
+const RAW = [
+  // ── Project Setup ─────────────────────────────────────
+  {id:'setup', label:'Project Setup', num:null, unit:0, deps:[], tasks:[
+    {name:'Initial questionnaire',      s:'complete'},
+    {name:'Merged Table of Contents',   s:'complete'},
+    {name:'Sprint backlog & roadmap',   s:'complete'},
+    {name:'Ch 1 detailed outline',      s:'complete'},
+    {name:'Chapter template',           s:'complete'},
+    {name:'Web app foundation',         s:'complete'},
+    {name:'README update',              s:'complete'},
+    {name:'Parallel-work analysis',     s:'complete'},
+    {name:'Master backlog update',      s:'complete'},
+  ]},
+  // ── Unit 1: Professional Architecture (Ch 1–6) ────────
+  {id:'ch1',  label:'History & Evolution of Nursing',             num:1,  unit:1, deps:[],                    tasks:[
+    {name:'Outline review',      s:'complete'},
+    {name:'Chapter draft',       s:'complete'},
+    {name:'Key terms',           s:'complete'},
+    {name:'Case study',          s:'complete'},
+    {name:'NCLEX questions',     s:'complete'},
+    {name:'Summary',             s:'complete'},
+    {name:'References',          s:'complete'},
+    {name:'Developmental edit',  s:'not-started'},
+    {name:'Copy edit/proofread', s:'not-started'},
+    {name:'HTML formatting',     s:'complete'},
+  ]},
+  {id:'ch2',  label:'Legal, Ethical & Professional Standards',    num:2,  unit:1, deps:['ch1'],               tasks:blankTasks()},
+  {id:'ch3',  label:'Patient Rights, Advocacy & Informed Consent',num:3,  unit:1, deps:['ch2'],               tasks:blankTasks()},
+  {id:'ch4',  label:'Therapeutic Communication',                  num:4,  unit:1, deps:['ch1'],               tasks:[
+    {name:'Outline review',      s:'complete'},
+    {name:'Chapter draft',       s:'not-started'},
+    {name:'Key terms',           s:'not-started'},
+    {name:'Case study',          s:'not-started'},
+    {name:'NCLEX questions',     s:'not-started'},
+    {name:'Summary',             s:'not-started'},
+    {name:'References',          s:'not-started'},
+    {name:'Developmental edit',  s:'not-started'},
+    {name:'Copy edit/proofread', s:'not-started'},
+    {name:'HTML formatting',     s:'not-started'},
+  ]},
+  {id:'ch5',  label:'Cultural Humility, Health Literacy & Inclusive Care', num:5, unit:1, deps:['ch4'],       tasks:blankTasks()},
+  {id:'ch6',  label:'End-of-Life Communication & Palliative Care',num:6,  unit:1, deps:['ch2','ch4','ch5'],   tasks:blankTasks()},
+  // ── Unit 2: Clinical Mindset (Ch 7–9) ─────────────────
+  {id:'ch7',  label:'Evidence-Based Practice & Quality Improvement', num:7, unit:2, deps:['ch1'],             tasks:blankTasks()},
+  {id:'ch8',  label:'The Nursing Process (ADPIE)',                 num:8,  unit:2, deps:['ch4','ch7'],         tasks:blankTasks()},
+  {id:'ch9',  label:'Clinical Judgment & NCSBN CJMM',             num:9,  unit:2, deps:['ch8'],               tasks:blankTasks()},
+  // ── Unit 3: Health, Wellness & Development (Ch 10–12) ─
+  {id:'ch10', label:'Health, Wellness & Illness',                  num:10, unit:3, deps:['ch1'],              tasks:blankTasks()},
+  {id:'ch11', label:'Lifespan Development & Age-Related Nursing',  num:11, unit:3, deps:['ch10'],             tasks:blankTasks()},
+  {id:'ch12', label:'Nutrition & Metabolic Health',                num:12, unit:3, deps:['ch11'],             tasks:blankTasks()},
+  // ── Unit 4: Pathophysiology (Ch 13–23) ────────────────
+  {id:'ch13', label:'Introduction to Pathophysiology',             num:13, unit:4, deps:['ch10'],             tasks:blankTasks()},
+  {id:'ch14', label:'Fluid, Electrolyte & Acid-Base Balance',      num:14, unit:4, deps:['ch13'],             tasks:blankTasks()},
+  {id:'ch15', label:'Perfusion & Oxygenation',                     num:15, unit:4, deps:['ch14'],             tasks:blankTasks()},
+  {id:'ch16', label:'Cardiovascular Pathophysiology',              num:16, unit:4, deps:['ch15'],             tasks:blankTasks()},
+  {id:'ch17', label:'Respiratory Pathophysiology',                 num:17, unit:4, deps:['ch15'],             tasks:blankTasks()},
+  {id:'ch18', label:'Neurological Pathophysiology',                num:18, unit:4, deps:['ch13','ch15'],      tasks:blankTasks()},
+  {id:'ch19', label:'Musculoskeletal Pathophysiology',             num:19, unit:4, deps:['ch13'],             tasks:blankTasks()},
+  {id:'ch20', label:'Gastrointestinal Pathophysiology',            num:20, unit:4, deps:['ch12','ch13'],      tasks:blankTasks()},
+  {id:'ch21', label:'Renal & Urinary Pathophysiology',             num:21, unit:4, deps:['ch13','ch14'],      tasks:blankTasks()},
+  {id:'ch22', label:'Endocrine Pathophysiology',                   num:22, unit:4, deps:['ch13','ch14'],      tasks:blankTasks()},
+  {id:'ch23', label:'Immune System & Infectious Disease',          num:23, unit:4, deps:['ch13'],             tasks:blankTasks()},
+  // ── Unit 5: Pharmacology (Ch 24–27) ───────────────────
+  {id:'ch24', label:'Principles of Pharmacology',                  num:24, unit:5, deps:['ch13','ch14'],      tasks:blankTasks()},
+  {id:'ch25', label:'Safe Medication Administration',              num:25, unit:5, deps:['ch24'],             tasks:blankTasks()},
+  {id:'ch26', label:'Drug Classifications & Mechanisms',           num:26, unit:5, deps:['ch24','ch25'],      tasks:blankTasks()},
+  {id:'ch27', label:'Patient Education for Medications',           num:27, unit:5, deps:['ch5','ch25','ch26'],tasks:blankTasks()},
+  // ── Unit 6: Clinical Skills (Ch 28–34) ────────────────
+  {id:'ch28', label:'Vital Signs & Physical Assessment',           num:28, unit:6, deps:['ch8','ch15'],       tasks:blankTasks()},
+  {id:'ch29', label:'Infection Control & Sterile Technique',       num:29, unit:6, deps:['ch13','ch23'],      tasks:blankTasks()},
+  {id:'ch30', label:'Hygiene, Mobility & Skin Integrity',          num:30, unit:6, deps:['ch13','ch19'],      tasks:blankTasks()},
+  {id:'ch31', label:'IV Therapy & Venous Access',                  num:31, unit:6, deps:['ch14','ch25'],      tasks:blankTasks()},
+  {id:'ch32', label:'Urinary & Bowel Elimination',                 num:32, unit:6, deps:['ch20','ch21'],      tasks:blankTasks()},
+  {id:'ch33', label:'Oxygenation & Airway Management',             num:33, unit:6, deps:['ch15','ch17'],      tasks:blankTasks()},
+  {id:'ch34', label:'Perioperative Nursing Care',                  num:34, unit:6, deps:['ch2','ch3','ch25','ch28'], tasks:blankTasks()},
+  // ── Unit 7: Mental Health (Ch 35–36) ──────────────────
+  {id:'ch35', label:'Foundations of Mental Health Nursing',        num:35, unit:7, deps:['ch2','ch4'],        tasks:blankTasks()},
+  {id:'ch36', label:'Common Psychiatric Disorders & Nursing Care', num:36, unit:7, deps:['ch35'],             tasks:blankTasks()},
+  // ── Unit 8: Maternal-Newborn & Pediatric (Ch 37–38) ───
+  {id:'ch37', label:'Maternal-Newborn Nursing',                    num:37, unit:8, deps:['ch11','ch13'],      tasks:blankTasks()},
+  {id:'ch38', label:'Pediatric Nursing',                           num:38, unit:8, deps:['ch11','ch25'],      tasks:blankTasks()},
+  // ── Unit 9: Community & Public Health (Ch 39–40) ──────
+  {id:'ch39', label:'Community & Public Health Nursing',           num:39, unit:9, deps:['ch5','ch10'],       tasks:blankTasks()},
+  {id:'ch40', label:'Home Health & Transitional Care',             num:40, unit:9, deps:['ch6','ch27','ch34'],tasks:blankTasks()},
+  // ── Unit 10: Leadership & Management (Ch 41–43) ───────
+  {id:'ch41', label:'Leadership & Management in Nursing',          num:41, unit:10, deps:['ch2','ch7'],       tasks:blankTasks()},
+  {id:'ch42', label:'Delegation, Supervision & Team Nursing',      num:42, unit:10, deps:['ch2','ch4'],       tasks:blankTasks()},
+  {id:'ch43', label:'Professional Development & Career Planning',  num:43, unit:10, deps:['ch1','ch2'],       tasks:blankTasks()},
+  // ── Unit 11: Integration / Capstone (Ch 44–45) ────────
+  {id:'ch44', label:'Integrated Case Studies',                     num:44, unit:11, depsAll:true, deps:[], tasks:[
+    {name:'Outline review',      s:'not-started'},
+    {name:'Chapter draft',       s:'not-started'},
+    {name:'Key terms',           s:'N/A'},
+    {name:'Case study',          s:'not-started'},
+    {name:'NCLEX questions',     s:'not-started'},
+    {name:'Summary',             s:'not-started'},
+    {name:'References',          s:'not-started'},
+    {name:'Developmental edit',  s:'not-started'},
+    {name:'Copy edit/proofread', s:'not-started'},
+    {name:'HTML formatting',     s:'not-started'},
+  ]},
+  {id:'ch45', label:'NCLEX Preparation & Clinical Readiness',      num:45, unit:11, depsAll:true, deps:[], tasks:[
+    {name:'Outline review',      s:'not-started'},
+    {name:'Chapter draft',       s:'not-started'},
+    {name:'Key terms',           s:'N/A'},
+    {name:'Case study',          s:'not-started'},
+    {name:'NCLEX questions',     s:'not-started'},
+    {name:'Summary',             s:'not-started'},
+    {name:'References',          s:'not-started'},
+    {name:'Developmental edit',  s:'not-started'},
+    {name:'Copy edit/proofread', s:'not-started'},
+    {name:'HTML formatting',     s:'not-started'},
+  ]},
+  // ── Back Matter ────────────────────────────────────────
+  {id:'appA', label:'Appendix A — Glossary (400+ terms)',              num:null, unit:12, deps:['ch44','ch45'], tasks:blankTasks()},
+  {id:'appB', label:'Appendix B — Lab Values Reference',               num:null, unit:12, deps:['ch44','ch45'], tasks:blankTasks()},
+  {id:'appC', label:'Appendix C — Medical Abbreviations',              num:null, unit:12, deps:['ch44','ch45'], tasks:blankTasks()},
+  {id:'appD', label:'Appendix D — Medical Roots, Prefixes & Suffixes', num:null, unit:12, deps:['ch44','ch45'], tasks:blankTasks()},
+  {id:'appE', label:'Appendix E — NANDA-I Diagnoses List',             num:null, unit:12, deps:['ch44','ch45'], tasks:blankTasks()},
+  {id:'appF', label:'Appendix F — High-Alert Medications',             num:null, unit:12, deps:['ch44','ch45'], tasks:blankTasks()},
+  {id:'appG', label:'Appendix G — Skills Competency Checklists',       num:null, unit:12, deps:['ch44','ch45'], tasks:blankTasks()},
+  {id:'appH', label:'Appendix H — NCLEX-Style Unit Review Questions',  num:null, unit:12, deps:['ch44','ch45'], tasks:blankTasks()},
+  {id:'appI', label:'Appendix I — APA 7th Edition Citation Guide',     num:null, unit:12, deps:[],              tasks:blankTasks()},
+  {id:'appJ', label:'Appendix J — Comprehensive Index',                num:null, unit:12, deps:['ch44','ch45'], tasks:blankTasks()},
+  {id:'appK', label:'Appendix K — Full References List (APA)',         num:null, unit:12, deps:['ch44','ch45'], tasks:blankTasks()},
+];
+
+/* ============================================================
+   2. WAVE LEVEL COMPUTATION  (topological sort)
+   ============================================================ */
+const byId = Object.fromEntries(RAW.map(n => [n.id, n]));
+const waveLevels = {};
+
+function getWave(id) {
+  if (id in waveLevels) return waveLevels[id];
+  const n = byId[id];
+  if (!n) { waveLevels[id] = 0; return 0; }
+  if (n.id === 'setup') { waveLevels[id] = 0; return 0; }
+  if (n.depsAll || n.unit === 12) return -1; // placeholder; overwritten after maxChWave is known
+  if (!n.deps || n.deps.length === 0) { waveLevels[id] = 1; return 1; }
+  const maxDep = Math.max(...n.deps.map(d => getWave(d)));
+  waveLevels[id] = maxDep + 1;
+  return waveLevels[id];
+}
+
+// Compute all non-capstone, non-back-matter nodes
+RAW.forEach(n => { if (!n.depsAll && n.unit !== 12) getWave(n.id); });
+
+// Max wave among ch1–ch43
+const chapterIds = RAW.filter(n => n.num !== null && n.num <= 43).map(n => n.id);
+const maxChWave   = Math.max(...chapterIds.map(id => waveLevels[id] || 0));
+
+// Capstone chapters (depsAll)
+RAW.forEach(n => { if (n.depsAll) waveLevels[n.id] = maxChWave + 1; });
+// Back matter
+RAW.forEach(n => { if (n.unit === 12) waveLevels[n.id] = maxChWave + 2; });
+
+/* ============================================================
+   3. STATUS COMPUTATION
+   ============================================================ */
+function computeStatus(n) {
+  const active = n.tasks.filter(t => t.s !== 'N/A');
+  const done   = active.filter(t => t.s === 'complete').length;
+  const inProg = active.filter(t => t.s === 'in-progress').length;
+  if (active.length > 0 && done === active.length) return 'complete';
+  if (done > 0 || inProg > 0) return 'in-progress';
+  if (n.depsAll) return 'blocked';
+  for (const depId of (n.deps || [])) {
+    const dep = byId[depId];
+    if (!dep) continue;
+    // For setup node (no draft task) all tasks must be complete
+    const draftTask = dep.tasks.find(t => t.name === 'Chapter draft');
+    if (!draftTask) {
+      if (!dep.tasks.every(t => t.s === 'complete')) return 'blocked';
+    } else if (draftTask.s !== 'complete') {
+      return 'blocked';
+    }
+  }
+  return 'available';
+}
+
+/* ============================================================
+   4. BUILD FINAL NODE ARRAY  +  REVERSE-DEP MAP
+   ============================================================ */
+const NODES = RAW.map(n => {
+  const status = computeStatus(n);
+  const active = n.tasks.filter(t => t.s !== 'N/A');
+  const done   = active.filter(t => t.s === 'complete').length;
+  return { ...n, status, done, total: active.length, wave: waveLevels[n.id] };
+});
+
+const revDeps = {}; // id → [ids of nodes that depend on it]
+NODES.forEach(n => {
+  n.deps.forEach(depId => {
+    if (!revDeps[depId]) revDeps[depId] = [];
+    revDeps[depId].push(n.id);
+  });
+});
+
+const nodesById = Object.fromEntries(NODES.map(n => [n.id, n]));
+
+/* ============================================================
+   5. LAYOUT
+   ============================================================ */
+const NW = 168, NH = 70;       // node width / height
+const COL_W = 208, ROW_H = 82; // spacing (center-to-center)
+const PAD_L = 50, PAD_T = 72;  // canvas padding
+
+// Group by wave and sort within each wave
+const waveGroups = {};
+NODES.forEach(n => {
+  if (!waveGroups[n.wave]) waveGroups[n.wave] = [];
+  waveGroups[n.wave].push(n);
+});
+Object.values(waveGroups).forEach(g =>
+  g.sort((a, b) => (a.unit - b.unit) || ((a.num || 99) - (b.num || 99)))
+);
+
+const maxRows   = Math.max(...Object.values(waveGroups).map(g => g.length));
+const coreH     = maxRows * ROW_H;
+const numWaves  = Math.max(...NODES.map(n => n.wave)) + 1;
+const CANVAS_W  = PAD_L + numWaves * COL_W + NW / 2 + 60;
+const CANVAS_H  = PAD_T + coreH + NH + 60;
+
+// Assign pixel centers
+NODES.forEach(n => {
+  const grp  = waveGroups[n.wave];
+  const idx  = grp.indexOf(n);
+  const colH = grp.length * ROW_H;
+  const startY = (coreH - colH) / 2 + PAD_T;
+  n.cx = PAD_L + n.wave * COL_W + NW / 2;
+  n.cy = startY + idx * ROW_H + NH / 2;
+});
+
+/* ============================================================
+   6. SVG HELPERS  (vanilla JS – no external library needed)
+   ============================================================ */
+const SVG_NS = 'http://www.w3.org/2000/svg';
+
+function mkSVG(tag, attrs) {
+  const el = document.createElementNS(SVG_NS, tag);
+  if (attrs) setA(el, attrs);
+  return el;
+}
+function setA(el, attrs) {
+  Object.entries(attrs).forEach(([k, v]) => {
+    if (v !== null && v !== undefined) el.setAttribute(k, String(v));
+  });
+  return el;
+}
+function mkTxt(text, attrs) {
+  const el = mkSVG('text', attrs);
+  el.textContent = text;
+  return el;
+}
+
+/* ============================================================
+   6b. GRAPH RENDERING
+   ============================================================ */
+const svgEl    = document.getElementById('svg-main');
+const zoomGEl  = document.getElementById('zoom-g');
+
+// Edge path lookup (for hover highlighting)
+const srcEdgePaths = {};  // srcId  → [<path>]
+const tgtEdgePaths = {};  // tgtId  → [<path>]
+const allEdgePaths = [];
+
+// Wave-column labels
+const waveNames = {
+  0:                 'Setup',
+  [maxChWave + 1]:   'Capstone',
+  [maxChWave + 2]:   'Back Matter',
+};
+
+const labelGroupEl = mkSVG('g');
+zoomGEl.appendChild(labelGroupEl);
+Object.keys(waveGroups).forEach(wStr => {
+  const w  = +wStr;
+  const cx = PAD_L + w * COL_W + NW / 2;
+  labelGroupEl.appendChild(mkTxt(waveNames[w] || `Wave ${w}`, {
+    x: cx, y: PAD_T - 16,
+    'text-anchor': 'middle',
+    class: 'wave-label',
+  }));
+});
+
+// ── Edges ────────────────────────────────────────────────────
+function edgePath(src, tgt) {
+  const sx = src.cx + NW / 2;
+  const sy = src.cy;
+  const ex = tgt.cx - NW / 2 - 3;
+  const ey = tgt.cy;
+  const dx = Math.abs(ex - sx);
+  return `M${sx},${sy} C${sx + dx * 0.42},${sy} ${ex - dx * 0.42},${ey} ${ex},${ey}`;
+}
+
+const edges = [];
+NODES.forEach(n => n.deps.forEach(depId => {
+  const src = nodesById[depId];
+  if (src) edges.push({ srcId: depId, tgtId: n.id, src, tgt: n });
+}));
+
+const edgeGroupEl = mkSVG('g');
+zoomGEl.appendChild(edgeGroupEl);
+
+edges.forEach(e => {
+  const p = mkSVG('path', {
+    id: `e-${e.srcId}-${e.tgtId}`,
+    class: 'edge',
+    'marker-end': 'url(#arr)',
+    d: edgePath(e.src, e.tgt),
+  });
+  edgeGroupEl.appendChild(p);
+  if (!srcEdgePaths[e.srcId]) srcEdgePaths[e.srcId] = [];
+  if (!tgtEdgePaths[e.tgtId]) tgtEdgePaths[e.tgtId] = [];
+  srcEdgePaths[e.srcId].push(p);
+  tgtEdgePaths[e.tgtId].push(p);
+  allEdgePaths.push(p);
+});
+
+// ── Nodes ────────────────────────────────────────────────────
+function badgeText(d) {
+  if (d.num !== null)         return `Ch ${d.num}`;
+  if (d.id === 'setup')       return 'SETUP';
+  if (d.id.startsWith('app')) return 'APP ' + d.id.slice(3).toUpperCase();
+  return d.id.toUpperCase();
+}
+
+function wrapLabel(label) {
+  const words = label.split(' '), maxW = 21;
+  let l1 = '', l2 = '';
+  for (let i = 0; i < words.length; i++) {
+    const test = l1 ? l1 + ' ' + words[i] : words[i];
+    if (test.length <= maxW) { l1 = test; }
+    else { l2 = words.slice(i).join(' '); break; }
+  }
+  if (l2.length > maxW + 2) l2 = l2.slice(0, maxW) + '…';
+  return [l1, l2];
+}
+
+const nodeGroupEl = mkSVG('g');
+zoomGEl.appendChild(nodeGroupEl);
+
+NODES.forEach(d => {
+  const g = mkSVG('g', {
+    id: `node-${d.id}`,
+    class: 'node-group',
+    transform: `translate(${d.cx - NW / 2},${d.cy - NH / 2})`,
+  });
+
+  // Background
+  g.appendChild(mkSVG('rect', {
+    class: 'node-rect',
+    width: NW, height: NH, rx: 8, ry: 8,
+    fill: UNIT_INFO[d.unit].fill,
+    stroke: STATUS[d.status].color,
+    'stroke-width': 2,
+  }));
+  // Status stripe
+  g.appendChild(mkSVG('rect', {
+    width: NW, height: 4, rx: 4, ry: 4,
+    fill: STATUS[d.status].color + '99',
+  }));
+  // Badge background
+  const btxt = badgeText(d);
+  g.appendChild(mkSVG('rect', {
+    x: 7, y: 7, height: 15, rx: 3,
+    fill: UNIT_INFO[d.unit].badge,
+    width: btxt.length * 6.1 + 8,
+  }));
+  // Badge text
+  g.appendChild(mkTxt(btxt, { class: 'node-badge-text', x: 11, y: 18 }));
+  // depsAll indicator
+  if (d.depsAll) {
+    g.appendChild(mkTxt('★ all Ch 1–43', {
+      class: 'node-deps-all', x: NW - 7, y: 18, 'text-anchor': 'end',
+    }));
+  }
+  // Label lines
+  const [l1, l2] = wrapLabel(d.label);
+  g.appendChild(mkTxt(l1, { class: 'node-label', x: 8, y: l2 ? 35 : 42 }));
+  if (l2) g.appendChild(mkTxt(l2, { class: 'node-label-lo', x: 8, y: 47 }));
+  // Progress bar background
+  g.appendChild(mkSVG('rect', {
+    x: 7, y: NH - 13, width: NW - 14, height: 5, rx: 2, fill: '#21262d',
+  }));
+  // Progress bar fill
+  const fillW = d.total > 0 ? (d.done / d.total) * (NW - 14) : 0;
+  g.appendChild(mkSVG('rect', {
+    x: 7, y: NH - 13, width: fillW, height: 5, rx: 2,
+    fill: STATUS[d.status].color,
+  }));
+  // Progress text
+  g.appendChild(mkTxt(`${d.done}/${d.total}`, {
+    class: 'node-prog-txt', x: NW - 7, y: NH - 15, 'text-anchor': 'end',
+  }));
+
+  // Events
+  g.addEventListener('click', ev => { ev.stopPropagation(); openDetail(d); });
+  g.addEventListener('mouseenter', ev => highlightNode(d, true, ev));
+  g.addEventListener('mouseleave', ev => highlightNode(d, false, ev));
+
+  nodeGroupEl.appendChild(g);
+});
+
+/* ============================================================
+   7. HOVER HIGHLIGHTING  +  TOOLTIP
+   ============================================================ */
+const tooltip = document.getElementById('tooltip');
+
+function highlightNode(d, on, event) {
+  allEdgePaths.forEach(p => {
+    p.setAttribute('stroke', '#30363d');
+    p.setAttribute('stroke-width', '1.5');
+    p.setAttribute('marker-end', 'url(#arr)');
+    p.classList.remove('hl-fwd', 'hl-bwd');
+  });
+
+  if (on) {
+    (srcEdgePaths[d.id] || []).forEach(p => {
+      p.setAttribute('stroke', '#388bfd');
+      p.setAttribute('stroke-width', '2.5');
+      p.setAttribute('marker-end', 'url(#arr-fwd)');
+      p.classList.add('hl-fwd');
+    });
+    (tgtEdgePaths[d.id] || []).forEach(p => {
+      p.setAttribute('stroke', '#f0883e');
+      p.setAttribute('stroke-width', '2.5');
+      p.setAttribute('marker-end', 'url(#arr-bwd)');
+      p.classList.add('hl-bwd');
+    });
+
+    const prereqNames = d.depsAll
+      ? '★ All Ch 1–43'
+      : d.deps.map(id => {
+          const dep = nodesById[id];
+          return dep ? (dep.num !== null ? `Ch ${dep.num}` : dep.id) : id;
+        }).join(', ') || 'None';
+
+    tooltip.innerHTML =
+      `<b>${escHtml(d.label)}</b><br>` +
+      `Status: <span style="color:${STATUS[d.status].color}">${STATUS[d.status].label}</span><br>` +
+      `Progress: ${d.done} / ${d.total} tasks<br>` +
+      `${escHtml(UNIT_INFO[d.unit].name)}<br>` +
+      `Prereqs: ${escHtml(prereqNames)}`;
+    tooltip.style.display = 'block';
+    moveTooltip(event);
+  } else {
+    tooltip.style.display = 'none';
+  }
+}
+
+function moveTooltip(ev) {
+  if (!ev) return;
+  tooltip.style.left = (ev.clientX + 14) + 'px';
+  tooltip.style.top  = (ev.clientY - 10) + 'px';
+}
+
+document.getElementById('wave-view').addEventListener('mousemove', e => {
+  if (tooltip.style.display === 'block') moveTooltip(e);
+});
+
+// Close detail when clicking blank SVG background
+svgEl.addEventListener('click', e => {
+  if (e.target === svgEl || e.target === zoomGEl) closeDetail();
+});
+
+/* ============================================================
+   8. DETAIL PANEL
+   ============================================================ */
+function openDetail(d) {
+  const info = UNIT_INFO[d.unit];
+  const st   = STATUS[d.status];
+
+  // Header
+  const badge = document.getElementById('dp-badge');
+  badge.textContent = d.num !== null ? `Chapter ${d.num}` :
+                      d.id === 'setup' ? 'Project Setup' :
+                      d.label.split('—')[0].trim();
+  badge.style.background = info.badge;
+
+  document.getElementById('dp-title').textContent = d.label;
+  document.getElementById('dp-unit').textContent  = info.name;
+
+  const statusDiv = document.getElementById('dp-status');
+  statusDiv.textContent      = st.label;
+  statusDiv.style.color      = st.color;
+  statusDiv.style.borderColor= st.color;
+  statusDiv.style.background = st.color + '22';
+
+  // Content
+  const pct  = d.total > 0 ? Math.round(d.done / d.total * 100) : 0;
+  let html = `
+    <div class="detail-section">
+      <div class="dsec-hdr">Progress — ${d.done}/${d.total} tasks (${pct}%)</div>
+      <div class="prog-wrap">
+        <div class="prog-fill" style="width:${pct}%;background:${st.color}"></div>
+      </div>
+    </div>
+    <div class="detail-section">
+      <div class="dsec-hdr">Tasks</div>`;
+
+  d.tasks.forEach(t => {
+    const tc = t.s === 'complete'    ? '#22c55e' :
+               t.s === 'in-progress' ? '#f59e0b' :
+               t.s === 'N/A'         ? '#334155' : '#475569';
+    const labelStyle = t.s === 'N/A' ? 'style="color:#475569;text-decoration:line-through"' : '';
+    const statusTxt  = t.s === 'not-started' ? '—' : t.s.replace(/-/g, ' ');
+    html += `<div class="task-row">
+      <div class="task-dot" style="background:${tc}"></div>
+      <span ${labelStyle}>${escHtml(t.name)}</span>
+      <span style="margin-left:auto;color:${tc};font-size:11px">${escHtml(statusTxt)}</span>
+    </div>`;
+  });
+  html += `</div>`;
+
+  // Prerequisites
+  if (d.depsAll) {
+    html += `<div class="detail-section">
+      <div class="dsec-hdr">Prerequisites</div>
+      <div style="font-size:12px;color:#8b949e">★ Depends on all Chapters 1–43</div>
+    </div>`;
+  } else if (d.deps.length > 0) {
+    html += `<div class="detail-section">
+      <div class="dsec-hdr">Prerequisites (${d.deps.length})</div>
+      <div class="chip-list">`;
+    d.deps.forEach(depId => {
+      const dep = nodesById[depId];
+      if (dep) {
+        const shortName = dep.label.split(' ').slice(0, 3).join(' ') + '…';
+        html += `<span class="chip" style="border-color:${STATUS[dep.status].color}">` +
+                `${dep.num !== null ? 'Ch ' + dep.num + ': ' : ''}${escHtml(shortName)}</span>`;
+      }
+    });
+    html += `</div></div>`;
+  } else {
+    html += `<div class="detail-section">
+      <div class="dsec-hdr">Prerequisites</div>
+      <div style="font-size:12px;color:#22c55e">✓ No prerequisites — ready to start</div>
+    </div>`;
+  }
+
+  // Unlocks (reverse deps)
+  const unlocks = revDeps[d.id] || [];
+  if (unlocks.length > 0) {
+    html += `<div class="detail-section">
+      <div class="dsec-hdr">Unlocks (${unlocks.length})</div>
+      <div class="chip-list">`;
+    unlocks.forEach(uid => {
+      const u = nodesById[uid];
+      if (u) {
+        const shortName = u.label.split(' ').slice(0, 3).join(' ') + '…';
+        html += `<span class="chip">${u.num !== null ? 'Ch ' + u.num + ': ' : ''}${escHtml(shortName)}</span>`;
+      }
+    });
+    html += `</div></div>`;
+  }
+
+  document.getElementById('dp-content').innerHTML = html;
+  document.getElementById('detail-panel').classList.add('open');
+}
+
+function closeDetail() {
+  document.getElementById('detail-panel').classList.remove('open');
+}
+
+function escHtml(s) {
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+/* ============================================================
+   9. ZOOM / PAN  (vanilla JS – pointer events + wheel)
+   ============================================================ */
+let vTx = 0, vTy = 0, vScale = 1;
+
+function applyTransform(tx, ty, k) {
+  vTx = tx; vTy = ty; vScale = k;
+  zoomGEl.setAttribute('transform', `translate(${tx},${ty}) scale(${k})`);
+  document.getElementById('zoom-ind').textContent = Math.round(k * 100) + '%';
+}
+
+// Pan via drag
+let panning = false, panX0 = 0, panY0 = 0, panTx0 = 0, panTy0 = 0;
+
+svgEl.addEventListener('pointerdown', e => {
+  if (e.button !== 0) return;
+  // Only start pan if not on a node
+  if (e.target.closest && e.target.closest('.node-group')) return;
+  panning = true;
+  panX0 = e.clientX; panY0 = e.clientY;
+  panTx0 = vTx; panTy0 = vTy;
+  svgEl.setPointerCapture(e.pointerId);
+  svgEl.style.cursor = 'grabbing';
+  e.preventDefault();
+});
+svgEl.addEventListener('pointermove', e => {
+  if (!panning) return;
+  applyTransform(panTx0 + e.clientX - panX0, panTy0 + e.clientY - panY0, vScale);
+});
+svgEl.addEventListener('pointerup',    () => { panning = false; svgEl.style.cursor = 'grab'; });
+svgEl.addEventListener('pointercancel',() => { panning = false; svgEl.style.cursor = 'grab'; });
+
+// Zoom via scroll wheel
+svgEl.addEventListener('wheel', e => {
+  e.preventDefault();
+  const rect  = svgEl.getBoundingClientRect();
+  const mx    = e.clientX - rect.left;
+  const my    = e.clientY - rect.top;
+  const delta = e.deltaY > 0 ? 0.88 : 1.12;
+  const newK  = Math.max(0.1, Math.min(3.5, vScale * delta));
+  const ratio = newK / vScale;
+  applyTransform(mx - ratio * (mx - vTx), my - ratio * (my - vTy), newK);
+}, { passive: false });
+
+function adjustZoom(delta) {
+  const wv  = document.getElementById('wave-view');
+  const cx  = wv.clientWidth  / 2;
+  const cy  = wv.clientHeight / 2;
+  const newK = Math.max(0.1, Math.min(3.5, vScale + delta));
+  const ratio = newK / vScale;
+  applyTransform(cx - ratio * (cx - vTx), cy - ratio * (cy - vTy), newK);
+}
+
+function resetView() {
+  const wv   = document.getElementById('wave-view');
+  const vw   = wv.clientWidth;
+  const vh   = wv.clientHeight;
+  const s    = Math.min(vw / CANVAS_W, vh / CANVAS_H) * 0.92;
+  applyTransform((vw - CANVAS_W * s) / 2, (vh - CANVAS_H * s) / 2, s);
+}
+
+/* ============================================================
+   10. LEGEND TOGGLE
+   ============================================================ */
+function toggleLegend() {
+  document.getElementById('legend').classList.toggle('hidden');
+}
+
+/* ============================================================
+   11. STATS BAR
+   ============================================================ */
+function updateStats() {
+  const c = {complete:0,'in-progress':0,available:0,blocked:0};
+  NODES.forEach(n => { if (c[n.status] !== undefined) c[n.status]++; });
+  document.getElementById('s-complete').textContent = c.complete;
+  document.getElementById('s-inprog').textContent   = c['in-progress'];
+  document.getElementById('s-avail').textContent    = c.available;
+  document.getElementById('s-blocked').textContent  = c.blocked;
+}
+
+/* ============================================================
+   12. PHASE ROADMAP VIEW
+   ============================================================ */
+const PHASES = [
+  {num:1,  name:'Project Scoping & Planning',             color:'#1d4ed8',
+   status:'✓ Complete', stColor:'#22c55e',
+   goal:'Establish the foundation before any content is written.',
+   acts:['Define target audience, grade level, and prior-knowledge assumptions',
+         'Set learning objectives at course and chapter level',
+         'Determine scope: chapters, word count, ancillary materials',
+         'Confirm standards alignment (NCLEX, QSEN, accreditation bodies)',
+         'Assemble full team and assign roles',
+         'Establish budget, timeline, and milestone schedule',
+         'Choose publishing format (print, digital, open-access, hybrid)'],
+   del:'Project brief, team roster, master timeline', dur:'4–6 weeks'},
+
+  {num:2,  name:'Curriculum Design & Structure',          color:'#4338ca',
+   status:'✓ Complete', stColor:'#22c55e',
+   goal:'Build the architectural blueprint before drafting begins.',
+   acts:['Map full chapter and section outline (45 chapters, 11 units)',
+         'Sequence learning content for scaffolding (simple → complex)',
+         'Define chapter-level objectives, key terms, and assessment types',
+         'Plan recurring pedagogical features (case studies, NCLEX questions)',
+         'Confirm outline with SMEs and curriculum consultants'],
+   del:'Full manuscript outline, chapter templates, pedagogical framework', dur:'4–8 weeks'},
+
+  {num:3,  name:'Content Development',                    color:'#b45309',
+   status:'⟳ In Progress (Ch 1 complete · Ch 4 started)', stColor:'#f59e0b',
+   goal:'Produce complete first drafts of all 45 chapters.',
+   acts:['SMEs draft assigned chapters following the approved template',
+         'Instructional designer reviews each draft for pedagogical flow',
+         'Writing team ensures consistent voice, terminology, reading level',
+         'End-of-chapter assessments drafted alongside content',
+         'Permissions manager identifies third-party content requiring licensing'],
+   del:'Complete first-draft manuscript (all 45 chapters)', dur:'3–9 months'},
+
+  {num:4,  name:'Developmental Editing',                  color:'#b45309',
+   status:'◷ Pending', stColor:'#475569',
+   goal:'Improve structure, coherence, and pedagogical effectiveness.',
+   acts:['Developmental editor reviews for logical flow and conceptual gaps',
+         'Identify redundancies, missing transitions, and cross-chapter inconsistencies',
+         'Ensure objectives, body content, and assessments are aligned',
+         'Provide chapter-by-chapter revision notes to authors',
+         'Authors revise based on editorial feedback'],
+   del:'Revised second-draft manuscript, editorial notes log', dur:'6–10 weeks'},
+
+  {num:5,  name:'Visual & Graphic Development',           color:'#9d174d',
+   status:'◷ Pending (runs concurrently with Phases 4–6)', stColor:'#475569',
+   goal:'Produce all figures, diagrams, tables, and supporting visuals.',
+   acts:['Illustrator creates original figures and diagrams',
+         'Photo researcher sources and clears rights for photographs',
+         'Accessibility specialist reviews all visuals for alt-text and colour contrast',
+         'Figures cross-referenced and captioned in manuscript'],
+   del:'Final visual asset library with cleared permissions', dur:'Concurrent with Phases 4–6'},
+
+  {num:6,  name:'Assessment Development',                 color:'#7c3aed',
+   status:'◷ Pending (runs concurrently with Phases 3–4)', stColor:'#475569',
+   goal:'Build a complete, aligned assessment suite.',
+   acts:['Assessment specialist writes/refines all NCLEX-style review questions',
+         "Verify each item maps to a specific learning objective (Bloom's taxonomy)",
+
+         'Develop answer keys, rubrics, and instructor notes',
+         'Draft test bank and supplementary assessment materials',
+         'Align NCLEX items with NGN (Next Generation NCLEX) format'],
+   del:'Assessment suite with answer keys, rubrics, and test bank', dur:'Concurrent with Phases 3–4'},
+
+  {num:7,  name:'Copy Editing & Proofreading',            color:'#0369a1',
+   status:'◷ Pending', stColor:'#475569',
+   goal:'Ensure linguistic accuracy, consistency, and style compliance.',
+   acts:['Copy editor reviews grammar, punctuation, APA 7th edition adherence',
+         'Verify cross-references, footnotes, citations, and captions',
+         'Sensitivity reader reviews for bias, cultural accuracy, and inclusivity',
+         'Authors review and approve all copy edits'],
+   del:'Clean, copy-edited manuscript ready for layout', dur:'4–6 weeks'},
+
+  {num:8,  name:'Design & Layout',                        color:'#15803d',
+   status:'◷ Pending', stColor:'#475569',
+   goal:'Produce a fully typeset, print- and screen-ready manuscript.',
+   acts:['Graphic designer typesets manuscript in InDesign or equivalent',
+         'All figures, tables, and images placed and sized correctly',
+         'Running heads, page numbers, and front/back matter formatted',
+         'Digital developer builds companion formats (ePub, LMS packages, interactive content)'],
+   del:'Designed page proofs (PDF and/or digital formats)', dur:'6–10 weeks'},
+
+  {num:9,  name:'Peer Review & Student Testing',          color:'#d97706',
+   status:'◷ Pending', stColor:'#475569',
+   goal:'Validate academic accuracy and pedagogical effectiveness.',
+   acts:['Recruit 2–4 external SMEs per chapter for blind review',
+         'Distribute structured rubric (accuracy, scope, depth, currency)',
+         'Consolidate reviewer feedback and resolve conflicting recommendations',
+         'Recruit representative student sample for think-aloud sessions',
+         'Track where students struggle, disengage, or misunderstand',
+         'Authors revise based on peer-review and student-testing findings'],
+   del:'Peer review reports, student testing summary, final revised manuscript', dur:'6–10 weeks'},
+
+  {num:10, name:'Final Proofreading & Quality Assurance', color:'#be185d',
+   status:'◷ Pending', stColor:'#475569',
+   goal:'Catch any remaining errors before the file goes to production.',
+   acts:['Proofreader conducts final pass on fully designed page proofs',
+         'Production manager verifies all figures, captions, page numbers, cross-references',
+         'Accessibility specialist confirms WCAG 2.1 / Section 508 compliance',
+         'Legal/rights manager confirms all permissions are cleared and documented'],
+   del:'Press-ready or publication-ready files', dur:'2–4 weeks'},
+
+  {num:11, name:'Production & Publication',               color:'#9333ea',
+   status:'◷ Pending', stColor:'#475569',
+   goal:'Deliver the finished product to its intended audience.',
+   acts:['Submit files to printer or digital publisher',
+         'Review printer proofs (for print edition)',
+         'Publish digital formats to LMS, e-reader stores, open-access repositories',
+         'Distribute review copies to instructors and stakeholders'],
+   del:'Published textbook (print and/or digital)', dur:'4–8 weeks'},
+
+  {num:12, name:'Post-Publication Review & Iteration',    color:'#334155',
+   status:'◷ Pending', stColor:'#475569',
+   goal:'Gather real-world feedback to inform future editions.',
+   acts:['Collect instructor and student feedback through surveys and adoptions data',
+         'Monitor for content errors, outdated information, or coverage gaps',
+         'Track errata and issue corrections as needed',
+         'Begin planning next edition based on field feedback and standards updates'],
+   del:'Errata log, post-publication report, next-edition brief', dur:'Ongoing'},
+];
+
+function renderPhaseView() {
+  const div = document.getElementById('phase-view');
+  div.innerHTML =
+    `<h2 style="color:#f0f6fc;margin-bottom:4px;font-size:20px">Textbook Production Roadmap</h2>
+     <p style="color:#8b949e;font-size:13px;margin-bottom:20px">
+       12-phase workflow · Estimated total: 18–36 months
+     </p>`;
+  PHASES.forEach(p => {
+    const acts = p.acts.map(a => `<li>${escHtml(a)}</li>`).join('');
+    div.innerHTML += `
+      <div class="phase-card" style="border-left-color:${p.color}">
+        <div class="phase-num">Phase ${p.num}</div>
+        <div class="phase-title" style="color:${p.color}">${escHtml(p.name)}</div>
+        <div class="phase-goal">${escHtml(p.goal)}</div>
+        <ul class="phase-acts">${acts}</ul>
+        <div class="phase-del">📦 <b>Deliverables:</b> ${escHtml(p.del)}</div>
+        <div class="phase-footer">
+          <span>⏱ ${escHtml(p.dur)}</span>
+          <span style="color:${p.stColor};font-weight:600">${escHtml(p.status)}</span>
+        </div>
+      </div>`;
+  });
+}
+
+/* ============================================================
+   13. VIEW SWITCHING
+   ============================================================ */
+function switchView(view) {
+  const waveEl  = document.getElementById('wave-view');
+  const phaseEl = document.getElementById('phase-view');
+  const tWave   = document.getElementById('tab-wave');
+  const tPhase  = document.getElementById('tab-phase');
+  if (view === 'wave') {
+    waveEl.style.display = '';
+    phaseEl.classList.remove('active');
+    tWave.classList.add('active');
+    tPhase.classList.remove('active');
+  } else {
+    waveEl.style.display = 'none';
+    phaseEl.classList.add('active');
+    tWave.classList.remove('active');
+    tPhase.classList.add('active');
+  }
+}
+
+/* ============================================================
+   14. INITIALISE
+   ============================================================ */
+updateStats();
+renderPhaseView();
+// Auto-fit on load – wait for layout to stabilise
+window.addEventListener('load', () => setTimeout(resetView, 50));
+</script>
+</body>
+</html>
