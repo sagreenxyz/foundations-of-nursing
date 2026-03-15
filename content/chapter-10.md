@@ -496,3 +496,160 @@ The American Nurses Association (ANA) Code of Ethics identifies non-discriminati
 
 [FIGURE 10.7 — Social-ecological model of health disparity, depicting individual, interpersonal, community, and societal levels of influence on health inequity, with specific disparity-driving factors labeled at each level. Alt text: Nested concentric circles representing the social-ecological model of health. The innermost circle is labeled "Individual" with factors including genetics, health behaviors, and health literacy. The next circle is "Interpersonal" with social support and lay referral. The third circle is "Community" with neighborhood safety, food environment, and healthcare access. The outermost circle is "Societal" with policies, structural racism, and economic inequality. Arrows from the outermost circle point inward, indicating that structural forces shape individual health outcomes.]
 
+
+---
+
+## Case Study: "Not Sick Enough"
+
+### Background
+
+Darnell is a 47-year-old Black man who works as a warehouse supervisor in an urban area. He lives with his wife and two teenage children in a neighborhood that was designated a "medically underserved area" in the last federal health resource assessment. The nearest primary care clinic is 12 miles away and requires a bus connection; the nearest emergency department is 2 miles away. Darnell has not had a routine physical exam in eight years. He does not have a primary care provider. He carries a high-deductible health insurance plan through his employer.
+
+For the past 18 months, Darnell has noticed increasing fatigue, a persistent thirst, and frequent urination, particularly at night. He mentioned these symptoms to a coworker, who said, "That sounds like diabetes — but you're not that heavy, so it's probably nothing. My uncle had those same symptoms for years before anything serious happened." Darnell has not sought care. He says, "I'm not sick enough to miss work or pay that deductible."
+
+Darnell presents today to a community health fair where a nurse, Tomás, conducts a free health screening. Tomás measures Darnell's fasting glucose at 248 mg/dL, his blood pressure at 152/96 mmHg, and his HbA1c — drawn with a point-of-care analyzer — at 9.4%. Darnell listens to the results, then says, "So I have diabetes? But I feel fine, mostly. I can still do my job. I don't feel sick."
+
+### Scene 1: First Contact
+
+Tomás sits with Darnell in a private space at the health fair and says: "Mr. Darnell, those numbers are telling us that your body has been working very hard for a long time. Diabetes doesn't always feel dramatic at first — but it does serious damage over time if it goes untreated. What you're experiencing with the thirst and urination, those are your body's signals. I'd like to help you understand what's happening and connect you with care. Can I ask — what's been getting in the way of seeing a doctor?"
+
+Darnell responds that the deductible is $3,000, he can't miss work, and he doesn't "trust doctors" after an experience eight years ago in which a physician dismissed his back pain as stress without examining him.
+
+### Scene 2: Illness Behavior and Lay Referral
+
+Tomás asks about Darnell's family history. Darnell's father died of a stroke at age 62; his maternal grandmother had "sugar diabetes" and lost a foot to amputation. Darnell had always attributed his family's health history to "just how it is for us" — a belief reinforced by neighbors, his church community, and coworkers who share similar experiences of untreated chronic disease.
+
+Tomás explains the Healthy People framework: that the conditions in Darnell's neighborhood — the limited healthcare access, the food environment (two fast-food restaurants within a quarter mile; no full-service grocery store), the occupational stress — are not personal failures but structural conditions that increase health risk across entire communities. He validates Darnell's prior experience with dismissive care and explains what a patient-centered primary care encounter should look like.
+
+### Scene 3: Connecting to Care and SDOH Navigation
+
+Tomás completes the PRAPARE SDOH screening. Results identify: food insecurity (2 days/week without adequate food due to cost), transportation barrier (no personal vehicle; bus route unreliable), financial barrier ($3,000 deductible), and reported low trust in the healthcare system. Tomás makes three referrals: to a federally qualified health center (FQHC) with a sliding-scale fee structure, to a community health worker program that provides transportation assistance, and to a food bank with a dedicated "produce prescription" program for patients with diabetes.
+
+Before Darnell leaves, Tomás uses teach-back: "I want to make sure I explained things clearly. Can you tell me in your own words what your HbA1c number means and what we're trying to do next?" Darnell is able to describe his diagnosis and the three referral steps accurately. Tomás provides a printed summary with his contact information and a follow-up date.
+
+### Discussion Questions
+
+1. **Using the health-illness continuum model**, describe where Darnell was positioned before his screening and where he is now. What factors contributed to his long period in the neutral zone without diagnosis?
+
+2. **Apply Parsons's sick role theory** to Darnell's statement, "I don't feel sick." What rights and obligations does the sick role confer, and why did Darnell's lay referral system discourage sick-role entry?
+
+3. **Identify at least four SDOH** present in Darnell's case and classify each according to the Healthy People 2030 domain framework (economic stability, education, healthcare access, neighborhood/built environment, social/community context). For each, describe a specific nursing or community action that addresses it.
+
+4. **Evaluate Tomás's nursing approach** using the concepts of illness behavior, patient activation, and teach-back. What did Tomás do well, and what additional nursing actions might further support Darnell's engagement with care?
+
+---
+
+## NCLEX-Style Review Questions
+
+**1.** A nurse is using the Dunn wellness grid to assess a patient who has well-controlled type 2 diabetes, lives in a supportive household, earns a stable income, and participates in a community exercise program. According to the wellness grid, this patient would best be described as:
+
+A. High-level wellness in a favorable environment  
+B. Protected poor health in a favorable environment  
+C. Emergent high-level wellness in an unfavorable environment  
+D. Poor health in an unfavorable environment  
+
+---
+
+**2.** A patient is newly diagnosed with hypertension. She reports that she did not seek care for months because she "felt fine" and her family told her elevated blood pressure was just "family stress." This patient's delayed care-seeking is best explained by which concept?
+
+A. Tertiary prevention failure  
+B. Illness behavior and lay referral system influence  
+C. The sick role exemption from normal responsibilities  
+D. Biopsychosocial model deficit assessment  
+
+---
+
+**3.** A nurse is planning community health education for a low-income urban population with high rates of childhood obesity. Which of the following nursing interventions represents PRIMARY prevention?
+
+A. Referring overweight children to a pediatric dietitian  
+B. Screening first-graders for elevated BMI and blood pressure  
+C. Providing nutrition and physical activity education in kindergarten classrooms  
+D. Monitoring HbA1c quarterly in children with prediabetes  
+
+---
+
+**4.** A 68-year-old man with COPD is hospitalized for an acute exacerbation. He tells his nurse, "I keep ending up back here because I can't afford my inhalers." Which determinant of health is most directly responsible for this patient's readmission pattern?
+
+A. Biological determinant — genetic predisposition to lung disease  
+B. Behavioral determinant — inadequate respiratory self-management  
+C. Social determinant — economic barriers to medication access  
+D. Environmental determinant — poor air quality in the patient's neighborhood  
+
+---
+
+**5.** When comparing acute illness to chronic illness, which of the following nursing priorities is MOST specific to chronic illness management?
+
+A. Rapid physiological assessment and monitoring  
+B. Safe administration of prescribed medications  
+C. Supporting the patient's self-management knowledge and skills  
+D. Preventing infection through strict aseptic technique  
+
+---
+
+**6.** A nurse is reviewing the Healthy People 2030 framework with a student nurse. The student asks, "Why does where I live affect my health?" Which of the following is the most accurate response?
+
+A. "Your neighborhood determines your genetic makeup, which drives disease risk."  
+B. "The neighborhood and built environment domain influences access to nutritious food, safe spaces for exercise, and exposure to environmental hazards."  
+C. "Geographic location determines your access to tertiary prevention services only."  
+D. "Living in a rural area is the strongest predictor of poor health outcomes."  
+
+---
+
+**7.** A nurse is caring for a patient with chronic kidney disease (CKD) who requires hemodialysis three times per week. The nurse provides teaching about dietary restrictions and fluid management. This intervention is an example of:
+
+A. Primary prevention  
+B. Secondary prevention  
+C. Tertiary prevention  
+D. Health promotion  
+
+---
+
+**8.** According to Parsons's sick role theory, which patient behavior represents FULFILLMENT of a sick-role obligation?
+
+A. A patient declines physical therapy because she does not believe it will help her  
+B. A patient with a new fracture resumes full work duties two days after injury  
+C. A patient with pneumonia follows the prescribed antibiotic regimen and keeps all follow-up appointments  
+D. A patient delays seeking care for chest pain for three days to avoid healthcare costs  
+
+---
+
+**9.** A nurse is conducting SDOH screening using the PRAPARE tool. A patient discloses that she does not always have enough food and frequently skips meals to ensure her children eat. Which of the following nursing actions is MOST appropriate?
+
+A. Document the finding in the chart and continue the assessment  
+B. Provide written educational materials about healthy eating on a budget  
+C. Refer the patient to a community health worker and food bank program  
+D. Instruct the patient to apply for Medicaid to cover food costs  
+
+---
+
+**10.** A nurse hears a colleague say, "I don't understand why Black patients in this unit have such worse surgical outcomes than White patients — we treat everyone the same." Which of the following responses by the nurse reflects an understanding of health disparities?
+
+A. "You're right — if we're following the same protocols, the outcomes should be the same."  
+B. "It's probably because of genetic differences in how different groups respond to surgery."  
+C. "Health disparities arise from differential exposure to adverse SDOH and structural inequities that aren't visible at the bedside but still shape outcomes."  
+D. "Patients choose their health behaviors, and different groups make different choices."  
+
+---
+
+## Answer Key
+
+**1. A** — Dunn's wellness grid maps health status on one axis and environment on the other. A patient with well-controlled chronic disease in a supportive, resource-rich environment occupies the high-level wellness/favorable environment quadrant, not the "poor health" quadrant, because their disease is managed and their environmental context supports optimal functioning.
+
+**2. B** — The patient's delayed care-seeking despite symptoms is a function of illness behavior (personal perception of symptoms as tolerable) and the lay referral system (family normalizing the symptom as "stress"). Neither tertiary prevention failure nor the sick role exemption accounts for pre-diagnosis behavior.
+
+**3. C** — Primary prevention targets healthy individuals *before* disease onset. Classroom nutrition and physical activity education aims to prevent obesity from developing. Choices A and D address patients who already have a weight or metabolic problem (tertiary); Choice B is secondary prevention (screening).
+
+**4. C** — While biological and behavioral factors contribute to COPD, the *specific* driver of readmission identified in the vignette is inability to afford inhalers — an economic barrier, which is a social determinant of health in the economic stability domain.
+
+**5. C** — Rapid assessment and monitoring, safe medication administration, and aseptic technique are priorities in acute care across illness types. Self-management support — building patient knowledge, skills, and confidence for ongoing disease management — is the defining nursing priority specific to chronic illness.
+
+**6. B** — The neighborhood and built environment domain encompasses food access, recreational infrastructure, environmental hazards, and housing quality. Answer A is incorrect (neighborhoods don't determine genetics); C incorrectly limits geographic influence to tertiary services; D overstates rural-only risk.
+
+**7. C** — Tertiary prevention aims to minimize disability and prevent complications in patients with *established disease*. CKD on dialysis is an established, irreversible condition; dietary and fluid management prevent complications (fluid overload, hyperkalemia). This is not health promotion (no disease state), not primary (disease already exists), and not secondary (disease is not early-stage).
+
+**8. C** — Parsons identifies two obligations: want to recover and cooperate with treatment. Following the antibiotic regimen and keeping follow-up appointments directly fulfills the obligation to cooperate with competent medical care. Choices A, B, and D represent non-compliance with sick-role obligations.
+
+**9. C** — Identifying food insecurity through SDOH screening obligates the nurse to connect the patient with resources, not merely document the finding or provide educational materials without action. Social work referral and community resource navigation are the evidence-based responses. Medicaid does not cover food costs.
+
+**10. C** — The statement accurately names the evidence-based explanation for racial health disparities: differential SDOH exposure and structural inequities. Choices A, B, and D reflect color-blind reasoning, genetic determinism, and individual victim-blaming, respectively — none of which is supported by the scientific evidence on health disparities.
+

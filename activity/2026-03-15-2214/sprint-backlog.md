@@ -62,8 +62,8 @@
 
 | Task | Status | Content |
 |------|--------|---------|
-| Case Study (3-scene, 4 discussion questions) | [ ] | `content/chapter-10.md` |
-| NCLEX-Style Review Questions (10 items with answer key) | [ ] | `content/chapter-10.md` |
+| Case Study (3-scene, 4 discussion questions) | [x] | `content/chapter-10.md` |
+| NCLEX-Style Review Questions (10 items with answer key) | [x] | `content/chapter-10.md` |
 
 ---
 
