@@ -55,9 +55,9 @@
 
 | Task | Status | File |
 |------|--------|------|
-| Section 1.4 — War, Public Health, Social Movements | [ ] | `content/chapter-01.md` |
-| Section 1.5 — Contemporary Nursing | [ ] | `content/chapter-01.md` |
-| Section 1.6 — Nursing Theory and Conceptual Models | [ ] | `content/chapter-01.md` |
+| Section 1.4 — War, Public Health, Social Movements | [x] | `content/chapter-01.md` |
+| Section 1.5 — Contemporary Nursing | [x] | `content/chapter-01.md` |
+| Section 1.6 — Nursing Theory and Conceptual Models | [x] | `content/chapter-01.md` |
 
 ---
 
