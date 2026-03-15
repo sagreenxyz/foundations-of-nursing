@@ -110,15 +110,15 @@
 | Task | Status |
 |------|--------|
 | Outline review | [x] (see `activity/2026-03-15-2030/chapter-04-outline.md`) |
-| Chapter draft | [ ] |
-| Key terms | [ ] |
-| Case study | [ ] |
-| NCLEX questions | [ ] |
-| Summary | [ ] |
-| References | [ ] |
+| Chapter draft | [x] (see `content/chapter-04.md` — Sprint 2026-03-15-2140) |
+| Key terms | [x] (embedded in `content/chapter-04.md`) |
+| Case study | [x] (embedded in `content/chapter-04.md`) |
+| NCLEX questions | [x] (embedded in `content/chapter-04.md`) |
+| Summary | [x] (embedded in `content/chapter-04.md`) |
+| References | [x] (embedded in `content/chapter-04.md`) |
 | Developmental edit | [ ] |
 | Copy edit / proofread | [ ] |
-| HTML formatting | [ ] |
+| HTML formatting | [x] (rendered via `docs/` web app — Sprint 2026-03-15-2140) |
 
 ---
 

@@ -38,7 +38,6 @@ const md = (() => {
 
   function parseTable(lines) {
     // lines[0] = header row, lines[1] = separator, lines[2+] = data rows
-    const cells = row => row.split('|').map(c => c.trim()).filter((_, i, a) => !(i === 0 && c => c === '') && true);
     const headerCells = lines[0].split('|').map(c => c.trim()).filter(c => c !== '');
     const dataRows = lines.slice(2).map(l => l.split('|').map(c => c.trim()).filter(c => c !== ''));
 
@@ -295,8 +294,8 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  // Determine initial chapter from URL hash or default to chapter-04 (first available)
+  // Determine initial chapter from URL hash, or default to home page
   const hash = window.location.hash.replace('#', '');
-  const initial = hash || 'chapter-04';
+  const initial = hash || 'home';
   navigate(initial);
 });
