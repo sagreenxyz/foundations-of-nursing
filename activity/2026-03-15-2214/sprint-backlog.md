@@ -53,11 +53,11 @@
 
 | Task | Status | Content |
 |------|--------|---------|
-| Section 2.5 — Mandatory Reporting Obligations (~4 pp) | [ ] | `content/chapter-02.md` |
-| Section 2.6 — Professional Boundaries and Social Media Conduct (~4 pp) | [ ] | `content/chapter-02.md` |
-| Section 2.7 — Licensure, Certification, and Continuing Education (~4 pp) | [ ] | `content/chapter-02.md` |
-| Section 2.8 — Bioethical Principles (~5 pp) | [ ] | `content/chapter-02.md` |
-| Section 2.9 — The ANA Code of Ethics for Nurses (~4 pp) | [ ] | `content/chapter-02.md` |
+| Section 2.5 — Mandatory Reporting Obligations (~4 pp) | [x] | `content/chapter-02.md` |
+| Section 2.6 — Professional Boundaries and Social Media Conduct (~4 pp) | [x] | `content/chapter-02.md` |
+| Section 2.7 — Licensure, Certification, and Continuing Education (~4 pp) | [x] | `content/chapter-02.md` |
+| Section 2.8 — Bioethical Principles (~5 pp) | [x] | `content/chapter-02.md` |
+| Section 2.9 — The ANA Code of Ethics for Nurses (~4 pp) | [x] | `content/chapter-02.md` |
 
 ---
 

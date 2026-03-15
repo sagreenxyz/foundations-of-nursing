@@ -312,4 +312,294 @@ The electronic health record (EHR) has transformed patient care documentation, e
 
 ---
 
-*End of Part A — content/chapter-02.md continues in Part B (Sections 2.5–2.9)*
+---
+
+## Section 2.5 — Mandatory Reporting Obligations
+
+### 2.5.1 Rationale for Mandatory Reporting
+
+**Mandatory reporting** is the legal obligation, imposed on specified individuals by state or federal law, to report certain events or conditions to a designated authority without the consent of the individual involved. For nurses, mandatory reporting laws create a legally enforceable duty that may override the general obligation of patient confidentiality. The underlying rationale is a public health and safety imperative: certain harms — child abuse, elder mistreatment, communicable diseases, sentinel events — cannot be effectively addressed if they remain concealed within the healthcare encounter.
+
+The scope of mandatory reporting obligations varies significantly by state, and nurses are responsible for knowing the specific requirements of the state(s) in which they practice. The NCSBN and state boards of nursing publish guidance documents summarizing mandatory reporting obligations; institutional compliance departments typically provide updated summaries as well. When a nurse is uncertain whether a specific situation requires reporting, the safest course is to consult the institution's legal counsel or risk management department before acting.
+
+### 2.5.2 Categories of Mandatory Reports
+
+**Child Abuse, Neglect, and Maltreatment**
+
+Every state mandates reporting of known or reasonably suspected child abuse or neglect by healthcare providers, including nurses. Child abuse encompasses physical abuse, sexual abuse, emotional/psychological abuse, and neglect (failure to provide adequate food, shelter, clothing, medical care, or supervision). The standard for reporting is *reasonable suspicion*, not certainty — nurses are not required to investigate or confirm abuse before reporting, and they are specifically protected from civil liability for good-faith reports in all states.
+
+Reports are typically made to the state child protective services (CPS) agency and, in some states, to law enforcement as well. Most hospitals have a designated social worker or child abuse liaison who coordinates with CPS and guides the clinical team through the process. Failure to report suspected child abuse is a misdemeanor or felony in most states and may result in license discipline.
+
+**Elder Abuse and Abuse of Vulnerable Adults**
+
+All states have mandatory reporting laws addressing abuse, neglect, and exploitation of older adults (typically defined as age 60 or 65 and older) and adults with disabilities. These laws are generally modeled on child abuse reporting statutes. Reports are made to Adult Protective Services (APS) or the state long-term care ombudsman, depending on the setting. Indicators of elder abuse include unexplained bruising or fractures inconsistent with stated mechanism, evidence of malnutrition or dehydration in a cared-for individual, sudden changes in financial status, and fearful or anxious behavior in the presence of a caregiver.
+
+**Communicable and Notifiable Diseases**
+
+Every state has a list of notifiable diseases that healthcare providers must report to the state or local health department within specified timeframes. Some diseases require immediate reporting (e.g., anthrax, plague, viral hemorrhagic fever, SARS); others require report within one to seven business days (e.g., tuberculosis, hepatitis A, measles, Lyme disease). The CDC publishes the National Notifiable Diseases Surveillance System (NNDSS) list, which informs state lists. Reports are typically made by the provider ordering the diagnostic test, though nurses in public health and community settings may initiate reports directly.
+
+**Gunshot Wounds and Specific Injuries**
+
+Most states require healthcare providers to report gunshot wounds, stab wounds, and injuries resulting from violent crimes to law enforcement. The rationale is crime investigation and public safety. These laws create tension with HIPAA because they involve disclosure of PHI to law enforcement — however, HIPAA explicitly permits such disclosures when required by law.
+
+> **LEGAL SPOTLIGHT — Mandatory Reporter Case Law: What Every Nurse Must Know**  
+> In *Landeros v. Flood* (1976), the California Supreme Court held that a physician who failed to diagnose and report child abuse was liable in tort to the child for subsequent injuries inflicted by the abuser. This landmark decision established that mandatory reporters owe a duty to the intended beneficiaries of reporting statutes — the abused individuals — not merely to the state. Subsequent decisions in multiple states have extended this reasoning to nurses and other healthcare professionals. The practical implication: a nurse who suspects abuse and fails to report may face civil liability to the patient in addition to criminal and regulatory consequences.
+
+### 2.5.3 Sentinel Events and Internal Reporting
+
+**The Joint Commission Sentinel Event Policy**
+
+A **sentinel event** is an unexpected occurrence involving death, serious physical or psychological injury, or the significant risk thereof (The Joint Commission, 2023). The term "sentinel" indicates that the event signals the need for immediate investigation and response. Accredited healthcare organizations are expected to report sentinel events to The Joint Commission and to conduct a thorough root-cause analysis (RCA) to identify contributing factors and develop corrective action plans.
+
+**Incident Reports**
+
+An **incident report** (also called an event report, variance report, or occurrence report) is an internal document used to capture deviations from expected care delivery — medication errors, patient falls, equipment failures, near-misses, and any other event outside the ordinary range of clinical activity. Incident reports are quality improvement tools, not disciplinary documents; their purpose is to identify system-level factors contributing to patient safety events.
+
+In most jurisdictions, incident reports are protected from discovery in civil litigation under quality improvement and peer review statutes, though the degree of protection varies. Nurses should understand that the protection applies to the incident report itself — not to the nurse's memory or documentation in the medical record. A nurse cannot refuse to testify about what happened by claiming the incident report is confidential.
+
+**Near-Miss Reporting and Just Culture**
+
+A **near miss** is an event that could have caused harm but did not, either by chance or by timely intervention. Near-miss reporting is considered a more powerful safety improvement tool than adverse event reporting alone, because near misses are far more frequent and provide earlier warning of system vulnerabilities. Just Culture frameworks, promoted by The Joint Commission and healthcare safety experts, distinguish between human error (system improvement needed), at-risk behavior (coaching and correction needed), and reckless behavior (accountability action needed), and create psychological safety for honest reporting without fear of disproportionate punishment for good-faith errors.
+
+### 2.5.4 The Nurse's Role and Protections
+
+Nurses who make mandatory reports in good faith — that is, with a sincere belief, based on available information, that the report is warranted — are immune from civil and criminal liability in all states, even if subsequent investigation does not confirm the reported concern. This immunity does not extend to reports made with malicious intent or in bad faith.
+
+The consequences of *failing* to report when reporting is required are significant: criminal prosecution (misdemeanor or felony depending on the state and the nature of the unreported event), civil liability to the harmed individual, and license discipline including revocation. Nurses who are uncertain about their reporting obligations in a specific case should treat the uncertainty as a reason to report, not a reason to wait.
+
+---
+
+## Section 2.6 — Professional Boundaries and Social Media Conduct
+
+### 2.6.1 Defining Professional Boundaries
+
+**Professional boundaries** are the legal, ethical, and professional limits that define the nurse-patient relationship and protect both the patient and the nurse from its exploitation. The concept of professional boundaries recognizes a structural asymmetry in the nurse-patient relationship: the patient is in a vulnerable state — physically ill, emotionally stressed, dependent on the nurse's expertise and goodwill, and often in pain. The nurse holds positional power by virtue of professional role, access to the patient's most intimate information, and the ability to affect the patient's care experience. Professional boundaries are the guardrails that prevent this asymmetry from being exploited, intentionally or unintentionally.
+
+The NCSBN's professional boundaries framework (NCSBN, 2018) conceptualizes the therapeutic zone as a middle ground on a continuum:
+
+- **Under-involvement** (cold, uncaring, detached, failing to meet patient needs) at one extreme
+- **Over-involvement** (enmeshment, favoritism, exploitation, sexual misconduct) at the other extreme
+- **The therapeutic zone** in the center, characterized by empathy, professional caring, clear role definition, and patient-centered purpose
+
+Staying in the therapeutic zone requires continuous self-awareness and willingness to reflect on the motivations behind one's clinical behaviors.
+
+### 2.6.2 Recognizing Boundary Violations
+
+**Boundary crossings** are brief departures from the therapeutic zone that may be appropriate in context (e.g., a spontaneous hug in response to a patient's grief, self-disclosure of a single personal detail to establish rapport) or may be the first step toward a more serious violation. Crossings are not automatically problematic but warrant reflection.
+
+**Boundary violations** are departures from the therapeutic zone that exploit the nurse-patient relationship, harm or risk harming the patient, and are inconsistent with professional nursing practice. Examples include:
+
+- *Dual relationships:* Entering into a business, social, or intimate relationship with a patient or former patient outside the clinical context.
+- *Favoritism:* Providing preferential care to a patient based on personal attraction or connection rather than clinical need.
+- *Excessive self-disclosure:* Sharing personal problems, conflicts, or vulnerabilities with the patient in a way that reverses the caregiver/care-recipient relationship.
+- *Gift-giving and receiving:* Accepting significant gifts from patients or giving personal gifts to patients beyond token acknowledgment.
+- *Physical contact beyond clinical necessity:* Hugging, touching, or maintaining physical proximity that exceeds clinical purpose and reflects personal rather than therapeutic motivation.
+
+**Sexual misconduct** is the most serious boundary violation and includes any sexual conduct, whether verbal, written, or physical, directed at a patient. It is grounds for immediate termination and mandatory license revocation in virtually all states, and may constitute a criminal offense. The nurse's obligation in cases of suspected sexual misconduct by a colleague includes reporting to the immediate supervisor, the CNO, and in most states the state board of nursing.
+
+### 2.6.3 Social Media: A Modern Boundary Frontier
+
+Social media has created new boundary vulnerabilities that were not anticipated in traditional professional boundary frameworks. The NCSBN's *A Nurse's Guide to the Use of Social Media* (2018) identifies the following specific risks:
+
+**Patient identification through indirect disclosure:** A nurse who posts about "an interesting patient with an unusual presentation" without using the patient's name may nonetheless violate HIPAA and professional standards if sufficient contextual detail (diagnosis, date, location, demographics) allows the patient to be identified. In small communities or specialized care settings, identification may require very little information.
+
+**Friending and following patients:** Accepting a patient's social media connection request, or initiating such a connection, crosses a professional boundary regardless of intent. The therapeutic relationship requires maintaining a defined professional distance; social media connections collapse that distance.
+
+**Personal messaging with patients:** Communicating with patients through personal messaging applications (Instagram DM, Facebook Messenger, text message from a personal phone) rather than institutional communication channels creates boundary risks, documentation gaps, and privacy vulnerabilities.
+
+**Posting in the heat of the moment:** Frustration after a difficult shift, grief after a patient death, or anger at a family member's behavior may prompt impulsive posting that, while not directly identifying the patient, violates the spirit of confidentiality and the nurse's professional obligation to maintain dignity in patient-related communications.
+
+> **CASE SNAPSHOT — When a Good Intention Becomes a HIPAA Violation**  
+> A nurse posts on social media: "RIP to the young soldier I cared for tonight. Gone too soon. So proud to have served him." The post does not include a name. However, the hospital is in a small military community, a soldier died in the hospital that night, and the family recognizes the description. The family files a HIPAA complaint and an ethics grievance. The nurse faces termination and a board of nursing investigation. The lesson: the minimum necessary standard and the obligation of confidentiality survive the patient's death, and good intentions do not eliminate legal or ethical liability.
+
+### 2.6.4 Consequences of Social Media Misconduct
+
+Nurses have been terminated, disciplined, and had licenses revoked for social media conduct. In addition to HIPAA-based consequences (civil monetary penalties, criminal prosecution for willful violations), social media misconduct may expose nurses to defamation claims, invasion of privacy suits, and civil rights violations when the content targets protected classes. Institutional policies on social media are legally binding as a condition of employment, and violation of institutional policy — even for conduct that would not independently constitute a HIPAA violation — may be grounds for termination.
+
+[FIGURE 2.5 — Professional Boundary Continuum: Under-involvement → Therapeutic Zone → Over-involvement]  
+*Alt text: A horizontal continuum diagram. The left end is labeled "Under-involvement" with examples: cold, detached, uncaring, failing patient needs. The center band is labeled "Therapeutic Zone" with examples: empathic, patient-centered, role-appropriate, professionally boundaried. The right end is labeled "Over-involvement" with examples: enmeshment, favoritism, dual relationship, sexual misconduct. An arrow below the diagram is labeled "Increasing boundary violation risk" pointing right.*
+
+---
+
+## Section 2.7 — Licensure, Certification, and Continuing Education
+
+### 2.7.1 Initial Licensure: The NCLEX
+
+All candidates for RN or LPN/LVN licensure in the United States and its territories must pass the **National Council Licensure Examination (NCLEX)** — the NCLEX-RN for registered nurses and the NCLEX-PN for practical/vocational nurses. Administered by the NCSBN, the NCLEX uses **computerized adaptive testing (CAT)**, which adjusts the difficulty of subsequent items based on the candidate's performance on prior items. This means no two candidates take the exact same examination; the test terminates when the algorithm has sufficient evidence to make a reliable pass/fail decision, typically between 75 and 145 items (with a maximum of 265 for the NCLEX-PN).
+
+The **Next Generation NCLEX (NGN)**, introduced in April 2023, expanded the examination to include new item formats specifically designed to assess **clinical judgment** — the ability to recognize cues, analyze data, prioritize hypotheses, generate solutions, take action, and evaluate outcomes. The NCSBN Clinical Judgment Measurement Model (CJMM) underlies the NGN item design and is increasingly embedded in nursing education curricula. NGN item types include case studies with unfolding scenarios, bow-tie diagrams, matrix questions, trend items, and extended drag-and-drop formats.
+
+Candidates must submit an application to the state board of nursing, provide official transcripts from an approved nursing program, pass a criminal background check, pay applicable fees, and pass the NCLEX. The board issues the license upon successful completion of all requirements.
+
+### 2.7.2 License Renewal and Continuing Education
+
+Nursing licenses are not permanent: they must be renewed periodically, typically every two years, through a process established by the state board of nursing. Renewal requirements vary by state but typically include:
+
+- Payment of a renewal fee
+- Attestation to meeting continuing education (CE) requirements
+- Attestation to compliance with criminal background check or self-reporting requirements for certain convictions
+
+**Continuing education (CE)** requirements vary widely: some states require as few as 15 contact hours per renewal cycle; others require 30 or more, with specific requirements for content areas such as medication safety, infection control, cultural competency, or end-of-life care. CE must be provided by an approved provider (typically accredited by the American Nurses Credentialing Center [ANCC] or the state board of nursing).
+
+**Nursing specialty certifications** are voluntary credentials awarded by certifying bodies (ANCC, AACN, ENA, etc.) that demonstrate expertise in a defined area of practice. Common certifications include:
+
+- CCRN (Critical Care Registered Nurse, awarded by AACN)
+- CEN (Certified Emergency Nurse, awarded by the Board of Certification for Emergency Nursing)
+- ONC (Orthopaedic Certified Nurse)
+- PEDS-BC (Pediatric Nursing Certification)
+- CNOR (Certified Perioperative Nurse)
+
+Specialty certifications require meeting eligibility criteria (clinical hours, education requirements), passing an examination, and periodic recertification through CE and/or re-examination. Certification is associated with improved patient outcomes, professional recognition, and in many institutions, differential pay.
+
+### 2.7.3 The Nurse Licensure Compact
+
+The **Nurse Licensure Compact (NLC)** is a multistate agreement administered by the NCSBN that allows nurses to hold a single **multistate license** based in their primary state of residence (home state) and practice in other participating compact states (remote states) without obtaining a separate license in each state. As of 2024, 41 states and the U.S. Virgin Islands participate in the NLC.
+
+The NLC is particularly significant for:
+- **Travel nursing:** Nurses who work temporary assignments in multiple states can do so under their single compact license.
+- **Telehealth:** Nurses providing telehealth services to patients in other states practice under the laws of the state where the patient is located; the NLC simplifies the licensure requirements for such practice.
+- **Disaster response:** Compact nurses can rapidly deploy to disaster-affected states without waiting for emergency licensure.
+
+Nurses practicing under a compact license must comply with the **Nurse Practice Act and scope of practice of the state where they are practicing** — not their home state. This distinction is particularly important for nurses whose home state may have a more expansive scope of practice than the practice state.
+
+[FIGURE 2.6 — Nurse Licensure Compact: Participating States]  
+*Alt text: A map of the United States with NLC participating states shaded in one color and non-participating states in another, with a legend identifying each category. The U.S. Virgin Islands is shown in a separate inset.*
+
+### 2.7.4 Discipline and License Reinstatement
+
+State boards of nursing have the authority and obligation to discipline nurses whose conduct endangers patient safety or violates professional standards. Grounds for license discipline include:
+
+- Patient abuse, neglect, or abandonment
+- Practicing while impaired by alcohol, drugs, or a physical or mental condition
+- Fraud in the application for licensure or on clinical documentation
+- Criminal conviction, particularly for crimes involving moral turpitude or direct harm to patients
+- Practicing outside scope of practice
+- Violation of the NPA or board rules
+
+Many states offer **Peer Assistance Programs** (also called alternative-to-discipline or non-disciplinary programs) for nurses whose license issues stem from substance use disorders. These programs provide treatment, monitoring, and gradual return to practice as an alternative to formal discipline. Participation is typically voluntary, confidential, and contingent on treatment compliance and clinical monitoring. The rationale is that substance use disorders are health conditions requiring treatment, not merely moral failures requiring punishment — and that punitive approaches drive impaired nurses out of treatment and into concealment, where they continue to practice and endanger patients.
+
+> **WELLNESS SPOTLIGHT — Substance Use Disorders in Nursing: Seeking Help Early**  
+> Nursing is among the professions with the highest rates of substance use disorder, driven by job stress, access to controlled substances, and cultural norms that stigmatize help-seeking. The American Nurses Association and the NCSBN both emphasize that early self-referral to a peer assistance program is the single most important predictor of successful recovery and license retention. Nurses who self-refer before a patient safety event or a board complaint have a substantially better outcome than those who are referred by others following an incident. If you or a colleague are struggling, contact your state's peer assistance program — the listing is available through NCSBN at ncsbn.org.
+
+---
+
+## Section 2.8 — Bioethical Principles: Autonomy, Beneficence, Non-maleficence, Justice
+
+### 2.8.1 The Principlist Framework
+
+The dominant framework in contemporary biomedical ethics is the **principlist approach**, developed by philosophers Tom Beauchamp and James Childress in their seminal text *Principles of Biomedical Ethics*, first published in 1979 and now in its eighth edition (Beauchamp & Childress, 2019). Beauchamp and Childress proposed four mid-level principles — **autonomy, beneficence, non-maleficence, and justice** — as a practical, pluralistic framework for analyzing and resolving moral problems in healthcare. These principles are "mid-level" in that they are neither as abstract as ultimate philosophical theories (consequentialism, deontology, virtue ethics) nor as particular as specific rules; they occupy a level of generality that makes them broadly applicable across clinical situations.
+
+The principlist framework emerged from the broader context of research ethics, particularly the **Belmont Report** (National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research, 1979), which articulated three foundational principles for the ethical conduct of research involving human subjects: respect for persons (roughly corresponding to autonomy), beneficence (including non-maleficence), and justice. While the Belmont Report addressed research, its principles were quickly recognized as applicable to clinical practice as well, and Beauchamp and Childress refined and expanded them in the clinical context.
+
+For nurses, the principlist framework provides a structured vocabulary for ethical reflection and a systematic approach to dilemmas that do not resolve through clinical knowledge alone.
+
+### 2.8.2 Autonomy
+
+**Autonomy** — from the Greek *autos* (self) and *nomos* (law or governance) — refers to the right of individuals to make their own decisions about matters within their own life and body, free from coercion. In healthcare, the principle of respect for autonomy has two dimensions: (1) the negative duty to refrain from interfering with autonomous choices, and (2) the positive duty to support autonomous decision-making by ensuring the patient has the information and the cognitive and emotional capacity to choose.
+
+The most direct clinical expression of the principle of autonomy is **informed consent**: the requirement that patients receive adequate information about their condition, the proposed treatment, alternative treatments, the risks and benefits of each, and the consequences of no treatment — and then freely choose whether to consent or decline. Informed consent is addressed in detail in Chapter 3; here, the focus is on the nurse's role in supporting autonomous decision-making.
+
+Nurses play a critical role in evaluating **decision-making capacity** (often used interchangeably with *competence*, though strictly speaking competence is a legal determination made by a court, while capacity is a clinical assessment). The elements of decision-making capacity include:
+
+- The ability to receive and understand relevant information
+- The ability to appreciate how that information applies to one's own situation
+- The ability to reason and weigh options
+- The ability to communicate a consistent choice
+
+Capacity is task-specific and time-variable: a patient may lack capacity to make decisions about a complex surgical procedure while retaining capacity to decide what to eat for lunch. Delirium, dementia, acute psychosis, and severe pain or anxiety may temporarily impair capacity; sedation and substance intoxication almost always do.
+
+When a patient with capacity declines a recommended treatment, the nurse's ethical obligation is to ensure that the refusal is truly informed, to document the patient's understanding, to communicate the refusal to the healthcare team, and — critically — to *respect the decision*. The nurse may (and should) ensure that the patient has had adequate opportunity to ask questions and receive information, but may not coerce, manipulate, or override the patient's decision. **Paternalism** — acting contrary to the patient's wishes on the grounds that the provider "knows better" — violates the principle of autonomy and is ethically and legally prohibited in competent patients.
+
+### 2.8.3 Beneficence
+
+**Beneficence** is the principle that healthcare providers are obligated to act in the patient's best interest — to provide competent, evidence-based care aimed at promoting health, preventing harm, and treating illness. Beneficence is not merely well-intentioned behavior; it requires skill, knowledge, and the professional judgment to distinguish actions that genuinely benefit the patient from those that merely appear to do so.
+
+The clinical challenge of beneficence is that what is "best" for the patient is not always obvious, and the nurse's view of the patient's best interest may differ from the patient's own view. This tension — sometimes called the **paternalism paradox** — arises most acutely when a nurse believes a patient's autonomous choice is contrary to the patient's clinical interest. Nursing ethics generally resolves this tension in favor of autonomy for competent adults: the nurse's obligation of beneficence does not authorize overriding the patient's self-determination, but it does authorize — and require — ensuring that the patient's decision is truly informed and freely made.
+
+Beneficence also encompasses the obligation to maintain professional competence. A nurse who practices without adequate training, who fails to keep up with evidence-based standards, or who fails to seek help when encountering clinical situations beyond their competence is failing the principle of beneficence, even if their intentions are good.
+
+### 2.8.4 Non-maleficence
+
+**Non-maleficence** — the obligation to "do no harm" — is often considered the most fundamental of the four principles, reflected in the ancient medical maxim *primum non nocere* (first, do no harm). In practice, however, the principle is more complex than the maxim suggests, because virtually all medical and nursing interventions carry some risk of harm: medications have side effects, procedures carry complications, and the environment of care introduces risks.
+
+Non-maleficence in clinical practice requires:
+
+- **Risk-benefit analysis:** Before performing an intervention, the expected benefit must outweigh the potential harm. The more serious the potential harm, the more substantial the expected benefit must be.
+- **The principle of double effect:** When a beneficial action has a harmful side effect, the action may be ethically permissible if: (1) the action itself is not inherently wrong; (2) the harmful effect is foreseen but not intended; (3) the harmful effect is not the means by which the benefit is achieved; and (4) the benefit outweighs the harm. The classic example is the administration of high-dose opioids for pain relief at end of life, where respiratory depression may be a foreseen but unintended side effect.
+- **Proportionality:** The scale of intervention should be proportional to the clinical situation. Aggressive interventions that impose significant burden with minimal expected benefit — for example, CPR in a patient with widely metastatic cancer and multi-system organ failure — may violate non-maleficence even if they are technically within the nurse's scope.
+- **Safe practice:** Non-maleficence requires adherence to infection control standards, medication safety protocols, fall prevention measures, and all other evidence-based safety practices. Failing to perform hand hygiene between patients violates non-maleficence, regardless of intent.
+
+### 2.8.5 Justice
+
+**Justice**, in bioethics, encompasses multiple related concepts: *distributive justice* (the fair allocation of benefits and burdens), *formal justice* (treating like cases alike), and *social justice* (fair distribution of benefits and burdens across society and institutions). In healthcare, justice questions arise most acutely in contexts of scarce resources, competing patient needs, and systemic inequities.
+
+**Distributive justice** in clinical practice includes questions of how nurses allocate their time and attention across multiple patients — a patient with higher acuity has a stronger claim on nursing time, but all patients have a claim on basic attentive care. At the institutional level, distributive justice informs staffing ratios, triage protocols, and criteria for ICU admission.
+
+**Healthcare disparities** — documented, systematic differences in the quality of healthcare received by different population groups that are not justified by differences in health status or patient preferences — represent a justice failure at the structural level. Nursing practice intersects with justice at every encounter: in pain assessment and management (where racial disparities are well-documented), in communication and education (where health literacy gaps may not be adequately addressed), and in discharge planning (where access to resources is often inequitably distributed). Section 2.13 addresses social justice and health equity in depth.
+
+[FIGURE 2.7 — The Four Bioethical Principles: A Conceptual Map]  
+*Alt text: A diagram showing four boxes arranged in a two-by-two grid. Upper left: Autonomy — "Respect for the patient's right to self-determination." Upper right: Beneficence — "Obligation to act in the patient's best interest." Lower left: Non-maleficence — "Obligation to avoid causing harm." Lower right: Justice — "Fair, equitable allocation of care and resources." A central oval reads "Ethical Nursing Practice." Bidirectional arrows connect all four boxes to the central oval and to each other.*
+
+> **ETHICAL REFLECTION — Triage and Ventilator Allocation During a Pandemic: A Justice Dilemma**  
+> During the COVID-19 pandemic, many healthcare systems activated crisis standards of care that included criteria for ventilator allocation when demand exceeded supply. These criteria — typically based on short-term survival probability, organ function scores, and life-years considerations — required clinicians to make allocation decisions that prioritized some patients over others. Nurses who implemented these protocols faced profound moral distress (see Section 2.11), because the very act of allocation required departing from the individualized, beneficence-driven model of care to which they were committed. The experience made vivid that justice and beneficence can be in genuine ethical tension, and that institutional frameworks — however carefully designed — do not eliminate the moral weight of the decisions made within them.
+
+---
+
+## Section 2.9 — The ANA Code of Ethics for Nurses
+
+### 2.9.1 History and Purpose of the Code
+
+The **American Nurses Association (ANA) Code of Ethics for Nurses with Interpretive Statements** is the profession's foundational ethical document — a non-negotiable standard of conduct that applies to all nurses in all roles and settings, regardless of practice specialty, licensure level, or employment situation. Unlike the law, which sets a minimum floor of acceptable conduct, the Code articulates the aspirational values and obligations of a profession committed to the highest standards of human caring.
+
+The ANA's ethical code has evolved through multiple iterations since 1950, when the first formal Code was adopted. The most recent revision, published in 2015, reflects contemporary concerns including interprofessional collaboration, self-care and personal integrity, social justice, and the global dimensions of nursing's moral obligations. The 2015 Code is organized into nine provisions, each with interpretive statements that apply the provision to specific practice contexts.
+
+The Code functions simultaneously as a social contract (a statement of nursing's obligations to society), a professional identity document (a statement of nursing's values and commitments), and a practical decision-support tool (a resource for navigating ethical dilemmas). Every nurse is expected to know and apply the Code; it is taught in pre-licensure education, examined on the NCLEX, and referenced in board of nursing disciplinary proceedings.
+
+### 2.9.2 The Nine Provisions: A Summary
+
+**Provision 1:** "The nurse practices with compassion and respect for the inherent dignity, worth, and unique attributes of every person."  
+This provision establishes the foundational moral stance of nursing: every human being, regardless of health status, cultural background, personal history, or behavior, is entitled to respectful, compassionate care. Nurses may not allow personal values, biases, or attitudes toward a patient's lifestyle to interfere with the quality of care provided.
+
+**Provision 2:** "The nurse's primary commitment is to the patient, whether an individual, family, group, community, or population."  
+When the interests of the patient conflict with those of the institution, the nurse's team, or other parties, the patient's interests take precedence. This provision provides the ethical basis for patient advocacy and for the nurse's obligation to question orders, policies, and practices that harm patients.
+
+**Provision 3:** "The nurse promotes, advocates for, and protects the rights, health, and safety of the patient."  
+This provision addresses patient rights, informed consent, confidentiality, and the nurse's obligation to act when patient safety is threatened — including by reporting unsafe conditions, incompetent practice, or unethical conduct by colleagues.
+
+**Provision 4:** "The nurse has authority, accountability, and responsibility for nursing practice; makes decisions; and takes action consistent with the obligation to promote health and to provide optimal care."  
+Nursing accountability is personal and non-delegable: the nurse cannot shift responsibility for professional decisions to others. This provision also addresses the nurse's obligation to act within professional standards and to maintain competence.
+
+**Provision 5:** "The nurse owes the same duties to self as to others, including the responsibility to promote health and safety, preserve wholeness of character and integrity, maintain competence, and continue personal and professional growth."  
+Self-care, personal integrity, and professional development are ethical obligations, not merely personal preferences. A nurse who is burned out, impaired, or practicing without maintaining competence violates this provision — and, indirectly, Provisions 1 through 4.
+
+**Provision 6:** "The nurse, through individual and collective effort, establishes, maintains, and improves the ethical environment of the work setting and conditions of employment that are conducive to safe, quality health care."  
+The nurse has a responsibility not only to act ethically but to work toward an institutional environment that supports ethical practice — through participation in governance structures, policy development, and advocacy for adequate staffing and safe working conditions.
+
+**Provision 7:** "The nurse, in all roles and settings, advances the profession through research and scholarly inquiry, professional standards development, and the generation of both nursing and health policy."  
+Nursing's ethical obligations extend beyond direct patient care to the advancement of the profession and the science that underpins it. Every nurse, at whatever level of practice, has a responsibility to engage with evidence and to support the profession's scholarly and policy work.
+
+**Provision 8:** "The nurse collaborates with other health professionals and the public to protect human rights, promote health diplomacy, and reduce health disparities."  
+This provision explicitly situates nursing within the global health context, calling nurses to work collaboratively across disciplines and sectors to address the social and structural determinants of health.
+
+**Provision 9:** "The profession of nursing, collectively through its professional organizations, must articulate nursing values, maintain the integrity of the profession, and integrate principles of social justice into nursing and health policy."  
+The profession as a whole — not merely individual nurses — has ethical obligations, expressed through professional organizations, advocacy, and the stewardship of the profession's values across generations.
+
+[FIGURE 2.8 — ANA Code of Ethics: Nine Provisions at a Glance]  
+*Alt text: A vertical list of nine numbered boxes, each containing the provision number and a brief thematic label: 1. Dignity and Compassion; 2. Commitment to the Patient; 3. Patient Rights and Safety Advocacy; 4. Accountability and Responsibility; 5. Duties to Self; 6. Ethical Work Environment; 7. Advancing the Profession; 8. Collaboration and Human Rights; 9. Integrity of the Profession.*
+
+### 2.9.3 Applying the Code in Practice
+
+The Code is most useful not as a list of abstract obligations but as a practical resource when nurses face difficult situations. Consider a nurse who observes a colleague administering a medication without performing the required patient identification check. The applicable provisions include:
+
+- *Provision 3:* The nurse has an obligation to protect patient safety — witnessing an unsafe practice is not a private matter.
+- *Provision 6:* The nurse has a responsibility to contribute to an environment that supports safe practice — which includes addressing unsafe behaviors, initially by speaking directly with the colleague.
+- *Provision 3 (again):* If direct conversation is ineffective or the risk is immediate, escalation to the charge nurse, manager, or risk management is required.
+
+The Code does not require confrontational or punitive responses — it requires *effective* ones. A nurse who addresses a colleague's unsafe behavior constructively, documents appropriately, and escalates if necessary is fully aligned with the Code. A nurse who witnesses unsafe behavior and says nothing, out of loyalty to a colleague or aversion to conflict, is in violation of it.
+
+> **PROFESSIONAL INSIGHT — The Code of Ethics in Action: Whistleblowing and Retaliatory Protections**  
+> Whistleblowing — reporting unsafe or unethical practice to authorities outside the institution — is sometimes the only effective recourse available to a nurse whose internal escalation efforts have been exhausted. All states have laws protecting healthcare workers from retaliation for good-faith reports to regulatory agencies; the federal False Claims Act provides additional protections for nurses who report Medicare or Medicaid fraud. The ANA's *Nursing: Scope and Standards of Practice* recognizes whistleblowing as a professional obligation when internal channels have failed. Nurses who face retaliation for ethical reporting should contact their state nurses association, the ANA, or an employment attorney.
+
+---
+
+*End of Part B — content/chapter-02.md continues in Part C (Sections 2.10–2.13, assessments, closing)*
