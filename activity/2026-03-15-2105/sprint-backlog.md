@@ -43,11 +43,11 @@
 
 | Task | Status | File |
 |------|--------|------|
-| Chapter front matter (objectives, key terms) | [ ] | `content/chapter-01.md` |
-| Introduction | [ ] | `content/chapter-01.md` |
-| Section 1.1 — Ancient Healing Practices | [ ] | `content/chapter-01.md` |
-| Section 1.2 — Florence Nightingale | [ ] | `content/chapter-01.md` |
-| Section 1.3 — Education, Licensure, Organizations | [ ] | `content/chapter-01.md` |
+| Chapter front matter (objectives, key terms) | [x] | `content/chapter-01.md` |
+| Introduction | [x] | `content/chapter-01.md` |
+| Section 1.1 — Ancient Healing Practices | [x] | `content/chapter-01.md` |
+| Section 1.2 — Florence Nightingale | [x] | `content/chapter-01.md` |
+| Section 1.3 — Education, Licensure, Organizations | [x] | `content/chapter-01.md` |
 
 ---
 
