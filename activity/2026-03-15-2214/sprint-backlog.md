@@ -65,16 +65,16 @@
 
 | Task | Status | Content |
 |------|--------|---------|
-| Section 2.10 — Ethical Decision-Making Frameworks (~4 pp) | [ ] | `content/chapter-02.md` |
-| Section 2.11 — Moral Distress, Moral Resilience, and Professional Burnout (~4 pp) | [ ] | `content/chapter-02.md` |
-| Section 2.12 — Ethics Committees and Consultation Processes (~3 pp) | [ ] | `content/chapter-02.md` |
-| Section 2.13 — Social Justice and Nursing's Role in Health Equity (~4 pp) | [ ] | `content/chapter-02.md` |
-| Case Study: "The Scope Dilemma" (3-scene, 4 discussion questions) | [ ] | `content/chapter-02.md` |
-| NCLEX-Style Review Questions (10 items with answer key) | [ ] | `content/chapter-02.md` |
-| Chapter Summary | [ ] | `content/chapter-02.md` |
-| Key Takeaways (aligned to learning objectives) | [ ] | `content/chapter-02.md` |
-| References (APA 7th, ≥15 sources) | [ ] | `content/chapter-02.md` |
-| Chapter Production Notes | [ ] | `content/chapter-02.md` |
+| Section 2.10 — Ethical Decision-Making Frameworks (~4 pp) | [x] | `content/chapter-02.md` |
+| Section 2.11 — Moral Distress, Moral Resilience, and Professional Burnout (~4 pp) | [x] | `content/chapter-02.md` |
+| Section 2.12 — Ethics Committees and Consultation Processes (~3 pp) | [x] | `content/chapter-02.md` |
+| Section 2.13 — Social Justice and Nursing's Role in Health Equity (~4 pp) | [x] | `content/chapter-02.md` |
+| Case Study: "The Scope Dilemma" (3-scene, 4 discussion questions) | [x] | `content/chapter-02.md` |
+| NCLEX-Style Review Questions (10 items with answer key) | [x] | `content/chapter-02.md` |
+| Chapter Summary | [x] | `content/chapter-02.md` |
+| Key Takeaways (aligned to learning objectives) | [x] | `content/chapter-02.md` |
+| References (APA 7th, ≥15 sources) | [x] | `content/chapter-02.md` |
+| Chapter Production Notes | [x] | `content/chapter-02.md` |
 
 ---
 

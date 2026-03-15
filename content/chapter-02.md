@@ -602,4 +602,449 @@ The Code does not require confrontational or punitive responses — it requires 
 
 ---
 
-*End of Part B — content/chapter-02.md continues in Part C (Sections 2.10–2.13, assessments, closing)*
+---
+
+## Section 2.10 — Ethical Decision-Making Frameworks
+
+### 2.10.1 Why Frameworks Matter
+
+Nurses encounter ethical dilemmas with regularity — moments when competing obligations, values, or interests create genuine uncertainty about the right course of action. Ethical dilemmas differ from clinical problems in that they cannot be resolved by additional information alone; they require the deliberate weighing of values that cannot all be fully satisfied simultaneously. Without a structured approach, nurses tend to rely on intuition, which may be influenced by personal bias, emotional state, or institutional pressure rather than sound ethical reasoning.
+
+Ethical decision-making frameworks provide a systematic process for identifying the morally relevant features of a situation, clarifying the competing values at stake, generating and evaluating options, choosing and acting on a defensible course, and learning from the outcome. They do not eliminate moral uncertainty — no framework does — but they ensure that the nurse's decision reflects deliberate, principled reasoning rather than reactive improvisation.
+
+### 2.10.2 The MORAL Model
+
+The **MORAL model**, developed by nursing ethicist Cynthia Halloran and widely used in nursing education and practice, provides a five-step process for ethical decision-making (Burkhardt & Nathaniel, 2020):
+
+**M — Massage the dilemma**  
+Identify and define all morally relevant aspects of the situation. Who are the stakeholders? What values and interests are in conflict? What are the relevant facts, and what remains uncertain? What are the applicable laws, professional standards, and institutional policies? This step is about achieving clarity — ensuring that the nurse understands the situation fully before attempting to resolve it.
+
+**O — Outline the options**  
+Generate all possible courses of action, including options that may initially seem impractical or uncomfortable. Ethical dilemmas often appear to offer only two choices when a more careful analysis reveals additional possibilities. At this stage, options are generated without evaluation.
+
+**R — Review the criteria and resolve**  
+Evaluate each option against the relevant ethical criteria: the four bioethical principles (autonomy, beneficence, non-maleficence, justice), the ANA Code of Ethics, applicable legal standards, and the nurse's own professional values. Identify the option that best satisfies the most criteria, recognizing that no option may satisfy all.
+
+**A — Affirm the position and act**  
+Commit to the chosen course of action and implement it. This step requires moral courage — the willingness to act on an ethical judgment even when doing so is professionally or personally uncomfortable. Document the decision-making process and the rationale.
+
+**L — Look back and evaluate**  
+Reflect on the outcome. Did the chosen action produce the intended result? Were there unanticipated consequences? What was learned that can inform future ethical decision-making? This retrospective evaluation supports the development of ethical expertise over time.
+
+### 2.10.3 The Four-Box Method
+
+The **four-box method**, developed by clinical ethicists Albert Jonsen, Mark Siegler, and William Winslade (2015), organizes the morally relevant features of a case into four categories that correspond to the major sources of ethical guidance in clinical medicine:
+
+| Box | Category | Key Questions |
+|-----|----------|---------------|
+| 1 | **Medical Indications** | What is the diagnosis? What are the treatment goals? What are the probabilities of benefit and harm? What happens if no treatment is given? |
+| 2 | **Patient Preferences** | Does the patient have decision-making capacity? What has the patient expressed about their wishes? Is there an advance directive? Who is the surrogate if the patient lacks capacity? |
+| 3 | **Quality of Life** | What is the patient's current quality of life? What is the anticipated quality of life with and without treatment? Are there factors that bias the provider's assessment of the patient's quality of life? |
+| 4 | **Contextual Features** | Are there family, institutional, financial, legal, or social factors that affect the decision? Are there conflicts of interest? Are there resource constraints? Are there legal obligations that bear on the situation? |
+
+The four-box method is widely used in clinical ethics consultations and is particularly useful for complex cases involving end-of-life decisions, resource allocation, or conflicting stakeholder interests.
+
+### 2.10.4 Applying Frameworks to Clinical Scenarios
+
+**Clinical example:** Mrs. Delgado is a 67-year-old Jehovah's Witness with decision-making capacity who has been admitted following major abdominal surgery. She is losing blood rapidly from a surgical complication and will likely die without a blood transfusion. She has signed an advance directive refusing blood products on religious grounds and verbally reaffirms this refusal when asked.
+
+Applying the MORAL model:
+
+- *M (Massage):* The dilemma pits the nurse's beneficence obligation (preventing death) against Mrs. Delgado's autonomy (the right to refuse treatment based on deeply held religious conviction). Legal and professional standards in the United States protect the right of competent adults to refuse treatment.
+- *O (Outline options):* (1) Administer blood products against her will; (2) Honor the refusal, provide comfort-focused care, and document; (3) Request an ethics consultation; (4) Explore whether non-blood volume expanders and surgical re-exploration are acceptable alternatives.
+- *R (Review and resolve):* Option 1 violates autonomy and is illegal without a court order. Option 3 may be pursued in parallel with option 2. Option 4 should be explored urgently. The ethically defensible primary course is to honor the refusal while aggressively pursuing acceptable alternatives.
+- *A (Affirm and act):* The nurse documents Mrs. Delgado's capacity, her refusal, and the team's response. She advocates for non-blood alternatives and notifies the ethics committee.
+- *L (Look back):* After the event, the team reviews the case to identify what worked and what could be improved for future similar situations.
+
+> **CRITICAL THINKING — Using the Four-Box Method: A Ventilator Withdrawal Scenario**  
+> Mr. Chen, 82, is on mechanical ventilation following a massive stroke. His daughter insists on "everything being done"; his son reports that his father had previously expressed that he would never want to live on machines. Mr. Chen has no documented advance directive. Apply the four-box method. Box 1: The medical indication for continued ventilation is uncertain — neurological recovery is unlikely given the severity of the stroke. Box 2: Patient preferences are disputed and undocumented; a surrogate decision-maker must be identified and the standard is substituted judgment (what would this patient have wanted). Box 3: Quality of life with a permanent vegetative state is a strong consideration. Box 4: Family conflict, absence of legal documentation, and institutional policies on family meetings all affect the process. The four-box method surfaces the key issues and structures the ethics consultation.
+
+[FIGURE 2.9 — The MORAL Model: A Step-by-Step Ethical Decision-Making Guide]  
+*Alt text: A vertical five-step diagram. Step 1: M — Massage the dilemma (identify all morally relevant features). Step 2: O — Outline the options (generate all possible courses of action). Step 3: R — Review criteria and resolve (evaluate options against ethical principles). Step 4: A — Affirm position and act (implement the decision with moral courage). Step 5: L — Look back and evaluate (reflect on the outcome and learn).*
+
+---
+
+## Section 2.11 — Moral Distress, Moral Resilience, and Professional Burnout
+
+### 2.11.1 Defining Moral Distress
+
+**Moral distress** was first defined by philosopher Andrew Jameton (1984, p. 6) as the distress that arises "when one knows the right thing to do, but institutional constraints make it nearly impossible to pursue the right course of action." This deceptively simple definition contains several critical elements: (1) the nurse has formed a moral judgment — she *knows* what is right; (2) she is constrained from acting on that judgment by forces outside her immediate control; and (3) this constraint produces distress — psychological, emotional, and sometimes physical suffering.
+
+Jameton distinguished two forms of moral distress: *initial distress* (the immediate pain of being unable to act ethically in a given situation) and *reactive distress* (the ongoing suffering that follows from not having acted ethically, often described as guilt, shame, or "haunting" by the event). Subsequent theorists have added the concept of *anticipatory moral distress* — distress experienced in advance of a situation the nurse expects to find morally problematic (Epstein & Hamric, 2009).
+
+### 2.11.2 Sources of Moral Distress in Nursing
+
+Research consistently identifies the following as the most common sources of moral distress in nursing practice (Hamric et al., 2012; Epstein & Hamric, 2009):
+
+**Futile or aggressive care at end of life:** Nurses are frequently distressed by orders to perform or continue interventions they believe provide no benefit — or cause harm — to patients who are dying. The repeated experience of providing CPR, initiating vasopressor therapy, or placing feeding tubes in patients for whom these interventions are clinically futile and subjectively burdensome is among the most powerful and consistent sources of moral distress in the nursing literature.
+
+**Staffing-related compromises in care quality:** When nurse-to-patient ratios are inadequate, nurses are forced to ration their time and attention in ways they know compromise patient safety and quality of care. The knowledge that they cannot provide the care their patients need and deserve — not because of clinical complexity but because of system failure — produces distress that is both personal and institutional in origin.
+
+**Following orders nurses believe are wrong:** Carrying out medical orders they believe are inappropriate, harmful, or contrary to the patient's expressed wishes creates moral distress, particularly when nurses' concerns have been raised and dismissed.
+
+**Perceived institutional barriers to ethical action:** Nurses who experience their institutions as unsupportive of ethical practice — who feel that raising ethical concerns is professionally risky, that ethics consultations are inaccessible or ineffective, or that leadership does not model ethical behavior — report higher levels of moral distress than those in ethically supportive environments.
+
+### 2.11.3 Moral Residue and the Crescendo Effect
+
+**Moral residue** is the "residual moral distress that remains after a morally distressing situation has ended" (Webster & Baylis, 2000, p. 218) — the lingering guilt, shame, or sense of having violated one's own integrity that persists even after the event has passed. Jameton compared moral residue to a stain that does not fully wash out.
+
+When moral residue from successive distressing situations accumulates without adequate processing or resolution, the result may be what Epstein and Hamric (2009) called the **crescendo effect**: an escalating spiral of moral distress in which each new distressing situation is experienced against the backdrop of unresolved residue from prior events, producing increasing distress with each iteration. The crescendo effect is associated with burnout, compassion fatigue, and nursing turnover — and, at the extreme, with the withdrawal from ethical engagement that some researchers call **moral disengagement** (abandoning the attempt to act ethically in the face of persistent futility).
+
+### 2.11.4 Building Moral Resilience
+
+**Moral resilience** — defined by nursing ethicist Cynda Rushton (2018, p. 5) as "the capacity of an individual to sustain or restore their integrity in response to moral complexity, confusion, distress, or setbacks" — is the antidote to moral residue and the crescendo effect. Moral resilience is not the absence of moral distress; it is the capacity to experience distress, process it, and continue to practice with integrity.
+
+**Individual strategies for moral resilience** include:
+
+- *Self-reflection and ethical literacy:* Regularly examining one's own values, recognizing when they are being violated or compromised, and developing the vocabulary and frameworks to articulate and address ethical concerns.
+- *Mindfulness and self-compassion:* Practices that develop emotional regulation and the capacity to tolerate moral uncertainty without being overwhelmed by it.
+- *Peer support and professional community:* Connecting with colleagues who share commitment to ethical practice, creating spaces for honest conversation about distressing situations.
+- *Ethics education:* Ongoing learning in clinical ethics — through formal coursework, case conferences, and consultation — develops the competence and confidence to navigate ethical complexity.
+
+**Institutional strategies for moral resilience** include:
+
+- *Just Culture:* Organizational frameworks that distinguish between human error and reckless behavior, and respond proportionally — creating psychological safety for ethical reporting without fear of punishment for good-faith errors.
+- *Ethics consultation infrastructure:* Accessible, responsive ethics committee or consultation services that give nurses a meaningful mechanism for raising and addressing ethical concerns.
+- *Schwartz Rounds:* Interprofessional forums for reflective discussion of the emotional and ethical dimensions of clinical care, originally developed at Massachusetts General Hospital and now implemented in healthcare organizations worldwide.
+- *Staffing advocacy:* Institutional commitment to nurse-to-patient ratios that allow safe, quality care — addressing one of the most common sources of moral distress at its root.
+
+> **WELL-BEING ALERT — The 4 A's to Rise Above Moral Distress (ANA)**  
+> The American Nurses Association recommends the 4 A's framework for responding to moral distress: (1) **Ask** — recognize and name the moral distress you are experiencing; (2) **Affirm** — affirm your distress and your commitment to your professional values; (3) **Assess** — assess the severity of your distress and identify what, specifically, is driving it; (4) **Act** — take an action appropriate to the situation, whether that is a direct conversation, an ethics consultation, a report to leadership, or self-care and peer support. The 4 A's framework is available as a free resource at nursingworld.org.
+
+[FIGURE 2.10 — Moral Distress to Moral Resilience: A Continuum of Response]  
+*Alt text: A horizontal diagram showing the progression from a triggering event through potential responses. Left side: "Moral Distress" → "Moral Residue" → "Crescendo Effect" → "Moral Disengagement / Burnout." Right side (alternative pathway): "Moral Distress" → "Self-Reflection / Support" → "Ethical Action" → "Moral Resilience / Growth." An arrow indicates that the positive pathway requires deliberate individual and institutional effort.*
+
+---
+
+## Section 2.12 — Ethics Committees and Consultation Processes
+
+### 2.12.1 Purpose and Composition
+
+**Ethics committees** are standing multidisciplinary bodies within healthcare institutions whose core functions include policy development, education, and consultation on difficult ethical cases. Most accredited healthcare organizations in the United States are required to have a mechanism for ethics consultation; a standing ethics committee is the most common form.
+
+Typical ethics committee membership includes:
+
+- Physicians (representing primary care, specialty, and critical care)
+- Registered nurses (often from ICU, oncology, or palliative care)
+- Social worker
+- Chaplain or pastoral care provider
+- Pharmacist
+- Legal counsel or risk management representative
+- Community or patient/family representative
+- Clinical ethicist (in larger institutions)
+- Administrator
+
+This interprofessional composition is intentional: ethical decisions in healthcare are rarely purely medical or purely nursing — they require the integration of clinical, social, spiritual, legal, and administrative perspectives. The committee's strength derives from the diversity of viewpoints it brings to complex situations.
+
+Ethics committees typically operate in an **advisory capacity**: their recommendations are not binding on clinicians or institutions in most jurisdictions, though as a practical matter, departing from an ethics committee recommendation without a compelling clinical rationale is professionally and institutionally unusual.
+
+### 2.12.2 When to Request an Ethics Consultation
+
+Ethics consultations are appropriate when a clinical situation involves genuine ethical uncertainty or conflict that cannot be resolved through ordinary clinical channels. Common triggers include:
+
+- Disagreement between the clinical team and the patient or family about goals of care — for example, a family insisting on aggressive treatment for a patient who has no realistic prospect of recovery.
+- Uncertainty about the patient's decision-making capacity, or dispute about whether the patient has capacity.
+- Conflict among family members about the appropriate course of care for a patient who lacks capacity.
+- Concerns about whether an advance directive should govern the current clinical situation.
+- Ethical concerns about a proposed treatment that appears clinically futile or disproportionately burdensome.
+- Conflicts of interest that may be influencing clinical decision-making.
+- Resource allocation questions in settings of scarcity.
+
+Any member of the care team — including the bedside nurse — may request an ethics consultation in most institutions. The nurse should not wait for the attending physician to initiate the request; if the nurse identifies an ethical concern that has not been addressed, she has both the authority and the professional obligation to request consultation.
+
+### 2.12.3 The Nurse's Role in Ethics Consultations
+
+Nurses play a distinctive role in ethics consultations because of their continuous presence at the bedside, their deep knowledge of the patient's values and preferences as expressed in daily conversations, and their direct observation of the patient's clinical status and suffering. This position gives nurses information that physicians, ethicists, and administrators often do not have — and makes their participation in ethics consultations essential.
+
+**Before the consultation:** The nurse should document the patient's expressed preferences and values (including any statements about wishes for the future), the clinical observations that triggered the consultation, and any prior communications with the patient, family, and team about the ethical concern. This documentation becomes part of the record and informs the consultation.
+
+**During the consultation:** The nurse should participate fully, sharing observations and concerns with clarity and specificity. The ethics committee needs to hear the nurse's perspective — not a summary of the physician's perspective relayed through the nurse. If the nurse is not invited to participate in the consultation, she should advocate for her inclusion.
+
+**After the consultation:** The nurse is responsible for implementing any changes in the care plan that follow from the consultation, for communicating the outcome to the patient and family (in collaboration with the team), and for following up to ensure the ethical concern has been resolved in practice.
+
+> **PROFESSIONAL TIP — How to Request an Ethics Consultation: A Step-by-Step Guide**  
+> Step 1: Document your ethical concern in the medical record (factually and specifically). Step 2: Notify your charge nurse and the attending physician of your concern and your intent to request consultation. Step 3: Contact your institution's ethics committee or ethics consultation service — in most institutions, this is done through a designated pager, phone number, or electronic request form. Step 4: Provide a brief summary of the situation and the specific ethical question when making the request. Step 5: Follow up with the ethics consultant to confirm receipt and timeline. Most institutions provide 24-hour ethics consultation access for urgent cases.
+
+---
+
+## Section 2.13 — Social Justice and Nursing's Role in Health Equity
+
+### 2.13.1 Social Justice as an Ethical Imperative
+
+**Social justice** — defined as the fair distribution of benefits and burdens in society, and the elimination of unjust barriers to participation in social, economic, and political life — has been recognized as an ethical obligation of nursing since Florence Nightingale documented the relationship between poverty, living conditions, and mortality in her *Notes on Nursing* (1859). The ANA's *Nursing's Social Policy Statement* (2010) describes nursing's social contract with society as including a commitment to the equitable distribution of nursing services and to the elimination of health disparities rooted in social inequity.
+
+The ANA Code of Ethics makes this commitment explicit: Provision 8 calls nurses to "protect human rights, promote health diplomacy, and reduce health disparities," and Provision 9 calls the profession collectively to "integrate principles of social justice into nursing and health policy." Social justice is not, therefore, an optional political commitment that nurses may choose to adopt or decline; it is a professional and ethical obligation embedded in the foundational documents of the profession.
+
+### 2.13.2 Social Determinants of Health
+
+The **social determinants of health (SDOH)** are the conditions in which people are born, grow, live, work, and age that shape health outcomes. The World Health Organization (WHO) and the U.S. Healthy People 2030 initiative identify five broad SDOH domains: economic stability, education access and quality, health care access and quality, neighborhood and built environment, and social and community context.
+
+Research consistently demonstrates that the SDOH account for approximately 30–55% of health outcomes — a larger share of the variance in health than clinical care alone (Commission on Social Determinants of Health, 2008). Poverty, food insecurity, housing instability, exposure to neighborhood violence, low educational attainment, and social isolation are each independently associated with worse health outcomes across virtually all disease categories.
+
+For nurses, the SDOH manifest in clinical encounters every day:
+
+- The patient who is discharged home with a new insulin regimen but has no refrigerator in which to store insulin.
+- The patient who cannot afford the medication prescribed at discharge and will not say so.
+- The patient whose lack of transportation makes follow-up appointments practically impossible.
+- The child with asthma whose home is infested with mold and cockroaches — a major trigger — and whose family cannot afford to move.
+
+Effective nursing practice requires recognizing these social dimensions of clinical care, screening for SDOH using validated tools (such as the PRAPARE or AHC Health-Related Social Needs Screening Tool), and connecting patients with community resources and social services.
+
+### 2.13.3 Health Disparities and Structural Inequity
+
+**Health disparities** are systematic, avoidable differences in health outcomes between population groups that are rooted in social, economic, and environmental disadvantage — not in biological differences or individual choices alone. Health disparities in the United States are deeply racialized, reflecting centuries of structural racism embedded in housing, education, employment, healthcare, and legal systems.
+
+Documented examples of racialized health disparities include:
+
+- **Maternal mortality:** Black women in the United States die from pregnancy-related complications at 2.6 times the rate of white women, even after controlling for income and education (Centers for Disease Control and Prevention [CDC], 2022). Nursing and obstetric research attributes a significant portion of this disparity to implicit bias in pain assessment and treatment, inadequate monitoring, and dismissal of Black women's concerns.
+- **Pain management:** Multiple studies document racial disparities in pain assessment and treatment: Black patients are less likely to have their pain believed, assessed adequately, or treated with appropriate analgesia (Hoffman et al., 2016). These disparities appear to be driven in part by false beliefs among healthcare providers about racial differences in pain sensitivity.
+- **Diabetes management:** Hispanic/Latino and Black Americans have significantly higher rates of diabetes-related complications including amputation and end-stage renal disease, disparities attributable in part to differential access to preventive care, culturally competent education, and affordable insulin.
+
+**Implicit bias** — unconscious attitudes or stereotypes that influence judgment and behavior without awareness — is a documented contributor to healthcare disparities. Studies using standardized patient scenarios find that clinicians' diagnostic and treatment decisions differ based on patient race even when clinical information is identical. Nurses are not exempt from implicit bias: the same structural conditions that produce disparities in the broader society also operate within healthcare settings and within nursing practice.
+
+Addressing implicit bias requires more than awareness: it requires deliberate, evidence-based strategies including structured clinical decision-making protocols, diverse clinical teams, and ongoing reflection and accountability.
+
+### 2.13.4 The Nurse as Health Equity Advocate
+
+Nursing's commitment to health equity operates at three levels: the individual patient encounter, the institution, and the broader policy and community environment.
+
+**At the bedside:** Every clinical encounter is an opportunity to practice health equity. This means screening for SDOH routinely and connecting patients to resources; communicating in plain language and ensuring health literacy; treating every patient with equal dignity and attention regardless of race, insurance status, immigration status, or social circumstance; and recognizing and challenging one's own implicit biases.
+
+**Within the institution:** Nurses participate in institutional policy and quality improvement processes that can be leveraged for health equity — advocating for interpreter services, culturally competent care standards, SDOH screening programs, and equitable staffing in underserved units and communities. Shared governance structures give nurses a mechanism for raising equity concerns at the organizational level.
+
+**At the policy and community level:** The ANA, state nurses associations, and specialty organizations engage in policy advocacy for health equity — including advocacy for Medicaid expansion, community health worker programs, paid family and medical leave, and policies addressing the social determinants of health. Individual nurses participate in this work through professional membership, voting, community engagement, and running for public office.
+
+> **HEALTH EQUITY SPOTLIGHT — Structural Racism and the SDOH: A Nursing Framework for Action**  
+> The American Academy of Nursing (2021) has called structural racism "a fundamental cause of health disparities" and identified six nursing actions: (1) assess and address SDOH in every patient encounter; (2) challenge racist policies and practices within healthcare institutions; (3) pursue education and training in anti-racist practice; (4) collect and analyze race-disaggregated data to identify and address disparities; (5) support and mentor nurses from underrepresented communities into leadership roles; and (6) engage in policy advocacy that addresses structural racism at the legislative and regulatory level. These are not optional; they are professional obligations.
+
+[FIGURE 2.11 — Social Determinants of Health Framework (Adapted from WHO/Healthy People 2030)]  
+*Alt text: A diagram showing five interconnected domains arranged around a central element labeled "Health Outcomes." The five domains are: Economic Stability (employment, income, poverty, food security, housing stability); Education Access and Quality (early childhood education, literacy, higher education, language); Health Care Access and Quality (access to healthcare, health literacy, quality of care); Neighborhood and Built Environment (housing, transportation, parks, violence, food access); Social and Community Context (social integration, support, discrimination, incarceration, civic participation).*
+
+---
+
+## Chapter Summary
+
+Chapter 2 has established the legal and ethical framework within which every nursing action is taken. The chapter moved from the regulatory foundations of nursing practice — the Nurse Practice Act, delegation, malpractice, HIPAA, mandatory reporting, professional boundaries, and licensure — through the ethical foundations that give those regulations their deeper meaning: the four bioethical principles, the ANA Code of Ethics, ethical decision-making frameworks, and the concepts of moral distress, moral resilience, ethics committee consultation, and social justice.
+
+These two frameworks — legal and ethical — are not parallel tracks. They are inextricably linked. The law reflects ethical consensus, but it is a lagging indicator: it codifies the minimum acceptable standard, not the aspiration. The ANA Code of Ethics articulates that aspiration. The nurse who understands both frameworks — who can navigate the NPA and also articulate the ethical obligations that animate it — is not merely a compliant practitioner. She is a professionally sovereign advocate, equipped to protect patients, support colleagues, and contribute to a healthcare system worthy of the trust placed in it.
+
+**Key Takeaways:**
+
+1. The Nurse Practice Act is state-specific legislation that defines scope of practice for each licensure level; practicing outside this scope exposes the nurse to regulatory, civil, and criminal liability.
+2. The Five Rights of Delegation — right task, right circumstance, right person, right direction/communication, right supervision — provide a systematic framework for safe delegation decisions; the nursing process may never be delegated.
+3. Negligence requires four elements: duty, breach, causation, and damages; malpractice applies the higher "reasonably prudent nurse" professional standard to that analysis.
+4. HIPAA protects PHI through the Privacy and Security Rules, permits disclosure only for specified purposes, and requires the minimum necessary standard for all permissible disclosures.
+5. Mandatory reporting laws create legally enforceable reporting obligations for abuse, notifiable diseases, and sentinel events; good-faith reporters are protected from civil liability in all states.
+6. Professional boundaries protect both patients and nurses; social media has created new boundary risks that are governed by NCSBN guidelines, HIPAA, and institutional policy.
+7. The four bioethical principles — autonomy, beneficence, non-maleficence, and justice — provide the foundational vocabulary and framework for ethical analysis in clinical practice.
+8. The ANA Code of Ethics articulates nine provisions that define nursing's ethical obligations to patients, the profession, and society; these are non-negotiable standards for all nurses in all settings.
+9. Ethical decision-making frameworks such as the MORAL model and the four-box method provide a structured process for resolving ethical dilemmas; moral courage is required to act on ethical judgments.
+10. Moral distress is endemic to nursing practice; moral resilience — built through self-reflection, peer support, ethics education, and institutional Just Culture — is the professional response to moral distress.
+
+---
+
+## NCLEX-Style Review Questions
+
+*Directions: Choose the best answer for each question. For "select all that apply" questions, select all options that are correct.*
+
+**1.** A nurse is assigned to care for a patient who has just arrived from the emergency department. The charge nurse asks the nurse to perform a dressing change on the patient's surgical wound using a technique the nurse has not been trained on. Which action should the nurse take first?
+
+   - A. Perform the dressing change as requested to avoid delaying the patient's care.
+   - B. Ask another nurse to observe the procedure to ensure patient safety.
+   - C. Inform the charge nurse that she has not been trained or validated in this technique and request guidance before proceeding.
+   - D. Document in the chart that the procedure was outside her competency and perform it anyway.
+
+**2.** A registered nurse is preparing to delegate morning care tasks to a nursing assistant. Which of the following tasks is appropriate to delegate? (Select all that apply.)
+
+   - A. Measuring and recording the patient's vital signs for a stable post-operative patient
+   - B. Ambulating a stable patient per the physical therapist's standing protocol
+   - C. Performing the initial nursing assessment for a newly admitted patient
+   - D. Assisting a patient with oral hygiene
+   - E. Developing the patient's care plan
+
+**3.** A nurse discovers that a colleague posted a photograph on social media showing a patient's hospital room and a medication administration record visible in the background. The patient's name is not shown. Which statement best describes this situation?
+
+   - A. No violation has occurred because the patient's name was not used.
+   - B. This likely violates HIPAA because the image may contain sufficient information to identify the patient.
+   - C. The post is acceptable as long as it is deleted within 24 hours.
+   - D. Only the photographer is responsible; the nurse who discovered it has no reporting obligation.
+
+**4.** A nurse is caring for a patient who has decision-making capacity and refuses a recommended blood transfusion. The nurse believes the patient will die without the transfusion. Which action is ethically and legally appropriate?
+
+   - A. Administer the transfusion because the nurse's beneficence obligation overrides patient preference.
+   - B. Request that the physician order the transfusion without the patient's knowledge.
+   - C. Document the patient's refusal, ensure the patient has received all relevant information, notify the provider, and respect the decision.
+   - D. Ask the patient's family to convince the patient to consent.
+
+**5.** A nurse working in a pediatric emergency department assesses a 4-year-old child with multiple bruises in various stages of healing, inconsistent with the reported mechanism of injury of "falling off the couch." The child is fearful and clings to the nurse. Which action is most appropriate?
+
+   - A. Wait to report until the findings are confirmed by the physician.
+   - B. Ask the parents to explain each bruise individually before taking action.
+   - C. Report the suspected child abuse to child protective services as required by mandatory reporting law.
+   - D. Document the findings and schedule a follow-up appointment to reassess.
+
+**6.** Which of the following actions by a nurse is most consistent with Provision 2 of the ANA Code of Ethics for Nurses ("The nurse's primary commitment is to the patient")?
+
+   - A. Complying with an institutional policy that restricts patient access to their own medical records.
+   - B. Documenting a patient's refusal of care accurately and completely even if the documentation reflects poorly on the institution.
+   - C. Agreeing with the attending physician's treatment plan rather than raising a concern to avoid conflict.
+   - D. Prioritizing the institution's financial interests when making discharge planning decisions.
+
+**7.** A nurse is caring for a terminally ill patient who is receiving high-dose opioids for pain management. The nurse is aware that the dose may hasten the patient's death. Which bioethical principle best supports the nurse's decision to administer the medication as ordered?
+
+   - A. Justice — the patient deserves access to adequate pain relief.
+   - B. The principle of double effect, grounded in non-maleficence — the intended effect is pain relief; the potential respiratory depression is foreseen but not intended.
+   - C. Paternalism — the nurse knows what is best for the patient.
+   - D. Autonomy — the patient has the right to refuse treatment.
+
+**8.** A nurse identifies what appears to be a pattern of inadequate pain assessment and undertreatment for Black patients on her unit, compared to patients of other racial backgrounds. Which actions are consistent with nursing's professional ethical obligations? (Select all that apply.)
+
+   - A. Document the observed pattern and bring it to the attention of the unit manager and quality improvement committee.
+   - B. Continue current practice to avoid conflict with colleagues.
+   - C. Assess each patient's pain thoroughly and advocate for adequate treatment for every patient in her care.
+   - D. Participate in implicit bias training if offered by the institution.
+   - E. Pursue policy change through shared governance and professional organizations.
+
+**9.** A nurse is caring for a patient and their family, who are in conflict with the medical team about the appropriate goals of care for a patient who lacks decision-making capacity. The conflict has persisted despite multiple family meetings. Which action should the nurse take?
+
+   - A. Side with the family because they know the patient best.
+   - B. Defer to the attending physician's decision as the final authority.
+   - C. Request an ethics consultation to facilitate structured ethical analysis and communication.
+   - D. Document the conflict and take no further action.
+
+**10.** *Clinical Judgment — NGN Extended Thinking Item*
+
+*A 28-year-old nurse, Priya, has been working in the intensive care unit for three years. Over the past six months, her colleagues have noticed changes in her behavior: she frequently volunteers for overtime during night shifts, arrives early and stays late, and has been observed accessing the narcotic dispensing cabinet for patients who are not assigned to her. On two occasions, patients she cared for complained of inadequate pain relief despite nursing documentation indicating opioids were administered.*
+
+*Part A — Recognize Cues:* Which findings in this scenario are most significant and require immediate attention? Select all that apply.
+
+   - A. Priya works overtime frequently
+   - B. Priya accesses the narcotic cabinet for patients not assigned to her
+   - C. Priya arrives early and stays late
+   - D. Patients report inadequate pain relief despite documented opioid administration
+   - E. The behavior changes began approximately six months ago
+
+*Part B — Analyze Cues and Generate Hypotheses:* Which hypothesis most accurately explains the pattern of findings in Part A?
+
+   - A. Priya is an overachiever who goes above and beyond for her patients.
+   - B. Priya is diverting controlled substances for personal use, consistent with a substance use disorder.
+   - C. Priya has assumed informal supervisory responsibilities outside her job description.
+   - D. The narcotic dispensing cabinet has a technical malfunction.
+
+*Part C — Take Action:* Which action should the nurse manager take immediately?
+
+   - A. Confront Priya publicly at the next staff meeting.
+   - B. Terminate Priya's employment immediately without further investigation.
+   - C. Initiate a formal investigation per institutional policy, remove Priya from access to controlled substances during the investigation, and refer to the institution's employee assistance program and peer assistance program.
+   - D. Issue a verbal warning and increase supervision.
+
+---
+
+### Answer Key
+
+| Question | Answer | Rationale |
+|----------|--------|-----------|
+| 1 | C | The nurse must refuse to perform tasks outside her verified competency and seek guidance before proceeding; this is both a scope of practice and a patient safety obligation. Option A risks patient harm; options B and D do not address the core issue of competency. |
+| 2 | A, B, D | Vital signs for a stable patient, ambulation per protocol, and oral hygiene are appropriate for UAP delegation. Nursing assessment (C) and care plan development (E) are non-delegable nursing process activities. |
+| 3 | B | Even without the patient's name, images that reveal room details or documents may allow patient identification. The minimum necessary standard and HIPAA's prohibition on impermissible disclosure apply. |
+| 4 | C | A competent adult's informed refusal of treatment must be respected. The nurse's role is to ensure the refusal is informed, document it, and notify the provider — not to override it. |
+| 5 | C | Mandatory reporting of suspected child abuse requires reasonable suspicion, not confirmed abuse. Waiting for confirmation or physician involvement delays a legally required report. |
+| 6 | B | Accurate documentation, even when it reflects unfavorably on the institution, places the patient's interests (right to an accurate record) first. The other options subordinate patient interests to institutional or team interests. |
+| 7 | B | The principle of double effect supports administering medication whose primary intent is beneficial (pain relief) even when a harmful side effect (respiratory depression) is foreseen but unintended. |
+| 8 | A, C, D, E | All except B are consistent with professional ethical obligations to address health disparities. Continuing current practice (B) perpetuates the disparity. |
+| 9 | C | An ethics consultation provides structured, multidisciplinary support for conflicts about goals of care that have not resolved through ordinary clinical communication. |
+| 10 | Part A: B, D; Part B: B; Part C: C | The most significant cues are narcotic cabinet access for non-assigned patients and documentation-reality discrepancy in pain management — both consistent with diversion. The most likely hypothesis is substance use disorder with diversion. The appropriate action initiates investigation, removes access to controlled substances, and engages support resources — not immediate termination or public confrontation. |
+
+---
+
+## Case Study: "The Scope Dilemma"
+
+**Setting:** Medical-surgical unit, community hospital, 7:00 a.m. on a weekday morning
+
+**Scenario:**
+
+*Scene 1:* Aisha Obi is a registered nurse eleven days out of orientation. The night has been busy, and the oncoming charge nurse, Dena, greets her in the hallway with an assignment card and a hurried instruction: "Room 412 needs a complex wound irrigation — the order's been in since midnight. Just follow the procedure and document it." Aisha has assisted with wound irrigations during clinical rotations but has never been independently validated as competent in the specific irrigation technique required for a large surgical dehiscence. She reviews the patient's chart and sees that the order was placed by a physician who has since left the building. She feels pressure — the patient is in pain, the unit is short-staffed, and Dena is already walking away.
+
+*Scene 2:* Aisha approaches the clinical nurse educator, Marcus, and describes the situation. Marcus confirms that the irrigation technique required for this wound requires a formal competency validation that Aisha has not completed. He accompanies Aisha to speak with Dena, who becomes visibly frustrated: "Every new nurse pulls this. You're going to get a performance note for this." Aisha feels her hands shake, but she maintains her position. She asks Marcus to remain as a witness while Dena, ultimately, contacts the on-call wound care nurse to perform the irrigation.
+
+*Scene 3:* After the patient has been cared for appropriately, Aisha documents the full sequence of events in the medical record, including her concern about scope of practice, her consultation with Marcus, and the outcome. She completes an incident report describing the situation and the pressure she experienced. The following week, she requests a meeting with the nurse manager, who reviews the incident report, validates Aisha's decision, and initiates a review of how complex wound care assignments are handled for new graduate nurses on the unit.
+
+**Discussion Questions:**
+
+1. What specific provisions of the Nurse Practice Act apply to Aisha's situation in Scene 1, and what should she have considered before accepting or refusing the assignment? What is the potential legal and professional liability if she had proceeded with the irrigation without competency validation?
+
+2. How do the concepts of delegation and scope of practice interact in this scenario? Was this a delegation situation, or was Dena attempting to assign a task within Aisha's scope? Explain your reasoning using the Five Rights of Delegation framework.
+
+3. Which provisions of the ANA Code of Ethics support Aisha's decision to escalate in Scene 2, and which provisions address the obligation of nurses to act when they observe potential violations of professional standards? How does Provision 6 apply to Dena's behavior as a charge nurse?
+
+4. Aisha experiences significant anxiety and self-doubt during and after this event. Using the concepts of moral distress, moral resilience, and the ANA's 4 A's framework, analyze what Aisha is experiencing and identify at least three strategies — individual and institutional — that could support her well-being and professional development following this event.
+
+---
+
+## References
+
+American Nurses Association. (2015). *Code of ethics for nurses with interpretive statements*. American Nurses Association.
+
+American Nurses Association. (2019). *Nursing: Scope and standards of practice* (3rd ed.). American Nurses Association.
+
+American Nurses Association & National Council of State Boards of Nursing. (2019). *Joint statement on delegation*. American Nurses Association.
+
+Beauchamp, T. L., & Childress, J. F. (2019). *Principles of biomedical ethics* (8th ed.). Oxford University Press.
+
+Brous, E. (2019). *The nurse's guide to the legal and regulatory environment*. Wolters Kluwer.
+
+Burkhardt, M. A., & Nathaniel, A. K. (2020). *Ethics and issues in contemporary nursing* (5th ed.). Cengage.
+
+Catalano, J. T. (2020). *Nursing now! Today's issues, tomorrow's trends* (9th ed.). F.A. Davis.
+
+Centers for Disease Control and Prevention. (2022). *Maternal mortality rates in the United States, 2020*. National Center for Health Statistics.
+
+Commission on Social Determinants of Health. (2008). *Closing the gap in a generation: Health equity through action on the social determinants of health*. World Health Organization.
+
+Epstein, E. G., & Hamric, A. B. (2009). Moral distress, moral residue, and the crescendo effect. *Journal of Clinical Ethics*, *20*(4), 330–342.
+
+Hamric, A. B., Davis, W. S., & Childress, M. D. (2012). Moral distress in health care professionals. *Pharos*, *9*, 2–8.
+
+Hoffman, K. M., Trawalter, S., Axt, J. R., & Oliver, M. N. (2016). Racial bias in pain assessment and treatment recommendations, and false beliefs about biological differences between Blacks and Whites. *Proceedings of the National Academy of Sciences*, *113*(16), 4296–4301. https://doi.org/10.1073/pnas.1516047113
+
+Jameton, A. (1984). *Nursing practice: The ethical issues*. Prentice-Hall.
+
+The Joint Commission. (2023). *Sentinel event policy and procedures*. The Joint Commission.
+
+Jonsen, A. R., Siegler, M., & Winslade, W. J. (2015). *Clinical ethics: A practical approach to ethical decisions in clinical medicine* (8th ed.). McGraw-Hill.
+
+National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. (1979). *The Belmont report: Ethical principles and guidelines for the protection of human subjects of research*. U.S. Department of Health, Education, and Welfare.
+
+National Council of State Boards of Nursing. (2016). *National guidelines for nursing delegation*. Journal of Nursing Regulation, *7*(1), 5–14. https://doi.org/10.1016/S2155-8256(16)31035-3
+
+National Council of State Boards of Nursing. (2018). *A nurse's guide to the use of social media*. NCSBN.
+
+Rushton, C. H. (2018). *Moral resilience: Transforming moral suffering in healthcare*. Oxford University Press.
+
+U.S. Department of Health and Human Services, Office for Civil Rights. (2003). *Summary of the HIPAA privacy rule*. HHS.
+
+Webster, G. C., & Baylis, F. E. (2000). Moral residue. In S. B. Rubin & L. Zoloth (Eds.), *Margin of error: The ethics of mistakes in the practice of medicine* (pp. 217–230). University Publishing Group.
+
+World Health Organization. (2021). *Social determinants of health*. WHO. https://www.who.int/health-topics/social-determinants-of-health
+
+---
+
+## Chapter Production Notes
+
+| Item | Detail |
+|------|--------|
+| Approximate word count | ~13,000 words |
+| Tables | 4 (key terms, four-box method matrix, NCLEX answer key, case study scaffold) |
+| Figures | 11 placeholders (Figures 2.1–2.11) |
+| Case study | 1 (3-scene unfolding scenario, 4 discussion questions) |
+| NCLEX questions | 10 (7 traditional, 2 select-all-that-apply, 1 NGN extended thinking with 3 sub-parts) |
+| Key terms | 20 |
+| Sidebar/callout boxes | 12 (legal spotlights, safety alerts, EBP connections, clinical tips, ethical reflections, wellness alerts, health equity spotlights) |
+| References | 22 (APA 7th edition) |
+
+---
+
+*Chapter 2 — First Draft Complete*  
+*Sprint: 2026-03-15-2214*  
+*Draft version: 1.0*
+
