@@ -33,13 +33,13 @@
 
 | Task | Status | Detail |
 |------|--------|--------|
-| Remove `**Purpose:**` editorial artifact lines (×9) | [ ] | Lines 66, 108, 147, 196, 254, 294, 333, 378, 433 — present in Chapter 4 but absent in Chapter 1 and the chapter template |
-| Add non-therapeutic communication table to Section 4.5.1 | [ ] | Specified in `activity/2026-03-15-2030/chapter-04-outline.md` but missing from draft |
-| Verify all 4 figure placeholders have captions and alt-text | [ ] | Figures 4.1–4.4 |
-| Verify all 5 callout boxes present | [ ] | Safety Alert, Professional Practice, EBP Spotlight, Clinical Tip, Quality Improvement |
-| Verify 9 Key Takeaways map 1:1 to 9 Learning Objectives | [ ] | Chapter Summary section |
-| Verify case study: 3 scenes, 4 discussion questions | [ ] | "Lost in Translation" |
-| Verify NCLEX questions: 10 items, answer key, rationales | [ ] | 7 single-best-answer, 2 SATA, 1 NGN unfolding case |
+| Remove `**Purpose:**` editorial artifact lines (×9) | [x] | Lines 66, 108, 147, 196, 254, 294, 333, 378, 433 — present in Chapter 4 but absent in Chapter 1 and the chapter template |
+| Add non-therapeutic communication table to Section 4.5.1 | [x] | Specified in `activity/2026-03-15-2030/chapter-04-outline.md` but missing from draft |
+| Verify all 4 figure placeholders have captions and alt-text | [x] | Figures 4.1–4.4 |
+| Verify all 5 callout boxes present | [x] | Safety Alert, Professional Practice, EBP Spotlight, Clinical Tip, Quality Improvement |
+| Verify 9 Key Takeaways map 1:1 to 9 Learning Objectives | [x] | Chapter Summary section |
+| Verify case study: 3 scenes, 4 discussion questions | [x] | "Lost in Translation" |
+| Verify NCLEX questions: 10 items, answer key, rationales | [x] | 7 single-best-answer, 2 SATA, 1 NGN unfolding case |
 
 ---
 
@@ -49,13 +49,13 @@
 
 | Task | Status | Detail |
 |------|--------|--------|
-| APA citation audit: all in-text citations match reference list | [ ] | Check author–date consistency throughout |
-| APA reference list audit: format, alphabetical order, DOI consistency | [ ] | All ≥15 references |
-| Heading level audit: `##` for major sections, `###` for subsections | [ ] | Ensure no mixed levels |
-| Key-term bold audit: each key term bolded on first use, not repeated | [ ] | 15 key terms |
-| Terminology consistency: "therapeutic communication," "health literacy," etc. | [ ] | Ensure consistent capitalization and hyphenation |
-| Grammar and punctuation review: em dashes, serial commas, sentence fragments | [ ] | Full chapter |
-| Update Production Notes: version → 2.0, sprint → 2026-03-15-2214 | [ ] | End of chapter |
+| APA citation audit: all in-text citations match reference list | [x] | Added Hockenberry et al. (2022) and American Foundation for the Blind (2022) to reference list |
+| APA reference list audit: format, alphabetical order, DOI consistency | [x] | Fixed Mullen-Fortino journal name (*Nursing* only, year removed from title) |
+| Heading level audit: `##` for major sections, `###` for subsections | [x] | All headings correct |
+| Key-term bold audit: each key term bolded on first use, not repeated | [x] | 15 key terms confirmed |
+| Terminology consistency: "therapeutic communication," "health literacy," etc. | [x] | Consistent throughout |
+| Grammar and punctuation review: em dashes, serial commas, sentence fragments | [x] | Full chapter reviewed |
+| Update Production Notes: version → 2.0, sprint → 2026-03-15-2214 | [x] | End of chapter updated |
 
 ---
 
@@ -63,8 +63,8 @@
 
 | Task | Status | File |
 |------|--------|------|
-| Mark Chapter 4 developmental edit `[x]` complete | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
-| Mark Chapter 4 copy edit / proofread `[x]` complete | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 4 developmental edit `[x]` complete | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 4 copy edit / proofread `[x]` complete | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
 
 ---
 
@@ -82,4 +82,5 @@
 ---
 
 *Sprint started: 2026-03-15 22:14 UTC*  
+*Sprint completed: 2026-03-15 UTC*  
 *Sprint version: 1.0*

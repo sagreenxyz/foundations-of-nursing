@@ -642,6 +642,8 @@ Agency for Healthcare Research and Quality. (2020). *Health literacy universal p
 
 Aiken, L. H., Sloane, D., Griffiths, P., Rafferty, A. M., Bruyneel, L., McHugh, M., Maier, C. B., Moreno-Casbas, T., Ball, J. E., Ausserhofer, D., & Sermeus, W. (2020). Nursing skill mix in European hospitals: Cross-sectional study of the association with mortality, patient ratings, and quality of care. *BMJ Quality & Safety*, *26*(7), 559–568. https://doi.org/10.1136/bmjqs-2016-005567
 
+American Foundation for the Blind. (2022). *Vision loss facts and statistics*. https://www.afb.org/research-and-initiatives/statistics
+
 American Nurses Association. (2023). *Social media use: Common questions and answers*. https://www.nursingworld.org/practice-policy/nursing-excellence/social-media
 
 Arnold, E. C., & Boggs, K. U. (2020). *Interpersonal relationships: Professional communication skills for nurses* (8th ed.). Elsevier.
@@ -668,6 +670,8 @@ Guerrero, L. K., DeVito, J. A., & Hecht, M. L. (Eds.). (2011). *The nonverbal co
 
 Hall, E. T. (1966). *The hidden dimension*. Doubleday.
 
+Hockenberry, M. J., Rodgers, C. C., & Wilson, D. (2022). *Wong's essentials of pediatric nursing* (11th ed.). Elsevier.
+
 The Joint Commission. (2023). *Sentinel event data: Root causes by event type 2004–2022*. https://www.jointcommission.org/resources/patient-safety-topics/sentinel-event/sentinel-event-data-summary
 
 Kemper, S., & Mitzner, T. L. (2001). Language production and comprehension. In J. E. Birren & K. W. Schaie (Eds.), *Handbook of the psychology of aging* (5th ed., pp. 378–398). Academic Press.
@@ -686,7 +690,7 @@ Mehrabian, A. (1971). *Silent messages*. Wadsworth.
 
 Miller, W. R., & Rollnick, S. (2023). *Motivational interviewing: Helping people change and grow* (4th ed.). Guilford Press.
 
-Mullen-Fortino, M., DiMattio, M. J. K., Simone, S., & Cowperthwait, A. (2019). Bedside shift report: Implications for patient safety and quality of care. *Nursing* *2019*, *49*(4), 32–38. https://doi.org/10.1097/01.NURSE.0000553272.12458.a1
+Mullen-Fortino, M., DiMattio, M. J. K., Simone, S., & Cowperthwait, A. (2019). Bedside shift report: Implications for patient safety and quality of care. *Nursing*, *49*(4), 32–38. https://doi.org/10.1097/01.NURSE.0000553272.12458.a1
 
 National Council of State Boards of Nursing. (2018). *A nurse's guide to professional boundaries*. https://www.ncsbn.org/professional-boundaries.htm
 
@@ -720,17 +724,18 @@ Williams, K. N., Herman, R., Gajewski, B., & Wilson, K. (2019). Elderspeak commu
 
 | Item | Detail |
 |------|--------|
-| Approximate word count | ~15,500 words |
+| Approximate word count | ~15,800 words |
 | Sections | 9 (4.1–4.9) |
-| Tables | 3 (key terms, NCLEX plan, production notes) |
+| Tables | 4 (key terms, non-therapeutic communication, NCLEX plan, production notes) |
 | Figures | 4 (placeholders: 4.1 communication model, 4.2 proxemics zones, 4.3 therapeutic vs. non-therapeutic comparison, 4.4 medical interpreter best practices) |
 | Case study | 1 (unfolding, 3-scene, "Lost in Translation") |
 | NCLEX questions | 10 (7 single-best-answer, 2 select-all-that-apply, 1 NGN unfolding case) |
 | Key terms | 15 |
 | Sidebar/callout boxes | 5 (Safety Alert, Professional Practice, Evidence-Based Practice Spotlight, Clinical Tip, Quality Improvement) |
-| Sprint | 2026-03-15-2140 |
+| References | 22 (APA 7th edition) |
+| Sprint | 2026-03-15-2214 |
 
 ---
 
-*Chapter draft version: 1.0 — 2026-03-15*  
-*Sprint: 2026-03-15-2140*
+*Chapter draft version: 2.0 — 2026-03-15 (developmental edit + copy edit complete)*  
+*Sprint: 2026-03-15-2214*
