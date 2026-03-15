@@ -53,8 +53,8 @@
 
 | Task | Status | Content |
 |------|--------|---------|
-| Section 10.6 — The Sick Role and Illness Behavior (~5 pp) | [ ] | `content/chapter-10.md` |
-| Section 10.7 — Health Disparities and Social Determinants of Health (~6 pp) | [ ] | `content/chapter-10.md` |
+| Section 10.6 — The Sick Role and Illness Behavior (~5 pp) | [x] | `content/chapter-10.md` |
+| Section 10.7 — Health Disparities and Social Determinants of Health (~6 pp) | [x] | `content/chapter-10.md` |
 
 ---
 
