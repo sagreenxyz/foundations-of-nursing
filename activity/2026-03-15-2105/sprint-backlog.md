@@ -65,12 +65,12 @@
 
 | Task | Status | File |
 |------|--------|------|
-| Section 1.7 — The Metaparadigm of Nursing | [ ] | `content/chapter-01.md` |
-| Section 1.8 — The Future of Nursing | [ ] | `content/chapter-01.md` |
-| Chapter Summary and Key Takeaways | [ ] | `content/chapter-01.md` |
-| 10 NCLEX-Style Review Questions with Answer Key | [ ] | `content/chapter-01.md` |
-| Case Study: Meeting Margaret | [ ] | `content/chapter-01.md` |
-| APA References | [ ] | `content/chapter-01.md` |
+| Section 1.7 — The Metaparadigm of Nursing | [x] | `content/chapter-01.md` |
+| Section 1.8 — The Future of Nursing | [x] | `content/chapter-01.md` |
+| Chapter Summary and Key Takeaways | [x] | `content/chapter-01.md` |
+| 10 NCLEX-Style Review Questions with Answer Key | [x] | `content/chapter-01.md` |
+| Case Study: Meeting Margaret | [x] | `content/chapter-01.md` |
+| APA References | [x] | `content/chapter-01.md` |
 
 ---
 
