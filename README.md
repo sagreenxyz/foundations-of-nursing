@@ -71,18 +71,25 @@ Then open the URL printed in the terminal, appending `/docs/`.
 ```
 foundations-of-nursing/
 ├── README.md
+├── dependency-tree.html   # Project dependency DAG (standalone SPA)
 ├── strategy/              # Project strategy documents
 │   ├── merged-toc.md      # Master Table of Contents (45 chapters)
 │   ├── roadmap.md         # Phase 1-12 production roadmap
 │   ├── team.md            # Team roles and responsibilities
 │   └── toc-strategy-analysis.md
 ├── activity/              # Sprint artifacts (one directory per sprint)
-│   ├── 2026-03-15-1210/   # Sprint 1: Planning, TOC, Chapter 1 outline
-│   ├── 2026-03-15-1739/   # Sprint 2: Chapter template
+│   ├── 2026-03-15-1210/   # Sprint 1: Planning, TOC, Chapter 1 outline, master backlog
+│   ├── 2026-03-15-1739/   # Sprint 2: Chapter template, web app, Chapter 1 draft
 │   ├── 2026-03-15-2030/   # Sprint 3: Chapter 4 outline
-│   └── 2026-03-15-2140/   # Sprint 4: Chapter 4 draft, web app
+│   ├── 2026-03-15-2105/   # Sprint 4: Chapters 2, 7, 10 drafts
+│   ├── 2026-03-15-2140/   # Sprint 5: Chapter 4 first draft (v1.0)
+│   └── 2026-03-15-2214/   # Sprint 6: Chapter 4 v2.0 (developmental + copy edit)
 ├── content/               # Chapter markdown source files
-│   └── chapter-04.md      # Chapter 4: Therapeutic Communication (DRAFT)
+│   ├── chapter-01.md      # Chapter 1: History and Evolution of Nursing (Draft)
+│   ├── chapter-02.md      # Chapter 2: Legal, Ethical, and Professional Standards (Draft)
+│   ├── chapter-04.md      # Chapter 4: Therapeutic Communication (v2.0 — edited)
+│   ├── chapter-07.md      # Chapter 7: Evidence-Based Practice and Quality Improvement (Draft)
+│   └── chapter-10.md      # Chapter 10: Health, Wellness, and Illness (Draft)
 └── docs/                  # Web application (GitHub Pages root)
     ├── index.html
     ├── css/style.css
@@ -95,11 +102,15 @@ foundations-of-nursing/
 
 | # | Chapter | Status |
 |---|---------|--------|
-| 1 | History and Evolution of Nursing | Coming Soon |
-| 2 | Legal, Ethical, and Professional Standards | Coming Soon |
+| **1** | **History and Evolution of Nursing** | **Draft Available** |
+| **2** | **Legal, Ethical, and Professional Standards** | **Draft Available** |
 | 3 | Patient Rights, Advocacy, and Informed Consent | Coming Soon |
-| **4** | **Therapeutic Communication** | **Draft Available** |
-| 5-45 | Additional Chapters | Coming Soon |
+| **4** | **Therapeutic Communication** | **Draft Available** (v2.0 — edited) |
+| 5–6 | Additional Unit 1 Chapters | Coming Soon |
+| **7** | **Evidence-Based Practice and Quality Improvement** | **Draft Available** |
+| 8–9 | Additional Unit 2 Chapters | Coming Soon |
+| **10** | **Health, Wellness, and Illness** | **Draft Available** |
+| 11–45 | Additional Chapters | Coming Soon |
 
 ---
 
@@ -108,34 +119,11 @@ foundations-of-nursing/
 | Sprint | Date | Deliverables |
 |--------|------|--------------|
 | 2026-03-15-1210 | 2026-03-15 | Initial planning, merged TOC, Chapter 1 outline, sprint backlog |
-| 2026-03-15-1739 | 2026-03-15 | Chapter template |
+| 2026-03-15-1739 | 2026-03-15 | Chapter template, web app foundation, Chapter 1 full draft |
 | 2026-03-15-2030 | 2026-03-15 | Chapter 4 outline, parallel-work analysis |
-| 2026-03-15-2140 | 2026-03-15 | Chapter 4 full draft, web application foundation |
-├── README.md                    ← This file
-├── content/
-│   └── chapter-01.md            ← Chapter markdown source files
-├── docs/
-│   ├── index.html               ← Web application entry point
-│   ├── css/style.css            ← Academic stylesheet
-│   └── js/app.js                ← Markdown renderer and navigation
-├── strategy/
-│   ├── merged-toc.md            ← Master table of contents
-│   ├── roadmap.md               ← Development phases roadmap
-│   └── team.md                  ← Team roles and responsibilities
-└── activity/
-    ├── 2026-03-15-1210/         ← Sprint 1 artifacts
-    ├── 2026-03-15-1739/         ← Sprint 2 artifacts
-    └── 2026-03-15-2105/         ← Sprint 3 artifacts (current)
-```
-
----
-
-## Content Status
-
-| Chapter | Title | Status |
-|---------|-------|--------|
-| 1 | History and Evolution of Nursing | Draft Available |
-| 2–30+ | Remaining chapters | Coming Soon |
+| 2026-03-15-2105 | 2026-03-15 | Chapters 2, 7, 10 full drafts |
+| 2026-03-15-2140 | 2026-03-15 | Chapter 4 full draft (v1.0) |
+| 2026-03-15-2214 | 2026-03-15 | Chapter 4 developmental edit + copy edit (v2.0) |
 
 ---
 
@@ -151,13 +139,3 @@ All content follows the chapter template defined in
 - 10 NCLEX-style review questions with answer key
 - Case study with discussion questions
 - APA 7th edition references
-
----
-
-## Development Sprints
-
-| Sprint | Deliverables |
-|--------|-------------|
-| 2026-03-15-1210 | Project scoping, merged TOC, roadmap, Chapter 1 outline |
-| 2026-03-15-1739 | Chapter template, web app plan |
-| 2026-03-15-2105 | Web application, Chapter 1 full draft (current) |
