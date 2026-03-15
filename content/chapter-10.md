@@ -773,11 +773,12 @@ World Health Organization. (1986). *Ottawa Charter for Health Promotion*. World 
 ## Chapter Production Notes
 
 - **Sprint:** 2026-03-15-2214
-- **Version:** 1.0 (first draft)
+- **Version:** 2.0 (second draft — developmental edit and copy edit complete)
 - **Completion date:** 2026-03-15
 - **Word count (estimated):** 11,500–13,000 words
 - **Section count:** 7 content sections (10.1–10.7) + case study + NCLEX + summary + references
 - **Figure placeholders:** 7 (Figures 10.1–10.7)
 - **Evidence base:** 30 primary references; APA 7th edition throughout
 - **Next step:** Developmental edit; figure design brief; NCLEX NGN alignment review
+- **Edited in sprint:** 2026-03-15-2354
 
