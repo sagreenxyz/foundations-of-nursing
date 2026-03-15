@@ -40,12 +40,12 @@
 
 | Task | Status | Content |
 |------|--------|---------|
-| Chapter header (metadata, objectives, key terms) | [ ] | `content/chapter-02.md` |
-| Introduction (~1 page) | [ ] | `content/chapter-02.md` |
-| Section 2.1 — The Nurse Practice Act (~4 pp) | [ ] | `content/chapter-02.md` |
-| Section 2.2 — Delegation: The Five Rights (~4 pp) | [ ] | `content/chapter-02.md` |
-| Section 2.3 — Negligence, Malpractice, and Professional Liability (~5 pp) | [ ] | `content/chapter-02.md` |
-| Section 2.4 — HIPAA, Confidentiality, and Patient Privacy (~4 pp) | [ ] | `content/chapter-02.md` |
+| Chapter header (metadata, objectives, key terms) | [x] | `content/chapter-02.md` |
+| Introduction (~1 page) | [x] | `content/chapter-02.md` |
+| Section 2.1 — The Nurse Practice Act (~4 pp) | [x] | `content/chapter-02.md` |
+| Section 2.2 — Delegation: The Five Rights (~4 pp) | [x] | `content/chapter-02.md` |
+| Section 2.3 — Negligence, Malpractice, and Professional Liability (~5 pp) | [x] | `content/chapter-02.md` |
+| Section 2.4 — HIPAA, Confidentiality, and Patient Privacy (~4 pp) | [x] | `content/chapter-02.md` |
 
 ---
 
