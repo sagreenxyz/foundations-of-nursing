@@ -71,10 +71,10 @@
 
 | Task | Status | Content |
 |------|--------|---------|
-| Chapter Summary | [ ] | `content/chapter-10.md` |
-| Key Takeaways (aligned to learning objectives) | [ ] | `content/chapter-10.md` |
-| References (APA 7th, ≥15 sources) | [ ] | `content/chapter-10.md` |
-| Chapter Production Notes | [ ] | `content/chapter-10.md` |
+| Chapter Summary | [x] | `content/chapter-10.md` |
+| Key Takeaways (aligned to learning objectives) | [x] | `content/chapter-10.md` |
+| References (APA 7th, ≥15 sources) | [x] | `content/chapter-10.md` |
+| Chapter Production Notes | [x] | `content/chapter-10.md` |
 
 ---
 

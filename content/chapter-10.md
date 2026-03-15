@@ -653,3 +653,131 @@ D. "Patients choose their health behaviors, and different groups make different 
 
 **10. C** — The statement accurately names the evidence-based explanation for racial health disparities: differential SDOH exposure and structural inequities. Choices A, B, and D reflect color-blind reasoning, genetic determinism, and individual victim-blaming, respectively — none of which is supported by the scientific evidence on health disparities.
 
+
+---
+
+## Chapter Summary
+
+Chapter 10 established the conceptual foundations nurses need to understand health, wellness, and illness as multidimensional, dynamic, and socially embedded phenomena.
+
+**Section 10.1** traced the evolution of health definitions from the negative biomedical concept (absence of disease) through the WHO's positive definition (complete physical, mental, and social well-being), to contemporary models recognizing health as a resource. Four theoretical frameworks — biomedical, biopsychosocial, holistic, and wellness models — were compared, and eight dimensions of wellness were identified as an integrated framework for nursing assessment.
+
+**Section 10.2** introduced the health-illness continuum as a clinical tool for understanding patient position and trajectory. The neutral zone was identified as a high-opportunity zone for preventive intervention. The distinction between *disease* (objective, clinically measurable alteration) and *illness* (subjective patient experience of disruption) was established as foundational to patient-centered nursing assessment.
+
+**Section 10.3** examined the three categories of health determinants: biological (genetics, age, sex, epigenetics), behavioral (tobacco, physical activity, diet, medication adherence), and social (the five SDOH domains of Healthy People 2030). The interactive nature of these determinants was emphasized, and the disproportionate influence of SDOH on health outcomes was highlighted.
+
+**Section 10.4** distinguished health promotion (building potential in all people) from disease prevention (reducing specific disease risk), and presented the three-level prevention framework: primary (before disease onset), secondary (early detection), and tertiary (limiting disability in established disease). The USPSTF was introduced as the standard reference for evidence-based preventive service recommendations.
+
+**Section 10.5** compared acute and chronic illness across six dimensions (onset, duration, goal, patient role, nursing focus, family impact) and identified self-management support — grounded in the Chronic Care Model and patient activation research — as the defining nursing imperative in chronic illness management.
+
+**Section 10.6** examined Parsons's sick role theory — its four elements (two rights, two obligations) — and the concept of illness behavior, including the influence of the lay referral system and the spectrum from normal to abnormal illness behavior. Contemporary critiques of the sick role, particularly regarding chronic illness and cultural variation, were addressed.
+
+**Section 10.7** defined health disparities as preventable, systemic differences in health burden attributable to social disadvantage. The social gradient of health, structural racism, and weathering were presented as mechanisms. Nursing responsibilities for disparity reduction were outlined at individual, institutional, and community-policy levels.
+
+---
+
+## Key Takeaways
+
+1. **Health is more than the absence of disease.** The WHO definition, the biopsychosocial model, and the wellness model all recognize that health encompasses physical, mental, social, spiritual, and environmental dimensions that must be assessed holistically.
+
+2. **The health-illness continuum is dynamic.** Patients move toward wellness or illness based on the interaction of biological, behavioral, and social forces. Nursing interventions aim to shift the trajectory toward wellness.
+
+3. **Disease and illness are distinct concepts.** Disease is objective and clinically measurable; illness is the patient's subjective experience of disruption. Complete nursing assessment addresses both.
+
+4. **SDOH drive the majority of health outcomes.** Approximately 80% of health outcomes are shaped by non-medical factors. Nurses who screen for SDOH and connect patients to community resources address the upstream causes of preventable disease.
+
+5. **Prevention operates at three levels.** Primary, secondary, and tertiary prevention require different nursing skills, target different populations, and produce different outcomes. Nurses practice all three levels across care settings.
+
+6. **Chronic illness demands a different nursing paradigm.** Unlike acute illness, which centers on cure, chronic illness management centers on self-management support, patient activation, and quality-of-life preservation across a lifelong trajectory.
+
+7. **The sick role has clinical utility and limitations.** Parsons's model explains help-seeking behavior and patient compliance patterns, but requires adaptation for chronic illness, cross-cultural contexts, and stigmatized conditions.
+
+8. **Health disparities are structural, not inevitable.** Racial, economic, and geographic health disparities arise primarily from differential SDOH exposure and structural inequity — not from biological differences. Nurses have professional, ethical, and evidence-based obligations to reduce disparities at every level of practice.
+
+---
+
+## References
+
+American Holistic Nurses Association. (2019). *Holistic nursing: Scope and standards of practice* (3rd ed.). American Nurses Association.
+
+American Nurses Association. (2015). *Code of ethics for nurses with interpretive statements*. American Nurses Association.
+
+Betancourt, J. R., Green, A. R., Carrillo, J. E., & Owusu Ananeh-Firempong, I. I. (2016). Defining cultural competence: A practical framework for addressing racial/ethnic disparities in health and health care. *Public Health Reports*, *118*(4), 293–302. https://doi.org/10.1093/phr/118.4.293
+
+Braveman, P. (2014). What are health disparities and health equity? We need to be clear. *Public Health Reports*, *129*(Suppl 2), 5–8. https://doi.org/10.1177/00333549141291S203
+
+Centers for Disease Control and Prevention. (2023). *Chronic diseases in America*. U.S. Department of Health and Human Services. https://www.cdc.gov/chronicdisease/resources/infographic/chronic-diseases.htm
+
+Commission on Social Determinants of Health. (2008). *Closing the gap in a generation: Health equity through action on the social determinants of health*. World Health Organization.
+
+Dunn, H. L. (1961). *High-level wellness*. R. W. Beatty.
+
+Engel, G. L. (1977). The need for a new medical model: A challenge for biomedicine. *Science*, *196*(4286), 129–136. https://doi.org/10.1126/science.847460
+
+FitzGerald, C., & Hurst, S. (2017). Implicit bias in healthcare professionals: A systematic review. *BMC Medical Ethics*, *18*(1), 19. https://doi.org/10.1186/s12910-017-0179-8
+
+Freidson, E. (1961). *Patients' views of medical practice*. Russell Sage Foundation.
+
+Geronimus, A. T. (1992). The weathering hypothesis and the health of African-American women and infants: Evidence and speculations. *Ethnicity and Disease*, *2*(3), 207–221.
+
+Hibbard, J. H., Stockard, J., Mahoney, E. R., & Tusler, M. (2004). Development of the Patient Activation Measure (PAM): Conceptualizing and measuring activation in patients and consumers. *Health Services Research*, *39*(4), 1005–1026. https://doi.org/10.1111/j.1475-6773.2004.00269.x
+
+Hoffman, K. M., Trawalter, S., Axt, J. R., & Oliver, M. N. (2016). Racial bias in pain assessment and treatment recommendations, and false beliefs about biological differences between Blacks and Whites. *Proceedings of the National Academy of Sciences*, *113*(16), 4296–4301. https://doi.org/10.1073/pnas.1516047113
+
+Hood, C. M., Gennuso, K. P., Swain, G. R., & Catlin, B. B. (2016). County health rankings: Relationships between determinant factors and health outcomes. *American Journal of Preventive Medicine*, *50*(2), 129–135. https://doi.org/10.1016/j.amepre.2015.08.024
+
+Kleinman, A. (1988). *The illness narratives: Suffering, healing, and the human condition*. Basic Books.
+
+Marmot, M. G. (2005). Social determinants of health inequalities. *The Lancet*, *365*(9464), 1099–1104. https://doi.org/10.1016/S0140-6736(05)71146-6
+
+McEwen, B. S. (2012). Brain on stress: How the social environment gets under the skin. *Proceedings of the National Academy of Sciences*, *109*(Suppl 2), 17180–17185. https://doi.org/10.1073/pnas.1121254109
+
+Mechanic, D. (1978). *Medical sociology* (2nd ed.). Free Press.
+
+Mechanic, D. (1995). Sociological dimensions of illness behavior. *Social Science and Medicine*, *41*(9), 1207–1216. https://doi.org/10.1016/0277-9536(95)00025-3
+
+Mehta, L. S., Beckie, T. M., DeVon, H. A., Grines, C. L., Krumholz, H. M., Johnson, M. N., Lindley, K. J., Vaccarino, V., Wang, T. Y., Watson, K. E., & Wenger, N. K. (2016). Acute myocardial infarction in women: A scientific statement from the American Heart Association. *Circulation*, *133*(9), 916–947. https://doi.org/10.1161/CIR.0000000000000351
+
+Mokdad, A. H., Ballestros, K., Echko, M., Glenn, S., Olsen, H. E., Mullany, E., Lee, A., Khan, A. R., Ahmadi, A., Ferrari, A. J., Kasaeian, A., Werdecker, A., Carter, A., Zipkin, B., Sartorius, B., Serdar, B., Sykes, B. L., Troeger, C., Fitzmaurice, C., ... Murray, C. J. L. (2018). The state of US health, 1990–2016: Burden of diseases, injuries, and risk factors among US states. *JAMA*, *319*(14), 1444–1472. https://doi.org/10.1001/jama.2018.0158
+
+Parsons, T. (1951). *The social system*. Free Press.
+
+Pender, N. J., Murdaugh, C. L., & Parsons, M. A. (2015). *Health promotion in nursing practice* (7th ed.). Pearson.
+
+Pilowsky, I. (1978). A general classification of abnormal illness behaviors. *British Journal of Medical Psychology*, *51*(2), 131–137. https://doi.org/10.1111/j.2044-8341.1978.tb02463.x
+
+Rogers, M. E. (1970). *An introduction to the theoretical basis of nursing*. F. A. Davis.
+
+Shonkoff, J. P., Garner, A. S., the Committee on Psychosocial Aspects of Child and Family Health, Committee on Early Childhood, Adoption, and Dependent Care, and Section on Developmental and Behavioral Pediatrics. (2012). The lifelong effects of early childhood adversity and toxic stress. *Pediatrics*, *129*(1), e232–e246. https://doi.org/10.1542/peds.2011-2663
+
+Strauss, A., & Corbin, J. (1988). *Shaping a new health care system: The explosion of chronic illness as a catalyst for change*. Jossey-Bass.
+
+Turner, B. S. (1987). *Medical power and social knowledge*. Sage.
+
+U.S. Department of Health and Human Services. (2020). *Healthy People 2030*. https://health.gov/healthypeople
+
+Wagner, E. H., Austin, B. T., & Von Korff, M. (1996). Organizing care for patients with chronic illness. *The Milbank Quarterly*, *74*(4), 511–544. https://doi.org/10.2307/3350391
+
+Watson, J. (1979). *Nursing: The philosophy and science of caring*. Little, Brown.
+
+White, M., Garbez, R., Carroll, M., Brinker, E., & Howie-Esquivel, J. (2013). Is "teach-back" associated with knowledge retention and hospital readmission in hospitalized heart failure patients? *Journal of Cardiovascular Nursing*, *28*(2), 137–146. https://doi.org/10.1097/JCN.0b013e31824987bd
+
+Williams, D. R., & Collins, C. (2001). Racial residential segregation: A fundamental cause of racial disparities in health. *Public Health Reports*, *116*(5), 404–416. https://doi.org/10.1093/phr/116.5.404
+
+World Health Organization. (1948). *Preamble to the Constitution of the World Health Organization*. World Health Organization.
+
+World Health Organization. (1986). *Ottawa Charter for Health Promotion*. World Health Organization.
+
+---
+
+## Chapter Production Notes
+
+- **Sprint:** 2026-03-15-2214
+- **Version:** 1.0 (first draft)
+- **Completion date:** 2026-03-15
+- **Word count (estimated):** 11,500–13,000 words
+- **Section count:** 7 content sections (10.1–10.7) + case study + NCLEX + summary + references
+- **Figure placeholders:** 7 (Figures 10.1–10.7)
+- **Evidence base:** 30 primary references; APA 7th edition throughout
+- **Next step:** Developmental edit; figure design brief; NCLEX NGN alignment review
+
