@@ -80,7 +80,7 @@
 | References | [x] |
 | Developmental edit | [x] (Sprint 2026-03-15-2354) |
 | Copy edit / proofread | [x] (Sprint 2026-03-15-2354) |
-| HTML formatting | [ ] |
+| HTML formatting | [x] (Sprint 2026-03-16-0310) |
 
 ---
 
@@ -90,13 +90,13 @@
 
 | Task | Status |
 |------|--------|
-| Outline review | [ ] |
-| Chapter draft | [ ] |
-| Key terms | [ ] |
-| Case study | [ ] |
-| NCLEX questions | [ ] |
-| Summary | [ ] |
-| References | [ ] |
+| Outline review | [x] (Sprint 2026-03-16-0310) |
+| Chapter draft | [x] (Sprint 2026-03-16-0310) |
+| Key terms | [x] (Sprint 2026-03-16-0310) |
+| Case study | [x] (Sprint 2026-03-16-0310) |
+| NCLEX questions | [x] (Sprint 2026-03-16-0310) |
+| Summary | [x] (Sprint 2026-03-16-0310) |
+| References | [x] (Sprint 2026-03-16-0310) |
 | Developmental edit | [ ] |
 | Copy edit / proofread | [ ] |
 | HTML formatting | [ ] |
@@ -135,6 +135,25 @@
 | NCLEX questions | [ ] |
 | Summary | [ ] |
 | References | [ ] |
+| Developmental edit | [ ] |
+| Copy edit / proofread | [ ] |
+| HTML formatting | [x] (Sprint 2026-03-16-0310) |
+
+---
+
+### Chapter 5: Cultural Humility, Health Literacy, and Inclusive Care
+
+*Depends on: Chapter 4*
+
+| Task | Status |
+|------|--------|
+| Outline review | [x] (Sprint 2026-03-16-0310) |
+| Chapter draft | [x] (Sprint 2026-03-16-0310) |
+| Key terms | [x] (Sprint 2026-03-16-0310) |
+| Case study | [x] (Sprint 2026-03-16-0310) |
+| NCLEX questions | [x] (Sprint 2026-03-16-0310) |
+| Summary | [x] (Sprint 2026-03-16-0310) |
+| References | [x] (Sprint 2026-03-16-0310) |
 | Developmental edit | [ ] |
 | Copy edit / proofread | [ ] |
 | HTML formatting | [ ] |
@@ -177,7 +196,7 @@
 | References | [x] |
 | Developmental edit | [x] (Sprint 2026-03-15-2354) |
 | Copy edit / proofread | [x] (Sprint 2026-03-15-2354) |
-| HTML formatting | [ ] |
+| HTML formatting | [x] (Sprint 2026-03-16-0310) |
 
 ---
 
@@ -236,7 +255,7 @@
 | References | [x] |
 | Developmental edit | [x] (Sprint 2026-03-15-2354) |
 | Copy edit / proofread | [x] (Sprint 2026-03-15-2354) |
-| HTML formatting | [ ] |
+| HTML formatting | [x] (Sprint 2026-03-16-0310) |
 
 ---
 

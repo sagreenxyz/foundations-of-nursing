@@ -1,6 +1,6 @@
 /* ============================================================
-   Foundations of Nursing — app.js  v1.0
-   Sprint 2026-03-15-2105
+   Foundations of Nursing — app.js  v1.2
+   Sprint 2026-03-16-0310
    ============================================================
    Uses marked.js (loaded via CDN in index.html) to render
    markdown chapter files fetched from ../content/.
@@ -15,9 +15,9 @@ const UNITS = [
     chapters: [
       { num: 1,  title: 'History and Evolution of Nursing',                  file: 'chapter-01.md', status: 'draft'   },
       { num: 2,  title: 'Legal, Ethical, and Professional Standards',         file: 'chapter-02.md', status: 'draft'   },
-      { num: 3,  title: 'Patient Rights, Advocacy, and Informed Consent',     file: 'chapter-03.md', status: 'soon'    },
+      { num: 3,  title: 'Patient Rights, Advocacy, and Informed Consent',     file: 'chapter-03.md', status: 'draft'   },
       { num: 4,  title: 'Therapeutic Communication',                          file: 'chapter-04.md', status: 'draft'  },
-      { num: 5,  title: 'Cultural Humility, Health Literacy, and Inclusive Care', file: 'chapter-05.md', status: 'soon' },
+      { num: 5,  title: 'Cultural Humility, Health Literacy, and Inclusive Care', file: 'chapter-05.md', status: 'draft' },
       { num: 6,  title: 'End-of-Life Communication and Palliative Care',      file: 'chapter-06.md', status: 'soon'    },
     ],
   },
