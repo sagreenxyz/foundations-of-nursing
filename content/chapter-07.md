@@ -60,7 +60,7 @@ This chapter traces both disciplines in depth. Section 7.1 defines EBP, examines
 
 ---
 
-## Section 7.1 — What Is Evidence-Based Practice? (Approximately 5 pages)
+## Section 7.1 — What Is Evidence-Based Practice?
 
 ### 7.1.1 Defining Evidence-Based Practice
 
@@ -119,7 +119,7 @@ This question is specific, searchable, and clinically actionable. Each component
 
 ---
 
-## Section 7.2 — Levels of Evidence and the Research Hierarchy (Approximately 5 pages)
+## Section 7.2 — Levels of Evidence and the Research Hierarchy
 
 ### 7.2.1 Why Evidence Has Levels
 
@@ -185,7 +185,7 @@ Contemporary nursing EBP frameworks, including those promoted by the Joanna Brig
 
 ---
 
-## Section 7.3 — Finding and Appraising Clinical Evidence (Approximately 6 pages)
+## Section 7.3 — Finding and Appraising Clinical Evidence
 
 ### 7.3.1 Selecting the Right Database
 
@@ -261,7 +261,7 @@ Several formal models guide organizations and individual nurses through the proc
 
 ---
 
-## Section 7.4 — Quality Improvement and Patient Safety: The QSEN Framework (Approximately 6 pages)
+## Section 7.4 — Quality Improvement and Patient Safety: The QSEN Framework
 
 ### 7.4.1 The Origins of QSEN
 
@@ -344,7 +344,7 @@ The RCA process typically culminates in a list of **contributing factors** (iden
 
 ---
 
-## Section 7.5 — Translating Evidence into Practice: Barriers and Facilitators (Approximately 5 pages)
+## Section 7.5 — Translating Evidence into Practice: Barriers and Facilitators
 
 ### 7.5.1 The Research-to-Practice Gap
 
@@ -408,7 +408,7 @@ Implementation science — the study of methods to promote the systematic uptake
 
 ---
 
-## Section 7.6 — Quality Measures, Outcome Reporting, and NDNQI (Approximately 5 pages)
+## Section 7.6 — Quality Measures, Outcome Reporting, and NDNQI
 
 ### 7.6.1 The Landscape of Healthcare Quality Measurement
 
@@ -726,6 +726,7 @@ Titler, M. G., Kleiber, C., Steelman, V. J., Rakel, B. A., Budreau, G., Everett,
 
 *Chapter 7 draft completed: 2026-03-15 UTC*  
 *Sprint: 2026-03-15-2214*  
-*Version: 1.0 (first draft)*
+*Edited in Sprint: 2026-03-15-2354*
+*Version: 2.0 (second draft — developmental edit and copy edit complete)*
 
 
