@@ -209,6 +209,25 @@ Intervention selection is guided by: (1) the etiology of the nursing diagnosis, 
 > **Safety Alert: The "Five Rights" Are Not Enough**  
 > Traditional medication administration education taught the Five Rights: right patient, right drug, right dose, right route, right time. Contemporary patient safety science has extended this list to include the right documentation, right reason, right response, and right to refuse. The Joint Commission's National Patient Safety Goals consistently identify medication errors as a leading cause of preventable patient harm, and research demonstrates that errors frequently occur not during drug preparation but during the cognitive step of assessment — when the nurse fails to assess for contraindications, relevant allergies, or abnormal laboratory values before administration (The Joint Commission, 2023).
 
+> **Clinical Focus: Vancomycin Administration and Red Man Syndrome**  
+> **Vancomycin** is a glycopeptide antibiotic used to treat serious gram-positive infections, including methicillin-resistant *Staphylococcus aureus* (MRSA). Because of its narrow therapeutic index and risk of adverse reactions, vancomycin administration is a high-stakes dependent intervention that demands vigilant nursing assessment before, during, and after infusion.  
+>  
+> **Red Man Syndrome** (also called vancomycin flushing syndrome) is the most common infusion-related reaction to vancomycin. It is not a true allergic (IgE-mediated) reaction; rather, it results from direct mast-cell degranulation and histamine release triggered by overly rapid infusion. Classic manifestations include:  
+> - Flushing, erythema, and pruritus of the face, neck, and upper torso ("red man" appearance)  
+> - Tingling or burning sensation of the skin  
+> - Hypotension (in severe cases)  
+> - Tachycardia  
+>  
+> **Nursing responsibilities for Red Man Syndrome prevention and management:**  
+> 1. **Infuse slowly.** Standard practice is to administer vancomycin over at least 60 minutes; doses of 1,000 mg or greater should be infused over 90–120 minutes. Many institutional protocols specify a rate no faster than 10–15 mg/min.  
+> 2. **Assess before infusion.** Review the current vancomycin trough or AUC/MIC level, renal function (serum creatinine, BUN), and allergy history before each dose.  
+> 3. **Monitor continuously during infusion.** Observe the patient's skin, face, and neck for flushing or erythema; assess blood pressure and heart rate; ask the patient about pruritus or tingling.  
+> 4. **Respond immediately if reactions occur.** Stop or slow the infusion, notify the prescribing provider, and administer diphenhydramine as ordered. Document the reaction, the intervention, and the patient's response.  
+> 5. **Educate the patient.** Explain that flushing or itching during or shortly after infusion is a known reaction and that the patient should notify the nurse immediately if these symptoms appear.  
+> 6. **Anticipate pre-medication.** For patients with a history of Red Man Syndrome, the prescriber may order prophylactic diphenhydramine or a slower infusion rate for all subsequent doses.  
+>  
+> Red Man Syndrome is entirely preventable with correct infusion technique. The nurse who understands the pharmacological basis of this reaction — histamine release driven by infusion rate — is equipped to prevent it prospectively, not merely to treat it after it has occurred.
+
 ### 8.5.2 Delegation and Supervision
 
 A significant component of implementation in team nursing environments is the appropriate **delegation** of nursing interventions to unlicensed assistive personnel (UAP), including nursing assistants, patient care technicians, and orderlies. The ANA and the National Council of State Boards of Nursing (NCSBN) jointly specify that delegation requires careful application of the Five Rights of Delegation: right task, right circumstance, right person, right direction and communication, and right supervision and evaluation (ANA & NCSBN, 2019).
