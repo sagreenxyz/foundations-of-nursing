@@ -112,6 +112,29 @@ function parseBacklog(text) {
   return result;
 }
 
+// ── Canonical task list (same order as blankTasks() in dependency-tree.html) ─
+const CANONICAL_TASKS = [
+  'Outline review',
+  'Chapter draft',
+  'Key terms',
+  'Case study',
+  'NCLEX questions',
+  'Summary',
+  'References',
+  'Developmental edit',
+  'Copy edit/proofread',
+  'HTML formatting',
+];
+
+// ── Build an inline tasks array string from backlog data ───────────────────
+function buildTasksArray(taskMap) {
+  const items = CANONICAL_TASKS.map(name => {
+    const status = taskMap.get(name) || 'not-started';
+    return `{name:'${name}',s:'${status}'}`;
+  });
+  return `[\n    ${items.join(',\n    ')},\n  ]`;
+}
+
 // ── Patch dependency-tree.html ─────────────────────────────────────────────
 // For each chapter node (e.g. ch1 … ch45) and each task whose status we
 // know from the backlog, replace the s:'...' literal in the relevant task
@@ -121,13 +144,27 @@ function parseBacklog(text) {
 //   {name:'Outline review',      s:'not-started'},
 //   {name:'Chapter draft',       s:'complete'},
 //
-// Strategy: locate each chapter's RAW entry by its id string, then within
-// that block replace the s:'...' for each known task.
+// Strategy:
+//   1. If the chapter currently uses blankTasks(), expand it to an inline
+//      array so individual task statuses can be tracked going forward.
+//   2. Then patch the inline task statuses from the backlog map.
 function patchHtml(html, backlogMap) {
   let changed = false;
 
   for (const [chId, taskMap] of backlogMap) {
-    // Find the RAW entry for this chapter id
+    // ── Step 1: expand blankTasks() → inline array ─────────────────────────
+    // Matches a single RAW line like:
+    //   {id:'ch6',  label:'...',  num:6,  unit:1, deps:[...],  tasks:blankTasks()},
+    const blankRe = new RegExp(
+      `(\\{id:'${chId}',[^\\n]*?\\btasks:)blankTasks\\(\\)`,
+      'g'
+    );
+    html = html.replace(blankRe, (_m, prefix) => {
+      changed = true;
+      return prefix + buildTasksArray(taskMap);
+    });
+
+    // ── Step 2: patch statuses in the existing inline task array ───────────
     // Pattern: {id:'ch1', ...}  or  {id:'ch10', ...}
     const idPattern = new RegExp(
       `\\{id:'${chId}',[^}]*?tasks:\\[([\\s\\S]*?)\\]\\}`,
