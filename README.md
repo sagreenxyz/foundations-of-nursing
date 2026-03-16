@@ -129,21 +129,33 @@ foundations-of-nursing/
 
 ## Developer Setup
 
-### Git Hooks (Dependency Tree Auto-Sync)
+### Dependency Tree Auto-Sync
 
-A pre-commit hook keeps `dependency-tree.html` in sync with the master sprint
-backlog automatically. After cloning, run the following once to activate it:
+`dependency-tree.html` is kept in sync with the master sprint backlog
+(`activity/2026-03-15-1210/sprint-backlog.md`) through two complementary
+mechanisms:
+
+**1 — GitHub Actions (runs automatically on every push to `main`)**
+
+A workflow at `.github/workflows/update-dependency-tree.yml` triggers
+whenever the master backlog or any chapter file changes. It runs
+`scripts/update-dependency-tree.js` and commits the updated
+`dependency-tree.html` back to `main`. No manual steps are needed — the
+dependency tree is refreshed at the end of every sprint as part of the normal
+push workflow.
+
+**2 — Pre-commit hook (optional, for local development)**
+
+After cloning, run the following once to activate the local pre-commit hook:
 
 ```bash
 git config core.hooksPath .githooks
 ```
 
-The hook runs `scripts/update-dependency-tree.js` before every commit, parses
-the task statuses in `activity/2026-03-15-1210/sprint-backlog.md`, and patches
-`dependency-tree.html` to match. If the file is updated, it is automatically
-staged as part of the commit.
+The hook runs `scripts/update-dependency-tree.js` before every commit and
+automatically stages `dependency-tree.html` if it changed.
 
-You can also run the sync manually at any time:
+**Manual sync (run at any time):**
 
 ```bash
 node scripts/update-dependency-tree.js
