@@ -558,9 +558,10 @@ World Health Organization. (2008). *Closing the gap in a generation: Health equi
 | NCLEX questions | 10 (mix of single-answer, select-all-that-apply, and NGN extended thinking) |
 | Key terms | 15 |
 | Sidebar/callout boxes | 7 (Historical Spotlight × 1, EBP Connection × 3, Clinical Tip × 2, Patient Voice — implied in case study) |
-| Version | 1.0 |
-| Sprint | 2026-03-16-0310 |
+| Version | 2.0 |
+| Sprint | 2026-03-16-0336 |
 
 ---
 
-*Chapter 5 version 1.0 — Sprint 2026-03-16-0310*
+*Chapter draft version: 2.0 — 2026-03-16 (developmental edit + copy edit complete)*  
+*Sprint: 2026-03-16-0336*
