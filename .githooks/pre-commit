@@ -1,29 +1,47 @@
 #!/usr/bin/env bash
 # .githooks/pre-commit
 #
-# Syncs dependency-tree.html task statuses with the master sprint backlog
-# before every commit.  If the file changes, it is automatically staged.
+# 1. Syncs dependency-tree.html task statuses with the master sprint backlog.
+# 2. Regenerates docs/index.md from Key Terms tables in content chapter files.
+#
+# Both generated files are automatically staged if they changed.
 
 set -euo pipefail
 
 REPO_ROOT="$(git rev-parse --show-toplevel)"
-SCRIPT="$REPO_ROOT/scripts/update-dependency-tree.js"
 
-if [ ! -f "$SCRIPT" ]; then
-  echo "pre-commit: update script not found ($SCRIPT), skipping dependency-tree sync"
-  exit 0
-fi
-
+# ── Guard: require node ────────────────────────────────────────────────────
 if ! command -v node >/dev/null 2>&1; then
-  echo "pre-commit: node not found, skipping dependency-tree sync"
+  echo "pre-commit: node not found, skipping automated sync steps"
   exit 0
 fi
 
-echo "pre-commit: syncing dependency-tree.html with master backlog…"
-node "$SCRIPT"
+# ── 1. Sync dependency-tree.html ──────────────────────────────────────────
+DEP_SCRIPT="$REPO_ROOT/scripts/update-dependency-tree.js"
 
-# Stage dependency-tree.html if the working-tree copy differs from the index
-if [ -n "$(git status --porcelain "$REPO_ROOT/dependency-tree.html" 2>/dev/null)" ]; then
-  git add "$REPO_ROOT/dependency-tree.html"
-  echo "pre-commit: dependency-tree.html staged."
+if [ ! -f "$DEP_SCRIPT" ]; then
+  echo "pre-commit: update-dependency-tree script not found ($DEP_SCRIPT), skipping"
+else
+  echo "pre-commit: syncing dependency-tree.html with master backlog…"
+  node "$DEP_SCRIPT"
+
+  if [ -n "$(git status --porcelain "$REPO_ROOT/dependency-tree.html" 2>/dev/null)" ]; then
+    git add "$REPO_ROOT/dependency-tree.html"
+    echo "pre-commit: dependency-tree.html staged."
+  fi
+fi
+
+# ── 2. Regenerate docs/index.md ───────────────────────────────────────────
+INDEX_SCRIPT="$REPO_ROOT/scripts/update-index.js"
+
+if [ ! -f "$INDEX_SCRIPT" ]; then
+  echo "pre-commit: update-index script not found ($INDEX_SCRIPT), skipping index update"
+else
+  echo "pre-commit: regenerating docs/index.md from chapter key terms…"
+  node "$INDEX_SCRIPT"
+
+  if [ -n "$(git status --porcelain "$REPO_ROOT/docs/index.md" 2>/dev/null)" ]; then
+    git add "$REPO_ROOT/docs/index.md"
+    echo "pre-commit: docs/index.md staged."
+  fi
 fi
