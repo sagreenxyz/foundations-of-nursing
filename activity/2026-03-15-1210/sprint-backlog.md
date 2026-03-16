@@ -206,16 +206,16 @@
 
 | Task | Status |
 |------|--------|
-| Outline review | [ ] |
-| Chapter draft | [ ] |
-| Key terms | [ ] |
-| Case study | [ ] |
-| NCLEX questions | [ ] |
-| Summary | [ ] |
-| References | [ ] |
-| Developmental edit | [ ] |
-| Copy edit / proofread | [ ] |
-| HTML formatting | [ ] |
+| Outline review | [x] (Sprint 2026-03-16-1657) |
+| Chapter draft | [x] (Sprint 2026-03-16-1657) |
+| Key terms | [x] (Sprint 2026-03-16-1657) |
+| Case study | [x] (Sprint 2026-03-16-1657) |
+| NCLEX questions | [x] (Sprint 2026-03-16-1657) |
+| Summary | [x] (Sprint 2026-03-16-1657) |
+| References | [x] (Sprint 2026-03-16-1657) |
+| Developmental edit | [x] (Sprint 2026-03-16-1657) |
+| Copy edit / proofread | [x] (Sprint 2026-03-16-1657) |
+| HTML formatting | [x] (rendered via `docs/` web app — Sprint 2026-03-16-1657) |
 
 ---
 
