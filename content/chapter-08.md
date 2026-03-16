@@ -89,7 +89,7 @@ The nursing process is, at its core, a structure for **critical thinking** appli
 [FIGURE 8.1: The ADPIE Cycle — Assessment, Diagnosis, Planning, Implementation, and Evaluation shown as a continuous, bidirectional loop.]  
 *Alt text: A circular diagram with five labeled segments — Assessment, Diagnosis, Planning, Implementation, and Evaluation — connected by arrows indicating that the process cycles continuously and that feedback loops can return from any step to any earlier step.*
 
-Paul and Elder's (2008) framework of critical thinking identifies eight elements of reasoning — purpose, question at issue, information, interpretation, concepts, assumptions, implications, and point of view — all of which are engaged during skilled nursing process application. Nursing scholars Alfaro-LeFevre (2019) extended this framework into clinical reasoning, adding the dimension of nursing judgment: the integration of knowledge, experience, and moral agency that transforms data into action.
+Paul and Elder's (2008) framework of critical thinking identifies eight elements of reasoning — purpose, question at issue, information, interpretation, concepts, assumptions, implications, and point of view — all of which are engaged during skilled nursing process application. Nursing scholar Alfaro-LeFevre (2019) extended this framework into clinical reasoning, adding the dimension of nursing judgment: the integration of knowledge, experience, and moral agency that transforms data into action.
 
 ---
 
@@ -154,7 +154,7 @@ A **syndrome diagnosis** describes a cluster of nursing diagnoses that predictab
 
 ### 8.3.3 Writing Nursing Diagnoses Using PES Format
 
-For actual nursing diagnoses, the **PES format** provides a three-part structure that clearly communicates the problem, its cause, and its evidence:
+For actual nursing diagnoses, the **PES format** provides a three-part structure that clearly communicates the problem, its cause, and its evidence (Carpenito, 2021; Doenges et al., 2019):
 
 **Problem** (the NANDA-I diagnostic label) + **Etiology** (*related to* [contributing factors]) + **Signs and Symptoms** (*as evidenced by* [defining characteristics from assessment data]).
 
@@ -310,7 +310,7 @@ The nursing process — Assessment, Diagnosis, Planning, Implementation, Evaluat
 **Key Takeaways:**
 
 1. **History and purpose:** The nursing process was formalized between the 1950s and 1970s and embedded in ANA standards of practice; it defines nursing as a profession distinct from medicine and as a systematic clinical science.
-2. **Cyclic and dynamic:** ADPIE is not linear; it is a continuous cycle in which any step can trigger re-examination of prior steps, and all five steps operate simultaneously at multiple levels of clinical specificity.
+2. **Documentation:** Accurate, timely, and complete documentation across all five steps of the nursing process constitutes the professional and legal record of care — reflected in nursing notes, care plans, and shift assessments, not merely in discrete electronic health record data fields.
 3. **Assessment:** Comprehensive nursing assessment collects both subjective and objective data using frameworks such as Gordon's Functional Health Patterns and validates findings before drawing conclusions.
 4. **Diagnosis:** Nursing diagnoses using NANDA-I language describe patient responses — not medical conditions — using PES format that links problem, etiology, and defining characteristics to guide individualized intervention selection.
 5. **Planning:** SMART goals and NOC outcomes provide measurable targets; NIC interventions provide evidence-based actions; Maslow's hierarchy guides prioritization across competing diagnoses.
@@ -499,10 +499,10 @@ Yura, H., & Walsh, M. B. (1967). *The nursing process: Assessing, planning, impl
 | NCLEX questions | 10 (single-answer × 6, SATA × 1, ordered-response × 1, NGN × 1, short answer × 1) |
 | Key terms | 15 |
 | Sidebar/callout boxes | 7 (Historical Spotlight × 1, Clinical Tip × 2, EBP Connection × 2, Safety Alert × 1, Clinical Reasoning × 1) |
-| Version | 1.0 |
-| Sprint | 2026-03-16-0348 |
+| Version | 2.0 |
+| Sprint | 2026-03-16-1355 |
 
 ---
 
-*Chapter draft version: 1.0 — 2026-03-16*  
-*Sprint: 2026-03-16-0348*
+*Chapter draft version: 2.0 — 2026-03-16 (developmental edit + copy edit complete)*  
+*Sprint: 2026-03-16-1355*

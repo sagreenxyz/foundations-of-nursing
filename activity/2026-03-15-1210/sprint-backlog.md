@@ -147,16 +147,16 @@
 
 | Task | Status |
 |------|--------|
-| Outline review | [ ] |
-| Chapter draft | [ ] |
-| Key terms | [ ] |
-| Case study | [ ] |
-| NCLEX questions | [ ] |
-| Summary | [ ] |
-| References | [ ] |
-| Developmental edit | [ ] |
-| Copy edit / proofread | [ ] |
-| HTML formatting | [ ] |
+| Outline review | [x] (Sprint 2026-03-16-0348) |
+| Chapter draft | [x] (Sprint 2026-03-16-0348) |
+| Key terms | [x] (Sprint 2026-03-16-0348) |
+| Case study | [x] (Sprint 2026-03-16-0348) |
+| NCLEX questions | [x] (Sprint 2026-03-16-0348) |
+| Summary | [x] (Sprint 2026-03-16-0348) |
+| References | [x] (Sprint 2026-03-16-0348) |
+| Developmental edit | [x] (Sprint 2026-03-16-1355) |
+| Copy edit / proofread | [x] (Sprint 2026-03-16-1355) |
+| HTML formatting | [x] (rendered via `docs/` web app — Sprint 2026-03-16-1355) |
 
 ---
 
@@ -187,16 +187,16 @@
 
 | Task | Status |
 |------|--------|
-| Outline review | [ ] |
-| Chapter draft | [ ] |
-| Key terms | [ ] |
-| Case study | [ ] |
-| NCLEX questions | [ ] |
-| Summary | [ ] |
-| References | [ ] |
-| Developmental edit | [ ] |
-| Copy edit / proofread | [ ] |
-| HTML formatting | [ ] |
+| Outline review | [x] (Sprint 2026-03-16-0348) |
+| Chapter draft | [x] (Sprint 2026-03-16-0348) |
+| Key terms | [x] (Sprint 2026-03-16-0348) |
+| Case study | [x] (Sprint 2026-03-16-0348) |
+| NCLEX questions | [x] (Sprint 2026-03-16-0348) |
+| Summary | [x] (Sprint 2026-03-16-0348) |
+| References | [x] (Sprint 2026-03-16-0348) |
+| Developmental edit | [x] (Sprint 2026-03-16-1355) |
+| Copy edit / proofread | [x] (Sprint 2026-03-16-1355) |
+| HTML formatting | [x] (rendered via `docs/` web app — Sprint 2026-03-16-1355) |
 
 ---
 

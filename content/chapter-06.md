@@ -169,7 +169,7 @@ Palliative sedation requires physician orders, documented informed consent from 
 
 ### 6.4.1 Grief Theories and Kübler-Ross
 
-The psychological literature on dying and grief has been shaped profoundly by the work of Elisabeth Kübler-Ross, whose 1969 book *On Death and Dying* introduced the five-stage model based on her interviews with terminally ill patients. The **Kübler-Ross stages** — denial, anger, bargaining, depression, and acceptance — are deeply embedded in clinical culture and remain widely taught. However, their application requires important caveats.
+The psychological literature on dying and grief has been shaped profoundly by the work of Elisabeth Kübler-Ross, whose 1969 book *On Death and Dying* (Kübler-Ross, 1969) introduced the five-stage model based on her interviews with terminally ill patients. The **Kübler-Ross stages** — denial, anger, bargaining, depression, and acceptance — are deeply embedded in clinical culture and remain widely taught. However, their application requires important caveats.
 
 The stages are not linear, sequential, or universal. A patient may experience anger and acceptance simultaneously, may revisit denial after a period of apparent acceptance, or may never progress through all five stages. The model was descriptive, not prescriptive — Kübler-Ross identified patterns in her patients' experience; she did not propose a pathway that all patients should follow. Applying the stages rigidly — "she's still in denial" — risks invalidating the patient's actual experience.
 
@@ -264,7 +264,7 @@ Clinical signs of active dying include:
 
 - **Mottling** — irregular, bluish-purple discoloration of the skin, beginning in the extremities, caused by peripheral vascular shutdown
 - **Cheyne-Stokes respirations** — irregular breathing with alternating periods of apnea and hyperpnea, caused by decreased sensitivity of the respiratory center to carbon dioxide
-- **Terminal secretions** (the "death rattle") — gurgling respiratory sounds caused by pooling of secretions in the relaxed upper airway
+- **Terminal secretions** (the "**death rattle**") — gurgling respiratory sounds caused by pooling of secretions in the relaxed upper airway
 - **Cooling and cyanosis** of the extremities — peripheral circulation ceases as the body prioritizes central circulation
 - **Decreased urine output or anuria** — the kidneys cease filtering as perfusion declines
 - **Unresponsiveness** — the patient no longer responds to voice or touch
@@ -273,7 +273,7 @@ Oral intake typically ceases in the active dying phase. Families often request t
 
 ### 6.7.2 Comfort Care in the Final Hours
 
-In the active dying phase, all nursing interventions are oriented toward comfort. Non-essential medications and monitoring are discontinued. Blood pressure monitoring, pulse oximetry, and glucose checks are no longer appropriate when the patient is actively dying and not being treated for acute illness. Oral care — moisture swabs, lip balm — provides comfort even when the patient cannot swallow. Repositioning every two to four hours prevents pressure injury and maintains dignity. Environmental management — soft lighting, reduced noise, the presence of meaningful music or spiritual materials — creates conditions for a peaceful death.
+In the active dying phase, all nursing interventions are oriented toward comfort. Non-essential medications and monitoring are discontinued. Blood pressure monitoring, pulse oximetry, and glucose checks are no longer appropriate when the patient is actively dying and not being treated for acute illness. Oral care — moisture swabs, lip balm — provides comfort even when the patient cannot swallow. Repositioning every two to four hours prevents pressure injury and maintains dignity. Environmental management — soft lighting, reduced noise, the presence of meaningful music or spiritual materials — creates conditions for a peaceful death (National Consensus Project for Quality Palliative Care, 2018).
 
 Family members may need guidance on how to interact with an unresponsive dying patient. Nurses can offer: "Your mother may still be able to hear you. This is a good time to say anything you want her to know. Many families find it helpful to say 'I love you' or 'It's okay to go.'" This guidance can be transformative for families who feel helpless and do not know what their role is in the final hours.
 
@@ -481,13 +481,19 @@ Connors, A. F., Dawson, N. V., Desbiens, N. A., Fulkerson, W. J., Goldman, L., K
 
 Epstein, E. G., & Hamric, A. B. (2009). Moral distress, moral residue, and the crescendo effect. *Journal of Clinical Ethics*, *20*(4), 330–342.
 
+Ferris, F. D., Balfour, H. M., Bowen, K., Farley, J., Hardwick, M., Lamontagne, C., Lundy, M., Syme, A., & West, P. (2002). *A model to guide patient and family care: Based on nationally accepted principles and norms of practice*. Journal of Pain and Symptom Management, 24(2), 106–123. https://doi.org/10.1016/S0885-3924(02)00411-2
+
 Hammes, B. J., & Rooney, B. L. (1998). Death and end-of-life planning in one midwestern community. *Archives of Internal Medicine*, *158*(4), 383–390. https://doi.org/10.1001/archinte.158.4.383
 
 Hammes, B. J., Rooney, B. L., & Gundrum, J. D. (2010). A comparative, retrospective, observational study of the prevalence, availability, and specificity of advance care plans in a county that implemented an advance care planning microsystem. *Journal of the American Geriatrics Society*, *58*(7), 1249–1255. https://doi.org/10.1111/j.1532-5415.2010.02956.x
 
+Institute for Healthcare Improvement. (2015). *Conversation ready: A framework for improving end-of-life care*. IHI. http://www.ihi.org/resources/Pages/IHIWhitePapers/ConversationReadyEndofLifeCare.aspx
+
 Kübler-Ross, E. (1969). *On death and dying*. Macmillan.
 
 Lautrette, A., Darmon, M., Megarbane, B., Joly, L. M., Chevret, S., Adrie, C., Barnoud, D., Bleichner, G., Bruel, C., Choukroun, G., Curtis, J. R., Fieux, F., Galliot, R., Garrouste-Orgeas, M., Georges, H., Goldgran-Toledano, D., Jourdain, M., Loubert, G., Reignier, J., … Azoulay, E. (2007). A communication strategy and brochure for relatives of patients dying in the ICU. *New England Journal of Medicine*, *356*(5), 469–478. https://doi.org/10.1056/NEJMoa063446
+
+Lindemann, E. (1944/2001). Symptomatology and management of acute grief. *American Journal of Psychiatry*, *101*(2), 141–148. https://doi.org/10.1176/ajp.101.2.141
 
 Murray, S. A., Kendall, M., Boyd, K., & Sheikh, A. (2005). Illness trajectories and palliative care. *BMJ*, *330*(7498), 1007–1011. https://doi.org/10.1136/bmj.330.7498.1007
 
@@ -495,11 +501,19 @@ National Consensus Project for Quality Palliative Care. (2018). *Clinical practi
 
 Puchalski, C., & Romer, A. L. (2000). Taking a spiritual history allows clinicians to understand patients more fully. *Journal of Palliative Medicine*, *3*(1), 129–137. https://doi.org/10.1089/jpm.2000.3.129
 
+Rando, T. A. (1986). *Loss and anticipatory grief*. Lexington Books.
+
 Solano, J. P., Gomes, B., & Higginson, I. J. (2006). A comparison of symptom prevalence in far advanced cancer, AIDS, heart disease, chronic obstructive pulmonary disease and renal disease. *Journal of Pain and Symptom Management*, *31*(1), 58–69. https://doi.org/10.1016/j.jpainsymman.2005.06.007
+
+Sprung, C. L., Cohen, S. L., Sjokvist, P., Baras, M., Bulow, H. H., Hovilehto, S., Ledoux, D., Lippert, A., Maia, P., Phelan, D., Schobersberger, W., Wennberg, E., & Woodcock, T. (2003). End-of-life practices in European intensive care units: The Ethicus Study. *JAMA*, *290*(6), 790–797. https://doi.org/10.1001/jama.290.6.790
 
 Steinhauser, K. E., Clipp, E. C., McNeilly, M., Christakis, N. A., McIntyre, L. M., & Tulsky, J. A. (2000). In search of a good death: Observations of patients, families, and providers. *Annals of Internal Medicine*, *132*(10), 825–832. https://doi.org/10.7326/0003-4819-132-10-200005160-00011
 
 Stroebe, M., & Schut, H. (1999). The dual process model of coping with bereavement: Rationale and description. *Death Studies*, *23*(3), 197–224. https://doi.org/10.1080/074811899201046
+
+Weissman, D. E., & Meier, D. E. (2011). Identifying patients in need of a palliative care assessment in the hospital setting: A consensus report from the Center to Advance Palliative Care. *Journal of Palliative Medicine*, *14*(1), 17–23. https://doi.org/10.1089/jpm.2010.0109
+
+Worden, J. W. (2018). *Grief counseling and grief therapy: A handbook for the mental health practitioner* (5th ed.). Springer.
 
 World Health Organization. (2020). *Palliative care* [Fact sheet]. https://www.who.int/news-room/fact-sheets/detail/palliative-care
 
@@ -516,10 +530,10 @@ World Health Organization. (2020). *Palliative care* [Fact sheet]. https://www.w
 | NCLEX questions | 10 (single-answer × 6, SATA × 1, ordered-response × 1, NGN × 1, short answer × 1) |
 | Key terms | 15 |
 | Sidebar/callout boxes | 7 (Historical Spotlight × 1, Clinical Tip × 2, EBP Connection × 2, Safety Alert × 1, Patient Voice × 1) |
-| Version | 1.0 |
-| Sprint | 2026-03-16-0348 |
+| Version | 2.0 |
+| Sprint | 2026-03-16-1355 |
 
 ---
 
-*Chapter draft version: 1.0 — 2026-03-16*  
-*Sprint: 2026-03-16-0348*
+*Chapter draft version: 2.0 — 2026-03-16 (developmental edit + copy edit complete)*  
+*Sprint: 2026-03-16-1355*

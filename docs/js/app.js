@@ -1,6 +1,6 @@
 /* ============================================================
-   Foundations of Nursing — app.js  v1.2
-   Sprint 2026-03-16-0310
+   Foundations of Nursing — app.js  v1.3
+   Sprint 2026-03-16-1355
    ============================================================
    Uses marked.js (loaded via CDN in index.html) to render
    markdown chapter files fetched from ../content/.
@@ -18,14 +18,14 @@ const UNITS = [
       { num: 3,  title: 'Patient Rights, Advocacy, and Informed Consent',     file: 'chapter-03.md', status: 'draft'   },
       { num: 4,  title: 'Therapeutic Communication',                          file: 'chapter-04.md', status: 'draft'  },
       { num: 5,  title: 'Cultural Humility, Health Literacy, and Inclusive Care', file: 'chapter-05.md', status: 'draft' },
-      { num: 6,  title: 'End-of-Life Communication and Palliative Care',      file: 'chapter-06.md', status: 'soon'    },
+      { num: 6,  title: 'End-of-Life Communication and Palliative Care',      file: 'chapter-06.md', status: 'draft'   },
     ],
   },
   {
     label: 'Unit 2: The Clinical Mindset',
     chapters: [
       { num: 7,  title: 'Evidence-Based Practice and Quality Improvement',    file: 'chapter-07.md', status: 'draft'   },
-      { num: 8,  title: 'The Nursing Process (ADPIE)',                        file: 'chapter-08.md', status: 'soon'    },
+      { num: 8,  title: 'The Nursing Process (ADPIE)',                        file: 'chapter-08.md', status: 'draft'   },
       { num: 9,  title: 'Clinical Judgment and the NCSBN CJMM',              file: 'chapter-09.md', status: 'soon'    },
     ],
   },
