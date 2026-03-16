@@ -644,13 +644,16 @@ const waveNames = {
 const labelGroupEl = mkSVG('g');
 zoomGEl.appendChild(labelGroupEl);
 Object.keys(waveGroups).forEach(wStr => {
-  const w  = +wStr;
-  const cx = PAD_L + w * COL_W + NW / 2;
-  labelGroupEl.appendChild(mkTxt(waveNames[w] || `Wave ${w}`, {
+  const w    = +wStr;
+  const cx   = PAD_L + w * COL_W + NW / 2;
+  const done = waveGroups[w].every(n => n.status === 'complete');
+  const lbl  = mkTxt(waveNames[w] || `Wave ${w}`, {
     x: cx, y: PAD_T - 16,
     'text-anchor': 'middle',
     class: 'wave-label',
-  }));
+  });
+  if (done) lbl.setAttribute('fill', '#22c55e');
+  labelGroupEl.appendChild(lbl);
 });
 
 // ── Edges ────────────────────────────────────────────────────
