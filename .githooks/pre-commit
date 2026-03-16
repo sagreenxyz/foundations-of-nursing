@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+# .githooks/pre-commit
+#
+# Syncs dependency-tree.html task statuses with the master sprint backlog
+# before every commit.  If the file changes, it is automatically staged.
+
+set -euo pipefail
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+SCRIPT="$REPO_ROOT/scripts/update-dependency-tree.js"
+
+if [ ! -f "$SCRIPT" ]; then
+  echo "pre-commit: update script not found ($SCRIPT), skipping dependency-tree sync"
+  exit 0
+fi
+
+if ! command -v node >/dev/null 2>&1; then
+  echo "pre-commit: node not found, skipping dependency-tree sync"
+  exit 0
+fi
+
+echo "pre-commit: syncing dependency-tree.html with master backlog…"
+node "$SCRIPT"
+
+# Stage dependency-tree.html if the working-tree copy differs from the index
+if [ -n "$(git status --porcelain "$REPO_ROOT/dependency-tree.html" 2>/dev/null)" ]; then
+  git add "$REPO_ROOT/dependency-tree.html"
+  echo "pre-commit: dependency-tree.html staged."
+fi
