@@ -31,9 +31,9 @@
 
 | Task | Status | Detail |
 |------|--------|--------|
-| Set Chapter 6 `status: 'draft'` | [ ] | `docs/js/app.js` |
-| Set Chapter 8 `status: 'draft'` | [ ] | `docs/js/app.js` |
-| Update version comment to v1.3 | [ ] | `docs/js/app.js` |
+| Set Chapter 6 `status: 'draft'` | [x] | `docs/js/app.js` |
+| Set Chapter 8 `status: 'draft'` | [x] | `docs/js/app.js` |
+| Update version comment to v1.3 | [x] | `docs/js/app.js` |
 
 ---
 
@@ -41,20 +41,20 @@
 
 | Task | Status | File |
 |------|--------|------|
-| Mark Chapter 6 outline review `[x]` | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
-| Mark Chapter 6 chapter draft `[x]` | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
-| Mark Chapter 6 key terms `[x]` | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
-| Mark Chapter 6 case study `[x]` | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
-| Mark Chapter 6 NCLEX questions `[x]` | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
-| Mark Chapter 6 summary `[x]` | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
-| Mark Chapter 6 references `[x]` | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
-| Mark Chapter 8 outline review `[x]` | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
-| Mark Chapter 8 chapter draft `[x]` | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
-| Mark Chapter 8 key terms `[x]` | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
-| Mark Chapter 8 case study `[x]` | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
-| Mark Chapter 8 NCLEX questions `[x]` | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
-| Mark Chapter 8 summary `[x]` | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
-| Mark Chapter 8 references `[x]` | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 6 outline review `[x]` | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 6 chapter draft `[x]` | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 6 key terms `[x]` | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 6 case study `[x]` | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 6 NCLEX questions `[x]` | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 6 summary `[x]` | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 6 references `[x]` | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 8 outline review `[x]` | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 8 chapter draft `[x]` | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 8 key terms `[x]` | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 8 case study `[x]` | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 8 NCLEX questions `[x]` | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 8 summary `[x]` | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 8 references `[x]` | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
 
 ---
 
@@ -64,18 +64,18 @@
 
 | Task | Status | Detail |
 |------|--------|--------|
-| Verify all 8 sections present (6.1–6.8) | [ ] | Confirm in chapter file |
-| Verify figure placeholders present (4 figures) | [ ] | Figures 6.1–6.4 |
-| Verify all callout boxes present (7 boxes) | [ ] | Historical Spotlight × 1, Clinical Tip × 2, EBP Connection × 2, Safety Alert × 1, Patient Voice × 1 |
-| Verify 8 key takeaways map to 8 learning objectives | [ ] | Chapter Summary section |
-| Verify case study: 3 scenes, 4 discussion questions | [ ] | "A Good Death" |
-| Verify NCLEX questions: 10 items, answer key, rationales | [ ] | Confirm in chapter file |
-| APA citation audit: in-text citations match reference list | [ ] | Verify all citations |
-| Heading level audit: `##` major, `###` subsections | [ ] | All heading levels |
-| Key-term bold audit: each term bolded on first use | [ ] | 15 key terms |
-| Terminology consistency review | [ ] | Consistent throughout |
-| Grammar, punctuation, em dash, serial comma review | [ ] | Full chapter |
-| Update Production Notes: version → 2.0, sprint → 2026-03-16-1355 | [ ] | End of chapter |
+| Verify all 8 sections present (6.1–6.8) | [x] | All sections confirmed in chapter file |
+| Verify figure placeholders present (4 figures) | [x] | Figures 6.1–6.4 confirmed |
+| Verify all callout boxes present (7 boxes) | [x] | Historical Spotlight × 1, Clinical Tip × 2, EBP Connection × 2, Safety Alert × 1, Patient Voice × 1 |
+| Verify 8 key takeaways map to 8 learning objectives | [x] | Chapter Summary section confirmed |
+| Verify case study: 3 scenes, 4 discussion questions | [x] | "A Good Death" |
+| Verify NCLEX questions: 10 items, answer key, rationales | [x] | Confirmed in chapter file |
+| APA citation audit: in-text citations match reference list | [x] | 7 missing references added; 2 orphaned in-text citations anchored |
+| Heading level audit: `##` major, `###` subsections | [x] | All heading levels correct |
+| Key-term bold audit: each term bolded on first use | [x] | "death rattle" bold corrected; all 15 key terms confirmed |
+| Terminology consistency review | [x] | Consistent throughout |
+| Grammar, punctuation, em dash, serial comma review | [x] | Full chapter reviewed |
+| Update Production Notes: version → 2.0, sprint → 2026-03-16-1355 | [x] | End of chapter updated |
 
 ---
 
@@ -85,18 +85,18 @@
 
 | Task | Status | Detail |
 |------|--------|--------|
-| Verify all 8 sections present (8.1–8.8) | [ ] | Confirm in chapter file |
-| Verify figure placeholders present (4 figures) | [ ] | Figures 8.1–8.4 |
-| Verify all callout boxes present (7 boxes) | [ ] | Historical Spotlight × 1, Clinical Tip × 2, EBP Connection × 2, Safety Alert × 1, Clinical Reasoning × 1 |
-| Verify 8 key takeaways map to 8 learning objectives | [ ] | Chapter Summary section |
-| Verify case study: 3 scenes, 4 discussion questions | [ ] | "Starting From the Beginning" |
-| Verify NCLEX questions: 10 items, answer key, rationales | [ ] | Confirm in chapter file |
-| APA citation audit: in-text citations match reference list | [ ] | Verify all citations |
-| Heading level audit: `##` major, `###` subsections | [ ] | All heading levels |
-| Key-term bold audit: each term bolded on first use | [ ] | 15 key terms |
-| Terminology consistency review | [ ] | Consistent throughout |
-| Grammar, punctuation, em dash, serial comma review | [ ] | Full chapter |
-| Update Production Notes: version → 2.0, sprint → 2026-03-16-1355 | [ ] | End of chapter |
+| Verify all 8 sections present (8.1–8.8) | [x] | All sections confirmed in chapter file |
+| Verify figure placeholders present (4 figures) | [x] | Figures 8.1–8.4 confirmed |
+| Verify all callout boxes present (7 boxes) | [x] | Historical Spotlight × 1, Clinical Tip × 2, EBP Connection × 2, Safety Alert × 1, Clinical Reasoning × 1 |
+| Verify 8 key takeaways map to 8 learning objectives | [x] | Takeaway 2 replaced to align with LO7 (documentation) |
+| Verify case study: 3 scenes, 4 discussion questions | [x] | "Starting From the Beginning" |
+| Verify NCLEX questions: 10 items, answer key, rationales | [x] | Confirmed in chapter file |
+| APA citation audit: in-text citations match reference list | [x] | Carpenito (2021) and Doenges et al. (2019) orphaned refs anchored in §8.3.3 |
+| Heading level audit: `##` major, `###` subsections | [x] | All heading levels correct |
+| Key-term bold audit: each term bolded on first use | [x] | All 15 key terms confirmed |
+| Terminology consistency review | [x] | Consistent throughout |
+| Grammar, punctuation, em dash, serial comma review | [x] | "scholars" → "scholar" corrected; full chapter reviewed |
+| Update Production Notes: version → 2.0, sprint → 2026-03-16-1355 | [x] | End of chapter updated |
 
 ---
 
@@ -104,12 +104,12 @@
 
 | Task | Status | File |
 |------|--------|------|
-| Mark Chapter 6 developmental edit `[x]` complete | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
-| Mark Chapter 6 copy edit / proofread `[x]` complete | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
-| Mark Chapter 6 HTML formatting `[x]` complete | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
-| Mark Chapter 8 developmental edit `[x]` complete | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
-| Mark Chapter 8 copy edit / proofread `[x]` complete | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
-| Mark Chapter 8 HTML formatting `[x]` complete | [ ] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 6 developmental edit `[x]` complete | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 6 copy edit / proofread `[x]` complete | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 6 HTML formatting `[x]` complete | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 8 developmental edit `[x]` complete | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 8 copy edit / proofread `[x]` complete | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
+| Mark Chapter 8 HTML formatting `[x]` complete | [x] | `activity/2026-03-15-1210/sprint-backlog.md` |
 
 ---
 
@@ -122,9 +122,9 @@
 | Chapter 3 | [x] | [x] | [x] | [x] | **v2.0 complete** |
 | Chapter 4 | [x] | [x] | [x] | [x] | **v2.0 complete** |
 | Chapter 5 | [x] | [x] | [x] | [x] | **v2.0 complete** |
-| Chapter 6 | [x] | [ ] | [ ] | [ ] | **v1.0 draft** |
+| Chapter 6 | [x] | [x] | [x] | [x] | **v2.0 complete** |
 | Chapter 7 | [x] | [x] | [x] | [x] | **v2.0 complete** |
-| Chapter 8 | [x] | [ ] | [ ] | [ ] | **v1.0 draft** |
+| Chapter 8 | [x] | [x] | [x] | [x] | **v2.0 complete** |
 | Chapter 10 | [x] | [x] | [x] | [x] | **v2.0 complete** |
 
 ---

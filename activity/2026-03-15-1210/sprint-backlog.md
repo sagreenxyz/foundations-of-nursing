@@ -154,9 +154,9 @@
 | NCLEX questions | [x] (Sprint 2026-03-16-0348) |
 | Summary | [x] (Sprint 2026-03-16-0348) |
 | References | [x] (Sprint 2026-03-16-0348) |
-| Developmental edit | [ ] |
-| Copy edit / proofread | [ ] |
-| HTML formatting | [ ] |
+| Developmental edit | [x] (Sprint 2026-03-16-1355) |
+| Copy edit / proofread | [x] (Sprint 2026-03-16-1355) |
+| HTML formatting | [x] (rendered via `docs/` web app — Sprint 2026-03-16-1355) |
 
 ---
 
@@ -194,9 +194,9 @@
 | NCLEX questions | [x] (Sprint 2026-03-16-0348) |
 | Summary | [x] (Sprint 2026-03-16-0348) |
 | References | [x] (Sprint 2026-03-16-0348) |
-| Developmental edit | [ ] |
-| Copy edit / proofread | [ ] |
-| HTML formatting | [ ] |
+| Developmental edit | [x] (Sprint 2026-03-16-1355) |
+| Copy edit / proofread | [x] (Sprint 2026-03-16-1355) |
+| HTML formatting | [x] (rendered via `docs/` web app — Sprint 2026-03-16-1355) |
 
 ---
 
