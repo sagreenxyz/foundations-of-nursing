@@ -779,6 +779,6 @@ World Health Organization. (1986). *Ottawa Charter for Health Promotion*. World 
 - **Section count:** 7 content sections (10.1–10.7) + case study + NCLEX + summary + references
 - **Figure placeholders:** 7 (Figures 10.1–10.7)
 - **Evidence base:** 30 primary references; APA 7th edition throughout
-- **Next step:** Developmental edit; figure design brief; NCLEX NGN alignment review
+- **Next step:** Figure design brief; NCLEX NGN alignment review; curriculum review
 - **Edited in sprint:** 2026-03-15-2354
 
