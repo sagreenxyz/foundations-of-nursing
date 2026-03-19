@@ -1,6 +1,6 @@
 /* ============================================================
-   Foundations of Nursing — app.js  v1.4
-   Sprint 2026-03-16-1657
+   Foundations of Nursing — app.js  v1.5
+   Sprint 2026-03-19-1840
    ============================================================
    Uses marked.js (loaded via CDN in index.html) to render
    markdown chapter files fetched from ../content/.
@@ -33,8 +33,8 @@ const UNITS = [
     label: 'Unit 3: Health, Wellness, and Human Development',
     chapters: [
       { num: 10, title: 'Health, Wellness, and Illness',                      file: 'chapter-10.md', status: 'draft'   },
-      { num: 11, title: 'Lifespan Development and Age-Related Nursing',       file: 'chapter-11.md', status: 'soon'    },
-      { num: 12, title: 'Nutrition and Metabolic Health',                     file: 'chapter-12.md', status: 'soon'    },
+      { num: 11, title: 'Lifespan Development and Age-Related Nursing',       file: 'chapter-11.md', status: 'draft'    },
+      { num: 12, title: 'Nutrition and Metabolic Health',                     file: 'chapter-12.md', status: 'draft'    },
     ],
   },
   {
