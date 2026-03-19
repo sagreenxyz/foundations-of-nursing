@@ -178,7 +178,7 @@ function router() {
     if (t) renderTopic(container, t);
     else   renderNotFound(container);
   } else if (path.startsWith('/quiz/')) {
-    const id = path.replace('/quiz/', '');
+    const id = path.replace('/quiz/', '').split('?')[0];
     const t  = TOPICS.find(x => x.id === id);
     if (t) renderQuiz(container, t);
     else   renderNotFound(container);
@@ -479,7 +479,7 @@ function renderQuiz(container, topic) {
     answered = true;
 
     const isCorrect = (i === q.correct);
-    revealMCQ(i, q.correct, isCorrect);
+    revealMCQ(i, q.correct, isCorrect, q);
     recordAnswer(topic.id, q, isCorrect);
     showRationale(q, isCorrect);
     appendNext();
@@ -513,7 +513,7 @@ function renderQuiz(container, topic) {
     sessionAnswered++;
   }
 
-  function revealMCQ(chosen, correct, isCorrect) {
+  function revealMCQ(chosen, correct, isCorrect, q) {
     q.options.forEach((_, i) => {
       const btn = document.getElementById('opt-' + i);
       btn.classList.add('locked');
