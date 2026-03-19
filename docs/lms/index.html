@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NurseMastery — Foundations LMS</title>
+  <link rel="stylesheet" href="css/lms.css" />
+</head>
+<body>
+
+  <!-- ── Top Bar ──────────────────────────────────────────── -->
+  <header class="top-bar" id="top-bar">
+    <div class="top-bar-left">
+      <button class="menu-toggle" id="menu-toggle" aria-label="Toggle navigation">&#9776;</button>
+      <a href="#/" class="brand" aria-label="NurseMastery home">
+        <span class="brand-icon">&#9877;</span>
+        <span class="brand-name">NurseMastery</span>
+      </a>
+    </div>
+    <div class="top-bar-right">
+      <div class="xp-wrap">
+        <div class="xp-bar-track" title="XP progress to next level">
+          <div class="xp-bar-fill" id="xp-bar-fill"></div>
+        </div>
+        <span class="xp-label" id="xp-label">Lv 1</span>
+        <span class="xp-pts" id="xp-pts">0 XP</span>
+      </div>
+      <div class="streak-chip" id="streak-chip" title="Daily streak">&#128293; <span id="streak-count">0</span></div>
+    </div>
+  </header>
+
+  <div class="app-layout">
+
+    <!-- ── Sidebar ────────────────────────────────────────── -->
+    <nav class="sidebar" id="sidebar" aria-label="LMS navigation">
+      <ul class="nav-list">
+        <li><a class="nav-link" href="#/" data-view="dashboard"><span class="nav-icon">&#127968;</span>Dashboard</a></li>
+        <li><a class="nav-link" href="#/journey" data-view="journey"><span class="nav-icon">&#128506;</span>Case Journeys</a></li>
+        <li><a class="nav-link" href="#/distractors" data-view="distractors"><span class="nav-icon">&#128269;</span>Distractor Detective</a></li>
+        <li><a class="nav-link" href="#/achievements" data-view="achievements"><span class="nav-icon">&#127942;</span>Achievements</a></li>
+      </ul>
+      <div class="nav-section-label">Topics</div>
+      <ul class="nav-list" id="topic-nav"></ul>
+      <div class="nav-section-label">Resources</div>
+      <ul class="nav-list">
+        <li><a class="nav-link" href="../" target="_blank" rel="noopener"><span class="nav-icon">&#128218;</span>Textbook</a></li>
+      </ul>
+    </nav>
+
+    <!-- ── Main ───────────────────────────────────────────── -->
+    <main class="main" id="main" tabindex="-1">
+      <div id="view-container"></div>
+    </main>
+
+  </div>
+
+  <!-- ── Toast ──────────────────────────────────────────── -->
+  <div class="toast" id="toast" role="alert" aria-live="assertive" aria-atomic="true"></div>
+
+  <!-- ── Achievement Popup ──────────────────────────────── -->
+  <div class="achievement-popup" id="achievement-popup" aria-live="polite">
+    <div class="achievement-popup-inner">
+      <div class="achievement-popup-icon" id="ap-icon"></div>
+      <div class="achievement-popup-body">
+        <div class="achievement-popup-label">Achievement Unlocked!</div>
+        <div class="achievement-popup-name" id="ap-name"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
