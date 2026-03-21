@@ -1,6 +1,6 @@
 /* ============================================================
-   Foundations of Nursing — app.js  v1.5
-   Sprint 2026-03-19-1840
+   Foundations of Nursing — app.js  v1.6
+   Sprint 2026-03-19-1919
    ============================================================
    Uses marked.js (loaded via CDN in index.html) to render
    markdown chapter files fetched from ../content/.
@@ -40,8 +40,8 @@ const UNITS = [
   {
     label: 'Unit 4: Biological Foundations and Pathophysiology',
     chapters: [
-      { num: 13, title: 'Introduction to Pathophysiology',                    file: 'chapter-13.md', status: 'soon'    },
-      { num: 14, title: 'Fluid, Electrolyte, and Acid-Base Balance',          file: 'chapter-14.md', status: 'soon'    },
+      { num: 13, title: 'Introduction to Pathophysiology',                    file: 'chapter-13.md', status: 'draft'   },
+      { num: 14, title: 'Fluid, Electrolyte, and Acid-Base Balance',          file: 'chapter-14.md', status: 'draft'   },
       { num: 15, title: 'Perfusion and Oxygenation',                          file: 'chapter-15.md', status: 'soon'    },
       { num: 16, title: 'Cardiovascular Pathophysiology',                     file: 'chapter-16.md', status: 'soon'    },
       { num: 17, title: 'Respiratory Pathophysiology',                        file: 'chapter-17.md', status: 'soon'    },
