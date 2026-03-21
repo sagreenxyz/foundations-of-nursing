@@ -286,16 +286,16 @@
 
 | Task | Status |
 |------|--------|
-| Outline review | [ ] |
-| Chapter draft | [ ] |
-| Key terms | [ ] |
-| Case study | [ ] |
-| NCLEX questions | [ ] |
-| Summary | [ ] |
-| References | [ ] |
-| Developmental edit | [ ] |
-| Copy edit / proofread | [ ] |
-| HTML formatting | [ ] |
+| Outline review | [x] |
+| Chapter draft | [x] |
+| Key terms | [x] |
+| Case study | [x] |
+| NCLEX questions | [x] |
+| Summary | [x] |
+| References | [x] |
+| Developmental edit | [x] |
+| Copy edit / proofread | [x] |
+| HTML formatting | [x] |
 
 ---
 
@@ -305,16 +305,16 @@
 
 | Task | Status |
 |------|--------|
-| Outline review | [ ] |
-| Chapter draft | [ ] |
-| Key terms | [ ] |
-| Case study | [ ] |
-| NCLEX questions | [ ] |
-| Summary | [ ] |
-| References | [ ] |
-| Developmental edit | [ ] |
-| Copy edit / proofread | [ ] |
-| HTML formatting | [ ] |
+| Outline review | [x] |
+| Chapter draft | [x] |
+| Key terms | [x] |
+| Case study | [x] |
+| NCLEX questions | [x] |
+| Summary | [x] |
+| References | [x] |
+| Developmental edit | [x] |
+| Copy edit / proofread | [x] |
+| HTML formatting | [x] |
 
 ---
 
