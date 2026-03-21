@@ -202,21 +202,16 @@ function showChapter(html) {
 /* ── Resolve Content Path ─────────────────────────────────── */
 function contentPath(filename) {
   // Works on GitHub Pages (/<repo>/docs/) and local server (docs/)
-  // The content/ folder sits one level above docs/
-  const base = document.querySelector('base');
-  if (base) {
-    return base.href.replace(/docs\/?$/, '') + 'content/' + filename;
-  }
-  // Derive from current script location
+  // The content/ folder lives inside docs/
   const scripts = document.querySelectorAll('script[src]');
   for (const s of scripts) {
     const src = s.getAttribute('src');
     if (src && src.includes('app.js')) {
       const jsDir = s.src.replace(/js\/app\.js.*$/, '');
-      return jsDir + '../content/' + filename;
+      return jsDir + 'content/' + filename;
     }
   }
-  return '../content/' + filename;
+  return 'content/' + filename;
 }
 
 /* ── Load and Render Chapter ──────────────────────────────── */
