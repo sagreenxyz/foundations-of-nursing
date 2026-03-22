@@ -191,14 +191,7 @@ The proliferation of social media has created a new domain of boundary vulnerabi
 
 **Active listening** is the foundation on which all therapeutic communication techniques rest. It is not passive receipt of sound but an active, effortful process of attending to everything the patient is communicating — the words, the vocal qualities, the body language, the emotional undertone, the timing of pauses, and the content that is conspicuously absent or avoided (Egan, 2019).
 
-The SOLER model — adapted for nursing as SURETY — provides a behavioral framework for active listening posture (Stickley, 2011):
-
-- **S** — Sit squarely facing the patient (or position yourself at the same level)
-- **U** — Uncross your arms and legs (open, non-defensive posture)
-- **R** — Relax — avoid fidgeting, checking equipment, or looking at documentation while the patient speaks
-- **E** — Eye contact — maintain soft, culturally appropriate eye contact
-- **T** — Touch — use therapeutic touch judiciously
-- **Y** — Your intuition — attend to what you sense as well as what you hear
+The SOLER model — adapted for nursing as SURETY — provides a behavioral framework for active listening posture (Stickley, 2011). **S** directs the nurse to sit squarely facing the patient, or to position at the same level. **U** calls for uncrossing the arms and legs, maintaining an open, non-defensive posture. **R** emphasizes relaxation — avoiding fidgeting, checking equipment, or looking at documentation while the patient speaks. **E** addresses eye contact, maintaining soft, culturally appropriate eye contact throughout the interaction. **T** reminds the nurse to use therapeutic touch judiciously. **Y** encourages nurses to attend to their own intuition — what they sense as well as what they hear.
 
 Minimizing interruptions is essential. Research on physician-patient communication shows that clinicians typically interrupt patients within 11–23 seconds of the patient beginning to speak (Ospina et al., 2019). Nurses who allow patients to complete their opening narrative without interruption gather substantially more clinically useful information and signal respect in a way that fundamentally changes the relational tone of the encounter. "Tell me in your own words what's been bothering you" followed by attentive silence invites a fuller, more authentic response than a rapid-fire series of closed questions.
 
@@ -380,15 +373,7 @@ Communication between nurses and physicians has historically been characterized 
 
 SBAR was adapted for healthcare from communication protocols used in military aviation and nuclear submarine operations — contexts where communication precision under stress is a matter of survival. The Institute for Healthcare Improvement (IHI) has promoted SBAR as a standard for clinical handoffs and escalation calls, and it is now endorsed by The Joint Commission and incorporated into the communication standards of most major health systems.
 
-The four components of SBAR are:
-
-- **S — Situation:** A one- to two-sentence statement of the immediate, current problem. "I am calling about Mr. Thomas in room 412. He is a 58-year-old post-operative day 2 following a right hip replacement, and I am concerned because his heart rate has been increasing over the past hour and he is now tachycardic at 118."
-
-- **B — Background:** Relevant history and clinical context needed to understand the situation. "He has a history of hypertension and type 2 diabetes. His last set of vitals two hours ago showed HR 98, BP 134/82, SpO2 97% on room air. He has received two doses of IV ketorolac today. His urine output for the past four hours has been 30 mL/hour."
-
-- **A — Assessment:** The nurse's clinical judgment about what is happening — the working hypothesis. "I am concerned that he may be bleeding internally or developing early hemorrhagic shock. He appears pale and is more anxious than he was this morning."
-
-- **R — Recommendation:** What the nurse is requesting or proposing. "I am requesting that you come to evaluate him now, and I would like to draw a STAT CBC and BMP. I have already called the charge nurse and have an IV access ready."
+The four components of SBAR work together to deliver complete clinical information efficiently. **S — Situation** is a one- to two-sentence statement of the immediate, current problem: "I am calling about Mr. Thomas in room 412. He is a 58-year-old post-operative day 2 following a right hip replacement, and I am concerned because his heart rate has been increasing over the past hour and he is now tachycardic at 118." **B — Background** provides the relevant history and clinical context needed to understand the situation: "He has a history of hypertension and type 2 diabetes. His last set of vitals two hours ago showed HR 98, BP 134/82, SpO2 97% on room air. He has received two doses of IV ketorolac today. His urine output for the past four hours has been 30 mL/hour." **A — Assessment** conveys the nurse's clinical judgment about what is happening — the working hypothesis: "I am concerned that he may be bleeding internally or developing early hemorrhagic shock. He appears pale and is more anxious than he was this morning." Finally, **R — Recommendation** states what the nurse is requesting or proposing: "I am requesting that you come to evaluate him now, and I would like to draw a STAT CBC and BMP. I have already called the charge nurse and have an IV access ready."
 
 This structured call takes approximately 60–90 seconds to deliver and provides the physician with everything needed to triage the request appropriately. The specificity of the recommendation is critical: research by Leonard et al. (2004) demonstrates that nurses who make explicit recommendations rather than vague requests ("I think something is wrong") receive faster and more appropriate clinical responses.
 
@@ -401,17 +386,7 @@ SBAR is designed for urgent, vertical communication (nurse to physician, nurse t
 
 The **I-PASS** framework was developed by a multidisciplinary team at Boston Children's Hospital through a rigorous quality improvement study (Starmer et al., 2014) and is now adopted across pediatric and adult inpatient settings.
 
-The five components of I-PASS:
-
-- **I — Illness Severity:** A rapid global assessment — "stable," "watcher" (condition may deteriorate), or "unstable" — that immediately orients the receiving nurse to the level of vigilance required.
-
-- **P — Patient Summary:** A concise statement of the patient's diagnosis, clinical trajectory, active problems, and relevant history. This is the narrative context of the handoff.
-
-- **A — Action List:** An explicit, prioritized list of tasks that are pending or ongoing and must be completed, including who is responsible for each item. "CBC results are pending from 1800 — please follow up and call Dr. Reyes if hemoglobin drops below 8. Wound dressing is due at 2200. Physical therapy evaluation scheduled for 0800 tomorrow."
-
-- **S — Situation Awareness and Contingency Planning:** Anticipatory guidance — what might change, what to watch for, and what to do if it does. "If his pain is not controlled with the current PCA settings after this next hour, the plan is to call anesthesia for reassessment. If he becomes febrile above 38.5°C, draw blood cultures and call the attending."
-
-- **S — Synthesis by Receiver:** The receiving nurse verbally confirms their understanding of the key points — a read-back that closes the loop and surfaces any misunderstanding before the departing nurse leaves the unit. "So Mr. Thomas is a watcher, the CBC is pending, I need to call Dr. Reyes if the hemoglobin is below 8, and I should watch for fever."
+The five components of I-PASS move sequentially through a complete patient handoff. **I — Illness Severity** is a rapid global assessment — "stable," "watcher" (condition may deteriorate), or "unstable" — that immediately orients the receiving nurse to the level of vigilance required. **P — Patient Summary** provides a concise statement of the patient's diagnosis, clinical trajectory, active problems, and relevant history, forming the narrative context of the handoff. **A — Action List** is an explicit, prioritized enumeration of tasks that are pending or ongoing and must be completed, including who is responsible for each item — for example: "CBC results are pending from 1800 — please follow up and call Dr. Reyes if hemoglobin drops below 8. Wound dressing is due at 2200. Physical therapy evaluation scheduled for 0800 tomorrow." **S — Situation Awareness and Contingency Planning** provides anticipatory guidance about what might change, what to watch for, and what to do if it does: "If his pain is not controlled with the current PCA settings after this next hour, the plan is to call anesthesia for reassessment. If he becomes febrile above 38.5°C, draw blood cultures and call the attending." Finally, **S — Synthesis by Receiver** requires the receiving nurse to verbally confirm their understanding of the key points — a read-back that closes the loop and surfaces any misunderstanding before the departing nurse leaves the unit: "So Mr. Thomas is a watcher, the CBC is pending, I need to call Dr. Reyes if the hemoglobin is below 8, and I should watch for fever."
 
 The Starmer et al. (2014) landmark study demonstrated that implementing I-PASS in a pediatric residency program reduced medical errors by 23% and preventable adverse events by 30%, with no significant reduction in resident education time. Subsequent studies in nursing contexts have demonstrated similar safety gains.
 
@@ -431,15 +406,7 @@ Rapid Response Teams (RRTs), also called Medical Emergency Teams, represent a pa
 
 Documentation is the written record of the communication that occurs between a nurse and the healthcare system on behalf of a patient. It serves multiple simultaneous functions: clinical (communicating patient status and care delivered to the interdisciplinary team), legal (the primary evidence in malpractice and licensing actions), regulatory (demonstrating compliance with accreditation standards), financial (justifying billing and reimbursement), and research (contributing to the data that drives healthcare improvement). The enduring principle of nursing documentation — **if it wasn't documented, it wasn't done** — reflects the legal reality that undocumented care cannot be defended.
 
-The **FACT** acronym describes the core attributes of defensible nursing documentation:
-
-- **F — Factual:** Record only what was directly observed, measured, or communicated — not inferences or assumptions. "Patient states pain is 7/10 in the right lower quadrant" is factual. "Patient appears to be in severe pain" is an interpretation that should be supported by observable evidence.
-
-- **A — Accurate:** Use correct spelling, proper medical terminology where appropriate, and precise measurements. Avoid vague language ("a lot," "some," "good," "poor") in favor of specific, measurable descriptors.
-
-- **C — Complete:** Document all relevant assessments, interventions, patient responses, and communications with other providers. Completeness also means recording when and why care was *not* provided — if a patient refused a scheduled medication, document the refusal and the patient education provided.
-
-- **T — Timely:** Document as contemporaneously as possible with the clinical event. Real-time documentation is more accurate and more defensible than documentation completed hours later from memory.
+The **FACT** acronym describes the core attributes of defensible nursing documentation. **F — Factual** means recording only what was directly observed, measured, or communicated — not inferences or assumptions. For example, "Patient states pain is 7/10 in the right lower quadrant" is factual, while "Patient appears to be in severe pain" is an interpretation that should be supported by observable evidence. **A — Accurate** requires correct spelling, proper medical terminology where appropriate, and precise measurements; nurses should avoid vague language ("a lot," "some," "good," "poor") in favor of specific, measurable descriptors. **C — Complete** means documenting all relevant assessments, interventions, patient responses, and communications with other providers — including recording when and why care was *not* provided; if a patient refused a scheduled medication, for instance, both the refusal and the patient education provided must be documented. **T — Timely** means documenting as contemporaneously as possible with the clinical event, since real-time documentation is more accurate and more defensible than documentation completed hours later from memory.
 
 The distinction between **objective** and **subjective** documentation language is foundational. Objective documentation records observable, measurable phenomena: "BP 92/54, HR 118, patient pale and diaphoretic, reporting chest pain 8/10 radiating to left jaw." Subjective documentation records the patient's own reports of their experience: "Patient states, 'I've had this pain before but it never hurt this badly.'" Both are legitimate and necessary components of nursing documentation; neither should be substituted for the other.
 
@@ -506,68 +473,68 @@ Later that evening, Rosalind returns to check Maria's blood glucose and finds he
 
 **1.** A nurse is preparing to discuss a new cancer diagnosis with a patient. Which action best demonstrates the therapeutic use of the working phase of the nurse-patient relationship?
 
-- A. Introducing herself and explaining the purpose of the visit
-- B. Summarizing what was accomplished and preparing the patient for discharge
-- C. Collaborating with the patient to identify fears and explore coping strategies
-- D. Reviewing the patient's prior medical history with the family before entering the room
+**A.** Introducing herself and explaining the purpose of the visit
+**B.** Summarizing what was accomplished and preparing the patient for discharge
+**C.** Collaborating with the patient to identify fears and explore coping strategies
+**D.** Reviewing the patient's prior medical history with the family before entering the room
 
 **2.** A nurse is conducting a shift assessment when the patient becomes tearful and says, "I just don't see the point anymore." Which initial response is most therapeutic?
 
-- A. "Let's finish the assessment and then I'll have someone from mental health come by."
-- B. "I'm going to have the doctor order something to help you feel better."
-- C. "I hear that you're feeling hopeless right now. Tell me more about what's been happening."
-- D. "I know things are hard, but you have so much to live for."
+**A.** "Let's finish the assessment and then I'll have someone from mental health come by."
+**B.** "I'm going to have the doctor order something to help you feel better."
+**C.** "I hear that you're feeling hopeless right now. Tell me more about what's been happening."
+**D.** "I know things are hard, but you have so much to live for."
 
 **3.** A nurse is delivering discharge instructions to a 78-year-old patient with moderate hearing loss. Which action is most appropriate to ensure effective communication? (Select all that apply.)
 
-- A. Speak slowly and slightly louder than normal in a face-to-face position
-- B. Use simple language and avoid medical jargon
-- C. Provide written instructions in addition to verbal teaching
-- D. Ask the patient's adult daughter to relay the information afterward
-- E. Use teach-back to verify the patient's understanding
+**A.** Speak slowly and slightly louder than normal in a face-to-face position
+**B.** Use simple language and avoid medical jargon
+**C.** Provide written instructions in addition to verbal teaching
+**D.** Ask the patient's adult daughter to relay the information afterward
+**E.** Use teach-back to verify the patient's understanding
 
 **4.** A nurse calls a physician using the SBAR framework to report a patient with increasing shortness of breath. Which element of the call represents the "Assessment" component?
 
-- A. "Mr. Park is a 61-year-old in room 508 with a history of COPD."
-- B. "His respiratory rate is now 28, SpO2 is 88% on 2L nasal cannula."
-- C. "I am concerned this patient may be developing an acute exacerbation and may require respiratory therapy."
-- D. "I am requesting a physician evaluation now and would like to initiate the respiratory distress protocol."
+**A.** "Mr. Park is a 61-year-old in room 508 with a history of COPD."
+**B.** "His respiratory rate is now 28, SpO2 is 88% on 2L nasal cannula."
+**C.** "I am concerned this patient may be developing an acute exacerbation and may require respiratory therapy."
+**D.** "I am requesting a physician evaluation now and would like to initiate the respiratory distress protocol."
 
 **5.** A nurse says to a patient who has just disclosed a plan to leave the hospital against medical advice, "I understand you want to go home, and I also heard you say earlier that you're really scared about missing your granddaughter's birthday. It sounds like there are two really important things pulling in different directions." This statement is an example of which motivational interviewing skill?
 
-- A. Affirmation
-- B. Double-sided reflection
-- C. Simple restatement
-- D. Summarizing
+**A.** Affirmation
+**B.** Double-sided reflection
+**C.** Simple restatement
+**D.** Summarizing
 
 **6.** Which of the following nursing documentation entries is written correctly according to the FACT principles?
 
-- A. "Patient appears to be in considerable pain based on facial grimacing."
-- B. "Patient was non-compliant with morning medications."
-- C. "Patient states pain is 9/10 in the left lower extremity. Refused scheduled acetaminophen, stating 'It doesn't do anything for me.' Physician notified at 0914. Return call received at 0932 with order for IV ketorolac 15 mg."
-- D. "Wound appears to be healing well. No concerns at this time."
+**A.** "Patient appears to be in considerable pain based on facial grimacing."
+**B.** "Patient was non-compliant with morning medications."
+**C.** "Patient states pain is 9/10 in the left lower extremity. Refused scheduled acetaminophen, stating 'It doesn't do anything for me.' Physician notified at 0914. Return call received at 0932 with order for IV ketorolac 15 mg."
+**D.** "Wound appears to be healing well. No concerns at this time."
 
 **7.** Which of the following statements or actions represent non-therapeutic communication? (Select all that apply.)
 
-- A. "Don't worry — the doctor does this procedure every day. You'll be fine."
-- B. Asking the patient to describe what concerns them most about their diagnosis
-- C. "If I were you, I would just go ahead with the surgery."
-- D. Changing the subject when a patient begins crying during a medication teaching session
-- E. Sitting at the patient's eye level during a sensitive conversation
+**A.** "Don't worry — the doctor does this procedure every day. You'll be fine."
+**B.** Asking the patient to describe what concerns them most about their diagnosis
+**C.** "If I were you, I would just go ahead with the surgery."
+**D.** Changing the subject when a patient begins crying during a medication teaching session
+**E.** Sitting at the patient's eye level during a sensitive conversation
 
 **8.** A nurse is working with a patient who has been hospitalized for alcohol use disorder. The patient says, "I know I need to stop drinking, but I don't think I can. My whole social life revolves around it." Which response best reflects a motivational interviewing approach?
 
-- A. "You really do need to stop. Continued drinking at your level is life-threatening."
-- B. "Let's set a goal: no alcohol for 30 days. Do you think you can commit to that?"
-- C. "It sounds like you can see how important it is to make a change, and at the same time, you're not sure how your life would look without alcohol."
-- D. "Have you tried attending AA meetings? A lot of people find them very helpful."
+**A.** "You really do need to stop. Continued drinking at your level is life-threatening."
+**B.** "Let's set a goal: no alcohol for 30 days. Do you think you can commit to that?"
+**C.** "It sounds like you can see how important it is to make a change, and at the same time, you're not sure how your life would look without alcohol."
+**D.** "Have you tried attending AA meetings? A lot of people find them very helpful."
 
 **9.** Place the following steps in escalating a patient safety concern using the chain of command in the correct order, from first to last.
 
-- A. Contact the department chief or administrator on call
-- B. Call the attending physician with a complete SBAR
-- C. Document the concern, all communication attempts, and responses received
-- D. Contact the attending's supervising physician or fellow if no timely response is received
+**A.** Contact the department chief or administrator on call
+**B.** Call the attending physician with a complete SBAR
+**C.** Document the concern, all communication attempts, and responses received
+**D.** Contact the attending's supervising physician or fellow if no timely response is received
 
 **10.** NGN Clinical Judgment — Unfolding Case
 
@@ -575,11 +542,11 @@ Later that evening, Rosalind returns to check Maria's blood glucose and finds he
 
 *Question A (Recognize Cues):* Which findings from the scenario represent the most clinically significant change from baseline that requires immediate nurse action? Select all that apply.
 
-- A. GCS decreased from 14 to 12
-- B. Patient is pulling at his IV
-- C. Patient not oriented to time or place
-- D. Wife reports overnight deterioration that was not acted upon
-- E. Patient on post-operative day 1
+**A.** GCS decreased from 14 to 12
+**B.** Patient is pulling at his IV
+**C.** Patient not oriented to time or place
+**D.** Wife reports overnight deterioration that was not acted upon
+**E.** Patient on post-operative day 1
 
 *Question B (Prioritize Hypotheses):* What is the priority nursing concern at this time, and why does it take precedence over the other clinical findings?
 
