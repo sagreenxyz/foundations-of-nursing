@@ -1,0 +1,520 @@
+/* ============================================================
+   NurseMastery Encyclopedia — Academic Wiki
+   style.css  v1.0
+   ============================================================ */
+
+/* ── Reset & Box Model ────────────────────────────────────── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* ── Custom Properties ────────────────────────────────────── */
+:root {
+  --color-bg:             #fdfcf8;
+  --color-sidebar-bg:     #f2f0f7;
+  --color-sidebar-border: #ccc8dc;
+  --color-text:           #1a1a1a;
+  --color-muted:          #5a5a5a;
+  --color-link:           #2e4a7a;
+  --color-link-hover:     #1a2f52;
+  --color-accent:         #4a2b7a;
+  --color-border:         #d0cce0;
+  --color-callout-bg:     #eeedf8;
+  --color-callout-border: #9a8acc;
+  --color-table-head:     #dcd8f0;
+  --color-code-bg:        #f2eff8;
+  --font-body:            Georgia, "Times New Roman", Times, serif;
+  --font-ui:              "Segoe UI", system-ui, -apple-system, sans-serif;
+  --font-mono:            "Courier New", Courier, monospace;
+  --sidebar-width:        300px;
+  --content-max:          780px;
+  --transition:           0.18s ease;
+}
+
+/* ── Base Typography ──────────────────────────────────────── */
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  background: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.75;
+}
+
+/* ── Layout ───────────────────────────────────────────────── */
+#sidebar {
+  width: var(--sidebar-width);
+  min-width: var(--sidebar-width);
+  background: var(--color-sidebar-bg);
+  border-right: 1px solid var(--color-sidebar-border);
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  overflow-y: auto;
+  z-index: 100;
+  padding-bottom: 2rem;
+}
+
+#main {
+  margin-left: var(--sidebar-width);
+  flex: 1;
+  min-width: 0;
+  padding: 3rem 2rem 4rem;
+  max-width: calc(var(--content-max) + 4rem);
+}
+
+/* ── Sidebar Header ───────────────────────────────────────── */
+.sidebar-header {
+  padding: 1.25rem 1rem 1rem;
+  border-bottom: 1px solid var(--color-sidebar-border);
+}
+
+.sidebar-header .book-title {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-accent);
+  margin-bottom: 0.2rem;
+}
+
+.sidebar-header .book-subtitle {
+  font-size: 0.72rem;
+  color: var(--color-muted);
+  font-style: italic;
+}
+
+/* ── Navigation ───────────────────────────────────────────── */
+nav {
+  padding: 0.75rem 0;
+}
+
+.nav-category-label {
+  font-family: var(--font-ui);
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--color-muted);
+  padding: 0.75rem 1.25rem 0.25rem;
+}
+
+.nav-article {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  padding: 0.35rem 1rem;
+  cursor: pointer;
+  border: none;
+  background: none;
+  width: 100%;
+  text-align: left;
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  line-height: 1.35;
+  color: var(--color-text);
+  transition: background var(--transition);
+  border-left: 3px solid transparent;
+}
+
+.nav-article:hover {
+  background: var(--color-border);
+  color: var(--color-link);
+}
+
+.nav-article.active {
+  background: var(--color-callout-bg);
+  border-left-color: var(--color-accent);
+  color: var(--color-accent);
+  font-weight: 600;
+}
+
+.nav-article .art-title {
+  flex: 1;
+}
+
+.nav-badge {
+  font-size: 0.6rem;
+  font-weight: 600;
+  padding: 0.1em 0.4em;
+  border-radius: 3px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.badge-available { background: #d4edda; color: #155724; }
+.badge-soon      { background: #e2e3e5; color: #383d41; }
+
+/* ── Sidebar Search ───────────────────────────────────────── */
+.sidebar-search {
+  padding: 0.75rem 1rem 0.5rem;
+  border-bottom: 1px solid var(--color-sidebar-border);
+}
+
+.sidebar-search input {
+  width: 100%;
+  padding: 0.3rem 0.5rem;
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  background: #fff;
+  color: var(--color-text);
+  outline: none;
+}
+
+.sidebar-search input:focus {
+  border-color: var(--color-accent);
+}
+
+/* ── Home / Welcome Page ──────────────────────────────────── */
+#welcome h1 {
+  font-size: 2rem;
+  font-weight: normal;
+  color: var(--color-accent);
+  border-bottom: 2px solid var(--color-border);
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+#welcome .subtitle {
+  font-style: italic;
+  color: var(--color-muted);
+  margin-bottom: 2rem;
+}
+
+#welcome p {
+  margin-bottom: 1rem;
+  max-width: var(--content-max);
+}
+
+#welcome ul {
+  padding-left: 1.75rem;
+  margin-bottom: 1rem;
+  max-width: var(--content-max);
+}
+
+#welcome li {
+  margin-bottom: 0.4rem;
+}
+
+#welcome hr {
+  border: none;
+  border-top: 1px solid var(--color-border);
+}
+
+#welcome h2 {
+  font-size: 1.25rem;
+  color: var(--color-text);
+  margin-bottom: 1rem;
+}
+
+/* ── Article Index (category cards on welcome page) ──────── */
+.index-category {
+  margin-bottom: 2rem;
+}
+
+.index-category-title {
+  font-family: var(--font-ui);
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-accent);
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 0.35rem;
+  margin-bottom: 0.75rem;
+}
+
+.index-article-list {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 0.5rem;
+}
+
+.index-article-item button {
+  background: none;
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  padding: 0.45rem 0.75rem;
+  cursor: pointer;
+  text-align: left;
+  width: 100%;
+  font-family: var(--font-ui);
+  font-size: 0.82rem;
+  color: var(--color-link);
+  transition: background var(--transition), border-color var(--transition);
+}
+
+.index-article-item button:hover {
+  background: var(--color-callout-bg);
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+}
+
+.index-article-item button.soon-btn {
+  color: var(--color-muted);
+  cursor: default;
+  pointer-events: none;
+  opacity: 0.6;
+}
+
+.index-article-badge {
+  display: inline-block;
+  font-size: 0.58rem;
+  font-weight: 600;
+  padding: 0.1em 0.4em;
+  border-radius: 3px;
+  margin-left: 0.4em;
+  vertical-align: middle;
+}
+
+/* ── Article Content ──────────────────────────────────────── */
+#article-content {
+  max-width: var(--content-max);
+}
+
+/* Headings */
+#article-content h1 {
+  font-size: 1.9rem;
+  font-weight: normal;
+  color: var(--color-accent);
+  border-bottom: 2px solid var(--color-border);
+  padding-bottom: 0.4rem;
+  margin: 0 0 0.4rem;
+}
+
+#article-content h2 {
+  font-size: 1.35rem;
+  font-weight: bold;
+  color: var(--color-text);
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 0.25rem;
+  margin: 2.5rem 0 0.9rem;
+}
+
+#article-content h3 {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: var(--color-text);
+  margin: 1.8rem 0 0.6rem;
+}
+
+#article-content h4 {
+  font-size: 1rem;
+  font-style: italic;
+  color: var(--color-muted);
+  margin: 1.4rem 0 0.4rem;
+}
+
+/* Paragraphs & Lists */
+#article-content p {
+  margin-bottom: 1rem;
+}
+
+#article-content ul,
+#article-content ol {
+  padding-left: 1.75rem;
+  margin-bottom: 1rem;
+}
+
+#article-content li {
+  margin-bottom: 0.3rem;
+}
+
+/* Emphasis */
+#article-content strong {
+  font-weight: bold;
+}
+
+#article-content em {
+  font-style: italic;
+}
+
+/* Links — internal wiki links and external references */
+#article-content a {
+  color: var(--color-link);
+  text-decoration: underline;
+}
+
+#article-content a:hover {
+  color: var(--color-link-hover);
+}
+
+/* Tables */
+#article-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+  font-family: var(--font-ui);
+}
+
+#article-content th {
+  background: var(--color-table-head);
+  border: 1px solid var(--color-border);
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  font-weight: 700;
+}
+
+#article-content td {
+  border: 1px solid var(--color-border);
+  padding: 0.45rem 0.75rem;
+  vertical-align: top;
+}
+
+#article-content tr:nth-child(even) td {
+  background: #f9f8fc;
+}
+
+/* Blockquotes (callout boxes) */
+#article-content blockquote {
+  background: var(--color-callout-bg);
+  border-left: 4px solid var(--color-callout-border);
+  padding: 0.9rem 1.1rem;
+  margin: 1.5rem 0;
+  font-size: 0.93rem;
+}
+
+#article-content blockquote p {
+  margin-bottom: 0.4rem;
+}
+
+#article-content blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* Code & Inline Code */
+#article-content code {
+  background: var(--color-code-bg);
+  font-family: var(--font-mono);
+  font-size: 0.85em;
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+
+/* Pre / Code Blocks */
+#article-content pre {
+  background: var(--color-code-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1rem 0;
+}
+
+#article-content pre code {
+  background: none;
+  padding: 0;
+}
+
+/* Horizontal Rules */
+#article-content hr {
+  border: none;
+  border-top: 1px solid var(--color-border);
+  margin: 2.5rem 0;
+}
+
+/* Images */
+#article-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem 0;
+}
+
+/* ── Article Breadcrumb / Back Navigation ─────────────────── */
+.article-back {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  margin-bottom: 1.5rem;
+}
+
+.article-back button {
+  background: none;
+  border: none;
+  color: var(--color-link);
+  font-size: 0.8rem;
+  font-family: var(--font-ui);
+  cursor: pointer;
+  padding: 0;
+  text-decoration: underline;
+}
+
+.article-back button:hover {
+  color: var(--color-link-hover);
+}
+
+/* ── See Also / Related Articles Box ─────────────────────── */
+.see-also-box {
+  background: var(--color-callout-bg);
+  border: 1px solid var(--color-callout-border);
+  border-radius: 6px;
+  padding: 0.9rem 1.1rem;
+  margin: 2rem 0;
+  font-family: var(--font-ui);
+  font-size: 0.88rem;
+}
+
+.see-also-box strong {
+  display: block;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--color-accent);
+  margin-bottom: 0.4rem;
+}
+
+/* ── Loading / Error States ───────────────────────────────── */
+#loading {
+  color: var(--color-muted);
+  font-style: italic;
+  padding: 2rem 0;
+  font-family: var(--font-ui);
+}
+
+#error-msg {
+  color: var(--color-accent);
+  background: #eeedf8;
+  border: 1px solid var(--color-callout-border);
+  border-radius: 4px;
+  padding: 1rem 1.25rem;
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  white-space: pre-wrap;
+}
+
+/* ── Responsive ───────────────────────────────────────────── */
+@media (max-width: 768px) {
+  #sidebar {
+    position: relative;
+    width: 100%;
+    height: auto;
+    border-right: none;
+    border-bottom: 1px solid var(--color-sidebar-border);
+  }
+
+  #main {
+    margin-left: 0;
+    padding: 1.5rem 1rem 3rem;
+  }
+
+  .index-article-list {
+    grid-template-columns: 1fr;
+  }
+}
