@@ -73,24 +73,13 @@ This chapter builds on the pathophysiological foundations established in Chapter
 
 ### 14.1.1 Total Body Water and Compartmentalization
 
-Total body water (TBW) varies with age, sex, and body composition. In a healthy adult male, TBW approximates 60% of body weight; in adult females, 50%, due to higher adipose tissue content; and in neonates, as much as 75–80%, reflecting low fat stores and high metabolic activity. TBW is divided into two major compartments separated by the cell membrane:
-
-- **Intracellular fluid (ICF):** Approximately 40% of body weight (two-thirds of TBW). The dominant cation is potassium (K⁺, ~150 mEq/L); dominant anions are phosphate and proteins. ICF is the site of cellular metabolism.
-- **Extracellular fluid (ECF):** Approximately 20% of body weight (one-third of TBW). ECF is subdivided into:
-  - **Intravascular (plasma):** ~5% of body weight (one-quarter of ECF). Dominant cation sodium (Na⁺, ~140 mEq/L); contains plasma proteins that exert oncotic pressure.
-  - **Interstitial fluid:** ~15% of body weight (three-quarters of ECF). Bathes cells; plasma-like electrolyte composition but nearly protein-free.
-  - **Transcellular fluid:** A small "third compartment" (~1–2 L) including cerebrospinal fluid, pleural fluid, peritoneal fluid, synovial fluid, and gastrointestinal secretions.
+Total body water (TBW) varies with age, sex, and body composition. In a healthy adult male, TBW approximates 60% of body weight; in adult females, 50%, due to higher adipose tissue content; and in neonates, as much as 75–80%, reflecting low fat stores and high metabolic activity. TBW is divided into two major compartments separated by the cell membrane. The **intracellular fluid (ICF)** constitutes approximately 40% of body weight (two-thirds of TBW), with potassium (K⁺, ~150 mEq/L) as the dominant cation and phosphate and proteins as the dominant anions; the ICF is the primary site of cellular metabolism. The **extracellular fluid (ECF)** constitutes approximately 20% of body weight (one-third of TBW) and is itself subdivided into three subcompartments: the **intravascular (plasma)** space (~5% of body weight, one-quarter of ECF), which contains sodium (Na⁺, ~140 mEq/L) as its dominant cation and plasma proteins that exert oncotic pressure; the **interstitial fluid** (~15% of body weight, three-quarters of ECF), which bathes cells and has a plasma-like electrolyte composition but is nearly protein-free; and the **transcellular fluid**, a small "third compartment" of approximately 1–2 L including cerebrospinal fluid, pleural fluid, peritoneal fluid, synovial fluid, and gastrointestinal secretions.
 
 > **[Clinical Pearl]** Because sodium is the primary ECF cation, serum sodium concentration is the best single indicator of plasma osmolality and, therefore, of water distribution between compartments. Changes in serum sodium rarely reflect sodium balance alone — they almost always indicate a disturbance in water balance.
 
 ### 14.1.2 Regulation of Fluid Balance
 
-Several hormonal and neurological mechanisms work in concert to maintain TBW within a narrow range:
-
-- **Antidiuretic hormone (ADH/vasopressin):** Released from the posterior pituitary in response to increased plasma osmolality (detected by hypothalamic osmoreceptors) or significant decreases in circulating volume. ADH increases water reabsorption in the renal collecting duct, diluting plasma and concentrating urine.
-- **Renin-angiotensin-aldosterone system (RAAS):** Activated by decreased renal perfusion, sympathetic stimulation, or hyponatremia. Aldosterone promotes sodium (and secondarily water) reabsorption in the distal nephron, expanding ECF volume.
-- **Atrial natriuretic peptide (ANP):** Released from atrial cardiomyocytes in response to atrial stretch (volume overload); promotes sodium and water excretion, opposing RAAS.
-- **Thirst mechanism:** The primary behavioral defense against hypertonicity; osmoreceptors in the hypothalamus trigger thirst at plasma osmolality thresholds just above those that stimulate ADH release.
+Several hormonal and neurological mechanisms work in concert to maintain TBW within a narrow range. **Antidiuretic hormone (ADH/vasopressin)** is released from the posterior pituitary in response to increased plasma osmolality (detected by hypothalamic osmoreceptors) or significant decreases in circulating volume; it increases water reabsorption in the renal collecting duct, diluting plasma and concentrating urine. The **renin-angiotensin-aldosterone system (RAAS)** is activated by decreased renal perfusion, sympathetic stimulation, or hyponatremia, with aldosterone promoting sodium (and secondarily water) reabsorption in the distal nephron, thereby expanding ECF volume. In opposition, **atrial natriuretic peptide (ANP)** is released from atrial cardiomyocytes in response to atrial stretch caused by volume overload, promoting sodium and water excretion. Finally, the **thirst mechanism** serves as the primary behavioral defense against hypertonicity, with hypothalamic osmoreceptors triggering thirst at plasma osmolality thresholds just above those that stimulate ADH release.
 
 *Figure 14.1 — Regulation of Fluid Balance: A diagram showing the feedback loops among osmoreceptors, ADH release, thirst, RAAS activation, and ANP secretion in response to changes in plasma osmolality and ECF volume.*
 
@@ -111,10 +100,7 @@ Net filtration pressure = (Pc − Pi) − (πc − πi). At the arterial end of 
 
 ### 14.2.2 Osmolality, Osmolarity, and Tonicity
 
-- **Osmolarity** is the number of osmoles per liter of solution (mOsm/L); **osmolality** is osmoles per kilogram of solvent (mOsm/kg). Clinically, the terms are used interchangeably; measured serum osmolality is 275–295 mOsm/kg.
-- **Calculated osmolality** = 2[Na⁺] + [glucose (mg/dL)/18] + [BUN (mg/dL)/2.8]. Sodium accounts for nearly all plasma osmolality under normal conditions.
-- **Osmol gap** = Measured − Calculated osmolality; normally <10 mOsm/kg. An elevated osmol gap indicates the presence of unmeasured osmoles (e.g., ethanol, methanol, ethylene glycol, mannitol).
-- **Tonicity** (effective osmolality) considers only solutes that do not freely cross cell membranes and therefore exert osmotic force on cell volume. Urea freely crosses membranes and contributes to measured osmolality but does not affect tonicity.
+**Osmolarity** refers to the number of osmoles per liter of solution (mOsm/L), while **osmolality** is osmoles per kilogram of solvent (mOsm/kg); clinically, the terms are used interchangeably, with measured serum osmolality normally 275–295 mOsm/kg. **Calculated osmolality** is estimated by the formula 2[Na⁺] + [glucose (mg/dL)/18] + [BUN (mg/dL)/2.8], with sodium accounting for nearly all plasma osmolality under normal conditions. The **osmol gap** — the difference between measured and calculated osmolality, normally less than 10 mOsm/kg — indicates the presence of unmeasured osmoles (such as ethanol, methanol, ethylene glycol, or mannitol) when elevated. **Tonicity** (effective osmolality) differs from measured osmolality in that it considers only solutes that do not freely cross cell membranes and therefore exert osmotic force on cell volume; urea, for instance, freely crosses membranes, contributes to measured osmolality, but does not affect tonicity.
 
 > **[Safety Alert]** Rapid correction of either hypernatremia or hyponatremia can be fatal. Cerebral osmotic adaptation occurs within hours to days; over-rapid correction reverses the adaptation and causes cerebral edema (in hypernatremia correction) or osmotic demyelination syndrome (in hyponatremia correction). Never correct serum sodium faster than 8–10 mEq/L per 24 hours in chronic states.
 
@@ -185,14 +171,7 @@ In isotonic fluid excess (e.g., excessive isotonic IV fluid administration, inap
 
 ### 14.5.2 Fluid Volume Excess (Hypervolemia)
 
-Fluid volume excess results from retention of sodium and water, commonly caused by heart failure, cirrhosis, nephrotic syndrome, or aggressive IV fluid administration. The clinical picture includes:
-
-- **Peripheral edema:** Dependent, pitting; ankles in ambulatory patients, sacrum in bedridden patients
-- **Pulmonary edema:** Dyspnea, orthopnea, paroxysmal nocturnal dyspnea, bilateral crackles, pink frothy sputum
-- **Elevated jugular venous pressure:** Reflects right-sided congestion
-- **Hypertension:** From vascular volume overload
-- **S₃ gallop:** Ventricular volume overload (heart failure)
-- **Laboratory:** Dilutional hyponatremia, elevated BNP/NT-proBNP (heart failure), low hematocrit from hemodilution
+Fluid volume excess results from retention of sodium and water, commonly caused by heart failure, cirrhosis, nephrotic syndrome, or aggressive IV fluid administration. The clinical picture encompasses peripheral edema — dependent and pitting, appearing at the ankles in ambulatory patients and the sacrum in bedridden patients — as well as pulmonary edema manifesting as dyspnea, orthopnea, paroxysmal nocturnal dyspnea, bilateral crackles, and pink frothy sputum. Elevated jugular venous pressure reflects right-sided congestion, while hypertension results from vascular volume overload; an S₃ gallop indicates ventricular volume overload in heart failure. Laboratory findings include dilutional hyponatremia, elevated BNP/NT-proBNP in heart failure, and low hematocrit from hemodilution.
 
 Management centers on sodium and fluid restriction, diuretic therapy (loop diuretics such as furosemide are first-line), identification and treatment of the underlying cause, and close monitoring of urine output, daily weight, and electrolytes.
 
@@ -206,10 +185,7 @@ Management centers on sodium and fluid restriction, diuretic therapy (loop diure
 
 **Sodium** (normal: 135–145 mEq/L) is the dominant ECF cation and the primary determinant of plasma osmolality and ECF volume.
 
-**Hyponatremia** (<135 mEq/L) is the most common electrolyte disorder in hospitalized patients. It must first be classified by tonicity:
-- *Hypotonic hyponatremia* (true hyponatremia): Due to excess water relative to sodium. Causes include SIADH, hypothyroidism, adrenal insufficiency, heart failure, cirrhosis, nephrotic syndrome, and excess hypotonic fluid administration.
-- *Isotonic hyponatremia* (pseudohyponatremia): Artefactual; extreme hyperlipidemia or hyperproteinemia displaces water from plasma.
-- *Hypertonic hyponatremia:* Solute (glucose, mannitol) draws water into ECF, diluting sodium.
+**Hyponatremia** (<135 mEq/L) is the most common electrolyte disorder in hospitalized patients and must first be classified by tonicity. *Hypotonic hyponatremia* (true hyponatremia) results from excess water relative to sodium, with causes including SIADH, hypothyroidism, adrenal insufficiency, heart failure, cirrhosis, nephrotic syndrome, and excess hypotonic fluid administration. *Isotonic hyponatremia* (pseudohyponatremia) is artefactual, arising when extreme hyperlipidemia or hyperproteinemia displaces water from plasma. *Hypertonic hyponatremia* occurs when a solute such as glucose or mannitol draws water into the ECF, diluting sodium.
 
 Symptoms depend on severity and rapidity of onset: nausea, headache, lethargy, confusion, seizures, and coma. Treatment of SIADH-related hyponatremia includes fluid restriction; hypertonic saline (3% NaCl) is reserved for severe symptomatic hyponatremia and must be administered with careful monitoring to avoid over-rapid correction.
 
@@ -219,15 +195,9 @@ Symptoms depend on severity and rapidity of onset: nausea, headache, lethargy, c
 
 **Potassium** (normal: 3.5–5.0 mEq/L) is the predominant ICF cation; 98% is intracellular. The ratio of intracellular to extracellular K⁺ determines the resting membrane potential of excitable cells, making even small changes in serum K⁺ clinically significant.
 
-**Hypokalemia** (<3.5 mEq/L):
-- *Causes:* Gastrointestinal loss (vomiting, diarrhea, NG suction), renal loss (diuretics, hyperaldosteronism, metabolic alkalosis), poor intake, insulin/β₂-agonist–mediated shift into cells.
-- *Manifestations:* Muscle weakness, cramps, fatigue, constipation/ileus; **ECG changes:** flattening of T waves, prominent U waves, ST depression; severe hypokalemia → ventricular arrhythmias, respiratory muscle paralysis.
-- *Nursing management:* Oral KCl supplementation preferred when tolerated; IV KCl for severe cases — never IV push (fatal); maximum peripheral infusion rate 10 mEq/hour; central line for rates >10 mEq/hour; continuous cardiac monitoring for severe hypokalemia; concurrent magnesium repletion (hypomagnesemia perpetuates renal K⁺ wasting).
+**Hypokalemia** (<3.5 mEq/L) arises most commonly from gastrointestinal losses such as vomiting, diarrhea, and NG suction; renal losses from diuretics, hyperaldosteronism, or metabolic alkalosis; poor dietary intake; or insulin- and β₂-agonist–mediated shifts of potassium into cells. Clinical manifestations include muscle weakness, cramps, fatigue, and constipation or ileus; ECG changes progress from flattening of T waves and prominent U waves to ST depression, with severe hypokalemia potentially causing ventricular arrhythmias and respiratory muscle paralysis. Nursing management prioritizes oral KCl supplementation when tolerated; when IV KCl is required for severe cases, it must never be given by IV push (which is fatal), the maximum peripheral infusion rate is 10 mEq/hour, rates exceeding 10 mEq/hour require a central line and continuous cardiac monitoring, and concurrent magnesium repletion is essential because hypomagnesemia perpetuates renal K⁺ wasting.
 
-**Hyperkalemia** (>5.0 mEq/L):
-- *Causes:* Renal failure (failure to excrete), tissue destruction (rhabdomyolysis, hemolysis, tumor lysis), acidosis (H⁺-K⁺ exchange drives K⁺ out of cells), ACE inhibitors/potassium-sparing diuretics, pseudohyperkalemia (hemolyzed specimen).
-- *Manifestations:* Paresthesias, weakness; **ECG changes (sequential with rising K⁺):** peaked T waves → widened QRS → loss of P waves → sine wave pattern → ventricular fibrillation/asystole.
-- *Nursing management:* Continuous cardiac monitoring; calcium gluconate for cardiac membrane stabilization (onset within minutes, duration 30–60 min); insulin + glucose to shift K⁺ into cells; sodium bicarbonate (if acidosis); kayexalate or patiromer to bind K⁺ in GI tract; dialysis for refractory severe hyperkalemia; identify and treat underlying cause.
+**Hyperkalemia** (>5.0 mEq/L) results from renal failure's inability to excrete potassium, tissue destruction such as rhabdomyolysis, hemolysis, or tumor lysis, acidosis-driven H⁺-K⁺ exchange that shifts K⁺ out of cells, ACE inhibitors or potassium-sparing diuretics, or pseudohyperkalemia from a hemolyzed specimen. Manifestations include paresthesias and weakness; ECG changes progress sequentially with rising K⁺ from peaked T waves to widened QRS, loss of P waves, a sine wave pattern, and ultimately ventricular fibrillation or asystole. Nursing management requires continuous cardiac monitoring throughout and proceeds with calcium gluconate for immediate cardiac membrane stabilization (onset within minutes, duration 30–60 minutes), insulin plus glucose to shift K⁺ into cells, sodium bicarbonate if acidosis is present, kayexalate or patiromer to bind K⁺ in the GI tract, and dialysis for refractory severe hyperkalemia, while always identifying and treating the underlying cause.
 
 > **[Safety Alert]** Intravenous potassium chloride must never be administered undiluted or by IV push. Concentrated KCl given rapidly causes cardiac arrest. Always verify the dilution and infusion rate before administration. When infusing IV potassium peripherally, the maximum concentration is typically 40 mEq/100 mL and rate ≤10 mEq/hour. Central venous access and continuous cardiac monitoring are required for rates >10 mEq/hour.
 
@@ -277,34 +247,15 @@ The **renal system** responds over hours to days but exerts more powerful long-t
 
 ### 14.8.1 Respiratory Acidosis and Alkalosis
 
-**Respiratory acidosis:** PaCO₂ > 45 mmHg, pH < 7.35.
-- *Cause:* Hypoventilation — any condition that reduces alveolar ventilation: COPD exacerbation, severe asthma, respiratory muscle failure (Guillain-Barré, myasthenia gravis), opioid/sedative overdose, obesity hypoventilation, neuromuscular disease.
-- *Compensation:* Renal retention of HCO₃⁻ (chronic respiratory acidosis: HCO₃⁻ rises 3.5 mEq/L per 10 mmHg increase in PaCO₂).
-- *Clinical manifestations:* Dyspnea, headache, confusion, somnolence, asterixis ("CO₂ narcosis"), papilledema; severe hypercapnia → coma.
-- *Nursing management:* Treat underlying cause; support ventilation (positioning, supplemental O₂ cautiously in COPD, non-invasive positive pressure ventilation — BiPAP/CPAP, intubation if necessary); avoid respiratory depressants; monitor serial ABGs.
+**Respiratory acidosis** (PaCO₂ > 45 mmHg, pH < 7.35) is caused by hypoventilation — any condition that reduces alveolar ventilation, including COPD exacerbation, severe asthma, respiratory muscle failure from Guillain-Barré syndrome or myasthenia gravis, opioid or sedative overdose, obesity hypoventilation syndrome, and other neuromuscular diseases. The renal compensatory response, which develops over hours to days in chronic respiratory acidosis, involves retention of HCO₃⁻, rising approximately 3.5 mEq/L for every 10 mmHg increase in PaCO₂. Clinical manifestations include dyspnea, headache, confusion, somnolence, asterixis (so-called "CO₂ narcosis"), and papilledema, with severe hypercapnia potentially progressing to coma. Nursing management focuses on treating the underlying cause, supporting ventilation through positioning and supplemental oxygen (used cautiously in COPD patients), non-invasive positive pressure ventilation such as BiPAP or CPAP, or intubation when necessary, while avoiding respiratory depressants and monitoring serial ABGs.
 
-**Respiratory alkalosis:** PaCO₂ < 35 mmHg, pH > 7.45.
-- *Cause:* Hyperventilation — anxiety/pain, mechanical ventilation (over-ventilation), hypoxia (high altitude, pulmonary embolism), pregnancy, hepatic failure, sepsis (early), salicylate toxicity (early phase).
-- *Compensation:* Renal excretion of HCO₃⁻ (HCO₃⁻ falls 5 mEq/L per 10 mmHg decrease in PaCO₂ — chronic).
-- *Manifestations:* Lightheadedness, perioral/extremity paresthesias, carpopedal spasm (hypocalcemia from ionized Ca²⁺ shift), syncope.
-- *Nursing management:* Address underlying cause; coaching slow breathing or breathing into paper bag (anxiety-driven hyperventilation); adjust ventilator settings if mechanically ventilated.
+**Respiratory alkalosis** (PaCO₂ < 35 mmHg, pH > 7.45) results from hyperventilation driven by anxiety or pain, over-ventilation during mechanical ventilation, hypoxia from high altitude or pulmonary embolism, pregnancy, hepatic failure, early sepsis, or the early phase of salicylate toxicity. Chronic compensation occurs through renal excretion of HCO₃⁻, which falls approximately 5 mEq/L for every 10 mmHg decrease in PaCO₂. Clinical manifestations include lightheadedness, perioral and extremity paresthesias, carpopedal spasm from ionized calcium shift, and syncope. Nursing management centers on addressing the underlying cause; for anxiety-driven hyperventilation, coaching slow breathing is effective, while mechanically ventilated patients require adjustment of ventilator settings.
 
 ### 14.8.2 Metabolic Acidosis and Alkalosis
 
-**Metabolic acidosis:** HCO₃⁻ < 22 mEq/L, pH < 7.35.
-- *Anion gap (AG) = Na⁺ − (Cl⁻ + HCO₃⁻); normal 8–12 mEq/L.* Elevated AG indicates accumulation of unmeasured anions (lactic acid, ketoacids, renal failure acids, toxic ingestions — "MUDPILES": Methanol, Uremia, DKA, Propylene glycol, Isoniazid/Infection, Lactic acidosis, Ethylene glycol, Salicylates).
-- *Normal AG (hyperchloremic) metabolic acidosis:* Loss of bicarbonate or gain of chloride — diarrhea (HCO₃⁻ loss), renal tubular acidosis, excessive normal saline infusion.
-- *Compensation:* Hyperventilation (Kussmaul respirations) — each 1 mEq/L decrease in HCO₃⁻ lowers PaCO₂ by 1.2 mmHg (Winter's formula: expected PaCO₂ = 1.5[HCO₃⁻] + 8 ± 2).
-- *Manifestations:* Kussmaul respirations (in metabolic acidosis), Kussmaul breathing, fatigue, confusion; hyperkalemia (H⁺-K⁺ exchange); negative inotropy (decreased cardiac contractility at pH <7.20).
-- *Management:* Treat the underlying cause; sodium bicarbonate for pH <7.10 or life-threatening acidosis; caution with bicarbonate therapy (may paradoxically worsen intracellular acidosis, generate CO₂).
+**Metabolic acidosis** (HCO₃⁻ < 22 mEq/L, pH < 7.35) is further characterized by calculating the anion gap (AG = Na⁺ − [Cl⁻ + HCO₃⁻]; normal 8–12 mEq/L). An elevated anion gap indicates accumulation of unmeasured anions from lactic acid, ketoacids, renal failure acids, or toxic ingestions — recalled by the mnemonic "MUDPILES" (Methanol, Uremia, DKA, Propylene glycol, Isoniazid/Infection, Lactic acidosis, Ethylene glycol, Salicylates). A normal anion gap (hyperchloremic) metabolic acidosis, by contrast, reflects loss of bicarbonate or gain of chloride, as occurs in diarrhea, renal tubular acidosis, or excessive normal saline infusion. The respiratory compensatory response is hyperventilation (Kussmaul respirations), with each 1 mEq/L decrease in HCO₃⁻ lowering PaCO₂ by approximately 1.2 mmHg; Winter's formula (expected PaCO₂ = 1.5[HCO₃⁻] + 8 ± 2) quantifies the expected compensation. Manifestations include Kussmaul respirations, fatigue, confusion, hyperkalemia from H⁺-K⁺ exchange, and negative inotropy when pH falls below 7.20. Management targets the underlying cause; sodium bicarbonate is reserved for pH below 7.10 or life-threatening acidosis and must be used with caution as it can paradoxically worsen intracellular acidosis and generate CO₂.
 
-**Metabolic alkalosis:** HCO₃⁻ > 26 mEq/L, pH > 7.45.
-- *Cause:* Loss of H⁺ (vomiting, NG suction, diuretics causing H⁺ loss in urine, hyperaldosteronism) or gain of HCO₃⁻ (excess antacid/bicarbonate).
-- *Chloride-responsive (urine Cl⁻ <20 mEq/L):* Volume depletion is the perpetuating factor; responds to saline administration (most common: from vomiting, NG suction, diuretics).
-- *Chloride-resistant (urine Cl⁻ >20 mEq/L):* Primary hyperaldosteronism, severe hypokalemia, Cushing's syndrome; does not respond to saline.
-- *Compensation:* Hypoventilation (limited; respiratory drive prevents significant hypoxia) — expected PaCO₂ rises 0.7 mmHg per 1 mEq/L rise in HCO₃⁻.
-- *Manifestations:* Often asymptomatic; hypocalcemic symptoms (from shift of ionized Ca²⁺); dysrhythmias; neuromuscular irritability; hypokalemia (concurrent).
-- *Management:* IV normal saline for chloride-responsive alkalosis; potassium replacement; address aldosterone excess for chloride-resistant types.
+**Metabolic alkalosis** (HCO₃⁻ > 26 mEq/L, pH > 7.45) results from loss of hydrogen ions through vomiting, NG suction, diuretics, or hyperaldosteronism, or from gain of bicarbonate through excess antacid or bicarbonate administration. A critical distinction guides management: *chloride-responsive* alkalosis (urine Cl⁻ < 20 mEq/L) is perpetuated by volume depletion and responds to saline administration, and is most commonly caused by vomiting, NG suction, or diuretics; *chloride-resistant* alkalosis (urine Cl⁻ > 20 mEq/L), caused by primary hyperaldosteronism, severe hypokalemia, or Cushing's syndrome, does not respond to saline. Respiratory compensation through hypoventilation is limited because the hypoxic drive eventually overrides it; the expected PaCO₂ rises approximately 0.7 mmHg per 1 mEq/L rise in HCO₃⁻. Manifestations are often absent but may include hypocalcemic symptoms from ionized calcium shift, dysrhythmias, neuromuscular irritability, and concurrent hypokalemia. Management of chloride-responsive alkalosis involves IV normal saline and potassium replacement, while chloride-resistant types require addressing the underlying aldosterone excess.
 
 *Figure 14.4 — Acid-Base Disorders Overview: A 2×2 grid showing the four primary acid-base disorders (respiratory acidosis/alkalosis, metabolic acidosis/alkalosis) with primary changes, compensatory responses, and common causes.*
 
@@ -325,14 +276,7 @@ The **renal system** responds over hours to days but exerts more powerful long-t
 
 ### 14.9.2 The ROME Method: A Systematic Approach
 
-The **ROME mnemonic** (Respiratory Opposite, Metabolic Equal) describes the directional relationship between pH change and the primary abnormal parameter:
-
-- **Respiratory disorders:** The primary parameter (PaCO₂) moves in the **opposite** direction to pH.
-  - Respiratory acidosis: pH ↓, PaCO₂ ↑
-  - Respiratory alkalosis: pH ↑, PaCO₂ ↓
-- **Metabolic disorders:** The primary parameter (HCO₃⁻) moves in the **same (equal)** direction as pH.
-  - Metabolic acidosis: pH ↓, HCO₃⁻ ↓
-  - Metabolic alkalosis: pH ↑, HCO₃⁻ ↑
+The **ROME mnemonic** (Respiratory Opposite, Metabolic Equal) describes the directional relationship between pH change and the primary abnormal parameter. In **respiratory disorders**, the primary parameter (PaCO₂) moves in the *opposite* direction to pH: respiratory acidosis is characterized by a falling pH alongside a rising PaCO₂, while respiratory alkalosis shows a rising pH with a falling PaCO₂. In **metabolic disorders**, the primary parameter (HCO₃⁻) moves in the *same* direction as pH: metabolic acidosis presents with both pH and HCO₃⁻ falling together, and metabolic alkalosis presents with both rising together.
 
 **Step-by-step ABG interpretation:**
 
@@ -351,12 +295,7 @@ The **ROME mnemonic** (Respiratory Opposite, Metabolic Equal) describes the dire
 **Worked Example:**
 pH = 7.28, PaCO₂ = 58 mmHg, HCO₃⁻ = 26 mEq/L, PaO₂ = 62 mmHg
 
-- Step 1: pH 7.28 → acidosis
-- Step 2: PaCO₂ 58 (elevated) → moves OPPOSITE to pH (↑ CO₂, ↓ pH) → respiratory component
-- Step 3: HCO₃⁻ 26 → normal (no metabolic contribution)
-- Step 4: Primary disorder = **Respiratory acidosis**
-- Step 5: HCO₃⁻ should rise if chronic: expected HCO₃⁻ = 24 + 3.5 × (58−45)/10 = 24 + 4.6 ≈ 28.6; actual HCO₃⁻ 26 → compensation less than expected → **acute or partially compensated respiratory acidosis**
-- Step 6: PaO₂ 62 → hypoxemia present
+Applying the six-step method: the pH of 7.28 indicates acidosis (Step 1). The elevated PaCO₂ of 58 mmHg moves opposite to the pH, identifying a respiratory component (Step 2), while HCO₃⁻ of 26 mEq/L is normal, confirming no metabolic contribution (Step 3). The primary disorder is therefore **respiratory acidosis** (Step 4). To assess compensation (Step 5), the expected HCO₃⁻ for chronic respiratory acidosis is calculated as 24 + 3.5 × (58 − 45)/10 = 24 + 4.6 ≈ 28.6 mEq/L; the actual HCO₃⁻ of 26 mEq/L is lower than expected, indicating **acute or partially compensated respiratory acidosis**. Finally, the PaO₂ of 62 mmHg confirms the presence of hypoxemia (Step 6).
 
 > **[Clinical Pearl]** A normal pH in the setting of abnormal PaCO₂ and HCO₃⁻ should raise suspicion for a **mixed acid-base disorder** in which two primary disturbances partially offset each other. For example, a patient with COPD (chronic respiratory acidosis) who develops vomiting (metabolic alkalosis) may have a deceptively near-normal pH despite significant physiological derangement. Always correlate ABG findings with the clinical picture.
 
@@ -370,32 +309,15 @@ Comprehensive fluid and electrolyte assessment begins with a focused history and
 
 **History:** Recent fluid intake and losses (vomiting, diarrhea, diaphoresis, polyuria); dietary sodium and potassium intake; medications (diuretics, ACE inhibitors, NSAIDs, corticosteroids); chronic diseases (heart failure, cirrhosis, renal disease, diabetes); recent surgeries or trauma.
 
-**Physical examination:**
-- *Vital signs:* Tachycardia and hypotension → volume depletion; hypertension → volume excess or pain/anxiety.
-- *Weight:* Daily weight is the most reliable indicator of fluid balance; 1 kg ≈ 1 L of fluid.
-- *Skin:* Turgor (test over clavicle or sternum in elderly); moisture of mucous membranes; capillary refill.
-- *Jugular venous pressure (JVP):* Elevated JVP (>3 cm above sternal angle) → right-sided volume overload.
-- *Auscultation:* Crackles (pulmonary edema), S₃ gallop (volume overload).
-- *Neuromuscular:* Deep tendon reflexes (hypo- or hyperreflexia suggests magnesium or calcium disorder); Chvostek's and Trousseau's signs; muscle strength; level of consciousness.
+**Physical examination** should be systematic and thorough. Vital signs provide immediate direction: tachycardia and hypotension suggest volume depletion, while hypertension may indicate volume excess, pain, or anxiety. Daily weight — with 1 kg approximating 1 L of fluid — is the most reliable ongoing indicator of fluid balance. Skin assessment includes testing turgor over the clavicle or sternum in elderly patients, inspecting the moisture of mucous membranes, and evaluating capillary refill. Jugular venous pressure (JVP) elevated above 3 cm above the sternal angle suggests right-sided volume overload. Auscultation may reveal crackles consistent with pulmonary edema or an S₃ gallop reflecting volume overload. Neuromuscular findings are equally important: deep tendon reflexes that are hypo- or hyperreflexive may indicate magnesium or calcium disorders, and Chvostek's and Trousseau's signs, muscle strength, and level of consciousness should all be assessed.
 
-**Laboratory monitoring:**
-- *Basic metabolic panel (BMP):* Sodium, potassium, chloride, bicarbonate, BUN, creatinine, glucose — ordered frequently in acutely ill patients.
-- *Osmolality:* Measured and calculated; osmol gap calculation.
-- *Urine sodium and osmolality:* Help differentiate causes of hyponatremia and assess renal tubular function.
-- *Lactate:* Elevated in tissue hypoperfusion (lactic acidosis).
-- *ABG:* For acid-base status and oxygenation in critically ill or at-risk patients.
+**Laboratory monitoring** is guided by the clinical picture. The basic metabolic panel (BMP) — measuring sodium, potassium, chloride, bicarbonate, BUN, creatinine, and glucose — is ordered frequently in acutely ill patients and forms the foundation of electrolyte assessment. Measured and calculated osmolality enable osmol gap calculation to detect unmeasured osmoles. Urine sodium and osmolality help differentiate the causes of hyponatremia and assess renal tubular function. Serum lactate is measured when tissue hypoperfusion and lactic acidosis are suspected, and arterial blood gas (ABG) analysis provides definitive assessment of acid-base status and oxygenation in critically ill or at-risk patients.
 
 ### 14.10.2 Interprofessional Collaboration and Evidence-Based Interventions
 
 Fluid and electrolyte management is inherently interprofessional. The nurse coordinates care among physicians, pharmacists, dietitians, and respiratory therapists.
 
-**Key nursing interventions:**
-- Maintain accurate intake and output records, including all oral, IV, and enteral inputs and all urinary, fecal, nasogastric, wound, and insensible outputs.
-- Administer IV fluids and electrolyte replacements per order, verifying correct fluid type, concentration, rate, and route.
-- Assess IV access sites for patency and signs of infiltration or phlebitis, particularly when infusing concentrated solutions.
-- Educate patients and families about dietary modifications: sodium restriction in heart failure and hypertension; potassium-rich foods in hypokalemia; avoidance of high-potassium foods in renal failure.
-- Recognize early warning signs of deterioration (increasing edema, worsening dyspnea, declining urine output, ECG changes) and escalate promptly.
-- Document and communicate fluid balance trends across shifts, including cumulative balance over 24 hours.
+**Key nursing interventions** span assessment, administration, education, and communication. Nurses maintain accurate intake and output records that capture all oral, IV, and enteral inputs alongside all urinary, fecal, nasogastric, wound, and insensible outputs. IV fluids and electrolyte replacements are administered per order only after verifying the correct fluid type, concentration, rate, and route; IV access sites are assessed regularly for patency and signs of infiltration or phlebitis, particularly when infusing concentrated solutions. Patient and family education addresses dietary modifications specific to the patient's condition, including sodium restriction in heart failure and hypertension, potassium-rich foods for hypokalemia, and avoidance of high-potassium foods in renal failure. The nurse must recognize early warning signs of deterioration — including increasing edema, worsening dyspnea, declining urine output, and ECG changes — and escalate promptly. Fluid balance trends, including cumulative balance over 24 hours, are documented and communicated across shifts to ensure continuity of care.
 
 > **[Evidence-Based Practice]** Goal-directed fluid therapy (GDFT) — titrating IV fluids to specific hemodynamic endpoints such as stroke volume variation, pulse pressure variation, or central venous oxygen saturation — reduces postoperative complications and ICU length of stay compared with liberal fluid strategies in surgical and critically ill patients (Messina et al., 2017). Nurses in perioperative and critical care settings should be familiar with GDFT monitoring parameters and the hemodynamic devices used to guide therapy.
 
@@ -411,11 +333,7 @@ Fluid and electrolyte management is inherently interprofessional. The nurse coor
 
 On arrival, Mr. Okafor is lethargic. Vital signs: BP 86/52 mmHg, HR 118 bpm, RR 24/min, SpO₂ 90% on room air. His skin is cool and dry with poor turgor; mucous membranes are parched. ECG shows peaked T waves. His daughter reports he has been taking his full dose of spironolactone and lisinopril throughout the illness despite being unable to keep fluids down.
 
-Laboratory results:
-- Na⁺ 131 mEq/L, K⁺ 6.2 mEq/L, Cl⁻ 92 mEq/L, HCO₃⁻ 16 mEq/L
-- BUN 64 mg/dL, creatinine 3.1 mg/dL (baseline 1.4 mg/dL)
-- Glucose 210 mg/dL
-- ABG: pH 7.22, PaCO₂ 30 mmHg, HCO₃⁻ 12 mEq/L, PaO₂ 72 mmHg
+Laboratory results revealed serum Na⁺ 131 mEq/L, K⁺ 6.2 mEq/L, Cl⁻ 92 mEq/L, and HCO₃⁻ 16 mEq/L; BUN 64 mg/dL and creatinine 3.1 mg/dL (baseline 1.4 mg/dL); glucose 210 mg/dL; and ABG values of pH 7.22, PaCO₂ 30 mmHg, HCO₃⁻ 12 mEq/L, and PaO₂ 72 mmHg.
 
 **Discussion Questions:**
 

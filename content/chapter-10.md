@@ -140,30 +140,13 @@ The simplified continuum model most commonly taught in nursing education arrange
 
 A critical clinical concept within the continuum model is the *neutral zone* — the area in the middle of the spectrum where a person is neither acutely ill nor functioning at peak wellness. The neutral zone is not a state of health; it is a state of reduced capacity, risk accumulation, and vulnerability. Many of the patients nurses encounter in ambulatory, primary care, and home health settings reside in the neutral zone.
 
-The neutral zone is clinically important for several reasons:
-
-- **Prevention opportunity:** Patients in the neutral zone are accessible before disease becomes irreversible. Early intervention during this window yields the greatest return on investment in terms of disease prevention and quality of life preservation.
-- **Risk visibility:** Patients in the neutral zone often have multiple sub-clinical risk factors — elevated BMI, sedentary lifestyle, borderline hypertension — that individually fall below clinical thresholds but collectively represent substantial cardiovascular risk.
-- **Patient perception gap:** Patients in the neutral zone frequently do not perceive themselves as ill, creating engagement challenges. The nurse who understands the neutral zone can frame health education not as "treating your disease" but as "protecting what you have and building toward more."
+The neutral zone is clinically important for several reasons. First, patients in the neutral zone are accessible before disease becomes irreversible, meaning early intervention during this window yields the greatest return on investment in terms of disease prevention and quality of life preservation. Additionally, patients in the neutral zone often carry multiple sub-clinical risk factors — elevated BMI, sedentary lifestyle, borderline hypertension — that individually fall below clinical thresholds but collectively represent substantial cardiovascular risk. Furthermore, patients in the neutral zone frequently do not perceive themselves as ill, creating engagement challenges; the nurse who understands the neutral zone can frame health education not as "treating your disease" but as "protecting what you have and building toward more."
 
 ### 10.2.3 Dynamic Movement Along the Continuum
 
 Health is not a stable position but a dynamic trajectory. Several forces act simultaneously on a person's position along the continuum:
 
-**Factors that move the trajectory toward illness:**
-- Pathological processes (infection, inflammation, neoplasm)
-- Health-risk behaviors (tobacco use, physical inactivity, unhealthy diet)
-- Adverse social determinants (poverty, housing instability, food insecurity)
-- Psychosocial stressors (bereavement, trauma, caregiver burden)
-- Inadequate access to preventive or curative healthcare
-
-**Factors that move the trajectory toward wellness:**
-- Effective medical and nursing treatment
-- Health-promoting behaviors (exercise, balanced nutrition, adequate sleep)
-- Strong social support networks
-- Protective SDOH (economic stability, educational attainment, safe neighborhoods)
-- Patient activation and health literacy
-- Spiritual and psychological resilience
+Forces that move the trajectory toward illness include pathological processes such as infection, inflammation, and neoplasm; health-risk behaviors such as tobacco use, physical inactivity, and unhealthy diet; adverse social determinants including poverty, housing instability, and food insecurity; psychosocial stressors such as bereavement, trauma, and caregiver burden; and inadequate access to preventive or curative healthcare. In contrast, forces that move the trajectory toward wellness include effective medical and nursing treatment, health-promoting behaviors such as exercise, balanced nutrition, and adequate sleep, strong social support networks, and protective social determinants such as economic stability, educational attainment, and safe neighborhoods. Patient activation, health literacy, and spiritual and psychological resilience also play powerful roles in sustaining movement toward the wellness pole.
 
 Nurses function at the intersection of these forces. Every nursing intervention — medication administration, patient education, discharge planning, care coordination — is intended to shift a patient's trajectory toward the wellness pole. Understanding the continuum model clarifies the *direction* and *purpose* of nursing care, not just its task components.
 
@@ -260,34 +243,19 @@ The three-level prevention framework — introduced by Leavell and Clark in 1953
 
 Primary prevention occurs *before disease onset* and targets the reduction of disease incidence in the healthy population. Goals are to eliminate risk factors or strengthen host resistance before pathological processes begin.
 
-Examples in nursing practice:
-- Administering immunizations (influenza, pneumococcal, HPV) in primary care and public health settings
-- Providing tobacco cessation counseling to non-smokers and adolescents at risk for initiation
-- Educating pregnant patients about folic acid supplementation to prevent neural tube defects
-- Teaching car seat installation and helmet use to reduce pediatric injury
-- Conducting food safety education in community settings to prevent foodborne illness
+Examples in nursing practice include administering immunizations — such as influenza, pneumococcal, and HPV vaccines — in primary care and public health settings, providing tobacco cessation counseling to non-smokers and adolescents at risk for initiation, and educating pregnant patients about folic acid supplementation to prevent neural tube defects. Additionally, nurses practice primary prevention by teaching car seat installation and helmet use to reduce pediatric injury and by conducting food safety education in community settings to prevent foodborne illness.
 
 **Secondary Prevention**
 
 Secondary prevention occurs *after disease onset but before symptoms are established* — or early in the symptomatic phase — with the goal of identifying disease early and treating it promptly to limit severity and prevent progression.
 
-Examples in nursing practice:
-- Performing blood pressure screening at community events to identify undiagnosed hypertension
-- Conducting breast self-examination education and facilitating mammography referrals
-- Administering colorectal cancer screening (fecal immunochemical test distribution) in underserved communities
-- Completing tuberculin skin testing in high-risk populations (corrections, homeless shelters, healthcare workers)
-- Screening for intimate partner violence using validated tools (e.g., HITS, WAST) at well-woman visits
+Examples in nursing practice include performing blood pressure screening at community events to identify undiagnosed hypertension, conducting breast self-examination education and facilitating mammography referrals, and administering colorectal cancer screening — such as fecal immunochemical test distribution — in underserved communities. Furthermore, nurses perform secondary prevention by completing tuberculin skin testing in high-risk populations such as those in corrections facilities, homeless shelters, and healthcare settings, and by screening for intimate partner violence using validated tools such as HITS and WAST at well-woman visits.
 
 **Tertiary Prevention**
 
 Tertiary prevention occurs *after disease is established* and focuses on reducing disability, preventing complications, and restoring function to the highest possible level. Most of what occurs in hospital and rehabilitation settings is tertiary prevention.
 
-Examples in nursing practice:
-- Providing diabetic foot care education and wound surveillance to prevent amputation in patients with established diabetes
-- Delivering cardiac rehabilitation education to post-MI patients to prevent recurrent events
-- Facilitating physical therapy referrals and fall prevention protocols in post-stroke rehabilitation
-- Managing anticoagulation therapy and INR monitoring in patients with atrial fibrillation
-- Providing cognitive stimulation activities and caregiver support in patients with dementia
+Examples in nursing practice include providing diabetic foot care education and wound surveillance to prevent amputation in patients with established diabetes, delivering cardiac rehabilitation education to post-MI patients to prevent recurrent events, and facilitating physical therapy referrals and fall prevention protocols in post-stroke rehabilitation. Additionally, nurses engage in tertiary prevention through managing anticoagulation therapy and INR monitoring in patients with atrial fibrillation, and through providing cognitive stimulation activities and caregiver support in patients with dementia.
 
 | Level | Timing | Target Population | Goal | Nursing Examples |
 |-------|--------|------------------|------|-----------------|
@@ -299,11 +267,7 @@ Examples in nursing practice:
 
 Preventive priorities shift substantially across the lifespan, requiring nurses to adapt their health promotion strategies to developmental context:
 
-- **Infancy and childhood:** Immunizations, developmental screening, injury prevention, breastfeeding support, dental hygiene education
-- **Adolescence:** Substance abuse prevention, sexual health education, mental health screening, physical activity promotion
-- **Young adulthood:** Contraceptive counseling, STI prevention, cardiovascular risk factor identification, stress management
-- **Middle adulthood:** Cancer screening (colorectal, cervical, breast, prostate), hypertension and diabetes surveillance, workplace ergonomics
-- **Older adulthood:** Fall prevention, medication reconciliation, cognitive screening, immunizations (zoster, pneumococcal), advance care planning
+During infancy and childhood, preventive priorities include immunizations, developmental screening, injury prevention, breastfeeding support, and dental hygiene education. Adolescence brings a shift toward substance abuse prevention, sexual health education, mental health screening, and physical activity promotion. In young adulthood, nurses emphasize contraceptive counseling, STI prevention, cardiovascular risk factor identification, and stress management. Middle adulthood introduces priorities such as cancer screening for colorectal, cervical, breast, and prostate cancers, along with hypertension and diabetes surveillance and workplace ergonomics. Finally, older adulthood centers on fall prevention, medication reconciliation, cognitive screening, age-appropriate immunizations such as zoster and pneumococcal vaccines, and advance care planning.
 
 > **Callout — Clinical Application: The USPSTF in Practice**
 > The United States Preventive Services Task Force (USPSTF) issues evidence-based recommendations for preventive services, graded A through D. Grade A and B recommendations are covered without cost-sharing under the Affordable Care Act. Nurses who know USPSTF guidelines can efficiently guide patients toward covered preventive services — a critical competency in primary care nursing and population health.
@@ -400,10 +364,7 @@ The *sick role* is a sociological concept introduced by Talcott Parsons in his l
 
 Parsons's model was groundbreaking but has drawn significant critique:
 
-- **Inapplicability to chronic illness:** The sick role assumes recovery is the goal and temporary exemption is the mechanism. For patients with chronic illness, recovery is not possible; the obligations to "want to get well" and "cooperate with treatment" translate into a lifetime of compliance expectations that many patients find burdensome and depersonalizing.
-- **Cultural variation:** Sick-role norms vary enormously across cultures. In many collectivist cultures, illness is conceptualized as a disruption of family and community equilibrium, not just individual biology, altering the nature of rights and obligations (Mechanic, 1995).
-- **Stigmatized conditions:** Conditions perceived as self-inflicted — obesity, substance use disorders, HIV/AIDS — may not receive the moral exemption Parsons described, leading to victim-blaming and care avoidance.
-- **Power asymmetry:** Critics note that the sick role naturalizes physician authority and patient passivity, obscuring the power dynamics inherent in the clinical encounter (Turner, 1987).
+First, the model is largely inapplicable to chronic illness: the sick role assumes recovery is the goal and temporary exemption is the mechanism, but for patients with chronic illness, recovery is not possible, and the obligations to "want to get well" and "cooperate with treatment" translate into a lifetime of compliance expectations that many patients find burdensome and depersonalizing. Second, sick-role norms vary enormously across cultures; in many collectivist cultures, illness is conceptualized as a disruption of family and community equilibrium rather than individual biology, altering the nature of rights and obligations (Mechanic, 1995). Third, conditions perceived as self-inflicted — such as obesity, substance use disorders, and HIV/AIDS — may not receive the moral exemption Parsons described, leading to victim-blaming and care avoidance. Finally, critics note that the sick role naturalizes physician authority and patient passivity, obscuring the power dynamics inherent in the clinical encounter (Turner, 1987).
 
 Despite these critiques, Parsons's model remains clinically useful. It explains why patients may behave differently when formally diagnosed versus when they experience symptoms without diagnosis, and why some patients appear to resist recovery: the sick role provides social permission for rest and relief from obligations that may otherwise feel insurmountable.
 
@@ -465,31 +426,20 @@ The Whitehall Studies — landmark longitudinal studies of British civil servant
 
 Racial health disparities in the United States cannot be explained by genetic or cultural differences between racial groups. Research demonstrates that:
 
-- Black Americans receive less pain medication than White Americans for equivalent levels of reported pain, a disparity attributable to implicit bias among providers (Hoffman et al., 2016).
-- Residential segregation — a product of legally mandated and informally enforced housing discrimination — has produced concentrated poverty and environmental hazard exposure in Black and Latino communities that directly drives disparate chronic disease rates (Williams & Collins, 2001).
-- Weathering — the hypothesis advanced by Arline Geronimus (1992) — proposes that cumulative exposure to social and economic adversity accelerates biological aging in Black Americans, explaining earlier onset of chronic disease and higher maternal mortality.
+Research demonstrates several specific mechanisms. Black Americans receive less pain medication than White Americans for equivalent levels of reported pain, a disparity attributable to implicit bias among providers (Hoffman et al., 2016). Additionally, residential segregation — a product of legally mandated and informally enforced housing discrimination — has produced concentrated poverty and environmental hazard exposure in Black and Latino communities that directly drives disparate chronic disease rates (Williams & Collins, 2001). Furthermore, the weathering hypothesis advanced by Arline Geronimus (1992) proposes that cumulative exposure to social and economic adversity accelerates biological aging in Black Americans, explaining earlier onset of chronic disease and higher maternal mortality.
 
 ### 10.7.3 Nursing's Role in Reducing Health Disparities
 
 The American Nurses Association (ANA) Code of Ethics identifies non-discrimination and justice as core professional obligations (ANA, 2015). The ANA's Health System Reform position statement calls for nurses to advocate for policies that address SDOH and reduce disparities. Translating these principles into practice requires action at multiple levels:
 
 **Individual Clinical Level:**
-- Complete validated SDOH screening at every encounter (PRAPARE, AHC tool)
-- Adjust communication to match the patient's health literacy level (plain language, teach-back)
-- Provide culturally and linguistically appropriate care (professional interpreter services, cultural humility)
-- Avoid implicit bias in pain assessment, triage, and treatment decision-making (implicit bias training, structured decision tools)
+At the individual clinical level, nurses should complete validated SDOH screening at every encounter using tools such as PRAPARE and the AHC screening instrument, and adjust communication to match the patient's health literacy level through plain language and teach-back techniques. Additionally, providing culturally and linguistically appropriate care — including professional interpreter services and the practice of cultural humility — is essential, as is actively working to avoid implicit bias in pain assessment, triage, and treatment decision-making through structured decision tools and ongoing implicit bias training.
 
 **Institutional Level:**
-- Advocate for interpreter service availability and quality
-- Support community health worker programs that bridge clinical and community settings
-- Participate in quality improvement initiatives targeting disparate outcomes (e.g., reducing disparities in sepsis recognition, discharge education completeness)
-- Collect and analyze race, ethnicity, and language (REaL) data to identify institutional disparities
+At the institutional level, nurses should advocate for interpreter service availability and quality, support community health worker programs that bridge clinical and community settings, and participate in quality improvement initiatives that target disparate outcomes — such as reducing disparities in sepsis recognition and discharge education completeness. Nurses should also advocate for the systematic collection and analysis of race, ethnicity, and language (REaL) data to identify and address institutional-level disparities.
 
 **Community and Policy Level:**
-- Engage in community health needs assessment and community benefit program design
-- Support housing stability, food security, and early childhood programs through advocacy and partnership
-- Participate in professional organizations that advocate for evidence-based health equity policy
-- Engage in voter education and civic participation as expressions of professional advocacy
+At the community and policy level, nurses should engage in community health needs assessment and community benefit program design, and support housing stability, food security, and early childhood programs through advocacy and partnership. Participation in professional organizations that advocate for evidence-based health equity policy extends the nurse's influence beyond the bedside. Civic engagement — including voter education and civic participation — represents an important expression of professional advocacy at this structural level.
 
 > **Callout — Evidence-Based Practice: The Nurse's Role in Implicit Bias Reduction**
 > Implicit biases are unconscious attitudes that influence clinical decision-making. Research demonstrates that nurses, like all healthcare providers, carry implicit biases related to race, weight, age, and substance use that affect assessment and treatment quality (FitzGerald & Hurst, 2017). Evidence-based strategies to reduce implicit bias in practice include: structured clinical decision tools that standardize assessment; reflective practice journaling; mentorship with diverse colleagues; and institutional training programs using the Implicit Association Test (IAT) as a baseline assessment.
@@ -772,13 +722,5 @@ World Health Organization. (1986). *Ottawa Charter for Health Promotion*. World 
 
 ## Chapter Production Notes
 
-- **Sprint:** 2026-03-15-2214
-- **Version:** 2.0 (second draft — developmental edit and copy edit complete)
-- **Completion date:** 2026-03-15
-- **Word count (estimated):** 11,500–13,000 words
-- **Section count:** 7 content sections (10.1–10.7) + case study + NCLEX + summary + references
-- **Figure placeholders:** 7 (Figures 10.1–10.7)
-- **Evidence base:** 30 primary references; APA 7th edition throughout
-- **Next step:** Figure design brief; NCLEX NGN alignment review; curriculum review
-- **Edited in sprint:** 2026-03-15-2354
+This chapter was produced in sprint 2026-03-15-2214 and represents Version 2.0 (second draft, developmental edit and copy edit complete), with a completion date of 2026-03-15. The estimated word count is 11,500–13,000 words across 7 content sections (10.1–10.7), a case study, NCLEX-style review questions, a chapter summary, and a reference list. Seven figure placeholders (Figures 10.1–10.7) are included throughout. The evidence base comprises 30 primary references formatted in APA 7th edition. Next steps include figure design brief, NCLEX NGN alignment review, and curriculum review. Edited in sprint 2026-03-15-2354.
 
