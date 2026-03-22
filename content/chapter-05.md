@@ -79,12 +79,7 @@ Despite its influence, the cultural competence model has been criticized on seve
 
 ### 5.1.2 Cultural Humility in Nursing Practice
 
-Translating cultural humility from a philosophical stance into clinical behavior requires specific practices. These include:
-
-- **Asking rather than assuming:** Instead of assuming a patient's dietary preferences from their religious identity, ask: "Are there any foods or beverages that are important for us to consider in your care?"
-- **Using the LEARN model:** Listen to the patient's perspective; Explain your own understanding; Acknowledge differences and similarities; Recommend a plan; Negotiate an agreement (Berlin & Fowkes, 1983).
-- **Eliciting the explanatory model:** Arthur Kleinman's (1988) explanatory model questions invite patients to share their understanding of their illness: "What do you call this problem? What do you think caused it? What do you fear most about it? What kind of treatment do you think you should receive?" These questions surface cultural beliefs that may affect adherence and shared decision-making.
-- **Reflecting on personal biases:** The Implicit Association Test (IAT) and structured reflection tools help clinicians identify unconscious associations that may affect clinical judgment. Research consistently demonstrates that implicit racial bias affects pain assessment, treatment recommendations, and diagnostic accuracy (FitzGerald & Hurst, 2017).
+Translating cultural humility from a philosophical stance into clinical behavior requires specific practices. Central among these is **asking rather than assuming**: instead of inferring a patient's dietary preferences from their religious identity, the nurse asks, "Are there any foods or beverages that are important for us to consider in your care?" A complementary tool is the **LEARN model** (Berlin & Fowkes, 1983), which guides the nurse to Listen to the patient's perspective, Explain their own understanding, Acknowledge differences and similarities, Recommend a plan, and Negotiate an agreement. **Eliciting the explanatory model** is equally essential: Arthur Kleinman's (1988) questions — "What do you call this problem? What do you think caused it? What do you fear most about it? What kind of treatment do you think you should receive?" — invite patients to share their illness frameworks, surfacing cultural beliefs that may affect adherence and shared decision-making. Finally, **reflecting on personal biases** through tools such as the Implicit Association Test (IAT) and structured self-reflection exercises helps clinicians identify unconscious associations that may affect clinical judgment; research consistently demonstrates that implicit racial bias influences pain assessment, treatment recommendations, and diagnostic accuracy (FitzGerald & Hurst, 2017).
 
 [FIGURE 5.1: The Cultural Humility Framework — Self-Reflection, Patient-Centering, Power Awareness, and Lifelong Learning.]  
 *Alt text: A circular diagram illustrating the four components of cultural humility — self-reflection and critique, centering the patient's perspective, attending to power imbalances, and lifelong learning — with arrows indicating continuous practice and no endpoint.*
@@ -103,13 +98,7 @@ Culture profoundly shapes how individuals experience, interpret, and respond to 
 
 ### 5.2.2 Health Disparities: Scope and Causes
 
-**Health disparities** — preventable differences in the burden of disease, injury, and death experienced by disadvantaged populations — represent one of the most serious ethical failures of the American health care system. The evidence is extensive and consistent:
-
-- Black Americans die from cardiovascular disease, diabetes, and preventable infections at rates significantly higher than White Americans (Agency for Healthcare Research and Quality [AHRQ], 2021).
-- American Indian and Alaska Native populations face the highest rates of infant mortality and unintentional injury death among all racial/ethnic groups.
-- Hispanic and Latino Americans are disproportionately uninsured, limiting access to preventive care and early treatment.
-- LGBTQ+ individuals experience higher rates of depression, anxiety, substance use, and avoidance of health care compared to cisgender heterosexual peers.
-- Rural populations across all racial/ethnic groups face shortages of primary care providers, specialist access, and emergency services.
+**Health disparities** — preventable differences in the burden of disease, injury, and death experienced by disadvantaged populations — represent one of the most serious ethical failures of the American health care system. The evidence is extensive and consistent. Black Americans die from cardiovascular disease, diabetes, and preventable infections at rates significantly higher than White Americans (Agency for Healthcare Research and Quality [AHRQ], 2021). American Indian and Alaska Native populations face the highest rates of infant mortality and unintentional injury death among all racial/ethnic groups. Hispanic and Latino Americans are disproportionately uninsured, limiting access to preventive care and early treatment. Furthermore, LGBTQ+ individuals experience higher rates of depression, anxiety, substance use, and avoidance of health care compared to cisgender heterosexual peers. Rural populations across all racial/ethnic groups face shortages of primary care providers, specialist access, and emergency services.
 
 The causes of health disparities are complex and interconnected. **Social determinants of health** — the conditions in which people are born, grow, live, work, and age — are responsible for an estimated 30–55% of variation in health outcomes (World Health Organization, 2008). These determinants include income and wealth, educational attainment, housing quality and stability, neighborhood safety, access to nutritious food, and exposure to environmental toxins. Biological factors explain relatively little of the disparity burden; structural racism, historical disinvestment, and inequitable policy decisions explain considerably more.
 
@@ -134,23 +123,11 @@ The nurse's role in addressing structural racism includes delivering individuali
 
 The scope of low health literacy is striking: the 2003 National Assessment of Adult Literacy (NAAL) found that 36% of U.S. adults had "basic" or "below basic" health literacy — meaning they could not reliably understand prescription labels, understand a hospital consent form, or interpret a medication dosing chart (Kutner et al., 2006). Low health literacy is disproportionately prevalent among older adults, individuals with limited formal education, non-native English speakers, and people living in poverty — but it occurs across all demographic groups and cannot be reliably detected by educational level, race, or appearance.
 
-Validated tools for screening health literacy include:
-
-- **REALM (Rapid Estimate of Adult Literacy in Medicine):** A word recognition test in which patients read aloud a list of medical words; scored by the number of words correctly pronounced.
-- **TOHFLA (Test of Functional Health Literacy in Adults):** Assesses reading comprehension and numeracy using actual health care materials.
-- **Newest Vital Sign (NVS):** Uses a nutrition label to assess literacy and numeracy; takes approximately three minutes to administer.
-- **Single-item screeners:** Questions such as "How often do you have someone help you read hospital materials?" predict limited literacy with moderate accuracy and can be used for rapid screening.
+Validated tools for screening health literacy include several widely used instruments. The **REALM (Rapid Estimate of Adult Literacy in Medicine)** is a word recognition test in which patients read aloud a list of medical words, scored by the number of words correctly pronounced. The **TOHFLA (Test of Functional Health Literacy in Adults)** assesses reading comprehension and numeracy using actual health care materials. The **Newest Vital Sign (NVS)** uses a nutrition label to assess literacy and numeracy and takes approximately three minutes to administer. Additionally, **single-item screeners** — such as "How often do you have someone help you read hospital materials?" — predict limited literacy with moderate accuracy and can be used for rapid screening.
 
 ### 5.3.2 The Impact of Low Health Literacy on Outcomes
 
-Low health literacy is one of the most powerful predictors of poor health outcomes, independent of other factors. Patients with low health literacy are:
-
-- Less likely to take medications correctly
-- More likely to be hospitalized
-- Less likely to receive preventive services such as cancer screening
-- Less likely to effectively manage chronic conditions
-- More likely to delay seeking care until conditions become severe
-- More likely to misunderstand discharge instructions (Berkman et al., 2011)
+Low health literacy is one of the most powerful predictors of poor health outcomes, independent of other factors. Patients with low health literacy are less likely to take medications correctly, less likely to receive preventive services such as cancer screening, and less likely to effectively manage chronic conditions. They are more likely to be hospitalized, more likely to delay seeking care until conditions become severe, and more likely to misunderstand discharge instructions (Berkman et al., 2011).
 
 The health literacy environment — the complexity of health information materials, the design of health care settings, and the communication practices of providers — is as important as the individual's literacy skills. A health care system designed with the assumption that patients have college-level reading ability will produce poor outcomes for a substantial portion of the population regardless of how much effort those patients invest.
 
@@ -159,13 +136,7 @@ The health literacy environment — the complexity of health information materia
 
 ### 5.3.3 Plain Language and Written Health Education Materials
 
-Plain language is defined by the Plain Writing Act of 2010 as communication that "the intended audience can understand and act on the first time they read or hear it." Key principles include:
-
-- Using common words instead of medical jargon (e.g., "heart attack" instead of "myocardial infarction"; "once a day" instead of "once daily")
-- Writing in short, active sentences (ideally 15–20 words or fewer)
-- Using a clear visual hierarchy with headers, bullet points, and white space
-- Including pictures, diagrams, or icons to supplement text
-- Targeting a 5th–6th grade reading level using validated readability formulas such as Flesch-Kincaid or the SMOG index
+Plain language is defined by the Plain Writing Act of 2010 as communication that "the intended audience can understand and act on the first time they read or hear it." Key principles include using common words instead of medical jargon — for example, "heart attack" instead of "myocardial infarction," or "once a day" instead of "once daily" — and writing in short, active sentences of ideally 15–20 words or fewer. Effective materials also employ a clear visual hierarchy with headers and white space, incorporate pictures, diagrams, or icons to supplement text, and target a 5th–6th grade reading level using validated readability formulas such as Flesch-Kincaid or the SMOG index.
 
 Nurses are frequently the last provider to review discharge instructions with patients before they leave the health care setting. This conversation — often rushed, often following a stressful hospitalization — represents the last opportunity to ensure the patient can safely manage their condition at home. Slowing down, sitting at eye level, using teach-back, and asking "What questions do you have?" (rather than "Do you have any questions?") are evidence-based practices that meaningfully improve comprehension and safe self-management.
 
@@ -180,24 +151,13 @@ Nurses are frequently the last provider to review discharge instructions with pa
 
 For patients with **limited English proficiency (LEP)**, language barriers in health care are associated with longer hospital stays, higher rates of adverse events, reduced patient satisfaction, and worse clinical outcomes (Jacobs et al., 2006). Federal law — specifically Title VI of the Civil Rights Act of 1964 — requires health care organizations receiving federal funding (which includes virtually all hospitals) to provide language access services at no cost to the patient.
 
-Professional interpreter services — in person, telephone, or video — must be used for all clinical encounters involving diagnosis, treatment, informed consent, and discharge planning. Family members, friends, and untrained bilingual staff should not be used as interpreters in clinical contexts for the following reasons:
-
-- Family members may filter, minimize, or editorialize information out of protectiveness, shame, or conflict of interest.
-- Minor children should never be placed in the role of translating sensitive or distressing medical information for parents.
-- Untrained bilingual staff members lack the medical vocabulary and interpreter ethics training of professional interpreters.
-- Using a family member as interpreter may violate the patient's right to confidentiality regarding sensitive health information.
+Professional interpreter services — in person, telephone, or video — must be used for all clinical encounters involving diagnosis, treatment, informed consent, and discharge planning. Family members, friends, and untrained bilingual staff should not be used as interpreters in clinical contexts. Family members may filter, minimize, or editorialize information out of protectiveness, shame, or conflict of interest; furthermore, minor children should never be placed in the role of translating sensitive or distressing medical information for parents. Untrained bilingual staff members lack the medical vocabulary and interpreter ethics training of professional interpreters, and using any informal interpreter may violate the patient's right to confidentiality regarding sensitive health information.
 
 Nurses must be proactive in arranging professional interpreter services, not reactive. Before beginning a clinical encounter with an LEP patient, identify the patient's preferred language, arrange the appropriate interpreter modality, and document interpreter use in the medical record.
 
 ### 5.4.2 Nonverbal Communication Across Cultures
 
-As Chapter 4 established, communication is substantially nonverbal. Cultural variation in the interpretation of nonverbal cues is significant and can lead to misunderstanding in clinical encounters. Key areas of cultural variation include:
-
-- **Eye contact:** Direct eye contact is valued as a sign of engagement and honesty in many Western cultures but may be considered disrespectful, aggressive, or inappropriate with authority figures in many East Asian, Southeast Asian, Native American, and Middle Eastern cultures.
-- **Personal space:** Physical proximity preferences vary significantly; what feels professionally appropriate in one cultural context may feel invasive or cold in another.
-- **Touch:** Physical touch during assessment and care should be approached with sensitivity to cultural and religious practices. Some patients prefer same-gender care providers for intimate assessments; nurses should ask about this preference proactively.
-- **Silence:** In many cultures, silence is a meaningful communication — an expression of respect, consideration, or disagreement — rather than a communication gap to be filled.
-- **Head nodding:** Nodding does not universally indicate agreement or comprehension; in some cultures, nodding indicates only that the listener is attending, not that they understand or consent.
+As Chapter 4 established, communication is substantially nonverbal. Cultural variation in the interpretation of nonverbal cues is significant and can lead to misunderstanding in clinical encounters. **Eye contact**, for instance, is valued as a sign of engagement and honesty in many Western cultures but may be considered disrespectful, aggressive, or inappropriate with authority figures in many East Asian, Southeast Asian, Native American, and Middle Eastern cultures. **Personal space** preferences vary similarly; what feels professionally appropriate in one cultural context may feel invasive or cold in another. **Touch** during assessment and care should be approached with sensitivity to cultural and religious practices, and nurses should proactively ask about preferences for same-gender care providers for intimate assessments. **Silence**, too, carries cultural meaning — in many cultures it is an expression of respect, consideration, or disagreement rather than a communication gap to be filled. Finally, **head nodding** does not universally indicate agreement or comprehension; in some cultures, nodding indicates only that the listener is attending, not that they understand or consent.
 
 ### 5.4.3 Cross-Cultural Pain Assessment
 
@@ -217,12 +177,7 @@ Research consistently demonstrates that spirituality and religion are significan
 
 ### 5.5.2 Spiritual Assessment in Nursing Practice
 
-The FICA Spiritual History Tool (Puchalski & Romer, 2000) is one of the most widely used frameworks for nursing spiritual assessment:
-
-- **F — Faith and Belief:** "Do you consider yourself spiritual or religious? Do you have spiritual beliefs that help you cope with stress?"
-- **I — Importance:** "How important are these beliefs to you? Do they influence how you make decisions about your health care?"
-- **C — Community:** "Are you part of a spiritual or religious community? Is this community a source of support?"
-- **A — Address in Care:** "How would you like me to address these issues in your care?"
+The FICA Spiritual History Tool (Puchalski & Romer, 2000) is one of the most widely used frameworks for nursing spiritual assessment. The tool guides the nurse through four domains. **F — Faith and Belief** asks, "Do you consider yourself spiritual or religious? Do you have spiritual beliefs that help you cope with stress?" **I — Importance** explores, "How important are these beliefs to you? Do they influence how you make decisions about your health care?" **C — Community** inquires, "Are you part of a spiritual or religious community? Is this community a source of support?" Finally, **A — Address in Care** asks, "How would you like me to address these issues in your care?"
 
 The FICA tool is a starting point, not a comprehensive spiritual evaluation — chaplaincy referral is appropriate when significant spiritual distress, conflict between spiritual beliefs and care preferences, or requests for religious rites are identified.
 
@@ -233,13 +188,7 @@ The FICA tool is a starting point, not a comprehensive spiritual evaluation — 
 
 Spiritual distress is defined by NANDA-International as an impaired ability to experience and integrate meaning and purpose in life through connections with self, others, art, music, literature, nature, or a power greater than oneself. Clinical indicators include expressions of hopelessness, loss of meaning, feeling abandoned by a higher power, anger directed at God or religious leaders, questions about the meaning of suffering, and withdrawal from spiritual practices that previously provided comfort.
 
-When spiritual distress is identified, the nurse's role includes:
-
-- Acknowledging and validating the distress without attempting to resolve or rationalize the patient's experience.
-- Sitting quietly with the patient — presence is often more therapeutic than words.
-- Facilitating chaplain or spiritual care referral.
-- Supporting the patient's access to religious practices, rites, and community, to the extent clinically feasible.
-- Documenting spiritual assessment findings and referrals in the care plan.
+When spiritual distress is identified, the nurse's role encompasses several important responses. First and foremost, the nurse acknowledges and validates the distress without attempting to resolve or rationalize the patient's experience. Sitting quietly with the patient is often more therapeutic than words; presence alone communicates that the nurse views the whole person, not merely the medical condition. The nurse also facilitates chaplain or spiritual care referral and supports the patient's access to religious practices, rites, and community to the extent clinically feasible. All spiritual assessment findings and referrals should be documented in the care plan.
 
 [FIGURE 5.3: The FICA Spiritual Assessment Framework in Clinical Practice.]  
 *Alt text: A four-quadrant diagram showing the FICA spiritual history tool: F — Faith and Belief, I — Importance, C — Community, A — Address in Care, with example questions and clinical applications in each quadrant.*
@@ -252,39 +201,20 @@ When spiritual distress is identified, the nurse's role includes:
 
 Lesbian, gay, bisexual, transgender, queer, and other gender-diverse (LGBTQ+) individuals experience substantial and well-documented health disparities relative to their cisgender heterosexual peers. These disparities are not the result of inherent differences in biology or behavior but reflect the consequences of minority stress — chronic exposure to discrimination, stigma, violence, and social exclusion — and structural barriers to affirming health care.
 
-Key disparities include:
-
-- Transgender and gender-nonconforming individuals report high rates of discrimination in health care settings; a 2020 survey found that 33% of transgender adults avoided needed health care due to fear of discrimination (James et al., 2016).
-- LGBTQ+ youth have disproportionately high rates of depression, anxiety, suicidality, and homelessness relative to cisgender heterosexual peers.
-- Bisexual individuals have higher rates of depression, anxiety, and intimate partner violence than either heterosexual or gay/lesbian individuals.
-- LGBTQ+ older adults face unique challenges including elevated rates of social isolation, fewer legally recognized family relationships, and historical-era trauma from criminalization of same-sex relationships and psychiatric pathologization.
+Key disparities are documented across subgroups. Transgender and gender-nonconforming individuals report high rates of discrimination in health care settings; a 2020 survey found that 33% of transgender adults avoided needed health care due to fear of discrimination (James et al., 2016). LGBTQ+ youth have disproportionately high rates of depression, anxiety, suicidality, and homelessness relative to cisgender heterosexual peers. Bisexual individuals, often overlooked in both clinical and research contexts, have higher rates of depression, anxiety, and intimate partner violence than either heterosexual or gay/lesbian individuals. Additionally, LGBTQ+ older adults face unique challenges including elevated rates of social isolation, fewer legally recognized family relationships, and historical-era trauma from the criminalization of same-sex relationships and psychiatric pathologization.
 
 ### 5.6.2 Creating Affirming Health Care Environments
 
-**Affirming care** for LGBTQ+ patients begins before the clinical encounter. The physical environment of the health care setting communicates whether diverse identities are welcomed. Evidence-based practices include:
+**Affirming care** for LGBTQ+ patients begins before the clinical encounter. The physical environment of the health care setting communicates whether diverse identities are welcomed. Evidence-based environmental practices include displaying rainbow symbols, Pride flags, or Safe Zone stickers in patient care areas and registration desks, and ensuring gender-neutral restrooms are accessible and visibly marked. In addition, intake forms should be updated to collect sexual orientation and gender identity (SOGI) data using inclusive terminology, and all staff — not only clinical staff — should receive training in LGBTQ+-affirming communication.
 
-- Displaying rainbow symbols, Pride flags, or Safe Zone stickers in patient care areas and registration desks.
-- Including gender-neutral restrooms that are accessible and visibly marked.
-- Updating intake forms to collect sexual orientation and gender identity (SOGI) data using inclusive terminology.
-- Training all staff — not only clinical staff — in LGBTQ+-affirming communication.
-
-Within the clinical encounter, affirming practices include:
-
-- **Using correct pronouns and names:** Prior to any clinical interaction, ask: "What is your preferred name? What pronouns do you use?" Document this information in the patient's chart and communicate it to the care team. Using a person's deadname (their birth name if they have changed it) or incorrect pronouns is harmful and communicates disrespect.
-- **Avoiding assumptions:** Do not assume that a patient's relationship or family structure matches heterosexual norms. "Do you have a partner or significant other?" is more inclusive than "Are you married?"
-- **Ensuring privacy during sensitive assessments:** Transgender patients may experience significant distress during physical examinations that involve body parts that do not align with their gender identity. Explain each step, allow the patient to control the pace, and minimize unnecessary exposure.
-- **Adapting cervical cancer screening guidance:** Transgender men who still have a cervix require cervical cancer screening per standard guidelines, but may avoid care due to gender dysphoria triggered by gynecological encounters. Nurses can support these patients by using gender-neutral language and offering trauma-informed approaches.
+Within the clinical encounter, affirming practices begin with **using correct pronouns and names**: prior to any clinical interaction, the nurse asks, "What is your preferred name? What pronouns do you use?", documents this information in the patient's chart, and communicates it to the care team. Using a person's deadname or incorrect pronouns is harmful and communicates disrespect. **Avoiding assumptions** is equally essential — rather than assuming a patient's relationship or family structure matches heterosexual norms, asking "Do you have a partner or significant other?" is more inclusive than "Are you married?" Nurses should also **ensure privacy during sensitive assessments**, as transgender patients may experience significant distress during physical examinations involving body parts that do not align with their gender identity; explaining each step, allowing the patient to control the pace, and minimizing unnecessary exposure are important practices. Furthermore, **cervical cancer screening guidance must be adapted**: transgender men who still have a cervix require screening per standard guidelines but may avoid care due to gender dysphoria triggered by gynecological encounters, and nurses can support these patients by using gender-neutral language and offering trauma-informed approaches.
 
 > **EBP Connection: LGBTQ+ Inclusive Documentation in EHRs**  
 > The Office of the National Coordinator for Health Information Technology (ONC) now recommends that EHR systems collect sexual orientation and gender identity data using two-step methodology: first asking about current gender identity (man, woman, non-binary, etc.) and second asking about sex assigned at birth. Research demonstrates that collecting SOGI data enables health systems to identify and address disparities, improve care coordination for transgender patients on hormone therapy, and ensure all screening recommendations are applied based on anatomy rather than gender identity (Cahill et al., 2017).
 
 ### 5.6.3 Caring for Transgender and Gender-Diverse Patients
 
-Transgender and gender-diverse patients may be at various stages of gender transition: social transition (name and pronoun change), medical transition (hormone therapy), and/or surgical transition. Nurses should understand the following clinical implications:
-
-- **Hormone therapy:** Transgender women on estrogen therapy have altered cardiovascular risk profiles; transgender men on testosterone therapy experience changes in hematocrit, lipid profiles, and bone density. Medication reconciliation should include hormone therapies, which patients may not volunteer without being asked.
-- **Screening recommendations:** Apply screening based on anatomy, not gender marker. A transgender man with a uterus requires cervical cancer screening; a transgender woman who has not had vaginoplasty does not require cervical screening but may require prostate cancer screening.
-- **Mental health support:** Gender dysphoria — distress resulting from incongruence between gender identity and assigned sex — is not a mental illness, but transgender individuals have elevated rates of depression, anxiety, and suicidality. Screening and referral are essential components of care.
+Transgender and gender-diverse patients may be at various stages of gender transition: social transition (name and pronoun change), medical transition (hormone therapy), and/or surgical transition. Nurses should understand several key clinical implications. Regarding **hormone therapy**, transgender women on estrogen therapy have altered cardiovascular risk profiles, while transgender men on testosterone therapy experience changes in hematocrit, lipid profiles, and bone density; medication reconciliation should include hormone therapies, which patients may not volunteer without being asked. **Screening recommendations** must be applied based on anatomy rather than gender marker: a transgender man with a uterus requires cervical cancer screening, whereas a transgender woman who has not had vaginoplasty does not require cervical screening but may require prostate cancer screening. Finally, **mental health support** is an essential component of care; gender dysphoria — distress resulting from incongruence between gender identity and assigned sex — is not a mental illness, but transgender individuals have elevated rates of depression, anxiety, and suicidality, making screening and referral indispensable.
 
 ---
 
@@ -302,12 +232,7 @@ The Americans with Disabilities Act (1990) requires health care organizations to
 
 **Deaf and hard-of-hearing patients** require particular attention to communication access. American Sign Language (ASL) is a distinct language with its own grammar and structure; many Deaf individuals identify as members of a cultural and linguistic minority community rather than as persons with a disability. Written communication may not be adequate for clinical encounters involving complex information — a professional ASL interpreter or video remote interpreting (VRI) service must be provided.
 
-Key practices for deaf and hard-of-hearing patients include:
-- Face the patient when speaking; ensure adequate lighting on the nurse's face.
-- Speak clearly at a natural pace; do not exaggerate mouth movements.
-- Do not shout; for patients who use hearing aids or cochlear implants, shouting may distort sound.
-- Ensure hearing aids are in place and functioning before clinical conversations.
-- Use visual communication tools (written notes, whiteboards, tablets) as supplements, not replacements, for professional interpreting.
+Key practices for deaf and hard-of-hearing patients include facing the patient when speaking and ensuring adequate lighting on the nurse's face. The nurse should speak clearly at a natural pace without exaggerating mouth movements, and should not shout, as shouting may distort sound for patients who use hearing aids or cochlear implants. Hearing aids should be confirmed in place and functioning before clinical conversations begin. Visual communication tools such as written notes, whiteboards, and tablets serve as supplements to — not replacements for — professional interpreting services.
 
 **Patients with visual impairments** require verbal descriptions of the clinical environment ("The call light is on your right, approximately one foot from your hand"), preparation before physical contact ("I'm going to take your blood pressure now"), and health information provided in alternative formats (large print, audio recordings, or accessible electronic formats compatible with screen readers).
 
@@ -334,12 +259,7 @@ Nurses are the largest segment of the health workforce and interact with patient
 
 ### 5.8.2 Data, Quality Improvement, and Disparities Identification
 
-A fundamental tool of health equity advocacy is data. Health care systems that do not collect race, ethnicity, language, and socioeconomic data cannot identify disparities in their patient populations, cannot design targeted interventions, and cannot measure progress. Nurses can advocate for:
-
-- Standardized collection of race, ethnicity, language, and SOGI data at registration.
-- Stratification of quality metrics by race, ethnicity, and socioeconomic indicators.
-- Integration of SDOH screening into the electronic health record.
-- Inclusion of community representatives and patients with lived experience on quality improvement committees.
+A fundamental tool of health equity advocacy is data. Health care systems that do not collect race, ethnicity, language, and socioeconomic data cannot identify disparities in their patient populations, cannot design targeted interventions, and cannot measure progress. Nurses can advocate for the standardized collection of race, ethnicity, language, and SOGI data at registration, as well as the stratification of quality metrics by race, ethnicity, and socioeconomic indicators. In addition, nurses can support the integration of SDOH screening into the electronic health record and the inclusion of community representatives and patients with lived experience on quality improvement committees.
 
 ### 5.8.3 Community Partnerships and Social Prescribing
 
@@ -354,13 +274,7 @@ Community health workers (CHWs) — laypeople from the communities they serve wh
 
 The path from individual clinical observation to policy change is not direct, but nurses have historically traveled it with great effect. Florence Nightingale used mortality data to advocate for sanitation reform in British hospitals. Lillian Wald founded settlement houses to address the social determinants of health in immigrant communities. Contemporary nurses serve on hospital boards, state legislatures, federal advisory panels, and international health organizations.
 
-Practical entry points for health equity advocacy include:
-
-- **Joining a professional nursing organization** that advocates for health equity at the state and federal levels (e.g., National Black Nurses Association, National Association of Hispanic Nurses, National LGBTQ Task Force).
-- **Participating in unit-level quality improvement** by identifying patterns of unequal care in documentation, patient experience data, or outcome metrics.
-- **Engaging in community-based activities** — volunteering, participating in community advisory boards, or contributing to local public health planning processes.
-- **Contacting elected officials** regarding legislation affecting health care access, Medicaid coverage, or social safety net programs.
-- **Using professional platforms** — presentations, publications, social media — to raise awareness of health inequities and evidence-based solutions.
+Practical entry points for health equity advocacy are numerous and accessible at every career stage. **Joining a professional nursing organization** that advocates for health equity at the state and federal levels — such as the National Black Nurses Association, the National Association of Hispanic Nurses, or the National LGBTQ Task Force — connects nurses to collective advocacy infrastructure. **Participating in unit-level quality improvement** by identifying patterns of unequal care in documentation, patient experience data, or outcome metrics transforms clinical observation into institutional action. **Engaging in community-based activities** — volunteering, participating in community advisory boards, or contributing to local public health planning processes — extends nursing influence beyond the hospital walls. Furthermore, **contacting elected officials** regarding legislation affecting health care access, Medicaid coverage, or social safety net programs ensures that nurses' clinical expertise informs policy decisions. Finally, **using professional platforms** — presentations, publications, and social media — to raise awareness of health inequities and evidence-based solutions amplifies advocacy beyond individual institutions.
 
 The nurse who begins with cultural humility at the bedside and extends that humility to systemic inquiry — asking not only "How do I serve this patient well?" but "Why do patients like this one have worse outcomes, and what can I do about that?" — is positioned to contribute meaningfully to the transformation of a health care system that has too long failed those it most needs to reach.
 
