@@ -1,6 +1,6 @@
 # NurseMastery — Open Nursing Textbooks
 
-https://sagreenxyz.github.io/foundations-of-nursing
+https://sagreenxyz.github.io/textbooks
 
 *Open-Access Nursing Textbooks & Learning Tools*
 
