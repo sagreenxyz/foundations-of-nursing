@@ -70,7 +70,7 @@ const UNITS = [
       { num: 30, title: 'Hygiene, Mobility, and Skin Integrity',              file: 'chapter-30.md', status: 'soon'    },
       { num: 31, title: 'IV Therapy and Venous Access',                       file: 'chapter-31.md', status: 'soon'    },
       { num: 32, title: 'Urinary and Bowel Elimination',                      file: 'chapter-32.md', status: 'soon'    },
-      { num: 33, title: 'Oxygenation and Airway Management',                  file: 'chapter-33.md', status: 'soon'    },
+      { num: 33, title: 'Oxygenation and Airway Management',                  file: 'chapter-33.md', status: 'draft'   },
       { num: 34, title: 'Perioperative Nursing Care',                         file: 'chapter-34.md', status: 'soon'    },
     ],
   },
