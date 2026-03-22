@@ -100,14 +100,7 @@ Oxygen transported to tissues is bound to hemoglobin (approximately 98%) and dis
 
 A thorough respiratory assessment precedes any intervention. The nurse systematically evaluates:
 
-**Inspection:**
-- Respiratory rate, depth, and rhythm
-- Use of accessory muscles (sternocleidomastoid, scalene, intercostal retractions)
-- Pursed-lip breathing (seen in COPD; helps maintain positive airway pressure)
-- Paradoxical breathing (inward movement of chest on inspiration; indicates respiratory muscle fatigue)
-- Chest symmetry and shape (barrel chest in emphysema; asymmetry with pneumothorax)
-- Skin and mucous membrane color (central cyanosis indicates severe hypoxemia; peripheral cyanosis may reflect poor circulation)
-- Nasal flaring, clubbing of fingers (chronic hypoxemia)
+**Inspection:** The nurse observes respiratory rate, depth, and rhythm and notes any use of accessory muscles (sternocleidomastoid, scalene, or intercostal retractions). Pursed-lip breathing — common in COPD — helps maintain positive airway pressure during exhalation, while paradoxical breathing (inward chest movement during inspiration) signals respiratory muscle fatigue. Chest symmetry and shape are assessed: a barrel chest suggests emphysema, and asymmetry may indicate pneumothorax. Skin and mucous membrane color are inspected for central cyanosis (a marker of severe hypoxemia) or peripheral cyanosis (which may reflect poor perfusion). Nasal flaring and finger clubbing suggest chronic hypoxemia.
 
 **Auscultation:** Listen systematically, comparing side to side, anterior and posterior:
 
@@ -127,13 +120,7 @@ A thorough respiratory assessment precedes any intervention. The nurse systemati
 
 Pulse oximetry (SpO₂) is the most widely used noninvasive monitor of oxygenation. A probe (finger, toe, earlobe, or forehead) emits two wavelengths of light; the ratio of oxyhemoglobin to deoxyhemoglobin absorption determines the displayed saturation.
 
-**Limitations nurses must recognize:**
-
-- **Motion artifact:** Shivering or movement produces false readings; use an alternate probe site or a motion-tolerant device.
-- **Poor perfusion:** Vasoconstriction, hypothermia, and hypotension reduce the pulse signal; earlobe or forehead probes are more reliable.
-- **Dyshemoglobinemias:** Carboxyhemoglobin (CO poisoning) reads as oxyhemoglobin on standard pulse oximeters, producing falsely normal SpO₂ despite severe tissue hypoxia. A co-oximeter (measured from arterial blood) is required.
-- **Nail polish and dark skin tone:** Dark-pigmented nail polish (especially blue, green, or black) interferes with light transmission. Studies document SpO₂ overestimation in patients with darker skin tones using standard devices; clinical judgment and ABG correlation are important.
-- **Anemia:** SpO₂ may be normal even when total oxygen-carrying capacity is severely reduced.
+**Limitations nurses must recognize:** Motion artifact from shivering or movement can produce false readings; using an alternate probe site or a motion-tolerant device mitigates this. Poor perfusion states — including vasoconstriction, hypothermia, and hypotension — reduce the pulse signal, making earlobe or forehead probes more reliable than finger probes. Dyshemoglobinemias pose a critical limitation: carboxyhemoglobin (present in CO poisoning) reads as oxyhemoglobin on standard pulse oximeters, producing a falsely normal SpO₂ despite severe tissue hypoxia; a co-oximeter from arterial blood is required to detect it. Studies document SpO₂ overestimation in patients with darker skin tones using standard devices, and dark-pigmented nail polish (especially blue, green, or black) also interferes with light transmission; clinical judgment and ABG correlation remain important. Finally, severe anemia can reduce total oxygen-carrying capacity substantially even when SpO₂ is normal.
 
 **Normal SpO₂:** 95–100%. Target SpO₂ 88–92% is appropriate for patients with chronic hypercapnic respiratory failure (type 2 COPD) to avoid suppressing hypoxic respiratory drive.
 
@@ -158,14 +145,7 @@ A systematic approach to ABG interpretation: (1) assess pH; (2) determine primar
 
 ### 33.3.1 Indications and Goals of Oxygen Therapy
 
-Supplemental oxygen is indicated when a patient cannot maintain adequate tissue oxygenation from room air (FiO₂ 0.21). Clinical indications include:
-
-- SpO₂ < 94% (or < 88–92% in patients with COPD-related chronic hypercapnia)
-- PaO₂ < 60 mmHg on ABG
-- Acute hypoxemic conditions: pneumonia, pulmonary edema, pulmonary embolism, acute respiratory distress syndrome (ARDS)
-- Perioperative and post-procedural hypoxemia
-- Carbon monoxide poisoning (100% O₂ regardless of SpO₂)
-- Cardiopulmonary resuscitation
+Supplemental oxygen is indicated when a patient cannot maintain adequate tissue oxygenation from room air (FiO₂ 0.21). Clinical indications include an SpO₂ below 94% (or below 88–92% in patients with COPD-related chronic hypercapnia), a PaO₂ below 60 mmHg on ABG, and acute hypoxemic conditions such as pneumonia, pulmonary edema, pulmonary embolism, and acute respiratory distress syndrome (ARDS). Perioperative and post-procedural hypoxemia, carbon monoxide poisoning (for which 100% O₂ is required regardless of SpO₂), and cardiopulmonary resuscitation are additional indications.
 
 The goal is to achieve adequate tissue oxygenation with the lowest effective FiO₂, thereby minimizing risks of oxygen toxicity, absorption atelectasis, and — in susceptible patients — suppression of hypoxic drive.
 
@@ -173,12 +153,7 @@ The goal is to achieve adequate tissue oxygenation with the lowest effective FiO
 
 Low-flow systems supplement room air; the patient inhales a mixture of delivered oxygen and entrained room air, so the actual FiO₂ varies with breathing pattern.
 
-**Nasal Cannula:**
-- Delivers 1–6 L/min; estimated FiO₂ 0.24–0.44 (approximately +4% per 1 L/min above atmospheric)
-- Comfortable, allows eating and talking; appropriate for mild–moderate hypoxemia
-- FiO₂ unreliable with mouth breathing, tachypnea, or high minute ventilation
-- Nasal mucosa desiccation occurs at ≥ 4 L/min; humidification should be added
-- Maximum recommended flow: 6 L/min (higher flows do not increase FiO₂ reliably)
+**Nasal Cannula:** Delivers 1–6 L/min with an estimated FiO₂ of 0.24–0.44 (approximately +4% per 1 L/min above atmospheric). It is comfortable, allows eating and talking, and is appropriate for mild-to-moderate hypoxemia. The delivered FiO₂ is unreliable with mouth breathing, tachypnea, or high minute ventilation. Nasal mucosa desiccation occurs at flows of 4 L/min or greater, so humidification should be added at those levels. Flows above 6 L/min do not increase FiO₂ reliably and are not recommended.
 
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Nasalprongs.JPG"
@@ -189,10 +164,7 @@ Low-flow systems supplement room air; the patient inhales a mixture of delivered
   </figcaption>
 </figure>
 
-**Simple Face Mask:**
-- Delivers 5–10 L/min; estimated FiO₂ 0.35–0.55
-- Minimum flow 5 L/min to flush exhaled CO₂ from the mask
-- Less comfortable than nasal cannula; must be removed for eating
+**Simple Face Mask:** Delivers 5–10 L/min with an estimated FiO₂ of 0.35–0.55. A minimum flow of 5 L/min is required to flush exhaled CO₂ from the mask. It is less comfortable than a nasal cannula and must be removed for eating.
 
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Simple_face_mask.jpg"
@@ -203,16 +175,9 @@ Low-flow systems supplement room air; the patient inhales a mixture of delivered
   </figcaption>
 </figure>
 
-**Partial Rebreather Mask:**
-- Mask with a reservoir bag; no one-way valve between bag and mask
-- Delivers 6–10 L/min; estimated FiO₂ 0.40–0.70
-- First third of exhaled air (anatomic dead space, oxygen-rich) recirculates into reservoir bag
+**Partial Rebreather Mask:** This mask includes a reservoir bag but has no one-way valve between the bag and the mask, allowing the first third of exhaled air (anatomic dead space gas, which is oxygen-rich) to recirculate into the reservoir. It delivers 6–10 L/min with an estimated FiO₂ of 0.40–0.70.
 
-**Non-Rebreather Mask (NRM):**
-- Reservoir bag with one-way valves preventing rebreathing of exhaled air
-- Delivers 10–15 L/min; estimated FiO₂ up to 0.80–0.90
-- Indicated for emergency management of severe hypoxemia and CO poisoning
-- Reservoir bag must remain inflated at all times; deflation indicates insufficient flow
+**Non-Rebreather Mask (NRM):** The NRM combines a reservoir bag with one-way valves that prevent rebreathing of exhaled air, delivering 10–15 L/min with an estimated FiO₂ up to 0.80–0.90. It is indicated for emergency management of severe hypoxemia and CO poisoning. The reservoir bag must remain inflated at all times; complete deflation during inspiration signals insufficient flow and requires an immediate increase in the flow rate.
 
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/NRBer.JPG"
@@ -277,7 +242,7 @@ High-flow nasal cannula therapy delivers heated (37 °C), humidified oxygen at f
 - **Mucociliary clearance:** Heated humidification improves ciliary function and secretion clearance
 - **Dead space washout:** High flow flushes CO₂ from the nasopharynx
 
-HFNC is used in acute hypoxemic respiratory failure, post-extubation support, and in patients who cannot tolerate non-invasive positive pressure ventilation (NIPPV). Nursing responsibilities include monitoring for increased work of breathing that may signal HFNC failure and escalation of care requirements.
+HFNC is used in acute hypoxemic respiratory failure, post-extubation support, and in patients who cannot tolerate non-invasive positive pressure ventilation (NIPPV). It offers several physiological advantages over conventional low-flow devices: FiO₂ can be titrated precisely from 0.21 to 1.0; the high flow rates meet or exceed typical adult inspiratory demand, preventing room air dilution; a 1–2 cmH₂O positive end-expiratory pressure effect reduces work of breathing and improves alveolar recruitment; heated humidification enhances mucociliary clearance; and high flow washes CO₂ from the nasopharyngeal dead space. Nursing responsibilities include monitoring for increasing work of breathing that may signal HFNC failure and the need for escalation of care.
 
 ### 33.3.5 Non-Invasive Positive Pressure Ventilation (NIPPV)
 
