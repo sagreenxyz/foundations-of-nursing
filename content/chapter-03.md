@@ -72,12 +72,7 @@ The legal landscape shifted more dramatically with the passage of federal and st
 
 ### 3.1.2 The Current Legal Framework
 
-Today, the rights of patients are codified across multiple legal instruments: federal statutes, state laws, accreditation standards, and institutional policies. Key legal sources include:
-
-- **The Patient Self-Determination Act (1990):** Requires Medicare- and Medicaid-participating institutions to provide written information about patients' rights to make health care decisions and to document advance directives in medical records.
-- **The Health Insurance Portability and Accountability Act (1996):** Establishes privacy and security standards for protected health information (discussed in depth in Section 3.6).
-- **Joint Commission Standards:** The Joint Commission requires accredited hospitals to maintain a written statement of patient rights, which must be communicated to patients at the time of admission.
-- **State law:** Individual states maintain statutes governing informed consent, advance directives, and surrogate decision-making, which may extend or supplement federal protections.
+Today, the rights of patients are codified across multiple legal instruments: federal statutes, state laws, accreditation standards, and institutional policies. The **Patient Self-Determination Act (1990)** requires Medicare- and Medicaid-participating institutions to provide written information about patients' rights to make health care decisions and to document advance directives in medical records. The **Health Insurance Portability and Accountability Act (1996)** establishes privacy and security standards for protected health information (discussed in depth in Section 3.6). **Joint Commission Standards** require accredited hospitals to maintain a written statement of patient rights, which must be communicated to patients at the time of admission. Additionally, **state law** plays a significant role, as individual states maintain statutes governing informed consent, advance directives, and surrogate decision-making, which may extend or supplement federal protections.
 
 The AHA updated its Patient's Bill of Rights in 2003 under the title "The Patient Care Partnership," which sets expectations for patients regarding their hospital stay, including the right to high-quality care, a clean environment, privacy, help with discharge planning, and assistance with billing (American Hospital Association, 2003).
 
@@ -86,14 +81,7 @@ The AHA updated its Patient's Bill of Rights in 2003 under the title "The Patien
 
 ### 3.1.3 Rights in Practice: What Patients Are Entitled To
 
-Across all sources, certain rights appear consistently and are considered fundamental to ethical nursing practice. Patients have the right to:
-
-- **Receive information** about their diagnosis, treatment options, and prognosis in language they can understand.
-- **Participate in decisions** about their own care, including the right to consent to or refuse treatment.
-- **Privacy and confidentiality** regarding their health information.
-- **Respectful, non-discriminatory care** regardless of race, ethnicity, religion, sex, age, disability, sexual orientation, or gender identity.
-- **Access to their medical records** within the timeframes established by HIPAA.
-- **File a complaint** without fear of retaliation or adverse change in their care.
+Across all sources, certain rights appear consistently and are considered fundamental to ethical nursing practice. Patients have the right to **receive information** about their diagnosis, treatment options, and prognosis in language they can understand, and to **participate in decisions** about their own care, including the right to consent to or refuse treatment. They are entitled to **privacy and confidentiality** regarding their health information, as well as **respectful, non-discriminatory care** regardless of race, ethnicity, religion, sex, age, disability, sexual orientation, or gender identity. Furthermore, patients have the right to **access their medical records** within the timeframes established by HIPAA, and to **file a complaint** without fear of retaliation or adverse change in their care.
 
 For nurses, these rights translate into concrete professional obligations: explaining procedures, ensuring interpreters are available, protecting the integrity of the medical record, and advocating when rights are violated. The nurse is frequently the patient's most consistent and accessible point of contact in the health care system, making the nurse's advocacy role uniquely powerful.
 
@@ -125,13 +113,7 @@ The principle of **non-maleficence** also supports advocacy. When the nurse witn
 
 Despite its centrality to nursing ethics, advocacy is not always easy to practice. Nurses face real barriers: hierarchical workplace cultures that discourage speaking up, fear of retaliation, moral distress from repeated ethical violations, time constraints, and uncertainty about professional authority. Research identifies the power differential between nurses and physicians as one of the most significant structural barriers to effective advocacy (Hanks, 2010).
 
-Strategies to overcome these barriers include:
-
-- **Developing assertive communication skills** — using "I" statements, focusing on patient welfare, and employing scripted phrases such as "I have a concern about this patient's safety that I need to raise."
-- **Leveraging institutional structures** — ethics committees, patient representatives, and rapid response teams provide formal channels for escalating concerns.
-- **Maintaining clinical knowledge** — a nurse's advocacy is most persuasive when grounded in clinical evidence and clearly articulated.
-- **Building collegial relationships** — nurses who establish trust with physicians and advanced practice providers are better positioned to raise concerns without triggering defensiveness.
-- **Documenting thoroughly** — objective, factual documentation protects both the patient and the nurse and creates a legal record of advocacy efforts.
+Nurses can employ several strategies to overcome these barriers. **Developing assertive communication skills** is essential — using "I" statements, focusing on patient welfare, and employing scripted phrases such as "I have a concern about this patient's safety that I need to raise." **Leveraging institutional structures** is equally important, as ethics committees, patient representatives, and rapid response teams provide formal channels for escalating concerns. In addition, **maintaining clinical knowledge** ensures that a nurse's advocacy is most persuasive when grounded in clinical evidence and clearly articulated. **Building collegial relationships** helps as well — nurses who establish trust with physicians and advanced practice providers are better positioned to raise concerns without triggering defensiveness. Finally, **documenting thoroughly** through objective, factual documentation protects both the patient and the nurse and creates a legal record of advocacy efforts.
 
 [FIGURE 3.2: The Levels of Nursing Advocacy — Individual, Institutional, and Societal.]  
 *Alt text: A concentric circle diagram showing three nested levels of nursing advocacy: individual patient at the center, institutional at the middle ring, and societal/policy at the outer ring, with arrows indicating bidirectional influence.*
@@ -163,35 +145,17 @@ Informed consent requires three essential elements:
 
 The legal responsibility for obtaining informed consent rests with the **physician or licensed independent practitioner** who will perform the procedure. This is a point of significant confusion in nursing practice. Nurses do not obtain surgical or procedural consent — they *witness* the signing of the consent document after consent has been appropriately obtained.
 
-However, the nurse's role is far from passive. The nurse is responsible for:
-
-- Verifying that the consent form is complete and that the procedure described matches the planned procedure.
-- Confirming that the patient was given adequate information prior to signing.
-- Assessing whether the patient demonstrates understanding and is signing voluntarily.
-- Notifying the physician or charge nurse if any concerns exist about the validity of consent before the procedure proceeds.
-- Documenting assessment findings related to the consent process.
+However, the nurse's role is far from passive. The nurse is responsible for verifying that the consent form is complete and that the procedure described matches the planned procedure. The nurse must also confirm that the patient was given adequate information prior to signing and assess whether the patient demonstrates understanding and is signing voluntarily. If any concerns exist about the validity of consent, the nurse is responsible for notifying the physician or charge nurse before the procedure proceeds. Throughout this process, the nurse must document all assessment findings related to the consent process.
 
 If a nurse witnesses a consent that appears to have been obtained without adequate disclosure or under coercion, the nurse has a professional and ethical obligation to stop the process and escalate concerns. This may require significant courage, but it is precisely the kind of advocacy the Code of Ethics requires.
 
 ### 3.3.3 Special Forms of Consent
 
-Several clinical scenarios involve consent processes that differ from the standard elective procedure:
-
-- **Emergency consent:** When a patient is incapacitated and a life-threatening emergency exists, treatment may proceed without consent under the doctrine of **implied consent** — it is presumed that a reasonable person would consent to life-saving treatment. This exception is narrow and does not apply to non-urgent procedures.
-- **Research consent:** Participation in clinical research requires a separate, more rigorous consent process governed by federal regulations (the "Common Rule," 45 CFR §46) and overseen by Institutional Review Boards (IRBs). Key additional protections include the right to withdraw at any time without penalty.
-- **Photography and video consent:** Patients must separately consent to any photography or video recording of their care, even for educational purposes.
-- **Blood transfusion refusal:** Jehovah's Witness patients may refuse blood transfusions on religious grounds. A competent adult's refusal must be honored even if the clinical team believes it is medically inadvisable (see Section 3.8 for ethical analysis).
+Several clinical scenarios involve consent processes that differ from the standard elective procedure. In situations involving **emergency consent**, when a patient is incapacitated and a life-threatening emergency exists, treatment may proceed without consent under the doctrine of **implied consent** — it is presumed that a reasonable person would consent to life-saving treatment; this exception is narrow and does not apply to non-urgent procedures. **Research consent** requires a separate, more rigorous process governed by federal regulations (the "Common Rule," 45 CFR §46) and overseen by Institutional Review Boards (IRBs), with key additional protections including the right to withdraw at any time without penalty. Furthermore, **photography and video consent** must be obtained separately for any photography or video recording of patient care, even for educational purposes. Finally, when Jehovah's Witness patients invoke **blood transfusion refusal** on religious grounds, a competent adult's refusal must be honored even if the clinical team believes it is medically inadvisable (see Section 3.8 for ethical analysis).
 
 ### 3.3.4 Documentation of Consent
 
-Proper documentation of the informed consent process is both a legal protection and a communication tool. Nursing documentation should include:
-
-- The name of the person who provided the patient with information.
-- The patient's stated level of understanding (using direct quotes when possible).
-- Any interpreter services used.
-- The patient's signature, date, and time.
-- The nurse witness's signature.
-- Any concerns noted and actions taken.
+Proper documentation of the informed consent process is both a legal protection and a communication tool. Nursing documentation should include the name of the person who provided the patient with information and the patient's stated level of understanding, using direct quotes when possible. Any interpreter services used should be recorded, along with the patient's signature, date, and time, and the nurse witness's signature. Additionally, any concerns noted during the process and the actions taken in response must be documented.
 
 Documentation should reflect the process, not merely the outcome. A chart entry reading "consent form signed" communicates little about whether consent was valid. A chart entry reading "Patient verbalized understanding of laparoscopic cholecystectomy procedure, risks including bile duct injury and infection, and right to refuse; interpreter services not required; consent form signed in the presence of the nurse witness" creates a meaningful clinical and legal record.
 
@@ -225,10 +189,7 @@ Nurses are not formally responsible for making legal capacity determinations, bu
 
 When a patient lacks decision-making capacity and has not designated a health care agent, the health care team must identify a **surrogate decision-maker** — an individual authorized by law or by the patient's relationships to make decisions on the patient's behalf. Most states establish a statutory hierarchy of surrogates: typically, legal spouse or domestic partner, adult children, parents, adult siblings, and then other close relatives.
 
-Surrogate decision-makers are ethically and legally required to apply one of two standards:
-
-- **Substituted judgment standard:** The surrogate makes the decision the patient would have made, based on knowledge of the patient's values, beliefs, and past statements. This standard is preferred when the patient's preferences are known or can be inferred.
-- **Best interest standard:** When the patient's preferences are unknown, the surrogate makes the decision that best promotes the patient's welfare and minimizes harm. This standard is a fallback, not a first resort.
+Surrogate decision-makers are ethically and legally required to apply one of two standards. The **substituted judgment standard** directs the surrogate to make the decision the patient would have made, based on knowledge of the patient's values, beliefs, and past statements; this standard is preferred when the patient's preferences are known or can be inferred. When the patient's preferences are unknown, the surrogate instead applies the **best interest standard**, making the decision that best promotes the patient's welfare and minimizes harm — a fallback approach, not a first resort.
 
 Nurses frequently interact with surrogates and can support them by providing clear clinical information, acknowledging the burden of surrogate decision-making, and gently redirecting conversations toward "What would your loved one want?" rather than "What do you want for your loved one?" — a shift in framing that can meaningfully realign discussions with the substituted judgment standard.
 
@@ -243,21 +204,11 @@ Nurses frequently interact with surrogates and can support them by providing cle
 
 **Advance directives** are legal documents through which competent adults express their health care preferences in anticipation of future incapacity. The Patient Self-Determination Act (1990) mandates that health care facilities inform patients of their right to complete advance directives at the time of admission. Despite this requirement, research consistently shows that fewer than 30% of Americans have completed an advance directive (Yadav et al., 2017).
 
-The primary types of advance directives include:
-
-- **Living will:** Documents specific treatment preferences — typically addressing mechanical ventilation, artificial nutrition and hydration, cardiopulmonary resuscitation (CPR), and dialysis — under defined circumstances such as terminal illness or permanent unconsciousness.
-- **Durable power of attorney for health care (DPAHC):** Designates a health care proxy or **durable power of attorney for health care** who is authorized to make health care decisions if the patient becomes incapacitated. This is the most flexible type of advance directive because it can address situations not anticipated in a living will.
-- **Physician Orders for Life-Sustaining Treatment (POLST):** Unlike advance directives, which are planning documents, the POLST (also called MOLST or MOST in some states) is a medical order that translates patient preferences into actionable clinical instructions. It travels with the patient across care settings and does not require physician re-activation in an emergency.
-- **Do Not Resuscitate (DNR) / Do Not Attempt Resuscitation (DNAR) order:** A physician order — not an advance directive — that instructs the care team not to perform CPR if the patient experiences cardiopulmonary arrest. Nurses must verify a current DNR order exists in the chart before acting on a patient's or family's verbal statement that a DNR is in place.
+The primary types of advance directives each serve distinct purposes. A **living will** documents specific treatment preferences — typically addressing mechanical ventilation, artificial nutrition and hydration, cardiopulmonary resuscitation (CPR), and dialysis — under defined circumstances such as terminal illness or permanent unconsciousness. A **durable power of attorney for health care (DPAHC)** designates a health care proxy who is authorized to make health care decisions if the patient becomes incapacitated; it is the most flexible type of advance directive because it can address situations not anticipated in a living will. The **Physician Orders for Life-Sustaining Treatment (POLST)** — also called MOLST or MOST in some states — differs from advance directives in that it is a medical order, not merely a planning document, that translates patient preferences into actionable clinical instructions; it travels with the patient across care settings and does not require physician re-activation in an emergency. Finally, the **Do Not Resuscitate (DNR) / Do Not Attempt Resuscitation (DNAR) order** is a physician order — not an advance directive — that instructs the care team not to perform CPR if the patient experiences cardiopulmonary arrest. Nurses must verify a current DNR order exists in the chart before acting on a patient's or family's verbal statement that a DNR is in place.
 
 ### 3.5.2 The Nurse's Role in Advance Care Planning
 
-Nurses play a pivotal role in advance care planning — a process of reflection, communication, and documentation that occurs over time, ideally well before a health crisis. The nurse's role includes:
-
-- **Screening and documentation:** Asking patients at admission whether they have an advance directive, documenting the response, and ensuring any existing directive is placed in the medical record.
-- **Education:** Explaining the types of advance directives and the importance of making preferences known.
-- **Facilitation:** Encouraging patients to discuss end-of-life preferences with their families and to consult the facility's patient advocate or social worker for assistance completing documents.
-- **Advocacy:** Ensuring that existing advance directives are honored. When clinical management conflicts with a patient's documented preferences, the nurse must escalate the concern immediately.
+Nurses play a pivotal role in advance care planning — a process of reflection, communication, and documentation that occurs over time, ideally well before a health crisis. This role begins with **screening and documentation**: asking patients at admission whether they have an advance directive, documenting the response, and ensuring any existing directive is placed in the medical record. The nurse also provides **education** by explaining the types of advance directives and the importance of making preferences known. Through **facilitation**, the nurse encourages patients to discuss end-of-life preferences with their families and to consult the facility's patient advocate or social worker for assistance completing documents. Finally, the nurse's **advocacy** function requires ensuring that existing advance directives are honored; when clinical management conflicts with a patient's documented preferences, the nurse must escalate the concern immediately.
 
 > **Patient Voice: "No One Asked Me"**  
 > A study by Heyland et al. (2013) found that more than half of seriously ill hospitalized patients reported that no member of the care team had discussed their goals of care with them. Many patients want to have these conversations but wait for the health care team to initiate them. Nurses — who spend more time with patients than any other provider — are uniquely positioned to open the door to these conversations with a simple question: "Have you thought about what kind of care would be most important to you if you were seriously ill?"
@@ -284,23 +235,14 @@ The Health Insurance Portability and Accountability Act of 1996 and its subseque
 
 PHI is defined as any individually identifiable health information held or transmitted by a **covered entity** (health care providers, health plans, health care clearinghouses) or their **business associates** in any form: paper, electronic, or oral. Individually identifiable information includes not only name and diagnosis but also date of birth, geographic identifiers, account numbers, and any other information that could reasonably identify a patient.
 
-Key provisions of the HIPAA Privacy Rule relevant to nursing practice include:
-
-- **Minimum necessary standard:** Nurses should access and disclose only the minimum PHI necessary to accomplish a task. Reviewing a patient's entire medical history when performing a routine medication administration is inconsistent with this standard.
-- **Permitted disclosures:** PHI may be shared for treatment, payment, and health care operations (TPO) without specific patient authorization. Outside these purposes, written authorization is required with limited exceptions.
-- **Patient rights under HIPAA:** Patients have the right to access their records, request amendments, receive an accounting of disclosures, and request restrictions on certain uses.
+Several key provisions of the HIPAA Privacy Rule are directly relevant to nursing practice. The **minimum necessary standard** requires that nurses access and disclose only the minimum PHI necessary to accomplish a task; reviewing a patient's entire medical history when performing a routine medication administration is inconsistent with this standard. Regarding **permitted disclosures**, PHI may be shared for treatment, payment, and health care operations (TPO) without specific patient authorization, but outside these purposes, written authorization is required with limited exceptions. Additionally, **patient rights under HIPAA** are broad: patients have the right to access their records, request amendments, receive an accounting of disclosures, and request restrictions on certain uses.
 
 > **Legal Spotlight: HIPAA Violations in Clinical Practice**  
 > Common HIPAA violations in nursing include: discussing patient information in public areas (elevators, cafeterias, hallways); leaving computer screens with PHI visible; sending unencrypted patient information via personal email or text; and accessing records of patients not under the nurse's care (including celebrity patients or family members). Penalties range from corrective action plans to criminal prosecution. Nurses have lost their licenses following HIPAA violations — this is not a theoretical risk.
 
 ### 3.6.3 Exceptions to Confidentiality
 
-Confidentiality is not absolute. Several legally mandated and ethically justified exceptions require or permit disclosure without patient consent:
-
-- **Mandatory reporting laws:** Nurses must report certain communicable diseases (e.g., tuberculosis, sexually transmitted infections), child abuse and neglect, elder or vulnerable adult abuse, and gunshot or knife wounds to appropriate authorities. These obligations vary by state but override confidentiality.
-- **Public health reporting:** CDC-mandated disease surveillance programs require reporting of certain conditions.
-- **Duty to protect (Tarasoff doctrine):** In most states, providers have a duty to take reasonable steps to protect identifiable third parties from a patient's credible, specific threats of serious harm. This may include warning the potential victim and/or notifying law enforcement.
-- **Court-ordered disclosure:** A valid court order requires disclosure of PHI even without patient consent.
+Confidentiality is not absolute. Several legally mandated and ethically justified exceptions require or permit disclosure without patient consent. **Mandatory reporting laws** require nurses to report certain communicable diseases (e.g., tuberculosis, sexually transmitted infections), child abuse and neglect, elder or vulnerable adult abuse, and gunshot or knife wounds to appropriate authorities; these obligations vary by state but override confidentiality. Similarly, **public health reporting** requirements under CDC-mandated disease surveillance programs require the reporting of certain conditions. In most states, the **duty to protect** — derived from the *Tarasoff* doctrine — obligates providers to take reasonable steps to protect identifiable third parties from a patient's credible, specific threats of serious harm, which may include warning the potential victim and/or notifying law enforcement. Finally, a valid **court-ordered disclosure** requires the release of PHI even without patient consent.
 
 Nurses navigating these exceptions should consult their facility's legal and compliance resources, document their reasoning, and involve supervisors as appropriate.
 
@@ -321,11 +263,7 @@ Social media presents particular risks. Posting any patient information — even
 
 The default legal rule is that **minors** (persons under 18 in most states) cannot consent to medical treatment on their own behalf — parental or guardian consent is required. However, this rule is subject to important exceptions that nurses must understand.
 
-Most states recognize the rights of **emancipated minors** to consent to their own care. Emancipation typically applies to minors who are married, on active military duty, economically self-supporting and living independently, or declared emancipated by a court. Additionally, most states permit minors to consent to specific categories of care without parental involvement, including:
-
-- Sexual and reproductive health (contraception, STI testing and treatment, pregnancy care)
-- Mental health and substance use disorder treatment
-- Emergency care
+Most states recognize the rights of **emancipated minors** to consent to their own care. Emancipation typically applies to minors who are married, on active military duty, economically self-supporting and living independently, or declared emancipated by a court. Additionally, most states permit minors to consent to specific categories of care without parental involvement, including sexual and reproductive health (contraception, STI testing and treatment, and pregnancy care), mental health and substance use disorder treatment, and emergency care.
 
 The **mature minor doctrine**, recognized in some states, holds that minors who demonstrate sufficient intelligence and maturity to understand the nature and consequences of a proposed treatment may consent independently, regardless of age. This doctrine requires careful clinical assessment and legal consultation.
 
