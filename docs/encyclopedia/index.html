@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NurseMastery Encyclopedia</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- ── Sidebar ───────────────────────────────────────── -->
+  <aside id="sidebar" role="complementary" aria-label="Encyclopedia navigation">
+    <div class="sidebar-header">
+      <div class="book-title">
+        <a href="#" id="home-link" style="text-decoration:none;color:inherit;">
+          NurseMastery Encyclopedia
+        </a>
+      </div>
+      <div class="book-subtitle">Nursing Knowledge Wiki</div>
+    </div>
+    <!-- Navigation is built dynamically by app.js -->
+  </aside>
+
+  <!-- ── Main Content ──────────────────────────────────── -->
+  <main id="main" role="main">
+
+    <!-- Welcome / index page -->
+    <section id="welcome" aria-label="Encyclopedia index">
+      <h1>NurseMastery Encyclopedia</h1>
+      <p class="subtitle"><em>A collaborative nursing knowledge wiki for nursing students and educators</em></p>
+
+      <p>
+        Welcome to the <strong>NurseMastery Encyclopedia</strong> — an open-access,
+        academic reference wiki covering foundational and advanced topics in nursing
+        science. Articles are written at a formal, academic level appropriate for
+        pre-licensure ADN and BSN students and are cross-linked to support
+        self-directed, wiki-style learning.
+      </p>
+      <p>
+        Select an article from the sidebar, or browse by category below. Articles
+        marked <strong>Available</strong> contain full academic text. Articles marked
+        <strong>Coming Soon</strong> are planned for future sprints.
+      </p>
+
+      <hr style="margin:2rem 0;" />
+
+      <!-- Article index rendered by app.js -->
+      <div id="article-index"></div>
+
+      <hr style="margin:2rem 0;" />
+
+      <h2 style="font-size:1rem;margin-bottom:.5rem;">Quick-Start Guide</h2>
+      <ul>
+        <li>Click any article title in the sidebar or index to load its content.</li>
+        <li>Articles contain <strong>wiki-style links</strong> to related articles — click them to navigate.</li>
+        <li>Use the sidebar header link to return to this index at any time.</li>
+        <li><a href="../">&#8592; Return to textbook catalog</a></li>
+      </ul>
+    </section>
+
+    <!-- Article content (hidden until an article is loaded) -->
+    <article id="article-content" hidden aria-label="Article content"></article>
+
+    <!-- Loading indicator -->
+    <p id="loading" hidden aria-live="polite">Loading article…</p>
+
+    <!-- Error message -->
+    <pre id="error-msg" hidden role="alert" aria-live="assertive"></pre>
+
+  </main>
+
+  <!-- marked.js — MIT-licensed Markdown renderer (vendored locally) -->
+  <script src="js/marked.min.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
