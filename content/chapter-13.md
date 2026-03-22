@@ -100,14 +100,10 @@ Homeostatic regulation depends on three components:
 2. **Control center (integrating center):** Compares the detected value to the set point and initiates a corrective response
 3. **Effector:** Carries out the corrective response
 
-The dominant homeostatic mechanism is **negative feedback**, in which the response reduces or opposes the original stimulus, returning the variable toward its set point. Examples include:
-- **Thermoregulation:** When core temperature rises, the hypothalamus triggers sweating and vasodilation to dissipate heat; when temperature falls, shivering and vasoconstriction conserve heat.
-- **Blood glucose:** Hyperglycemia stimulates pancreatic beta cells to secrete insulin, which promotes glucose uptake by cells, lowering blood glucose toward the normal range.
-- **Blood pressure:** Baroreceptors in the carotid sinus and aortic arch detect hypertension and signal the brainstem to reduce heart rate and promote vasodilation.
+The dominant homeostatic mechanism is **negative feedback**, in which the response reduces or opposes the original stimulus, returning the variable toward its set point. Examples include thermoregulation, in which a rising core temperature prompts the hypothalamus to trigger sweating and vasodilation to dissipate heat, while a falling temperature elicits shivering and vasoconstriction to conserve it. Similarly, hyperglycemia stimulates pancreatic beta cells to secrete insulin, which promotes glucose uptake and returns blood glucose toward the normal range. In blood pressure regulation, baroreceptors in the carotid sinus and aortic arch detect hypertension and signal the brainstem to reduce heart rate and promote vasodilation.
 
 **Positive feedback** amplifies the original stimulus and moves the variable further from baseline. While potentially destabilizing, it serves important physiological roles in limited contexts:
-- **Childbirth:** Fetal head pressure on the cervix stimulates oxytocin release → stronger uterine contractions → greater pressure on the cervix → more oxytocin; the cycle continues until delivery terminates the stimulus.
-- **Blood clotting:** Platelet aggregation releases chemicals that attract more platelets, rapidly building a hemostatic plug to stop bleeding.
+During childbirth, for instance, fetal head pressure on the cervix stimulates oxytocin release, which drives stronger uterine contractions, which in turn create greater cervical pressure and further oxytocin release; the cycle continues until delivery terminates the stimulus. Similarly, during blood clotting, platelet aggregation releases chemicals that attract more platelets, rapidly building a hemostatic plug to stop bleeding.
 
 > **Clinical Tip: Homeostasis and Disease**  
 > Disease can be understood as a failure of homeostatic mechanisms — either the system is overwhelmed by a stressor, the feedback mechanism itself is disordered, or the set point has been pathologically reset. Understanding *which* homeostatic mechanism has failed often explains the clinical presentation. For example, in type 2 diabetes, insulin resistance impairs the normal glucose-lowering negative feedback, resulting in chronic hyperglycemia.
@@ -137,25 +133,13 @@ Cells constantly encounter stressors — hypoxia, nutrient deprivation, mechanic
 
 When adaptive mechanisms are insufficient to protect a cell from injury, cell death occurs. Two fundamentally different mechanisms produce cell death with distinct biological consequences:
 
-**Apoptosis** ("programmed cell death") is an orderly, energy-dependent process in which a cell activates an internal suicide program. Key features include:
-- Cell shrinkage and chromatin condensation
-- Membrane blebbing and packaging of cell contents into apoptotic bodies
-- Rapid phagocytosis of apoptotic bodies by neighboring cells and macrophages
-- **No inflammatory response triggered** — contents are contained within membrane-bound vesicles
+**Apoptosis** ("programmed cell death") is an orderly, energy-dependent process in which a cell activates an internal suicide program. Morphologically, the cell undergoes shrinkage and chromatin condensation, followed by membrane blebbing and packaging of cellular contents into apoptotic bodies, which are rapidly phagocytosed by neighboring cells and macrophages. Critically, **no inflammatory response is triggered**, because all cellular contents remain contained within membrane-bound vesicles throughout the process.
 
 Apoptosis is essential for normal physiology: it sculpts embryonic structures (digit separation), eliminates self-reactive lymphocytes, maintains intestinal crypt cell turnover, and removes virus-infected and DNA-damaged cells. Dysregulation of apoptosis contributes to both cancer (insufficient apoptosis) and degenerative diseases such as Parkinson's disease (excessive apoptosis of neurons).
 
-**Necrosis** is uncontrolled, pathological cell death resulting from overwhelming injury. Key features include:
-- Cell swelling and membrane rupture
-- Release of intracellular contents (enzymes, ions, inflammatory mediators) into the extracellular space
-- **Inflammation is triggered** — the released contents act as damage-associated molecular patterns (DAMPs)
+**Necrosis** is uncontrolled, pathological cell death resulting from overwhelming injury. It is characterized by cell swelling and membrane rupture, followed by the release of intracellular contents — including enzymes, ions, and inflammatory mediators — into the extracellular space. Because these released contents act as damage-associated molecular patterns (DAMPs), **inflammation is invariably triggered**.
 
-Forms of necrosis include:
-- **Coagulative necrosis:** Most common form; cell outlines preserved (protein denaturation); seen in ischemic infarcts of heart, kidney, and spleen
-- **Liquefactive necrosis:** Complete dissolution of tissue; seen in brain infarcts and bacterial abscesses
-- **Caseous necrosis:** Cheesy, friable appearance; characteristic of tuberculosis granulomas
-- **Fat necrosis:** Enzymatic destruction of adipose tissue; occurs in acute pancreatitis (released lipases digest peripancreatic fat)
-- **Gangrenous necrosis:** Clinical term for limb or extremity necrosis; "dry" gangrene = coagulative; "wet" gangrene = combined with bacterial infection
+Several distinct forms of necrosis are recognized. **Coagulative necrosis** is the most common form, in which cell outlines are preserved due to protein denaturation; it is characteristically seen in ischemic infarcts of the heart, kidney, and spleen. **Liquefactive necrosis** involves complete dissolution of tissue and occurs in brain infarcts and bacterial abscesses. **Caseous necrosis** has a cheesy, friable appearance and is the hallmark of tuberculosis granulomas. **Fat necrosis** results from enzymatic destruction of adipose tissue and occurs in acute pancreatitis, where released lipases digest peripancreatic fat. Finally, **gangrenous necrosis** is a clinical term for limb or extremity necrosis; "dry" gangrene represents coagulative necrosis, while "wet" gangrene occurs when coagulative necrosis is complicated by bacterial infection.
 
 **[Figure 13.2 — Apoptosis vs. Necrosis: Comparative Pathways]** *Diagram showing the key morphological and biochemical differences between apoptosis and necrosis, including inflammatory consequences.*
 
@@ -199,10 +183,7 @@ Forms of necrosis include:
 
 ### 13.3.2 Chronic Inflammation and Wound Healing
 
-**Chronic inflammation** occurs when the acute inflammatory response fails to eliminate the injurious agent and persists for weeks to months. It is characterized by:
-- Infiltration of mononuclear cells — macrophages, lymphocytes, plasma cells — rather than neutrophils
-- Simultaneous tissue destruction and repair (fibrosis)
-- Formation of **granulomas** — organized aggregates of activated macrophages (epithelioid cells), often surrounded by lymphocytes; the hallmark of chronic granulomatous diseases such as tuberculosis, sarcoidosis, and Crohn's disease
+**Chronic inflammation** occurs when the acute inflammatory response fails to eliminate the injurious agent and persists for weeks to months. Unlike acute inflammation, it is characterized by infiltration of mononuclear cells — macrophages, lymphocytes, and plasma cells — rather than neutrophils, along with the simultaneous occurrence of tissue destruction and repair (fibrosis). A hallmark of certain chronic inflammatory conditions is the formation of **granulomas** — organized aggregates of activated macrophages (epithelioid cells), often surrounded by lymphocytes — which are characteristic of chronic granulomatous diseases such as tuberculosis, sarcoidosis, and Crohn's disease.
 
 Conditions with a chronic inflammatory basis include atherosclerosis, rheumatoid arthritis, inflammatory bowel disease, asthma, and chronic obstructive pulmonary disease. Understanding this shared mechanism explains why anti-inflammatory therapies (corticosteroids, biologics targeting TNF-α or IL-6) are effective across diverse diseases.
 
@@ -247,14 +228,9 @@ Innate immunity responds within minutes to hours and is not pathogen-specific. I
 
 **Adaptive immunity** develops over days to weeks upon first exposure to a specific antigen and generates immunological memory that enables faster, stronger responses upon re-exposure. It is mediated by lymphocytes:
 
-**T lymphocytes (T cells)** — mature in the thymus:
-- **Helper T cells (CD4+, Th):** Coordinate adaptive immune responses by releasing cytokines that activate cytotoxic T cells, stimulate B cell antibody production, and enhance macrophage function
-- **Cytotoxic T cells (CD8+, Tc):** Directly kill cells displaying foreign antigen on MHC class I molecules — including virus-infected cells, cancer cells, and graft cells
-- **Regulatory T cells (Treg):** Suppress immune responses to prevent autoimmunity and limit tissue damage
+**T lymphocytes (T cells)** mature in the thymus and are further classified by function. **Helper T cells (CD4+, Th)** coordinate adaptive immune responses by releasing cytokines that activate cytotoxic T cells, stimulate B cell antibody production, and enhance macrophage function. **Cytotoxic T cells (CD8+, Tc)** directly kill cells displaying foreign antigen on MHC class I molecules — including virus-infected cells, cancer cells, and graft cells. **Regulatory T cells (Treg)** suppress immune responses to prevent autoimmunity and limit tissue damage.
 
-**B lymphocytes (B cells)** — mature in bone marrow:
-- Upon activation by antigen and helper T cells, differentiate into **plasma cells** that produce large quantities of **antibodies (immunoglobulins)**
-- Some B cells become **memory B cells** that persist long-term and respond rapidly upon re-exposure
+**B lymphocytes (B cells)** mature in the bone marrow. Upon activation by antigen and helper T cells, they differentiate into **plasma cells** that produce large quantities of **antibodies (immunoglobulins)**. Additionally, some B cells become **memory B cells** that persist long-term and respond rapidly upon re-exposure to the same antigen.
 
 **The five antibody classes (immunoglobulins):**
 
@@ -303,10 +279,7 @@ An **infection** occurs when a pathogen successfully enters a host, evades host 
 
 **Host inflammatory and systemic responses to infection:**
 
-When a pathogen is detected, the innate immune system triggers the acute inflammatory response (Section 13.3). Systemically, macrophage-released cytokines (IL-1, IL-6, TNF-α) produce:
-- **Fever:** IL-1 and prostaglandin E2 reset the hypothalamic thermostat; elevated temperature impairs pathogen replication and enhances phagocyte function
-- **Acute-phase response:** Liver produces acute-phase proteins (C-reactive protein, fibrinogen, ferritin) that opsonize pathogens, activate complement, and limit iron availability to bacteria
-- **Leukocytosis:** Bone marrow releases more neutrophils → elevated WBC with left shift (bands)
+When a pathogen is detected, the innate immune system triggers the acute inflammatory response (Section 13.3). Systemically, macrophage-released cytokines (IL-1, IL-6, TNF-α) produce several characteristic responses. **Fever** occurs when IL-1 and prostaglandin E2 reset the hypothalamic thermostat; the resulting elevated temperature impairs pathogen replication and enhances phagocyte function. The **acute-phase response** involves the liver producing acute-phase proteins — including C-reactive protein, fibrinogen, and ferritin — that opsonize pathogens, activate complement, and limit iron availability to bacteria. Additionally, **leukocytosis** results as the bone marrow releases more neutrophils, producing an elevated WBC count with a left shift (increased bands).
 
 **[Figure 13.4 — The Chain of Infection and Points of Intervention]** *Circular chain diagram showing all six links and the corresponding infection prevention intervention at each link (e.g., disinfection at reservoir, PPE at portal of entry, vaccination at susceptible host).*
 
@@ -320,15 +293,9 @@ When a pathogen is detected, the innate immune system triggers the acute inflamm
 
 Cancer arises from accumulated genetic mutations that disrupt this balance — typically requiring 4–6 driver mutations in the same cell lineage over years to decades. Key molecular mechanisms include:
 
-**Proto-oncogenes → Oncogenes:** Proto-oncogenes encode proteins that stimulate normal cell division (growth factors, growth factor receptors, signal transducers, transcription factors). Gain-of-function mutations convert them into **oncogenes** that drive unregulated proliferation. A single mutated allele is sufficient (dominant). Examples:
-- *RAS* oncogene: Mutated in ~30% of human cancers; encodes a constitutively active growth-signaling GTPase
-- *HER2/neu* amplification: Breast and gastric cancers; target of trastuzumab (Herceptin)
-- *MYC* amplification: Burkitt lymphoma, lung cancer
+**Proto-oncogenes → Oncogenes:** Proto-oncogenes encode proteins that stimulate normal cell division — including growth factors, growth factor receptors, signal transducers, and transcription factors. Gain-of-function mutations convert them into **oncogenes** that drive unregulated proliferation, and a single mutated allele is sufficient to produce this dominant effect. For example, the *RAS* oncogene is mutated in approximately 30% of human cancers and encodes a constitutively active growth-signaling GTPase. *HER2/neu* amplification is found in breast and gastric cancers and is the target of trastuzumab (Herceptin). *MYC* amplification is implicated in Burkitt lymphoma and lung cancer.
 
-**Tumor suppressor genes:** Encode proteins that inhibit cell division, promote apoptosis, or repair DNA. Loss of function (typically both alleles — the "two-hit hypothesis") removes the brake on cell growth. Examples:
-- *TP53* (p53): Mutated in >50% of human cancers; "guardian of the genome"; triggers cell cycle arrest and apoptosis in response to DNA damage
-- *RB* (retinoblastoma protein): Mutated in retinoblastoma; normally inhibits G1→S cell cycle transition
-- *BRCA1/BRCA2*: Involved in DNA double-strand break repair; germline mutations dramatically increase breast and ovarian cancer risk
+**Tumor suppressor genes** encode proteins that inhibit cell division, promote apoptosis, or repair DNA. Loss of function — typically requiring mutations in both alleles, as described by the "two-hit hypothesis" — removes the brake on cell growth. *TP53* (p53), mutated in more than 50% of human cancers, is known as the "guardian of the genome" because it triggers cell cycle arrest and apoptosis in response to DNA damage. The *RB* (retinoblastoma protein) gene, mutated in retinoblastoma, normally inhibits the G1→S cell cycle transition. Furthermore, *BRCA1/BRCA2* are involved in DNA double-strand break repair; germline mutations in these genes dramatically increase breast and ovarian cancer risk.
 
 **Hallmarks of Cancer** (Hanahan & Weinberg, 2011):
 1. Sustaining proliferative signaling
@@ -381,33 +348,17 @@ Common metastatic patterns by primary tumor:
 
 **Genetic disorders** result from mutations affecting single genes (monogenic/Mendelian disorders) or from chromosomal abnormalities, or arise from complex interactions between multiple genes and environmental factors (multifactorial inheritance). Understanding inheritance patterns allows nurses to identify patients at risk, facilitate referrals to genetic counseling, and provide appropriate education.
 
-**Autosomal dominant disorders:**
-- One mutated allele is sufficient to produce the disease phenotype (haploinsufficiency or dominant-negative effect)
-- Risk of transmission: 50% per pregnancy if one parent is affected
-- Typically affects every generation (vertical transmission)
-- Examples: Huntington's disease, Marfan syndrome, neurofibromatosis type 1, familial hypercholesterolemia, achondroplasia, polycystic kidney disease (ADPKD)
+**Autosomal dominant disorders** arise when a single mutated allele is sufficient to produce the disease phenotype through haploinsufficiency or a dominant-negative effect. Because only one copy is required, the risk of transmission is 50% per pregnancy when one parent is affected, and the disorder typically appears in every generation (vertical transmission). Examples include Huntington's disease, Marfan syndrome, neurofibromatosis type 1, familial hypercholesterolemia, achondroplasia, and polycystic kidney disease (ADPKD).
 
-**Autosomal recessive disorders:**
-- Two mutated alleles required (one from each parent); carriers (heterozygotes) are phenotypically normal
-- Risk: 25% affected, 50% carriers, 25% normal offspring when both parents are carriers
-- Often more severe than dominant disorders; enzyme deficiencies are commonly recessive
-- Examples: Cystic fibrosis, sickle cell disease, phenylketonuria (PKU), Tay-Sachs disease, hemochromatosis, congenital adrenal hyperplasia
+**Autosomal recessive disorders** require two mutated alleles — one inherited from each parent — to produce the disease phenotype; carriers (heterozygotes) are phenotypically normal. When both parents are carriers, the risk per pregnancy is 25% affected, 50% carrier, and 25% unaffected. These disorders are often more severe than dominant disorders, and enzyme deficiencies are commonly inherited in this pattern. Examples include cystic fibrosis, sickle cell disease, phenylketonuria (PKU), Tay-Sachs disease, hemochromatosis, and congenital adrenal hyperplasia.
 
-**X-linked disorders:**
-- Gene located on the X chromosome
-- *X-linked recessive:* Females are usually carriers (one normal allele compensates); males (XY) are affected because they have only one X chromosome. Example: Hemophilia A (factor VIII deficiency), Duchenne muscular dystrophy, glucose-6-phosphate dehydrogenase (G6PD) deficiency, color blindness
-- *X-linked dominant:* Rare; one copy of mutated allele sufficient; affects both sexes but often more severe in males. Example: X-linked hypophosphatemia
+**X-linked disorders** involve genes located on the X chromosome. In *X-linked recessive* conditions, females are usually carriers because one normal allele compensates, while males (XY) are affected because they have only one X chromosome; examples include hemophilia A (factor VIII deficiency), Duchenne muscular dystrophy, glucose-6-phosphate dehydrogenase (G6PD) deficiency, and color blindness. *X-linked dominant* conditions are rare; a single copy of the mutated allele is sufficient to produce disease in both sexes, though the disorder is often more severe in males. X-linked hypophosphatemia is a representative example.
 
-**Chromosomal disorders** involve abnormalities of chromosome number (aneuploidy) or structure:
-- **Trisomy 21 (Down syndrome):** Extra chromosome 21; most common chromosomal cause of intellectual disability; associated with congenital heart defects (40–50%), increased risk of leukemia, early Alzheimer's disease
-- **Trisomy 18 (Edwards syndrome)** and **Trisomy 13 (Patau syndrome):** Severe multisystem malformations; poor prognosis
-- **Turner syndrome (45, X):** Females with one X chromosome; associated with short stature, primary amenorrhea, coarctation of the aorta, lymphedema
+**Chromosomal disorders** involve abnormalities of chromosome number (aneuploidy) or structure. **Trisomy 21 (Down syndrome)**, caused by an extra chromosome 21, is the most common chromosomal cause of intellectual disability and is associated with congenital heart defects (40–50%), increased risk of leukemia, and early-onset Alzheimer's disease. **Trisomy 18 (Edwards syndrome)** and **Trisomy 13 (Patau syndrome)** both present with severe multisystem malformations and carry a poor prognosis. **Turner syndrome (45, X)** affects females with only one X chromosome and is associated with short stature, primary amenorrhea, coarctation of the aorta, and lymphedema.
 
 ### 13.7.2 Congenital Disorders and Genetic Risk Assessment
 
-**Congenital disorders** are conditions present at birth, which may be genetic, teratogenic (caused by environmental exposures during fetal development), or multifactorial. Key distinctions:
-- *Genetic* disorders result from inherited or de novo DNA mutations
-- *Teratogenic* disorders result from exposure of the developing fetus to harmful agents (teratogens) during critical developmental windows
+**Congenital disorders** are conditions present at birth, which may be genetic, teratogenic (caused by environmental exposures during fetal development), or multifactorial. *Genetic* disorders result from inherited or de novo DNA mutations, whereas *teratogenic* disorders result from exposure of the developing fetus to harmful agents (teratogens) during critical developmental windows.
 
 **Major teratogenic categories:**
 
@@ -421,11 +372,7 @@ Common metastatic patterns by primary tumor:
 | Maternal diabetes | Macrosomia, congenital heart defects, NTDs | Periconceptional |
 | Ionizing radiation | Microcephaly, leukemia | Dose and timing-dependent |
 
-**Genetic risk assessment** is a key nursing function in the context of family history, reproductive counseling, and oncology. Nurses should:
-- Obtain a three-generation family history (pedigree) for genetic conditions
-- Identify red flags: multiple affected family members, early-onset disease (e.g., early-onset colorectal cancer, breast cancer under 50), multiple primary malignancies, bilateral or multifocal tumors, ethnic patterns of specific recessive disorders
-- Facilitate referral to certified genetic counselors for detailed risk assessment and discussion of genetic testing options
-- Provide emotionally supportive, non-directive counseling and respect patient autonomy in testing decisions
+**Genetic risk assessment** is a key nursing function in the context of family history, reproductive counseling, and oncology. Nurses should begin by obtaining a three-generation family history (pedigree) for genetic conditions and identifying red flags such as multiple affected family members, early-onset disease (e.g., early-onset colorectal cancer, breast cancer under age 50), multiple primary malignancies, bilateral or multifocal tumors, or ethnic patterns of specific recessive disorders. When red flags are present, nurses should facilitate referral to certified genetic counselors for detailed risk assessment and discussion of genetic testing options. Throughout this process, it is essential to provide emotionally supportive, non-directive counseling that respects patient autonomy in testing decisions.
 
 > **Interprofessional Collaboration: Genetic Counseling and Nursing**  
 > Genetic counselors are master's-prepared health professionals who provide risk assessment, education, and psychosocial support for individuals and families facing genetic conditions. Nurses play an essential role in identifying patients who warrant genetic counseling referral, preparing patients for genetic testing, and providing ongoing support as patients integrate genetic risk information into their health decisions. Collaboration with genetic counselors, medical geneticists, and primary care providers ensures comprehensive care.
@@ -638,8 +585,4 @@ World Health Organization. (2022). *Antimicrobial resistance*. https://www.who.i
 
 ## Production Notes
 
-- **Version:** 2.0  
-- **Sprint:** 2026-03-19-1919  
-- **Status:** v2.0 — developmental edit and copy edit complete  
-- **Next milestone:** HTML formatting review before web publication  
-- **Word count (estimated):** ~7,800 words
+**Version:** 2.0 | **Sprint:** 2026-03-19-1919 | **Status:** v2.0 — developmental edit and copy edit complete | **Next milestone:** HTML formatting review before web publication | **Word count (estimated):** ~7,800 words
