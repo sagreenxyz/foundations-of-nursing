@@ -355,6 +355,26 @@ nav {
   margin: 1.5rem 0;
 }
 
+/* Figures with captions */
+#chapter-content figure {
+  margin: 1.5rem 0;
+  display: inline-block;
+  max-width: 100%;
+}
+
+#chapter-content figure img {
+  margin: 0;
+}
+
+#chapter-content figcaption {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  margin-top: 0.4rem;
+  font-style: italic;
+  max-width: 480px;
+}
+
 /* Figure placeholders */
 #chapter-content .figure-placeholder {
   background: var(--color-callout-bg);

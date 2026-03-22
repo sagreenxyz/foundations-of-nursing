@@ -180,10 +180,28 @@ Low-flow systems supplement room air; the patient inhales a mixture of delivered
 - Nasal mucosa desiccation occurs at ≥ 4 L/min; humidification should be added
 - Maximum recommended flow: 6 L/min (higher flows do not increase FiO₂ reliably)
 
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Nasalprongs.JPG"
+       alt="Nasal cannula showing two soft prongs that fit into the nares, attached to oxygen supply tubing"
+       style="max-width:320px;">
+  <figcaption>
+    <strong>Figure 33.1: Nasal Cannula.</strong> A nasal cannula in position, showing the two prongs that deliver supplemental oxygen directly into the nares. <em>Photograph.</em> Wikimedia Commons. Retrieved from <a href="https://commons.wikimedia.org/wiki/File:Nasalprongs.JPG">https://commons.wikimedia.org/wiki/File:Nasalprongs.JPG</a>. Licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.
+  </figcaption>
+</figure>
+
 **Simple Face Mask:**
 - Delivers 5–10 L/min; estimated FiO₂ 0.35–0.55
 - Minimum flow 5 L/min to flush exhaled CO₂ from the mask
 - Less comfortable than nasal cannula; must be removed for eating
+
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Simple_face_mask.jpg"
+       alt="Simple oxygen face mask covering the nose and mouth, connected to an oxygen supply tube"
+       style="max-width:320px;">
+  <figcaption>
+    <strong>Figure 33.2: Simple Face Mask (Simple Oxygen Mask).</strong> A simple oxygen face mask delivers 5–10 L/min, providing an estimated FiO₂ of 0.35–0.55. <em>Photograph.</em> Wikimedia Commons. Retrieved from <a href="https://commons.wikimedia.org/wiki/File:Simple_face_mask.jpg">https://commons.wikimedia.org/wiki/File:Simple_face_mask.jpg</a>. Licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>. See also: <a href="https://en.wikipedia.org/wiki/Oxygen_mask">Wikipedia: Oxygen mask</a>.
+  </figcaption>
+</figure>
 
 **Partial Rebreather Mask:**
 - Mask with a reservoir bag; no one-way valve between bag and mask
@@ -195,6 +213,15 @@ Low-flow systems supplement room air; the patient inhales a mixture of delivered
 - Delivers 10–15 L/min; estimated FiO₂ up to 0.80–0.90
 - Indicated for emergency management of severe hypoxemia and CO poisoning
 - Reservoir bag must remain inflated at all times; deflation indicates insufficient flow
+
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/NRBer.JPG"
+       alt="Non-rebreather mask showing the one-way valve, reservoir bag, and exhalation ports"
+       style="max-width:320px;">
+  <figcaption>
+    <strong>Figure 33.3: Non-Rebreather Mask (NRM).</strong> A non-rebreather mask with its one-way valve and reservoir bag, which together allow delivery of near-100% oxygen at 10–15 L/min. <em>Photograph.</em> Wikimedia Commons. Retrieved from <a href="https://commons.wikimedia.org/wiki/File:NRBer.JPG">https://commons.wikimedia.org/wiki/File:NRBer.JPG</a>. Licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>. See also: <a href="https://en.wikipedia.org/wiki/Non-rebreather_mask">Wikipedia: Non-rebreather mask</a>.
+  </figcaption>
+</figure>
 
 ### 33.3.3 Venturi (Air Entrainment) Mask
 
@@ -218,13 +245,13 @@ Venturi adapters are standardized by color and labeled with both the prescribed 
 
 > **Clinical Note:** The flow rate printed on the adapter refers to the *oxygen* flow at which that adapter delivers the stated FiO₂. Setting a higher oxygen flow than specified does *not* increase the delivered FiO₂; it only increases total flow, which may actually reduce FiO₂ by altering the entrainment ratio. The nurse must set the flowmeter to exactly the rate specified on the adapter in use.
 
-**Figure 33.1 — Adult Patient Wearing a Venturi (Air Entrainment) Mask**
+**Figure 33.4 — Adult Patient Wearing a Venturi (Air Entrainment) Mask**
 
 ![Adult patient wearing a Venturi (air entrainment) mask showing the characteristic color-coded adapter at the base of the mask](https://commons.wikimedia.org/wiki/Special:FilePath/Adult_with_air_entrainment_(Venturi)_mask.png)
 
-*Figure 33.1.* An adult patient wearing a Venturi (air entrainment) mask. The color-coded air entrainment adapter (visible at the base of the mask) determines the delivered FiO₂ by controlling the ratio of oxygen jet flow to entrained room air. The mask fits over the nose and mouth, and side vents allow continuous exhaled gas to escape, preventing CO₂ rebreathing.
+*Figure 33.4.* An adult patient wearing a Venturi (air entrainment) mask. The color-coded air entrainment adapter (visible at the base of the mask) determines the delivered FiO₂ by controlling the ratio of oxygen jet flow to entrained room air. The mask fits over the nose and mouth, and side vents allow continuous exhaled gas to escape, preventing CO₂ rebreathing.
 
-**Attribution:** "Adult with air entrainment (Venturi) mask." Wikimedia Commons contributors. Wikimedia Commons, the free media repository. Retrieved from https://commons.wikimedia.org/wiki/File:Adult_with_air_entrainment_(Venturi)_mask.png. License information available at source URL.
+**Attribution:** Wikimedia Commons contributors. (n.d.). *Adult with air entrainment (Venturi) mask* [Photograph]. Wikimedia Commons, the free media repository. Retrieved from https://commons.wikimedia.org/wiki/File:Adult_with_air_entrainment_(Venturi)_mask.png. Licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.
 
 **Nursing Responsibilities for Venturi Mask Therapy:**
 
@@ -570,6 +597,12 @@ Rochwerg, B., Brochard, L., Elliott, M. W., Hess, D., Hill, N. S., Nava, S., Nav
 Shapiro, B. A., & Peruzzi, W. T. (2017). *Clinical application of blood gases* (5th ed.). Mosby.
 
 Wikimedia Commons contributors. (n.d.). *Adult with air entrainment (Venturi) mask* [Photograph]. Wikimedia Commons, the free media repository. https://commons.wikimedia.org/wiki/File:Adult_with_air_entrainment_(Venturi)_mask.png
+
+Wikimedia Commons contributors. (n.d.). *Nasal prongs (nasal cannula)* [Photograph]. Wikimedia Commons, the free media repository. https://commons.wikimedia.org/wiki/File:Nasalprongs.JPG
+
+Wikimedia Commons contributors. (n.d.). *Non-rebreather mask* [Photograph]. Wikimedia Commons, the free media repository. https://commons.wikimedia.org/wiki/File:NRBer.JPG
+
+Wikimedia Commons contributors. (n.d.). *Simple face mask (simple oxygen mask)* [Photograph]. Wikimedia Commons, the free media repository. https://commons.wikimedia.org/wiki/File:Simple_face_mask.jpg
 
 ---
 
