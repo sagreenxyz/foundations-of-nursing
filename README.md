@@ -10,7 +10,7 @@ https://sagreenxyz.github.io/textbooks
 
 | Textbook | Chapters | Status |
 |----------|----------|--------|
-| **Foundations of Nursing** | 45 chapters · 11 units | 14 chapters drafted |
+| **Textbooks** | 45 chapters · 11 units | 14 chapters drafted |
 | **Medical-Surgical Nursing** | 74 chapters · 17 units | In development |
 | **Clinical Pharmacology for Nurses** | 70 chapters · 13 units | 1 chapter drafted |
 
@@ -20,11 +20,11 @@ https://sagreenxyz.github.io/textbooks
 
 The project is published as a GitHub Pages site from the `docs/` directory. The top-level page is a multi-textbook catalog.
 
-- **Catalog:** `https://sagreenxyz.github.io/foundations-of-nursing/`
-- **Foundations of Nursing:** `https://sagreenxyz.github.io/foundations-of-nursing/foundations-of-nursing/`
-- **Medical-Surgical Nursing:** `https://sagreenxyz.github.io/foundations-of-nursing/medical-surgical-nursing/`
-- **Clinical Pharmacology for Nurses:** `https://sagreenxyz.github.io/foundations-of-nursing/pharmacology/`
-- **LMS:** `https://sagreenxyz.github.io/foundations-of-nursing/lms/`
+- **Catalog:** `https://sagreenxyz.github.io/textbooks/`
+- **Textbooks:** `https://sagreenxyz.github.io/textbooks/textbooks/`
+- **Medical-Surgical Nursing:** `https://sagreenxyz.github.io/textbooks/medical-surgical-nursing/`
+- **Clinical Pharmacology for Nurses:** `https://sagreenxyz.github.io/textbooks/pharmacology/`
+- **LMS:** `https://sagreenxyz.github.io/textbooks/lms/`
 
 **Local development:**
 
@@ -45,13 +45,13 @@ The app requires no build step and no external dependencies beyond the marked.js
 The textbook catalog is published at:
 
 ```
-https://sagreenxyz.github.io/foundations-of-nursing/
+https://sagreenxyz.github.io/textbooks/
 ```
 
-Open that URL in any modern browser. Select *Foundations of Nursing* from the catalog, or navigate directly to:
+Open that URL in any modern browser. Select *Textbooks* from the catalog, or navigate directly to:
 
 ```
-https://sagreenxyz.github.io/foundations-of-nursing/foundations-of-nursing/
+https://sagreenxyz.github.io/textbooks/textbooks/
 ```
 
 ### Local Development
@@ -79,7 +79,7 @@ Then open the URL printed in the terminal, appending `/docs/`.
 ## Repository Structure
 
 ```
-foundations-of-nursing/
+textbooks/
 ├── README.md
 ├── dependency-tree.html         # Project dependency DAG (standalone SPA)
 ├── strategy/                    # Project strategy documents
@@ -97,7 +97,7 @@ foundations-of-nursing/
 └── docs/                        # GitHub Pages root
     ├── index.html               # Catalog / multi-textbook landing page
     ├── lms/                     # NurseMastery LMS SPA
-    ├── foundations-of-nursing/  # Foundations of Nursing textbook app
+    ├── textbooks/  # Textbooks textbook app
     │   ├── index.html
     │   ├── css/style.css
     │   ├── js/app.js
@@ -121,7 +121,7 @@ foundations-of-nursing/
 ## Adding a New Textbook
 
 1. Create a new subdirectory under `docs/`, e.g. `docs/my-new-textbook/`.
-2. Copy the structure from `docs/foundations-of-nursing/` (index.html, css/, js/, content/).
+2. Copy the structure from `docs/textbooks/` (index.html, css/, js/, content/).
 3. Update `js/app.js` in the new textbook directory with that book's chapter registry.
 4. Add a card for the new textbook in `docs/index.html`.
 
@@ -129,7 +129,7 @@ foundations-of-nursing/
 
 ## Chapter Status
 
-### Foundations of Nursing
+### Textbooks
 
 | # | Chapter | Status |
 |---|---------|--------|
