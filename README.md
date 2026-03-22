@@ -12,6 +12,7 @@ https://sagreenxyz.github.io/foundations-of-nursing
 |----------|----------|--------|
 | **Foundations of Nursing** | 45 chapters · 11 units | 14 chapters drafted |
 | **Medical-Surgical Nursing** | 74 chapters · 17 units | In development |
+| **Clinical Pharmacology for Nurses** | 70 chapters · 13 units | 1 chapter drafted |
 
 ---
 
@@ -22,6 +23,7 @@ The project is published as a GitHub Pages site from the `docs/` directory. The 
 - **Catalog:** `https://sagreenxyz.github.io/foundations-of-nursing/`
 - **Foundations of Nursing:** `https://sagreenxyz.github.io/foundations-of-nursing/foundations-of-nursing/`
 - **Medical-Surgical Nursing:** `https://sagreenxyz.github.io/foundations-of-nursing/medical-surgical-nursing/`
+- **Clinical Pharmacology for Nurses:** `https://sagreenxyz.github.io/foundations-of-nursing/pharmacology/`
 - **LMS:** `https://sagreenxyz.github.io/foundations-of-nursing/lms/`
 
 **Local development:**
@@ -107,6 +109,11 @@ foundations-of-nursing/
         ├── css/style.css
         ├── js/app.js            # 74-chapter TOC (17 units)
         └── content/             # Chapter markdown (in development)
+    └── pharmacology/            # Clinical Pharmacology for Nurses textbook app
+        ├── index.html
+        ├── css/style.css
+        ├── js/app.js            # 70-chapter TOC (13 units)
+        └── content/             # Chapter markdown (chapter-01.md drafted)
 ```
 
 ---
@@ -142,9 +149,32 @@ foundations-of-nursing/
 | **14** | **Fluid, Electrolyte, and Acid-Base Balance** | **Draft Available** |
 | 15–45 | Additional Chapters | Coming Soon |
 
-### Medical-Surgical Nursing
+### Clinical Pharmacology for Nurses
 
-74 chapters across 17 units — all in development. TOC synthesized from *Lewis's Medical-Surgical Nursing* (Harding et al., 11th ed.), *Brunner & Suddarth's Textbook of Medical-Surgical Nursing* (Hinkle & Cheever, 14th ed.), and *Medical-Surgical Nursing: Concepts for Interprofessional Collaborative Care* (Ignatavicius, 10th ed.).
+70 chapters across 13 units — TOC synthesized from *Pharmacology and the Nursing Process* (Lilley, Collins, & Snyder, 11th ed.), *Lehne's Pharmacology for Nursing Care* (Burchum & Rosenthal, 11th ed.), and *Focus on Nursing Pharmacology* (Tucker [Karch], 9th ed.).
+
+| Unit | Title | Chapters |
+|------|-------|----------|
+| 1 | Foundations of Pharmacology | 1–6 |
+| 2 | Autonomic Nervous System Drugs | 7–11 |
+| 3 | Central Nervous System Drugs | 12–20 |
+| 4 | Analgesics and Pain Management | 21–23 |
+| 5 | Cardiovascular Drugs | 24–32 |
+| 6 | Respiratory Drugs | 33–35 |
+| 7 | Gastrointestinal Drugs | 36–39 |
+| 8 | Endocrine and Metabolic Drugs | 40–46 |
+| 9 | Anti-Infective Drugs | 47–55 |
+| 10 | Immunologic Drugs | 56–59 |
+| 11 | Antineoplastic Drugs | 60–64 |
+| 12 | Dermatologic and Ophthalmic Drugs | 65–67 |
+| 13 | Specialty Drug Topics | 68–70 |
+
+| # | Chapter | Status |
+|---|---------|--------|
+| **1** | **Introduction to Nursing Pharmacology: History, Scope, and Relevance** | **Draft Available** |
+| 2–70 | Additional Chapters | Coming Soon |
+
+### Medical-Surgical Nursing TOC synthesized from *Lewis's Medical-Surgical Nursing* (Harding et al., 11th ed.), *Brunner & Suddarth's Textbook of Medical-Surgical Nursing* (Hinkle & Cheever, 14th ed.), and *Medical-Surgical Nursing: Concepts for Interprofessional Collaborative Care* (Ignatavicius, 10th ed.).
 
 | Unit | Title | Chapters |
 |------|-------|----------|
