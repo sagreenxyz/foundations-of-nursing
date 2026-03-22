@@ -72,14 +72,7 @@ Every state and United States territory has enacted a **Nurse Practice Act (NPA)
 
 The NPA traces its modern form to the early twentieth century. New Zealand enacted the world's first national nursing registration law in 1901; the first American state NPA was passed in North Carolina in 1903 (Catalano, 2020). By 1923, all 48 states had some form of nursing legislation. These early laws were largely permissive — they protected the title "registered nurse" but did not clearly delineate what nurses could and could not do. The shift toward more detailed scope-of-practice language accelerated after World War II as the complexity of clinical practice increased and the liability landscape expanded.
 
-Today, each state's NPA is administered by a **state board of nursing (BON)** — a governmental agency appointed by the governor and accountable to the state legislature. The BON's authority derives directly from the NPA and typically includes the power to:
-
-- Establish and revise standards for nursing education programs
-- Administer the licensure examination and process applications
-- Define the scope of practice for each level of nursing licensure (LPN/LVN, RN, APRN)
-- Investigate complaints and conduct disciplinary proceedings
-- Issue, suspend, or revoke nursing licenses
-- Promulgate rules and regulations that carry the force of law
+Today, each state's NPA is administered by a **state board of nursing (BON)** — a governmental agency appointed by the governor and accountable to the state legislature. The BON's authority derives directly from the NPA and encompasses a wide range of regulatory functions. The BON establishes and revises standards for nursing education programs and administers the licensure examination while processing applications. It defines the scope of practice for each level of nursing licensure — LPN/LVN, RN, and APRN — and investigates complaints through formal disciplinary proceedings. The BON also holds the authority to issue, suspend, or revoke nursing licenses and to promulgate rules and regulations that carry the full force of law.
 
 > **SIDEBAR — Finding Your State's NPA: NCSBN Resources**  
 > The National Council of State Boards of Nursing (NCSBN) maintains a directory of all state boards of nursing at ncsbn.org. Each board's website publishes the complete text of the state NPA and all current administrative rules. Students should read their state's NPA before entering clinical practice — not merely the sections summarized in textbooks, but the full text governing RN scope of practice in their jurisdiction.
@@ -90,11 +83,7 @@ The Nursing Practice Act is distinct from but intersects with other bodies of la
 
 **Scope of practice** describes the full range of professional activities a nurse is authorized to perform by virtue of their education, license, and demonstrated competence. It is simultaneously a legal concept (what the NPA permits), an educational concept (what the nurse was trained to do), and a competency concept (what the nurse is currently capable of doing safely).
 
-The NPA typically differentiates scope by licensure level:
-
-- **Licensed Practical/Vocational Nurses (LPN/LVN):** Practice under the supervision of an RN, APRN, or physician; generally limited to technical tasks with more predictable outcomes (e.g., medication administration within defined parameters, wound dressing changes, vital signs). Their scope is narrower, reflecting a shorter educational preparation (typically 12–18 months).
-- **Registered Nurses (RN):** Practice independently within the nursing process; authorized to assess, diagnose (nursing diagnosis), plan, implement, and evaluate care. The RN bears the full scope of nursing accountability and may delegate to LPN/LVNs and unlicensed assistive personnel (UAPs).
-- **Advanced Practice Registered Nurses (APRNs):** Nurse practitioners, clinical nurse specialists, certified registered nurse anesthetists, and certified nurse-midwives practice at an expanded scope that may include independent prescriptive authority, diagnosis of medical conditions, and ordering diagnostic tests, depending on state law.
+The NPA typically differentiates scope by licensure level. **Licensed Practical/Vocational Nurses (LPN/LVN)** practice under the supervision of an RN, APRN, or physician and are generally limited to technical tasks with more predictable outcomes — such as medication administration within defined parameters, wound dressing changes, and vital signs monitoring — reflecting their shorter educational preparation of typically 12–18 months. **Registered Nurses (RN)** practice independently within the nursing process and are authorized to assess, diagnose (nursing diagnosis), plan, implement, and evaluate care; the RN bears the full scope of nursing accountability and may delegate to LPN/LVNs and unlicensed assistive personnel (UAPs). **Advanced Practice Registered Nurses (APRNs)** — including nurse practitioners, clinical nurse specialists, certified registered nurse anesthetists, and certified nurse-midwives — practice at an expanded scope that may include independent prescriptive authority, diagnosis of medical conditions, and ordering diagnostic tests, depending on state law.
 
 A foundational legal standard governing nursing practice is the **reasonable, prudent nurse** standard: the level of care, skill, and treatment that a reasonably prudent nurse with similar training and experience would provide under similar circumstances. This standard is used to evaluate nursing actions in civil litigation and regulatory proceedings alike. It is not a standard of perfection — it acknowledges human error — but it establishes a floor below which practice constitutes negligence.
 
@@ -107,12 +96,7 @@ A critical concept that confuses many new nurses is the relationship between ins
 
 Practicing outside legal scope of practice exposes the nurse to consequences in three distinct systems: regulatory, civil, and criminal.
 
-**Regulatory consequences** are imposed by the state board of nursing and may include:
-
-- *Formal reprimand* — a documented finding that enters the nurse's permanent licensure record
-- *Probation* — continued practice under conditions and with monitoring
-- *Suspension* — temporary revocation of the license
-- *Revocation* — permanent loss of the license to practice in that state
+**Regulatory consequences** are imposed by the state board of nursing and may include a spectrum of sanctions. A *formal reprimand* is a documented finding that enters the nurse's permanent licensure record. *Probation* permits continued practice under specified conditions and with monitoring. *Suspension* constitutes a temporary revocation of the license, while *revocation* — the most serious sanction — results in the permanent loss of the license to practice in that state.
 
 BON proceedings are administrative, not criminal, and operate under a lower standard of proof (preponderance of the evidence rather than beyond reasonable doubt). Findings are public in most states and may affect licensure in other states through the Nurse Licensure Compact (see Section 2.7).
 
@@ -132,10 +116,7 @@ Documentation is the nurse's most important legal protection. A contemporaneous,
 
 First, *responsibility* for the task transfers — the person performing the task is responsible for doing it correctly. Second, *accountability* does not fully transfer — the delegating RN remains accountable for the appropriateness of the delegation decision, for providing adequate direction, and for supervising the outcome. Third, delegation requires a *competent recipient* — the individual receiving the delegated task must have demonstrated the knowledge and skill to perform it safely.
 
-Delegation must be distinguished from two related but distinct concepts:
-
-- **Assignment** refers to the routine distribution of work that is within the job description and scope of the person receiving it. When a charge nurse assigns a patient to a staff nurse, or a staff nurse assigns a vital signs check to a UAP per established protocol, that is assignment, not delegation.
-- **Supervision** is the active process of overseeing another's work, providing direction, monitoring performance, and evaluating outcomes. The delegating nurse has a duty to supervise whenever delegation occurs.
+Delegation must be distinguished from two related but distinct concepts. **Assignment** refers to the routine distribution of work that is within the job description and scope of the person receiving it — for example, when a charge nurse assigns a patient to a staff nurse, or a staff nurse assigns a vital signs check to a UAP per established protocol. **Supervision**, by contrast, is the active process of overseeing another's work, providing direction, monitoring performance, and evaluating outcomes; the delegating nurse has a duty to supervise whenever delegation occurs.
 
 The governing framework for nursing delegation in the United States is the **NCSBN National Guidelines for Nursing Delegation** (National Council of State Boards of Nursing [NCSBN], 2016). These guidelines apply to RN and LPN/LVN delegation to other nurses and to UAPs and provide the foundation for the Five Rights of Delegation.
 
@@ -168,15 +149,7 @@ Has the nurse established a plan for follow-up? The delegating nurse must monito
 
 The nursing process in its entirety — assessment, nursing diagnosis, outcome identification and planning, implementation of nursing judgment–intensive interventions, and evaluation — belongs to the registered nurse and cannot be delegated. This is not a policy preference; it reflects the legal definition of nursing practice under virtually every state NPA.
 
-Specific examples of non-delegable nursing activities include:
-
-- Initial and ongoing patient assessments
-- Interpretation of assessment data to form a nursing diagnosis
-- Development of the nursing care plan
-- Patient and family education planning and implementation
-- Medication administration involving clinical judgment (e.g., titration of vasoactive infusions, nursing judgment regarding prn administration based on assessment)
-- Evaluation of the patient's response to treatment
-- Any task that requires the delegatee to exercise independent clinical judgment beyond their training and scope
+Specific examples of non-delegable nursing activities encompass the full cognitive arc of professional nursing practice. Initial and ongoing patient assessments remain exclusively within the RN's purview, as does the interpretation of assessment data to form a nursing diagnosis and the development of the nursing care plan. Patient and family education — both the planning and implementation phases — cannot be delegated, nor can medication administration that requires clinical judgment, such as the titration of vasoactive infusions or nursing judgment regarding prn administration based on assessment findings. Furthermore, evaluation of the patient's response to treatment and any task requiring the delegatee to exercise independent clinical judgment beyond their training and scope must remain with the registered nurse.
 
 LPN/LVNs occupy a middle position in the delegation hierarchy: they may perform many tasks under RN supervision (including many medication administrations in stable patients), but they may not perform activities that require the full scope of RN professional judgment, and they in turn may delegate limited tasks to UAPs within the boundaries their state NPA defines.
 
@@ -214,13 +187,7 @@ Consider a clinical example: A nurse fails to reassess a patient's IV site every
 
 **Malpractice** is negligence committed by a licensed professional — in this context, a nurse — in the course of providing professional services. The distinction from ordinary negligence is that the standard of care against which the professional's conduct is measured is a *professional* standard, not the general "reasonable person" standard. This is a higher and more demanding benchmark: the reasonably prudent nurse, not merely the reasonably prudent layperson.
 
-Common nursing malpractice scenarios include (Brous, 2019):
-
-- **Medication errors:** Wrong drug, wrong dose, wrong route, wrong time, wrong patient; failure to perform the rights of medication administration; failure to monitor for adverse effects.
-- **Assessment failures:** Failure to identify a deteriorating patient, failure to recognize early signs of sepsis or respiratory compromise, failure to assess pain adequately.
-- **Communication failures:** Failure to communicate critical values to the provider, failure to escalate when an order is inappropriate, failure to document a significant change in condition.
-- **Falls:** Failure to complete a fall risk assessment, failure to implement ordered fall prevention interventions, inadequate monitoring of a high-risk patient.
-- **Medication reconciliation errors:** Failure to identify and reconcile pre-admission medications at admission, transfer, and discharge.
+Common nursing malpractice scenarios cluster around several predictable categories (Brous, 2019). **Medication errors** — including administering the wrong drug, wrong dose, wrong route, wrong time, or to the wrong patient, as well as failure to perform the rights of medication administration or to monitor for adverse effects — represent one of the most frequent sources of nursing liability. **Assessment failures** are equally prevalent: the nurse who does not identify a deteriorating patient, who misses early signs of sepsis or respiratory compromise, or who inadequately assesses pain may bear liability for the resulting harm. **Communication failures** — including the failure to convey critical laboratory values to the provider, to escalate when an order is inappropriate, or to document a significant change in condition — constitute a third major category. **Falls** arising from incomplete fall risk assessments, unimplemented fall prevention orders, or inadequate monitoring of high-risk patients also generate substantial malpractice claims. Finally, **medication reconciliation errors** — the failure to identify and reconcile pre-admission medications at admission, transfer, and discharge — have emerged as a significant and preventable source of patient harm.
 
 Expert nurse testimony plays a central role in malpractice litigation. Because jurors and judges are not nursing professionals, they rely on expert witnesses to explain the applicable standard of care and whether the defendant nurse met or breached that standard. The credibility and clarity of the expert's testimony often determines the outcome of a case.
 
@@ -289,13 +256,7 @@ Not all disclosures of PHI are prohibited. HIPAA explicitly permits disclosure f
 
 ### 2.4.3 Patient Rights Under HIPAA
 
-HIPAA grants patients specific rights with respect to their own PHI:
-
-- **Right of access:** Patients may request a copy of their own health records, including the medical record and billing records. Covered entities must provide access within 30 days (extendable once by 30 days) and may charge a reasonable, cost-based fee for copying.
-- **Right to amend:** Patients may request amendment of their PHI if they believe it is incorrect or incomplete. The covered entity may deny the request if the information is accurate and complete, was not created by the entity, is not part of the designated record set, or would not be available for inspection.
-- **Right to request restrictions:** Patients may request that the covered entity restrict certain uses or disclosures of their PHI. The entity is not required to agree to the restriction unless the restriction applies to disclosure to a health plan for payment or operations purposes and the care was paid out of pocket in full.
-- **Right to confidential communications:** Patients may request that communications about PHI be made through an alternative means or location (e.g., "call me only on my cell phone, not my home number").
-- **Right to an accounting of disclosures:** Patients may request a list of disclosures of their PHI made outside of TPO purposes during the previous six years.
+HIPAA grants patients specific rights with respect to their own PHI. The **right of access** allows patients to request a copy of their own health records — including medical and billing records — with the covered entity required to respond within 30 days (extendable once by 30 days) and permitted to charge a reasonable, cost-based copying fee. The **right to amend** permits patients to request correction of PHI they believe is incorrect or incomplete, though the covered entity may deny the request if the information is accurate and complete, was not created by the entity, falls outside the designated record set, or would not otherwise be available for inspection. In addition, the **right to request restrictions** allows patients to ask covered entities to limit certain uses or disclosures of their PHI, though the entity is only required to honor such a request when it pertains to disclosure to a health plan for payment or operations purposes and the patient paid for the care out of pocket in full. The **right to confidential communications** permits patients to specify alternative means or locations for communications about their PHI — for example, requesting that the provider call only a cell phone rather than a home number. Finally, the **right to an accounting of disclosures** entitles patients to request a list of PHI disclosures made outside of treatment, payment, and operations purposes during the previous six years.
 
 ### 2.4.4 EHR-Specific Privacy Challenges
 
@@ -375,11 +336,7 @@ The consequences of *failing* to report when reporting is required are significa
 
 **Professional boundaries** are the legal, ethical, and professional limits that define the nurse-patient relationship and protect both the patient and the nurse from its exploitation. The concept of professional boundaries recognizes a structural asymmetry in the nurse-patient relationship: the patient is in a vulnerable state — physically ill, emotionally stressed, dependent on the nurse's expertise and goodwill, and often in pain. The nurse holds positional power by virtue of professional role, access to the patient's most intimate information, and the ability to affect the patient's care experience. Professional boundaries are the guardrails that prevent this asymmetry from being exploited, intentionally or unintentionally.
 
-The NCSBN's professional boundaries framework (NCSBN, 2018) conceptualizes the therapeutic zone as a middle ground on a continuum:
-
-- **Under-involvement** (cold, uncaring, detached, failing to meet patient needs) at one extreme
-- **Over-involvement** (enmeshment, favoritism, exploitation, sexual misconduct) at the other extreme
-- **The therapeutic zone** in the center, characterized by empathy, professional caring, clear role definition, and patient-centered purpose
+The NCSBN's professional boundaries framework (NCSBN, 2018) conceptualizes the therapeutic zone as a middle ground on a continuum stretching from **under-involvement** at one extreme — characterized by cold, uncaring, or detached behavior that fails to meet patient needs — to **over-involvement** at the other, encompassing enmeshment, favoritism, exploitation, and sexual misconduct. **The therapeutic zone** occupies the center of this continuum, characterized by empathy, professional caring, clear role definition, and patient-centered purpose.
 
 Staying in the therapeutic zone requires continuous self-awareness and willingness to reflect on the motivations behind one's clinical behaviors.
 
@@ -387,13 +344,7 @@ Staying in the therapeutic zone requires continuous self-awareness and willingne
 
 **Boundary crossings** are brief departures from the therapeutic zone that may be appropriate in context (e.g., a spontaneous hug in response to a patient's grief, self-disclosure of a single personal detail to establish rapport) or may be the first step toward a more serious violation. Crossings are not automatically problematic but warrant reflection.
 
-**Boundary violations** are departures from the therapeutic zone that exploit the nurse-patient relationship, harm or risk harming the patient, and are inconsistent with professional nursing practice. Examples include:
-
-- *Dual relationships:* Entering into a business, social, or intimate relationship with a patient or former patient outside the clinical context.
-- *Favoritism:* Providing preferential care to a patient based on personal attraction or connection rather than clinical need.
-- *Excessive self-disclosure:* Sharing personal problems, conflicts, or vulnerabilities with the patient in a way that reverses the caregiver/care-recipient relationship.
-- *Gift-giving and receiving:* Accepting significant gifts from patients or giving personal gifts to patients beyond token acknowledgment.
-- *Physical contact beyond clinical necessity:* Hugging, touching, or maintaining physical proximity that exceeds clinical purpose and reflects personal rather than therapeutic motivation.
+**Boundary violations** are departures from the therapeutic zone that exploit the nurse-patient relationship, harm or risk harming the patient, and are inconsistent with professional nursing practice. *Dual relationships* — entering into a business, social, or intimate relationship with a patient or former patient outside the clinical context — represent one prominent category of violation. *Favoritism*, or providing preferential care based on personal attraction or connection rather than clinical need, is another. *Excessive self-disclosure*, in which the nurse shares personal problems, conflicts, or vulnerabilities in ways that reverse the caregiver/care-recipient relationship, similarly crosses the professional line. Furthermore, *gift-giving and receiving* — accepting significant gifts from patients or offering personal gifts beyond token acknowledgment — and *physical contact beyond clinical necessity*, such as hugging or maintaining physical proximity that reflects personal rather than therapeutic motivation, round out the principal categories of boundary violation.
 
 **Sexual misconduct** is the most serious boundary violation and includes any sexual conduct, whether verbal, written, or physical, directed at a patient. It is grounds for immediate termination and mandatory license revocation in virtually all states, and may constitute a criminal offense. The nurse's obligation in cases of suspected sexual misconduct by a colleague includes reporting to the immediate supervisor, the CNO, and in most states the state board of nursing.
 
@@ -433,21 +384,11 @@ Candidates must submit an application to the state board of nursing, provide off
 
 ### 2.7.2 License Renewal and Continuing Education
 
-Nursing licenses are not permanent: they must be renewed periodically, typically every two years, through a process established by the state board of nursing. Renewal requirements vary by state but typically include:
-
-- Payment of a renewal fee
-- Attestation to meeting continuing education (CE) requirements
-- Attestation to compliance with criminal background check or self-reporting requirements for certain convictions
+Nursing licenses are not permanent: they must be renewed periodically, typically every two years, through a process established by the state board of nursing. Renewal requirements vary by state but typically include payment of a renewal fee, attestation to meeting continuing education (CE) requirements, and attestation to compliance with criminal background check or self-reporting requirements for certain convictions.
 
 **Continuing education (CE)** requirements vary widely: some states require as few as 15 contact hours per renewal cycle; others require 30 or more, with specific requirements for content areas such as medication safety, infection control, cultural competency, or end-of-life care. CE must be provided by an approved provider (typically accredited by the American Nurses Credentialing Center [ANCC] or the state board of nursing).
 
-**Nursing specialty certifications** are voluntary credentials awarded by certifying bodies (ANCC, AACN, ENA, etc.) that demonstrate expertise in a defined area of practice. Common certifications include:
-
-- CCRN (Critical Care Registered Nurse, awarded by AACN)
-- CEN (Certified Emergency Nurse, awarded by the Board of Certification for Emergency Nursing)
-- ONC (Orthopaedic Certified Nurse)
-- PEDS-BC (Pediatric Nursing Certification)
-- CNOR (Certified Perioperative Nurse)
+**Nursing specialty certifications** are voluntary credentials awarded by certifying bodies (ANCC, AACN, ENA, etc.) that demonstrate expertise in a defined area of practice. Common certifications include the CCRN (Critical Care Registered Nurse, awarded by AACN), the CEN (Certified Emergency Nurse, awarded by the Board of Certification for Emergency Nursing), the ONC (Orthopaedic Certified Nurse), PEDS-BC (Pediatric Nursing Certification), and CNOR (Certified Perioperative Nurse).
 
 Specialty certifications require meeting eligibility criteria (clinical hours, education requirements), passing an examination, and periodic recertification through CE and/or re-examination. Certification is associated with improved patient outcomes, professional recognition, and in many institutions, differential pay.
 
@@ -455,10 +396,7 @@ Specialty certifications require meeting eligibility criteria (clinical hours, e
 
 The **Nurse Licensure Compact (NLC)** is a multistate agreement administered by the NCSBN that allows nurses to hold a single **multistate license** based in their primary state of residence (home state) and practice in other participating compact states (remote states) without obtaining a separate license in each state. As of 2024, 41 states and the U.S. Virgin Islands participate in the NLC.
 
-The NLC is particularly significant for:
-- **Travel nursing:** Nurses who work temporary assignments in multiple states can do so under their single compact license.
-- **Telehealth:** Nurses providing telehealth services to patients in other states practice under the laws of the state where the patient is located; the NLC simplifies the licensure requirements for such practice.
-- **Disaster response:** Compact nurses can rapidly deploy to disaster-affected states without waiting for emergency licensure.
+The NLC is particularly significant in several practice contexts. For **travel nursing**, nurses who work temporary assignments in multiple states can do so under their single compact license, eliminating the need for individual state applications. In **telehealth**, nurses providing services to patients in other states practice under the laws of the state where the patient is located, and the NLC simplifies the associated licensure requirements. For **disaster response**, compact nurses can rapidly deploy to disaster-affected states without waiting for emergency licensure processing.
 
 Nurses practicing under a compact license must comply with the **Nurse Practice Act and scope of practice of the state where they are practicing** — not their home state. This distinction is particularly important for nurses whose home state may have a more expansive scope of practice than the practice state.
 
@@ -467,14 +405,7 @@ Nurses practicing under a compact license must comply with the **Nurse Practice 
 
 ### 2.7.4 Discipline and License Reinstatement
 
-State boards of nursing have the authority and obligation to discipline nurses whose conduct endangers patient safety or violates professional standards. Grounds for license discipline include:
-
-- Patient abuse, neglect, or abandonment
-- Practicing while impaired by alcohol, drugs, or a physical or mental condition
-- Fraud in the application for licensure or on clinical documentation
-- Criminal conviction, particularly for crimes involving moral turpitude or direct harm to patients
-- Practicing outside scope of practice
-- Violation of the NPA or board rules
+State boards of nursing have the authority and obligation to discipline nurses whose conduct endangers patient safety or violates professional standards. Grounds for license discipline are wide-ranging and include patient abuse, neglect, or abandonment, as well as practicing while impaired by alcohol, drugs, or a physical or mental condition. Fraud — whether in the application for licensure or in clinical documentation — constitutes independent grounds for discipline, as does criminal conviction, particularly for crimes involving moral turpitude or direct harm to patients. Practicing outside scope of practice and violation of the NPA or board rules likewise subject a nurse to disciplinary action.
 
 Many states offer **Peer Assistance Programs** (also called alternative-to-discipline or non-disciplinary programs) for nurses whose license issues stem from substance use disorders. These programs provide treatment, monitoring, and gradual return to practice as an alternative to formal discipline. Participation is typically voluntary, confidential, and contingent on treatment compliance and clinical monitoring. The rationale is that substance use disorders are health conditions requiring treatment, not merely moral failures requiring punishment — and that punitive approaches drive impaired nurses out of treatment and into concealment, where they continue to practice and endanger patients.
 
@@ -499,12 +430,7 @@ For nurses, the principlist framework provides a structured vocabulary for ethic
 
 The most direct clinical expression of the principle of autonomy is **informed consent**: the requirement that patients receive adequate information about their condition, the proposed treatment, alternative treatments, the risks and benefits of each, and the consequences of no treatment — and then freely choose whether to consent or decline. Informed consent is addressed in detail in Chapter 3; here, the focus is on the nurse's role in supporting autonomous decision-making.
 
-Nurses play a critical role in evaluating **decision-making capacity** (often used interchangeably with *competence*, though strictly speaking competence is a legal determination made by a court, while capacity is a clinical assessment). The elements of decision-making capacity include:
-
-- The ability to receive and understand relevant information
-- The ability to appreciate how that information applies to one's own situation
-- The ability to reason and weigh options
-- The ability to communicate a consistent choice
+Nurses play a critical role in evaluating **decision-making capacity** (often used interchangeably with *competence*, though strictly speaking competence is a legal determination made by a court, while capacity is a clinical assessment). Capacity encompasses four interrelated elements: the ability to receive and understand relevant information, the ability to appreciate how that information applies to one's own situation, the ability to reason and weigh options, and the ability to communicate a consistent choice.
 
 Capacity is task-specific and time-variable: a patient may lack capacity to make decisions about a complex surgical procedure while retaining capacity to decide what to eat for lunch. Delirium, dementia, acute psychosis, and severe pain or anxiety may temporarily impair capacity; sedation and substance intoxication almost always do.
 
@@ -522,12 +448,7 @@ Beneficence also encompasses the obligation to maintain professional competence.
 
 **Non-maleficence** — the obligation to "do no harm" — is often considered the most fundamental of the four principles, reflected in the ancient medical maxim *primum non nocere* (first, do no harm). In practice, however, the principle is more complex than the maxim suggests, because virtually all medical and nursing interventions carry some risk of harm: medications have side effects, procedures carry complications, and the environment of care introduces risks.
 
-Non-maleficence in clinical practice requires:
-
-- **Risk-benefit analysis:** Before performing an intervention, the expected benefit must outweigh the potential harm. The more serious the potential harm, the more substantial the expected benefit must be.
-- **The principle of double effect:** When a beneficial action has a harmful side effect, the action may be ethically permissible if: (1) the action itself is not inherently wrong; (2) the harmful effect is foreseen but not intended; (3) the harmful effect is not the means by which the benefit is achieved; and (4) the benefit outweighs the harm. The classic example is the administration of high-dose opioids for pain relief at end of life, where respiratory depression may be a foreseen but unintended side effect.
-- **Proportionality:** The scale of intervention should be proportional to the clinical situation. Aggressive interventions that impose significant burden with minimal expected benefit — for example, CPR in a patient with widely metastatic cancer and multi-system organ failure — may violate non-maleficence even if they are technically within the nurse's scope.
-- **Safe practice:** Non-maleficence requires adherence to infection control standards, medication safety protocols, fall prevention measures, and all other evidence-based safety practices. Failing to perform hand hygiene between patients violates non-maleficence, regardless of intent.
+Non-maleficence in clinical practice requires several interlocking commitments. First, **risk-benefit analysis** demands that the expected benefit of any intervention outweigh its potential harm — and the more serious the potential harm, the more substantial the benefit must be to justify proceeding. Second, **the principle of double effect** holds that when a beneficial action has a harmful side effect, the action may be ethically permissible if the action itself is not inherently wrong, the harmful effect is foreseen but not intended, the harmful effect is not the means by which the benefit is achieved, and the overall benefit outweighs the harm. The classic clinical example is the administration of high-dose opioids for end-of-life pain relief, where respiratory depression may be a foreseen but unintended side effect. Third, **proportionality** requires that the scale of intervention match the clinical situation; aggressive interventions that impose significant burden with minimal expected benefit — such as CPR in a patient with widely metastatic cancer and multi-system organ failure — may violate non-maleficence even if they remain technically within the nurse's scope. Finally, **safe practice** — adherence to infection control standards, medication safety protocols, fall prevention measures, and all other evidence-based safety practices — is itself an expression of non-maleficence; failing to perform hand hygiene between patients violates this principle regardless of intent.
 
 ### 2.8.5 Justice
 
@@ -589,11 +510,7 @@ The profession as a whole — not merely individual nurses — has ethical oblig
 
 ### 2.9.3 Applying the Code in Practice
 
-The Code is most useful not as a list of abstract obligations but as a practical resource when nurses face difficult situations. Consider a nurse who observes a colleague administering a medication without performing the required patient identification check. The applicable provisions include:
-
-- *Provision 3:* The nurse has an obligation to protect patient safety — witnessing an unsafe practice is not a private matter.
-- *Provision 6:* The nurse has a responsibility to contribute to an environment that supports safe practice — which includes addressing unsafe behaviors, initially by speaking directly with the colleague.
-- *Provision 3 (again):* If direct conversation is ineffective or the risk is immediate, escalation to the charge nurse, manager, or risk management is required.
+The Code is most useful not as a list of abstract obligations but as a practical resource when nurses face difficult situations. Consider a nurse who observes a colleague administering a medication without performing the required patient identification check. *Provision 3* speaks directly to this situation: the nurse has an obligation to protect patient safety, and witnessing an unsafe practice is not a private matter. *Provision 6* reinforces this by establishing the nurse's responsibility to contribute to an environment that supports safe practice — which includes addressing unsafe behaviors, beginning with a direct conversation with the colleague. If that conversation is ineffective or the risk is immediate, *Provision 3* further requires escalation to the charge nurse, manager, or risk management.
 
 The Code does not require confrontational or punitive responses — it requires *effective* ones. A nurse who addresses a colleague's unsafe behavior constructively, documents appropriately, and escalates if necessary is fully aligned with the Code. A nurse who witnesses unsafe behavior and says nothing, out of loyalty to a colleague or aversion to conflict, is in violation of it.
 
@@ -648,13 +565,7 @@ The four-box method is widely used in clinical ethics consultations and is parti
 
 **Clinical example:** Mrs. Delgado is a 67-year-old Jehovah's Witness with decision-making capacity who has been admitted following major abdominal surgery. She is losing blood rapidly from a surgical complication and will likely die without a blood transfusion. She has signed an advance directive refusing blood products on religious grounds and verbally reaffirms this refusal when asked.
 
-Applying the MORAL model:
-
-- *M (Massage):* The dilemma pits the nurse's beneficence obligation (preventing death) against Mrs. Delgado's autonomy (the right to refuse treatment based on deeply held religious conviction). Legal and professional standards in the United States protect the right of competent adults to refuse treatment.
-- *O (Outline options):* (1) Administer blood products against her will; (2) Honor the refusal, provide comfort-focused care, and document; (3) Request an ethics consultation; (4) Explore whether non-blood volume expanders and surgical re-exploration are acceptable alternatives.
-- *R (Review and resolve):* Option 1 violates autonomy and is illegal without a court order. Option 3 may be pursued in parallel with option 2. Option 4 should be explored urgently. The ethically defensible primary course is to honor the refusal while aggressively pursuing acceptable alternatives.
-- *A (Affirm and act):* The nurse documents Mrs. Delgado's capacity, her refusal, and the team's response. She advocates for non-blood alternatives and notifies the ethics committee.
-- *L (Look back):* After the event, the team reviews the case to identify what worked and what could be improved for future similar situations.
+Applying the MORAL model: *M (Massage):* The dilemma pits the nurse's beneficence obligation (preventing death) against Mrs. Delgado's autonomy (the right to refuse treatment based on deeply held religious conviction). Legal and professional standards in the United States protect the right of competent adults to refuse treatment. *O (Outline options):* (1) Administer blood products against her will; (2) Honor the refusal, provide comfort-focused care, and document; (3) Request an ethics consultation; (4) Explore whether non-blood volume expanders and surgical re-exploration are acceptable alternatives. *R (Review and resolve):* Option 1 violates autonomy and is illegal without a court order. Option 3 may be pursued in parallel with option 2. Option 4 should be explored urgently. The ethically defensible primary course is to honor the refusal while aggressively pursuing acceptable alternatives. *A (Affirm and act):* The nurse documents Mrs. Delgado's capacity, her refusal, and the team's response. She advocates for non-blood alternatives and notifies the ethics committee. *L (Look back):* After the event, the team reviews the case to identify what worked and what could be improved for future similar situations.
 
 > **CRITICAL THINKING — Using the Four-Box Method: A Ventilator Withdrawal Scenario**  
 > Mr. Chen, 82, is on mechanical ventilation following a massive stroke. His daughter insists on "everything being done"; his son reports that his father had previously expressed that he would never want to live on machines. Mr. Chen has no documented advance directive. Apply the four-box method. Box 1: The medical indication for continued ventilation is uncertain — neurological recovery is unlikely given the severity of the stroke. Box 2: Patient preferences are disputed and undocumented; a surrogate decision-maker must be identified and the standard is substituted judgment (what would this patient have wanted). Box 3: Quality of life with a permanent vegetative state is a strong consideration. Box 4: Family conflict, absence of legal documentation, and institutional policies on family meetings all affect the process. The four-box method surfaces the key issues and structures the ethics consultation.
@@ -694,19 +605,9 @@ When moral residue from successive distressing situations accumulates without ad
 
 **Moral resilience** — defined by nursing ethicist Cynda Rushton (2018, p. 5) as "the capacity of an individual to sustain or restore their integrity in response to moral complexity, confusion, distress, or setbacks" — is the antidote to moral residue and the crescendo effect. Moral resilience is not the absence of moral distress; it is the capacity to experience distress, process it, and continue to practice with integrity.
 
-**Individual strategies for moral resilience** include:
+**Individual strategies for moral resilience** begin with *self-reflection and ethical literacy* — regularly examining one's own values, recognizing when they are being violated or compromised, and developing the vocabulary and frameworks to articulate and address ethical concerns. *Mindfulness and self-compassion* practices develop emotional regulation and the capacity to tolerate moral uncertainty without being overwhelmed by it. *Peer support and professional community* — connecting with colleagues who share a commitment to ethical practice and creating spaces for honest conversation about distressing situations — provides a critical buffer against isolation and moral residue. Ongoing *ethics education* through formal coursework, case conferences, and consultation builds the competence and confidence needed to navigate ethical complexity with skill and equanimity.
 
-- *Self-reflection and ethical literacy:* Regularly examining one's own values, recognizing when they are being violated or compromised, and developing the vocabulary and frameworks to articulate and address ethical concerns.
-- *Mindfulness and self-compassion:* Practices that develop emotional regulation and the capacity to tolerate moral uncertainty without being overwhelmed by it.
-- *Peer support and professional community:* Connecting with colleagues who share commitment to ethical practice, creating spaces for honest conversation about distressing situations.
-- *Ethics education:* Ongoing learning in clinical ethics — through formal coursework, case conferences, and consultation — develops the competence and confidence to navigate ethical complexity.
-
-**Institutional strategies for moral resilience** include:
-
-- *Just Culture:* Organizational frameworks that distinguish between human error and reckless behavior, and respond proportionally — creating psychological safety for ethical reporting without fear of punishment for good-faith errors.
-- *Ethics consultation infrastructure:* Accessible, responsive ethics committee or consultation services that give nurses a meaningful mechanism for raising and addressing ethical concerns.
-- *Schwartz Rounds:* Interprofessional forums for reflective discussion of the emotional and ethical dimensions of clinical care, originally developed at Massachusetts General Hospital and now implemented in healthcare organizations worldwide.
-- *Staffing advocacy:* Institutional commitment to nurse-to-patient ratios that allow safe, quality care — addressing one of the most common sources of moral distress at its root.
+**Institutional strategies for moral resilience** operate at the organizational level. *Just Culture* frameworks distinguish between human error and reckless behavior and respond proportionally, creating psychological safety for ethical reporting without fear of punishment for good-faith errors. *Ethics consultation infrastructure* — accessible, responsive ethics committee or consultation services — provides nurses a meaningful mechanism for raising and addressing ethical concerns before distress accumulates. *Schwartz Rounds* offer interprofessional forums for reflective discussion of the emotional and ethical dimensions of clinical care, developed originally at Massachusetts General Hospital and now implemented in healthcare organizations worldwide. Finally, *staffing advocacy* — an institutional commitment to nurse-to-patient ratios that enable safe, quality care — addresses one of the most common sources of moral distress at its root.
 
 > **WELL-BEING ALERT — The 4 A's to Rise Above Moral Distress (ANA)**  
 > The American Nurses Association recommends the 4 A's framework for responding to moral distress: (1) **Ask** — recognize and name the moral distress you are experiencing; (2) **Affirm** — affirm your distress and your commitment to your professional values; (3) **Assess** — assess the severity of your distress and identify what, specifically, is driving it; (4) **Act** — take an action appropriate to the situation, whether that is a direct conversation, an ethics consultation, a report to leadership, or self-care and peer support. The 4 A's framework is available as a free resource at nursingworld.org.
@@ -722,17 +623,7 @@ When moral residue from successive distressing situations accumulates without ad
 
 **Ethics committees** are standing multidisciplinary bodies within healthcare institutions whose core functions include policy development, education, and consultation on difficult ethical cases. Most accredited healthcare organizations in the United States are required to have a mechanism for ethics consultation; a standing ethics committee is the most common form.
 
-Typical ethics committee membership includes:
-
-- Physicians (representing primary care, specialty, and critical care)
-- Registered nurses (often from ICU, oncology, or palliative care)
-- Social worker
-- Chaplain or pastoral care provider
-- Pharmacist
-- Legal counsel or risk management representative
-- Community or patient/family representative
-- Clinical ethicist (in larger institutions)
-- Administrator
+Typical ethics committee membership reflects the interdisciplinary nature of ethical decision-making. Physicians representing primary care, specialty, and critical care serve alongside registered nurses — often drawn from the ICU, oncology, or palliative care — as well as a social worker, a chaplain or pastoral care provider, and a pharmacist. Legal counsel or a risk management representative brings a regulatory and liability perspective, while a community or patient/family representative ensures that the patient's voice is structurally present in the process. In larger institutions, a clinical ethicist provides specialized expertise, and an administrator rounds out the membership with an organizational perspective.
 
 This interprofessional composition is intentional: ethical decisions in healthcare are rarely purely medical or purely nursing — they require the integration of clinical, social, spiritual, legal, and administrative perspectives. The committee's strength derives from the diversity of viewpoints it brings to complex situations.
 
@@ -740,15 +631,7 @@ Ethics committees typically operate in an **advisory capacity**: their recommend
 
 ### 2.12.2 When to Request an Ethics Consultation
 
-Ethics consultations are appropriate when a clinical situation involves genuine ethical uncertainty or conflict that cannot be resolved through ordinary clinical channels. Common triggers include:
-
-- Disagreement between the clinical team and the patient or family about goals of care — for example, a family insisting on aggressive treatment for a patient who has no realistic prospect of recovery.
-- Uncertainty about the patient's decision-making capacity, or dispute about whether the patient has capacity.
-- Conflict among family members about the appropriate course of care for a patient who lacks capacity.
-- Concerns about whether an advance directive should govern the current clinical situation.
-- Ethical concerns about a proposed treatment that appears clinically futile or disproportionately burdensome.
-- Conflicts of interest that may be influencing clinical decision-making.
-- Resource allocation questions in settings of scarcity.
+Ethics consultations are appropriate when a clinical situation involves genuine ethical uncertainty or conflict that cannot be resolved through ordinary clinical channels. Common triggers include disagreement between the clinical team and the patient or family about goals of care — for example, a family insisting on aggressive treatment for a patient who has no realistic prospect of recovery. Uncertainty about the patient's decision-making capacity, or active dispute about whether the patient retains capacity, is another frequent indication. Conflict among family members about the appropriate course of care for a patient who lacks capacity, or questions about whether an advance directive should govern the current clinical situation, similarly warrant consultation. Ethical concerns about a proposed treatment that appears clinically futile or disproportionately burdensome, conflicts of interest that may be influencing clinical decision-making, and resource allocation questions in settings of scarcity all represent legitimate and important triggers for ethics involvement.
 
 Any member of the care team — including the bedside nurse — may request an ethics consultation in most institutions. The nurse should not wait for the attending physician to initiate the request; if the nurse identifies an ethical concern that has not been addressed, she has both the authority and the professional obligation to request consultation.
 
@@ -781,12 +664,7 @@ The **social determinants of health (SDOH)** are the conditions in which people 
 
 Research consistently demonstrates that the SDOH account for approximately 30–55% of health outcomes — a larger share of the variance in health than clinical care alone (Commission on Social Determinants of Health, 2008). Poverty, food insecurity, housing instability, exposure to neighborhood violence, low educational attainment, and social isolation are each independently associated with worse health outcomes across virtually all disease categories.
 
-For nurses, the SDOH manifest in clinical encounters every day:
-
-- The patient who is discharged home with a new insulin regimen but has no refrigerator in which to store insulin.
-- The patient who cannot afford the medication prescribed at discharge and will not say so.
-- The patient whose lack of transportation makes follow-up appointments practically impossible.
-- The child with asthma whose home is infested with mold and cockroaches — a major trigger — and whose family cannot afford to move.
+For nurses, the SDOH manifest in clinical encounters every day. The patient discharged with a new insulin regimen may have no refrigerator in which to store it; the patient who cannot afford the prescribed medication at discharge may not volunteer that information. A patient's lack of transportation can make follow-up appointments practically impossible, and the child with asthma whose home is infested with mold and cockroaches — a major trigger — may have a family that cannot afford to move.
 
 Effective nursing practice requires recognizing these social dimensions of clinical care, screening for SDOH using validated tools (such as the PRAPARE or AHC Health-Related Social Needs Screening Tool), and connecting patients with community resources and social services.
 
@@ -794,11 +672,7 @@ Effective nursing practice requires recognizing these social dimensions of clini
 
 **Health disparities** are systematic, avoidable differences in health outcomes between population groups that are rooted in social, economic, and environmental disadvantage — not in biological differences or individual choices alone. Health disparities in the United States are deeply racialized, reflecting centuries of structural racism embedded in housing, education, employment, healthcare, and legal systems.
 
-Documented examples of racialized health disparities include:
-
-- **Maternal mortality:** Black women in the United States die from pregnancy-related complications at 2.6 times the rate of white women, even after controlling for income and education (Centers for Disease Control and Prevention [CDC], 2022). Nursing and obstetric research attributes a significant portion of this disparity to implicit bias in pain assessment and treatment, inadequate monitoring, and dismissal of Black women's concerns.
-- **Pain management:** Multiple studies document racial disparities in pain assessment and treatment: Black patients are less likely to have their pain believed, assessed adequately, or treated with appropriate analgesia (Hoffman et al., 2016). These disparities appear to be driven in part by false beliefs among healthcare providers about racial differences in pain sensitivity.
-- **Diabetes management:** Hispanic/Latino and Black Americans have significantly higher rates of diabetes-related complications including amputation and end-stage renal disease, disparities attributable in part to differential access to preventive care, culturally competent education, and affordable insulin.
+Documented examples of racialized health disparities are numerous and well-evidenced. In the domain of **maternal mortality**, Black women in the United States die from pregnancy-related complications at 2.6 times the rate of white women, even after controlling for income and education (CDC, 2022); nursing and obstetric research attributes a significant portion of this disparity to implicit bias in pain assessment, inadequate monitoring, and the dismissal of Black women's concerns. With respect to **pain management**, multiple studies document that Black patients are less likely to have their pain believed, assessed adequately, or treated with appropriate analgesia (Hoffman et al., 2016), driven in part by false beliefs among healthcare providers about racial differences in pain sensitivity. Similarly, **diabetes management** disparities mean that Hispanic/Latino and Black Americans face significantly higher rates of complications including amputation and end-stage renal disease — disparities attributable in part to differential access to preventive care, culturally competent education, and affordable insulin.
 
 **Implicit bias** — unconscious attitudes or stereotypes that influence judgment and behavior without awareness — is a documented contributor to healthcare disparities. Studies using standardized patient scenarios find that clinicians' diagnostic and treatment decisions differ based on patient race even when clinical information is identical. Nurses are not exempt from implicit bias: the same structural conditions that produce disparities in the broader society also operate within healthcare settings and within nursing practice.
 
