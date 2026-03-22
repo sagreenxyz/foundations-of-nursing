@@ -347,6 +347,14 @@ nav {
   margin: 2.5rem 0;
 }
 
+/* Images */
+#chapter-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem 0;
+}
+
 /* Figure placeholders */
 #chapter-content .figure-placeholder {
   background: var(--color-callout-bg);
