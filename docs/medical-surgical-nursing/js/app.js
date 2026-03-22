@@ -20,7 +20,7 @@ const UNITS = [
   {
     label: 'Unit 1: Foundations of Medical-Surgical Nursing',
     chapters: [
-      { num:  1, title: 'Introduction to Medical-Surgical Nursing: Scope, Roles, and Interprofessional Practice', file: 'chapter-01.md', status: 'soon' },
+      { num:  1, title: 'Introduction to Medical-Surgical Nursing: Scope, Roles, and Interprofessional Practice', file: 'chapter-01.md', status: 'draft' },
       { num:  2, title: 'Clinical Judgment and the Nursing Process in Medical-Surgical Settings',                  file: 'chapter-02.md', status: 'soon' },
       { num:  3, title: 'Evidence-Based Practice, Quality Improvement, and Patient Safety',                       file: 'chapter-03.md', status: 'soon' },
       { num:  4, title: 'Health Assessment and Physical Examination of the Adult Patient',                        file: 'chapter-04.md', status: 'soon' },
