@@ -70,11 +70,7 @@ This chapter provides the foundational knowledge and clinical skills to assess, 
 
 **Proteins** are composed of amino acids, of which 9 are essential (cannot be synthesized by the body): histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan, and valine. Each gram of protein provides 4 kcal. Proteins serve structural functions (collagen, keratin, muscle), enzymatic functions (all enzymes are proteins), transport functions (hemoglobin, albumin), immunological functions (antibodies, complement), and signaling functions (many hormones are peptides). The DRI for protein in healthy adults is 0.8 g/kg of body weight per day; requirements increase substantially with illness, surgery, burns, and other catabolic states — often to 1.2–2.0 g/kg per day — to support tissue repair and immune function.
 
-**Dietary fats** provide 9 kcal per gram and serve essential roles in cell membrane structure, fat-soluble vitamin absorption (A, D, E, K), hormone synthesis, and neural development. Fats are classified by their fatty acid composition:
-- **Saturated fats** (animal fats, coconut oil, palm oil): Solid at room temperature; excessive intake is associated with elevated LDL cholesterol and cardiovascular disease risk.
-- **Monounsaturated fats** (olive oil, avocado, nuts): Associated with reduced LDL and preserved HDL; the foundation of the Mediterranean dietary pattern.
-- **Polyunsaturated fats** (omega-6 from vegetable oils; omega-3 from fatty fish, flaxseed, walnuts): Essential for cellular function; omega-3 fatty acids (EPA and DHA) have well-documented anti-inflammatory and cardioprotective effects.
-- **Trans fats** (partially hydrogenated vegetable oils): Raise LDL, lower HDL, and increase inflammation; the FDA has removed their GRAS (Generally Recognized as Safe) status; largely eliminated from the U.S. food supply.
+**Dietary fats** provide 9 kcal per gram and serve essential roles in cell membrane structure, fat-soluble vitamin absorption (A, D, E, K), hormone synthesis, and neural development. Fats are classified by their fatty acid composition. **Saturated fats** — found in animal fats, coconut oil, and palm oil — are solid at room temperature; excessive intake is associated with elevated LDL cholesterol and cardiovascular disease risk. **Monounsaturated fats** (found in olive oil, avocado, and nuts) are associated with reduced LDL and preserved HDL, forming the foundation of the Mediterranean dietary pattern. **Polyunsaturated fats** include omega-6 fatty acids from vegetable oils and omega-3 fatty acids from fatty fish, flaxseed, and walnuts; omega-3 fatty acids (EPA and DHA) have well-documented anti-inflammatory and cardioprotective effects. **Trans fats**, derived from partially hydrogenated vegetable oils, raise LDL, lower HDL, and increase inflammation; the FDA has removed their GRAS (Generally Recognized as Safe) status, and they have been largely eliminated from the U.S. food supply.
 
 ### 12.1.2 Micronutrients: Vitamins and Minerals
 
@@ -116,10 +112,7 @@ Key clinically relevant vitamin deficiencies include:
 
 **Mini Nutritional Assessment (MNA):** A two-stage tool developed specifically for older adults. The six-item MNA-Short Form (MNA-SF) screens for malnutrition or risk; scores of 11 or less trigger the full 18-item MNA for comprehensive assessment. The MNA is the most widely validated nutritional tool for elderly populations worldwide and is endorsed by the European Society for Clinical Nutrition and Metabolism (ESPEN).
 
-**Subjective Global Assessment (SGA):** A clinical assessment tool that integrates history (weight change, dietary intake change, gastrointestinal symptoms, functional capacity, metabolic demands of underlying disease) and physical examination (loss of subcutaneous fat, muscle wasting, edema, ascites) to classify nutritional status as:
-- **SGA A:** Well-nourished
-- **SGA B:** Mildly to moderately malnourished (or suspected malnutrition)
-- **SGA C:** Severely malnourished
+**Subjective Global Assessment (SGA):** A clinical assessment tool that integrates history (weight change, dietary intake change, gastrointestinal symptoms, functional capacity, metabolic demands of underlying disease) and physical examination (loss of subcutaneous fat, muscle wasting, edema, ascites) to classify nutritional status into three categories: **SGA A** (well-nourished), **SGA B** (mildly to moderately malnourished, or suspected malnutrition), and **SGA C** (severely malnourished).
 
 The SGA is validated in multiple clinical populations including surgical patients, dialysis patients, oncology patients, and hospitalized older adults. Unlike MUST and MNA, the SGA requires trained clinician administration.
 
@@ -134,12 +127,7 @@ The SGA is validated in multiple clinical populations including surgical patient
 
 **Malnutrition** — in its clinical sense of inadequate protein-energy intake or utilization — is a pervasive problem in hospitalized patients. Systematic reviews indicate that 20–50% of hospitalized patients are malnourished on admission, and nutritional status often deteriorates further during hospitalization due to nothing-by-mouth (NPO) orders, procedure-related fasting, anorexia from medications, and inadequate monitoring of oral intake (Cederholm et al., 2017).
 
-The consequences of malnutrition are severe and well-documented:
-- **Impaired immune function:** Protein deficiency reduces T-lymphocyte function, antibody production, and mucosal barrier integrity, increasing susceptibility to infection.
-- **Impaired wound healing:** Protein deficiency impairs collagen synthesis, fibroblast proliferation, and angiogenesis; vitamin C deficiency directly impairs collagen crosslinking.
-- **Pressure injuries:** Malnutrition is an independent risk factor for pressure injury development and impairs healing of existing wounds.
-- **Prolonged mechanical ventilation:** Respiratory muscle wasting from protein-energy malnutrition prolongs ventilator dependence.
-- **Increased mortality:** Malnutrition is independently associated with increased in-hospital and 30-day mortality across diagnostic categories.
+The consequences of malnutrition are severe and well-documented. **Impaired immune function** results from protein deficiency, which reduces T-lymphocyte function, antibody production, and mucosal barrier integrity, increasing susceptibility to infection. Additionally, **impaired wound healing** occurs because protein deficiency disrupts collagen synthesis, fibroblast proliferation, and angiogenesis, while vitamin C deficiency directly impairs collagen crosslinking. Malnutrition is also an independent risk factor for **pressure injury** development and impairs healing of existing wounds. Furthermore, respiratory muscle wasting from protein-energy malnutrition **prolongs mechanical ventilation** dependence. Finally, malnutrition is independently associated with **increased in-hospital and 30-day mortality** across diagnostic categories.
 
 The 2018 **Global Leadership Initiative on Malnutrition (GLIM) Criteria** established a standardized framework for diagnosing malnutrition based on three phenotypic criteria (weight loss, low BMI, reduced muscle mass) and two etiologic criteria (reduced food intake/assimilation; disease burden/inflammation). Diagnosis requires at least one phenotypic and one etiologic criterion.
 
@@ -147,12 +135,7 @@ The 2018 **Global Leadership Initiative on Malnutrition (GLIM) Criteria** establ
 
 The nurse's nutritional interventions begin with consistent, accurate intake-and-output documentation. Calorie counts — tracking the percentage of meals consumed — are an important nursing responsibility and should be ordered for all patients identified as at nutritional risk. Common barriers to adequate oral intake in hospitalized patients include:
 
-- NPO or clear liquid diet orders that extend longer than clinically necessary
-- Meal delivery timing that conflicts with procedures or tests
-- Poorly fitting or absent dentures
-- Uncontrolled pain or nausea preventing eating
-- Dysphagia without appropriate diet texture modification
-- Lack of assistance for patients who cannot self-feed
+Common barriers to adequate oral intake in hospitalized patients include NPO or clear liquid diet orders that extend longer than clinically necessary, meal delivery timing that conflicts with procedures or tests, poorly fitting or absent dentures, uncontrolled pain or nausea preventing eating, dysphagia without appropriate diet texture modification, and lack of assistance for patients who cannot self-feed.
 
 Nurses can directly address many of these barriers: advocating for diet order liberalization as soon as clinically appropriate, requesting speech-language pathology evaluation for dysphagia, ensuring oral care and denture availability, scheduling pain and antiemetic medications appropriately before meals, and providing feeding assistance with patience and encouragement.
 
@@ -169,12 +152,7 @@ Nurses can directly address many of these barriers: advocating for diet order li
 
 **Obesity** — defined as a BMI ≥ 30 kg/m² — affects approximately 42% of U.S. adults and is associated with increased risk of type 2 diabetes, hypertension, cardiovascular disease, obstructive sleep apnea, non-alcoholic fatty liver disease, and several cancers (Flegal et al., 2016). However, the relationship between weight and health is complex: BMI is a poor measure of metabolic health, individuals at the same BMI show markedly different cardiometabolic risk profiles, and weight stigma in healthcare settings — demonstrated to worsen health outcomes — is widespread.
 
-Contemporary evidence-based nursing practice in obesity care adopts a **weight-neutral** or **Health at Every Size (HAES)** framework that prioritizes:
-- **Behavior-focused assessment** (dietary patterns, physical activity, sleep quality, stress, emotional eating) rather than weight-centric judgment
-- **Non-stigmatizing language** ("patient with obesity" rather than "obese patient"; avoiding terms such as "fat," "heavy," or "overweight" unless the patient uses them about themselves)
-- **Treating every patient with equal dignity** regardless of body size — including ensuring adequate-sized gowns, chairs, blood pressure cuffs, and imaging equipment
-- **Addressing comorbidities** (hypertension, dyslipidemia, sleep apnea, joint pain) systematically
-- **Interprofessional referral** (registered dietitian, exercise physiologist, behavioral health) when indicated
+Contemporary evidence-based nursing practice in obesity care adopts a **weight-neutral** or **Health at Every Size (HAES)** framework with several core priorities. Assessment focuses on **behavior** — dietary patterns, physical activity, sleep quality, stress, and emotional eating — rather than weight-centric judgment. Nurses use **non-stigmatizing language**, preferring "patient with obesity" over "obese patient" and avoiding terms such as "fat," "heavy," or "overweight" unless the patient uses them about themselves. **Treating every patient with equal dignity** regardless of body size is essential, including ensuring adequate-sized gowns, chairs, blood pressure cuffs, and imaging equipment. Additionally, nurses systematically **address comorbidities** such as hypertension, dyslipidemia, sleep apnea, and joint pain, and facilitate **interprofessional referral** to registered dietitians, exercise physiologists, and behavioral health providers when indicated.
 
 Weight loss interventions — when desired by the patient — are most effective when they combine behavioral support, dietary modification, and physical activity counseling. Pharmacological options (GLP-1 receptor agonists, orlistat) and bariatric surgery are evidence-supported for patients with BMI ≥ 30 with comorbidities or BMI ≥ 40, but are decisions to be made collaboratively with the patient and interprofessional team.
 
@@ -201,18 +179,9 @@ Nurses must approach patients with eating disorders with **compassion, consisten
 
 **Enteral nutrition (EN)** is the delivery of nutrients directly into the gastrointestinal tract via a tube when oral intake is inadequate but GI function is preserved. The guiding clinical principle is: whenever the gut can be used safely, it should be used — enteral nutrition maintains GI mucosal integrity, supports the immune cells of the gut-associated lymphoid tissue (GALT), preserves the gut microbiome, and carries lower infection, metabolic, and cost burdens than parenteral nutrition.
 
-**Indications for enteral nutrition include:**
-- Oral intake < 60% of estimated needs for > 7–10 days (or > 3–5 days in already-malnourished patients)
-- Neurological conditions impairing swallowing (stroke, TBI, ALS)
-- Oropharyngeal or esophageal obstruction
-- Severe burns or catabolic illness with markedly increased metabolic demands
-- Preoperative optimization in malnourished surgical patients
+Enteral nutrition is indicated when oral intake falls below 60% of estimated needs for more than 7–10 days (or more than 3–5 days in already-malnourished patients), as well as for neurological conditions impairing swallowing (such as stroke, TBI, or ALS), oropharyngeal or esophageal obstruction, severe burns or catabolic illness with markedly increased metabolic demands, and preoperative optimization in malnourished surgical patients.
 
-**Enteral access routes:**
-- **Nasogastric (NG) tube:** Short-term use (< 4 weeks); inserted through the nostril into the stomach. Gastric feeding is the preferred initial route when gastric emptying is intact.
-- **Nasoduodenal (ND) or nasojejunal (NJ) tube:** Postpyloric feeding; indicated when gastric feeding is not tolerated (gastroparesis, high aspiration risk) or in acute pancreatitis.
-- **Percutaneous endoscopic gastrostomy (PEG):** For long-term feeding (> 4–6 weeks); a gastrostomy tube placed endoscopically.
-- **Percutaneous endoscopic jejunostomy (PEJ):** For long-term postpyloric feeding.
+Several enteral access routes are available depending on clinical circumstances. The **nasogastric (NG) tube** is intended for short-term use (less than 4 weeks) and is the preferred initial route when gastric emptying is intact, delivering nutrients via a tube inserted through the nostril into the stomach. When gastric feeding is not tolerated — due to gastroparesis, high aspiration risk, or acute pancreatitis — a **nasoduodenal (ND) or nasojejunal (NJ) tube** provides postpyloric feeding. For long-term feeding requirements exceeding 4–6 weeks, a **percutaneous endoscopic gastrostomy (PEG)** tube is placed endoscopically into the stomach, while a **percutaneous endoscopic jejunostomy (PEJ)** is used for long-term postpyloric feeding.
 
 **Nursing management of enteral nutrition** encompasses multiple critical responsibilities:
 
@@ -226,21 +195,11 @@ Nurses must approach patients with eating disorders with **compassion, consisten
 
 **Parenteral nutrition (PN)** is the delivery of nutrients directly into the bloodstream, bypassing the gastrointestinal tract. PN is reserved for patients in whom the GI tract cannot be used for at least 7–14 days, or who require nutritional support but cannot tolerate enteral feeding.
 
-**Indications for parenteral nutrition include:**
-- Short bowel syndrome (< 100–150 cm of functional small bowel)
-- Intestinal failure (obstruction, ileus, severe malabsorption, high-output fistula)
-- Inability to establish or maintain enteral access
-- GI tract pathology precluding enteral feeding (ischemia, perforation)
+Parenteral nutrition is indicated for patients with short bowel syndrome (fewer than 100–150 cm of functional small bowel), intestinal failure due to obstruction, ileus, severe malabsorption, or high-output fistula, inability to establish or maintain enteral access, and GI tract pathology — such as ischemia or perforation — that precludes enteral feeding.
 
 PN is administered as **central parenteral nutrition (CPN)** via a central venous catheter (high osmolality requires central administration to avoid peripheral vein sclerosis) or as **peripheral parenteral nutrition (PPN)** via a peripheral vein (lower osmolality, lower caloric density; suitable only for short-term supplemental support).
 
-**Nursing management of parenteral nutrition:**
-- Maintain strict aseptic technique for all catheter care; central catheter-associated bloodstream infection (CLABSI) is the most serious infectious complication of PN.
-- PN should be administered on a dedicated catheter lumen; avoid drawing blood or administering other medications through the PN line when possible.
-- Monitor blood glucose every 4–6 hours; hyperglycemia is the most common metabolic complication of PN. Insulin may be added to the PN bag or administered as a separate infusion per protocol.
-- Monitor electrolytes (phosphorus, potassium, magnesium — refeeding syndrome risk), liver function tests (PN-associated liver disease), and triglycerides (if lipid emulsion included).
-- Do not abruptly discontinue PN; taper over 1–2 hours to prevent rebound hypoglycemia.
-- Weigh the patient daily and monitor strict intake/output.
+Nursing management of parenteral nutrition requires strict aseptic technique for all catheter care, as central catheter-associated bloodstream infection (CLABSI) is the most serious infectious complication of PN. PN should be administered through a dedicated catheter lumen, avoiding blood draws or administration of other medications through the PN line when possible. Blood glucose must be monitored every 4–6 hours, as hyperglycemia is the most common metabolic complication of PN; insulin may be added to the PN bag or administered as a separate infusion per protocol. Electrolytes — particularly phosphorus, potassium, and magnesium (given the refeeding syndrome risk) — as well as liver function tests (for PN-associated liver disease) and triglycerides (if lipid emulsion is included) must be monitored regularly. PN should never be abruptly discontinued; instead, it should be tapered over 1–2 hours to prevent rebound hypoglycemia. The patient should be weighed daily with strict intake and output maintained throughout therapy.
 
 [FIGURE 12.2: Enteral and parenteral nutrition decision algorithm — a flowchart beginning with "Nutritional support needed?" branching to "Is the GI tract functional?" → Yes → "Enteral nutrition" → further branching by route (NG, ND, PEG, PEJ); No → "Is the anticipated duration > 7–14 days?" → "Parenteral nutrition" (central vs. peripheral).]  
 *Alt text: A clinical decision flowchart. The first decision diamond asks if the GI tract is functional. If yes, enteral nutrition is selected with sub-branches for route selection based on gastric emptying status and expected duration. If no, parenteral nutrition is selected with sub-branches for central vs. peripheral based on osmolality and duration.*
@@ -273,9 +232,7 @@ Nurses must teach patients with CKD to read food labels for sodium and phosphoru
 
 No single dietary pattern is recommended for all patients with diabetes. Multiple approaches — Mediterranean diet, DASH, low-carbohydrate, plant-based, and others — can be effective when implemented consistently. Key evidence-based principles that apply across dietary patterns:
 
-- **Carbohydrate quality and quantity** are both important. Replacing refined carbohydrates with whole grains, legumes, and vegetables reduces postprandial glucose excursions. Counting grams of carbohydrate or using the plate method (half the plate vegetables, one quarter lean protein, one quarter whole grains/starchy vegetables) facilitates portion awareness.
-- **Reducing ultra-processed food intake** is associated with improved glycemic control independent of macronutrient composition.
-- **Consistency of carbohydrate intake** is particularly important for patients taking fixed-dose insulin to prevent hypoglycemia.
+Both **carbohydrate quality and quantity** matter: replacing refined carbohydrates with whole grains, legumes, and vegetables reduces postprandial glucose excursions, and counting grams of carbohydrate or using the plate method (half the plate vegetables, one quarter lean protein, one quarter whole grains or starchy vegetables) facilitates portion awareness. **Reducing ultra-processed food intake** is independently associated with improved glycemic control regardless of macronutrient composition. Furthermore, **consistency of carbohydrate intake** is particularly important for patients taking fixed-dose insulin to prevent hypoglycemia.
 
 Nursing responsibilities in diabetes nutrition management include: assessing dietary patterns and food security at every encounter, reinforcing MNT principles established by the dietitian, recognizing when patient understanding or adherence is compromised, and avoiding prescriptive dietary restrictions that have not been individually negotiated with the patient and dietitian.
 
@@ -311,10 +268,7 @@ Vitamin D and calcium supplementation is recommended for most older adults becau
 
 **Food-drug interactions** occur when a food, nutrient, or dietary component alters the absorption, distribution, metabolism, or excretion of a drug — increasing its efficacy, reducing its efficacy, or causing toxicity. The clinical significance of food-drug interactions ranges from minor (manageable by consistent administration timing) to life-threatening (requiring drug avoidance or substitution).
 
-**Mechanisms include:**
-- **Absorption effects:** Food can delay, reduce, or enhance drug absorption. Some drugs must be taken on an empty stomach (levothyroxine, bisphosphonates) because food impairs absorption; others must be taken with food to reduce GI irritation or increase absorption (fat-soluble medications absorbed with dietary fat).
-- **Enzyme inhibition/induction:** Foods can inhibit or induce cytochrome P450 enzymes, altering drug metabolism. Grapefruit juice is the classic example: compounds in grapefruit (furanocoumarins) irreversibly inhibit CYP3A4 in the intestinal wall, dramatically increasing the bioavailability of CYP3A4-metabolized drugs and risking toxicity.
-- **Pharmacodynamic effects:** Foods can enhance or antagonize a drug's mechanism of action. High dietary vitamin K intake antagonizes warfarin's anticoagulant effect; tyramine-rich foods can trigger hypertensive crisis in patients taking monoamine oxidase inhibitors (MAOIs).
+Several mechanisms underlie food-drug interactions. **Absorption effects** occur when food delays, reduces, or enhances drug absorption; some drugs must be taken on an empty stomach (levothyroxine, bisphosphonates) because food impairs absorption, while others must be taken with food to reduce GI irritation or to enhance the absorption of fat-soluble medications. **Enzyme inhibition or induction** represents another key mechanism: foods can inhibit or induce cytochrome P450 enzymes, altering drug metabolism — grapefruit juice is the classic example, as its furanocoumarins irreversibly inhibit CYP3A4 in the intestinal wall, dramatically increasing the bioavailability of CYP3A4-metabolized drugs and risking toxicity. Finally, **pharmacodynamic effects** arise when foods enhance or antagonize a drug's mechanism of action directly, as when high dietary vitamin K intake antagonizes warfarin's anticoagulant effect, or when tyramine-rich foods trigger hypertensive crisis in patients taking monoamine oxidase inhibitors (MAOIs).
 
 ### 12.8.2 Clinically Important Food-Drug Interactions
 
@@ -523,8 +477,4 @@ Woten, M., Jakubek, P., & Paquette, M. (2019). *Nutritional screening and assess
 
 ## Production Notes
 
-- **Version:** 2.0  
-- **Sprint:** 2026-03-19-1840  
-- **Status:** v2.0 — developmental edit and copy edit complete  
-- **Next milestone:** HTML formatting review before web publication  
-- **Word count (estimated):** ~7,500 words  
+**Version:** 2.0 | **Sprint:** 2026-03-19-1840 | **Status:** v2.0 — developmental edit and copy edit complete | **Next milestone:** HTML formatting review before web publication | **Word count (estimated):** ~7,500 words
