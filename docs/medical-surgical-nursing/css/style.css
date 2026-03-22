@@ -1,0 +1,423 @@
+/* ============================================================
+   Medical-Surgical Nursing — Academic Web Application
+   style.css  v1.0
+   ============================================================ */
+
+/* ── Reset & Box Model ────────────────────────────────────── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* ── Custom Properties ────────────────────────────────────── */
+:root {
+  --color-bg:             #fdfcf8;
+  --color-sidebar-bg:     #f5f3ee;
+  --color-sidebar-border: #d9d4c7;
+  --color-text:           #1a1a1a;
+  --color-muted:          #5a5a5a;
+  --color-link:           #1a4a7a;
+  --color-link-hover:     #0e2f52;
+  --color-accent:         #1a4a7a;
+  --color-border:         #d0ccc0;
+  --color-callout-bg:     #edf2f8;
+  --color-callout-border: #9ab3cc;
+  --color-table-head:     #dce6f0;
+  --color-code-bg:        #f2efe8;
+  --font-body:            Georgia, "Times New Roman", Times, serif;
+  --font-ui:              "Segoe UI", system-ui, -apple-system, sans-serif;
+  --font-mono:            "Courier New", Courier, monospace;
+  --sidebar-width:        280px;
+  --content-max:          780px;
+  --transition:           0.18s ease;
+}
+
+/* ── Base Typography ──────────────────────────────────────── */
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  background: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.75;
+}
+
+/* ── Layout ───────────────────────────────────────────────── */
+#sidebar {
+  width: var(--sidebar-width);
+  min-width: var(--sidebar-width);
+  background: var(--color-sidebar-bg);
+  border-right: 1px solid var(--color-sidebar-border);
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  overflow-y: auto;
+  z-index: 100;
+  padding-bottom: 2rem;
+}
+
+#main {
+  margin-left: var(--sidebar-width);
+  flex: 1;
+  min-width: 0;
+  padding: 3rem 2rem 4rem;
+  max-width: calc(var(--content-max) + 4rem);
+}
+
+/* ── Sidebar Header ───────────────────────────────────────── */
+.sidebar-header {
+  padding: 1.25rem 1rem 1rem;
+  border-bottom: 1px solid var(--color-sidebar-border);
+}
+
+.sidebar-header .book-title {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-accent);
+  margin-bottom: 0.2rem;
+}
+
+.sidebar-header .book-subtitle {
+  font-size: 0.72rem;
+  color: var(--color-muted);
+  font-style: italic;
+}
+
+/* ── Navigation ───────────────────────────────────────────── */
+nav {
+  padding: 0.75rem 0;
+}
+
+.nav-unit-label {
+  font-family: var(--font-ui);
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--color-muted);
+  padding: 0.75rem 1.25rem 0.25rem;
+}
+
+.nav-chapter {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  padding: 0.35rem 1rem;
+  cursor: pointer;
+  border: none;
+  background: none;
+  width: 100%;
+  text-align: left;
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  line-height: 1.35;
+  color: var(--color-text);
+  transition: background var(--transition);
+  border-left: 3px solid transparent;
+}
+
+.nav-chapter:hover {
+  background: var(--color-border);
+  color: var(--color-link);
+}
+
+.nav-chapter.active {
+  background: var(--color-callout-bg);
+  border-left-color: var(--color-accent);
+  color: var(--color-accent);
+  font-weight: 600;
+}
+
+.nav-chapter .ch-num {
+  font-size: 0.68rem;
+  color: var(--color-muted);
+  min-width: 1.6rem;
+  flex-shrink: 0;
+}
+
+.nav-chapter .ch-title {
+  flex: 1;
+}
+
+.nav-badge {
+  font-size: 0.6rem;
+  font-weight: 600;
+  padding: 0.1em 0.4em;
+  border-radius: 3px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.badge-draft   { background: #d4edda; color: #155724; }
+.badge-outline { background: #fff3cd; color: #856404; }
+.badge-soon    { background: #e2e3e5; color: #383d41; }
+
+/* ── Home / Welcome Page ──────────────────────────────────── */
+#welcome h1 {
+  font-size: 2rem;
+  font-weight: normal;
+  color: var(--color-accent);
+  border-bottom: 2px solid var(--color-border);
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+#welcome .subtitle {
+  font-style: italic;
+  color: var(--color-muted);
+  margin-bottom: 2rem;
+}
+
+#welcome p {
+  margin-bottom: 1rem;
+  max-width: var(--content-max);
+}
+
+#welcome ul {
+  padding-left: 1.75rem;
+  margin-bottom: 1rem;
+  max-width: var(--content-max);
+}
+
+#welcome li {
+  margin-bottom: 0.4rem;
+}
+
+#welcome hr {
+  border: none;
+  border-top: 1px solid var(--color-border);
+}
+
+/* ── Chapter Content ──────────────────────────────────────── */
+#chapter-content {
+  max-width: var(--content-max);
+}
+
+/* Headings */
+#chapter-content h1 {
+  font-size: 1.9rem;
+  font-weight: normal;
+  color: var(--color-accent);
+  border-bottom: 2px solid var(--color-border);
+  padding-bottom: 0.4rem;
+  margin: 0 0 0.4rem;
+}
+
+#chapter-content h2 {
+  font-size: 1.35rem;
+  font-weight: bold;
+  color: var(--color-text);
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 0.25rem;
+  margin: 2.5rem 0 0.9rem;
+}
+
+#chapter-content h3 {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: var(--color-text);
+  margin: 1.8rem 0 0.6rem;
+}
+
+#chapter-content h4 {
+  font-size: 1rem;
+  font-style: italic;
+  color: var(--color-muted);
+  margin: 1.4rem 0 0.4rem;
+}
+
+/* Paragraphs & Lists */
+#chapter-content p {
+  margin-bottom: 1rem;
+}
+
+#chapter-content ul,
+#chapter-content ol {
+  padding-left: 1.75rem;
+  margin-bottom: 1rem;
+}
+
+#chapter-content li {
+  margin-bottom: 0.3rem;
+}
+
+/* Emphasis */
+#chapter-content strong {
+  font-weight: bold;
+}
+
+#chapter-content em {
+  font-style: italic;
+}
+
+/* Links */
+#chapter-content a {
+  color: var(--color-link);
+  text-decoration: underline;
+}
+
+#chapter-content a:hover {
+  color: var(--color-link-hover);
+}
+
+/* Tables */
+#chapter-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+  font-family: var(--font-ui);
+}
+
+#chapter-content th {
+  background: var(--color-table-head);
+  border: 1px solid var(--color-border);
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  font-weight: 700;
+}
+
+#chapter-content td {
+  border: 1px solid var(--color-border);
+  padding: 0.45rem 0.75rem;
+  vertical-align: top;
+}
+
+#chapter-content tr:nth-child(even) td {
+  background: #f9f8f4;
+}
+
+/* Blockquotes (callout boxes) */
+#chapter-content blockquote {
+  background: var(--color-callout-bg);
+  border-left: 4px solid var(--color-callout-border);
+  padding: 0.9rem 1.1rem;
+  margin: 1.5rem 0;
+  font-size: 0.93rem;
+}
+
+#chapter-content blockquote p {
+  margin-bottom: 0.4rem;
+}
+
+#chapter-content blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* Code & Inline Code */
+#chapter-content code {
+  background: var(--color-code-bg);
+  font-family: var(--font-mono);
+  font-size: 0.85em;
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+
+/* Pre / Code Blocks */
+#chapter-content pre {
+  background: var(--color-code-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1rem 0;
+}
+
+#chapter-content pre code {
+  background: none;
+  padding: 0;
+}
+
+/* Horizontal Rules */
+#chapter-content hr {
+  border: none;
+  border-top: 1px solid var(--color-border);
+  margin: 2.5rem 0;
+}
+
+/* Images */
+#chapter-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem 0;
+}
+
+/* Figures with captions */
+#chapter-content figure {
+  margin: 1.5rem 0;
+  display: inline-block;
+  max-width: 100%;
+}
+
+#chapter-content figure img {
+  margin: 0;
+}
+
+#chapter-content figcaption {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  margin-top: 0.4rem;
+  font-style: italic;
+  max-width: 480px;
+}
+
+/* Figure placeholders */
+#chapter-content .figure-placeholder {
+  background: var(--color-callout-bg);
+  border: 1px dashed var(--color-callout-border);
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  border-radius: 4px;
+}
+
+/* ── Loading / Error States ───────────────────────────────── */
+#loading {
+  color: var(--color-muted);
+  font-style: italic;
+  padding: 2rem 0;
+  font-family: var(--font-ui);
+}
+
+#error-msg {
+  color: var(--color-accent);
+  background: #e8eef5;
+  border: 1px solid #9ab3cc;
+  border-radius: 4px;
+  padding: 1rem 1.25rem;
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  white-space: pre-wrap;
+}
+
+/* ── Responsive ───────────────────────────────────────────── */
+@media (max-width: 768px) {
+  #sidebar {
+    position: relative;
+    width: 100%;
+    height: auto;
+    border-right: none;
+    border-bottom: 1px solid var(--color-sidebar-border);
+  }
+
+  #main {
+    margin-left: 0;
+    padding: 1.5rem 1rem 3rem;
+  }
+}
