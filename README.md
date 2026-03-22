@@ -10,7 +10,7 @@ https://sagreenxyz.github.io/textbooks
 
 | Textbook | Chapters | Status |
 |----------|----------|--------|
-| **Textbooks** | 45 chapters · 11 units | 14 chapters drafted |
+| **Foundations of Nursing** | 45 chapters · 11 units | 14 chapters drafted |
 | **Medical-Surgical Nursing** | 74 chapters · 17 units | In development |
 | **Clinical Pharmacology for Nurses** | 70 chapters · 13 units | 1 chapter drafted |
 
