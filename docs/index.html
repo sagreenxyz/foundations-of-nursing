@@ -3,84 +3,298 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Foundations of Nursing</title>
-  <link rel="stylesheet" href="css/style.css" />
+  <title>NurseMastery — Open Nursing Textbooks</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --color-bg:       #fdfcf8;
+      --color-text:     #1a1a1a;
+      --color-muted:    #5a5a5a;
+      --color-accent:   #8b1a1a;
+      --color-border:   #d0ccc0;
+      --color-card-bg:  #f5f3ee;
+      --color-link:     #1a4a7a;
+      --color-link-hov: #0e2f52;
+      --font-body:      Georgia, "Times New Roman", Times, serif;
+      --font-ui:        "Segoe UI", system-ui, -apple-system, sans-serif;
+    }
+    html { font-size: 16px; scroll-behavior: smooth; }
+    body {
+      font-family: var(--font-body);
+      background: var(--color-bg);
+      color: var(--color-text);
+      line-height: 1.75;
+      min-height: 100vh;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--color-accent);
+      color: #fff;
+      padding: 2.5rem 2rem 2rem;
+      text-align: center;
+    }
+    header h1 {
+      font-family: var(--font-ui);
+      font-size: 2rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      margin-bottom: 0.4rem;
+    }
+    header p {
+      font-size: 1rem;
+      opacity: 0.88;
+      font-style: italic;
+    }
+
+    /* ── Main ── */
+    main {
+      max-width: 860px;
+      margin: 3rem auto;
+      padding: 0 1.5rem 4rem;
+    }
+
+    .catalog-intro {
+      margin-bottom: 2.5rem;
+      color: var(--color-muted);
+      font-size: 0.97rem;
+      border-bottom: 1px solid var(--color-border);
+      padding-bottom: 1.5rem;
+    }
+
+    .catalog-section-label {
+      font-family: var(--font-ui);
+      font-size: 0.68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.09em;
+      color: var(--color-muted);
+      margin-bottom: 1rem;
+    }
+
+    /* ── Textbook Cards ── */
+    .textbook-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 1.25rem;
+      margin-bottom: 3rem;
+    }
+
+    .textbook-card {
+      background: var(--color-card-bg);
+      border: 1px solid var(--color-border);
+      border-radius: 6px;
+      padding: 1.4rem 1.5rem;
+      text-decoration: none;
+      color: inherit;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      transition: box-shadow 0.18s ease, border-color 0.18s ease;
+    }
+    .textbook-card:hover {
+      border-color: var(--color-accent);
+      box-shadow: 0 2px 10px rgba(139,26,26,0.12);
+    }
+
+    .card-label {
+      font-family: var(--font-ui);
+      font-size: 0.62rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--color-accent);
+    }
+
+    .card-title {
+      font-family: var(--font-ui);
+      font-size: 1.08rem;
+      font-weight: 700;
+      color: var(--color-text);
+      line-height: 1.3;
+    }
+
+    .card-subtitle {
+      font-size: 0.85rem;
+      color: var(--color-muted);
+      font-style: italic;
+    }
+
+    .card-meta {
+      display: flex;
+      gap: 0.6rem;
+      flex-wrap: wrap;
+      margin-top: 0.2rem;
+    }
+
+    .card-tag {
+      font-family: var(--font-ui);
+      font-size: 0.68rem;
+      font-weight: 600;
+      padding: 0.15em 0.5em;
+      border-radius: 3px;
+      background: #d4edda;
+      color: #155724;
+    }
+
+    .card-arrow {
+      margin-top: auto;
+      padding-top: 0.75rem;
+      font-family: var(--font-ui);
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--color-link);
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+    }
+    .textbook-card:hover .card-arrow { color: var(--color-link-hov); }
+
+    /* ── Coming Soon placeholder ── */
+    .textbook-card.soon {
+      opacity: 0.55;
+      pointer-events: none;
+      cursor: default;
+    }
+    .textbook-card.soon .card-tag {
+      background: #e2e3e5;
+      color: #383d41;
+    }
+
+    /* ── Tools Section ── */
+    .tools-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 1rem;
+    }
+
+    .tool-card {
+      background: var(--color-card-bg);
+      border: 1px solid var(--color-border);
+      border-radius: 6px;
+      padding: 1rem 1.25rem;
+      text-decoration: none;
+      color: inherit;
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+      transition: border-color 0.18s ease;
+    }
+    .tool-card:hover { border-color: var(--color-accent); }
+
+    .tool-icon {
+      font-size: 1.4rem;
+      line-height: 1;
+    }
+
+    .tool-name {
+      font-family: var(--font-ui);
+      font-size: 0.9rem;
+      font-weight: 700;
+      color: var(--color-text);
+    }
+
+    .tool-desc {
+      font-size: 0.8rem;
+      color: var(--color-muted);
+    }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center;
+      font-family: var(--font-ui);
+      font-size: 0.75rem;
+      color: var(--color-muted);
+      padding: 2rem;
+      border-top: 1px solid var(--color-border);
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.5rem; }
+      main { margin: 1.5rem auto; }
+      .textbook-grid { grid-template-columns: 1fr; }
+    }
+  </style>
 </head>
 <body>
 
-  <!-- ── Sidebar ───────────────────────────────────────── -->
-  <aside id="sidebar" role="complementary" aria-label="Textbook navigation">
-    <div class="sidebar-header">
-      <div class="book-title">
-        <a href="#" id="home-link" style="text-decoration:none;color:inherit;">
-          Foundations of Nursing
-        </a>
+  <header>
+    <h1>NurseMastery</h1>
+    <p>Open-Access Nursing Textbooks &amp; Learning Tools</p>
+  </header>
+
+  <main>
+    <p class="catalog-intro">
+      Select a textbook to begin reading, or explore the learning tools below.
+      All content is open-access and designed for pre-licensure nursing students
+      pursuing ADN or BSN programs.
+    </p>
+
+    <!-- ── Textbooks ── -->
+    <div class="catalog-section-label">Textbooks</div>
+    <div class="textbook-grid">
+
+      <a href="foundations-of-nursing/" class="textbook-card">
+        <div class="card-label">Nursing Fundamentals</div>
+        <div class="card-title">Foundations of Nursing</div>
+        <div class="card-subtitle">A Comprehensive Pre-Licensure Textbook</div>
+        <div class="card-meta">
+          <span class="card-tag">14 Chapters Drafted</span>
+          <span class="card-tag">45 Chapters Total</span>
+        </div>
+        <div class="card-arrow">Open textbook &rarr;</div>
+      </a>
+
+      <a href="medical-surgical-nursing/" class="textbook-card">
+        <div class="card-label">Medical-Surgical Nursing</div>
+        <div class="card-title">Medical-Surgical Nursing</div>
+        <div class="card-subtitle">A Comprehensive Clinical Nursing Textbook</div>
+        <div class="card-meta">
+          <span class="card-tag">74 Chapters Planned</span>
+          <span class="card-tag">17 Units</span>
+        </div>
+        <div class="card-arrow">Open textbook &rarr;</div>
+      </a>
+
+      <div class="textbook-card soon">
+        <div class="card-label">Pharmacology</div>
+        <div class="card-title">Clinical Pharmacology for Nurses</div>
+        <div class="card-subtitle">Drug Classes, Safe Administration &amp; Patient Education</div>
+        <div class="card-meta">
+          <span class="card-tag">Coming Soon</span>
+        </div>
+        <div class="card-arrow">Coming soon</div>
       </div>
-      <div class="book-subtitle">A Comprehensive Pre-Licensure Textbook</div>
+
+      <div class="textbook-card soon">
+        <div class="card-label">Mental Health</div>
+        <div class="card-title">Mental Health Nursing</div>
+        <div class="card-subtitle">Psychiatric Disorders &amp; Therapeutic Interventions</div>
+        <div class="card-meta">
+          <span class="card-tag">Coming Soon</span>
+        </div>
+        <div class="card-arrow">Coming soon</div>
+      </div>
+
     </div>
-    <!-- Navigation is built dynamically by app.js -->
-  </aside>
 
-  <!-- ── Main Content ──────────────────────────────────── -->
-  <main id="main" role="main">
+    <!-- ── Learning Tools ── -->
+    <div class="catalog-section-label">Learning Tools</div>
+    <div class="tools-grid">
 
-    <!-- Welcome / home page -->
-    <section id="welcome" aria-label="Welcome">
-      <h1>Foundations of Nursing</h1>
-      <p class="subtitle"><em>A Comprehensive Pre-Licensure Textbook</em></p>
+      <a href="lms/" class="tool-card">
+        <div class="tool-icon">&#9877;</div>
+        <div class="tool-name">NurseMastery LMS</div>
+        <div class="tool-desc">Interactive quizzes, case journeys, and achievements</div>
+      </a>
 
-      <p>
-        Welcome to <strong>Foundations of Nursing</strong>, an open-access,
-        comprehensive textbook for pre-licensure nursing students pursuing
-        Associate Degree (ADN) or Bachelor of Science in Nursing (BSN) programs.
-      </p>
-      <p>
-        Select a chapter from the sidebar to begin reading. Chapters marked
-        <strong>Draft Available</strong> contain a full first draft. Chapters
-        marked <strong>Outline Only</strong> have a detailed outline but no
-        prose draft yet. All remaining chapters are <strong>Coming Soon</strong>
-        and will be added in future sprints.
-      </p>
-      <p>
-        All content follows APA 7th edition citation style and is written at a
-        formal, academic level appropriate for pre-licensure nursing education.
-        NCLEX-style review questions, case studies, learning objectives, and key
-        terms are embedded in every completed chapter.
-      </p>
-
-      <hr style="margin:2rem 0;" />
-
-      <h2 style="font-size:1.1rem;">Quick-Start Guide</h2>
-      <ul>
-        <li>Click any chapter title in the sidebar to load its content.</li>
-        <li>
-          <strong>Local file viewing:</strong> Because browsers block
-          cross-origin requests when opening <code>file://</code> URLs, a
-          local web server is required to load chapter content. Run:
-          <br /><code>python3 -m http.server 8080</code>
-          <br />then open <code>http://localhost:8080/docs/</code>.
-        </li>
-        <li>
-          <strong>GitHub Pages:</strong> All chapters load automatically when
-          the site is deployed at
-          <code>https://&lt;user&gt;.github.io/foundations-of-nursing/</code>.
-        </li>
-      </ul>
-    </section>
-
-    <!-- Chapter content (hidden until a chapter is loaded) -->
-    <article id="chapter-content" hidden aria-label="Chapter content"></article>
-
-    <!-- Loading indicator -->
-    <p id="loading" hidden aria-live="polite">Loading chapter…</p>
-
-    <!-- Error message -->
-    <pre id="error-msg" hidden role="alert" aria-live="assertive"></pre>
-
+    </div>
   </main>
 
-  <!-- marked.js — MIT-licensed Markdown renderer (CDN) -->
-  <script src="https://cdn.jsdelivr.net/npm/marked@9.1.6/marked.min.js"></script>
-  <script src="js/app.js"></script>
+  <footer>
+    &copy; 2026 NurseMastery &mdash; Open-access nursing education
+  </footer>
+
 </body>
 </html>

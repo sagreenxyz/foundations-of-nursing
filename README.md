@@ -1,36 +1,38 @@
-# Foundations of Nursing
+# NurseMastery — Open Nursing Textbooks
 
 https://sagreenxyz.github.io/foundations-of-nursing
 
-*A Comprehensive Pre-Licensure Textbook*
+*Open-Access Nursing Textbooks & Learning Tools*
 
-**Audience:** Pre-licensure nursing students (ADN/BSN) — first-year, foundational level  
-**Tone:** Formal/academic  
-**Citation Style:** APA 7th edition  
-**Format:** Markdown source, HTML/web output  
-**Target Length:** 900+ pages across 45 chapters
+---
+
+## Textbooks
+
+| Textbook | Chapters | Status |
+|----------|----------|--------|
+| **Foundations of Nursing** | 45 chapters · 11 units | 14 chapters drafted |
+| **Medical-Surgical Nursing** | 74 chapters · 17 units | In development |
 
 ---
 
 ## Web Application
 
-The textbook is rendered as a GitHub Pages web application from the `docs/` directory.
+The project is published as a GitHub Pages site from the `docs/` directory. The top-level page is a multi-textbook catalog.
 
-- **Open locally:** Open `docs/index.html` in any modern browser (no server required).
-- **GitHub Pages:** Enable GitHub Pages from the repository Settings, pointing at the `docs/` directory on the `main` branch.
+- **Catalog:** `https://sagreenxyz.github.io/foundations-of-nursing/`
+- **Foundations of Nursing:** `https://sagreenxyz.github.io/foundations-of-nursing/foundations-of-nursing/`
+- **Medical-Surgical Nursing:** `https://sagreenxyz.github.io/foundations-of-nursing/medical-surgical-nursing/`
+- **LMS:** `https://sagreenxyz.github.io/foundations-of-nursing/lms/`
 
-The app requires no build step, no CDN, and no external dependencies. All rendering is handled by a self-contained Markdown parser in `docs/js/app.js`.
----
+**Local development:**
 
-## About This Project
+```bash
+python3 -m http.server 8080
+```
 
-**Foundations of Nursing** is an open-access textbook for pre-licensure nursing students (ADN/BSN programs). Content is authored in Markdown, version-controlled in this repository, and published as a web application via GitHub Pages.
+Then open `http://localhost:8080/docs/` for the catalog.
 
-- **Audience:** Pre-licensure nursing students — first-year, foundational level
-- **Tone:** Formal/academic
-- **Citation Style:** APA 7th edition
-- **Format:** Markdown source → HTML rendered by the web application
-- **Target Length:** 900+ pages across 30+ chapters
+The app requires no build step and no external dependencies beyond the marked.js CDN used to render Markdown.
 
 ---
 
@@ -38,13 +40,17 @@ The app requires no build step, no CDN, and no external dependencies. All render
 
 ### GitHub Pages (recommended)
 
-The textbook is published at:
+The textbook catalog is published at:
 
 ```
 https://sagreenxyz.github.io/foundations-of-nursing/
 ```
 
-Open that URL in any modern browser to read the textbook online.
+Open that URL in any modern browser. Select *Foundations of Nursing* from the catalog, or navigate directly to:
+
+```
+https://sagreenxyz.github.io/foundations-of-nursing/foundations-of-nursing/
+```
 
 ### Local Development
 
@@ -73,59 +79,92 @@ Then open the URL printed in the terminal, appending `/docs/`.
 ```
 foundations-of-nursing/
 ├── README.md
-├── dependency-tree.html   # Project dependency DAG (standalone SPA)
-├── strategy/              # Project strategy documents
-│   ├── merged-toc.md      # Master Table of Contents (45 chapters)
-│   ├── roadmap.md         # Phase 1-12 production roadmap
-│   ├── team.md            # Team roles and responsibilities
+├── dependency-tree.html         # Project dependency DAG (standalone SPA)
+├── strategy/                    # Project strategy documents
+│   ├── merged-toc.md            # Master Table of Contents (45 chapters)
+│   ├── roadmap.md               # Phase 1-12 production roadmap
+│   ├── team.md                  # Team roles and responsibilities
 │   └── toc-strategy-analysis.md
-├── activity/              # Sprint artifacts (one directory per sprint)
-│   ├── 2026-03-15-1210/   # Sprint 1: Planning, TOC, Chapter 1 outline, master backlog
-│   ├── 2026-03-15-1739/   # Sprint 2: Chapter template, web app, Chapter 1 draft
-│   ├── 2026-03-15-2030/   # Sprint 3: Chapter 4 outline
-│   ├── 2026-03-15-2105/   # Sprint 4: Chapters 2, 7, 10 drafts
-│   ├── 2026-03-15-2140/   # Sprint 5: Chapter 4 first draft (v1.0)
-│   └── 2026-03-15-2214/   # Sprint 6: Chapter 4 v2.0 (developmental + copy edit)
-├── content/               # Chapter markdown source files
-│   ├── chapter-01.md      # Chapter 1: History and Evolution of Nursing (Draft)
-│   ├── chapter-02.md      # Chapter 2: Legal, Ethical, and Professional Standards (Draft)
-│   ├── chapter-04.md      # Chapter 4: Therapeutic Communication (v2.0 — edited)
-│   ├── chapter-07.md      # Chapter 7: Evidence-Based Practice and Quality Improvement (Draft)
-│   └── chapter-10.md      # Chapter 10: Health, Wellness, and Illness (Draft)
-└── docs/                  # Web application (GitHub Pages root)
-    ├── index.html
-    ├── css/style.css
-    └── js/app.js
+├── activity/                    # Sprint artifacts (one directory per sprint)
+├── content/                     # Chapter markdown source files (canonical)
+│   ├── chapter-01.md
+│   └── …
+├── scripts/                     # Utility scripts
+│   ├── update-dependency-tree.js
+│   └── update-index.js
+└── docs/                        # GitHub Pages root
+    ├── index.html               # Catalog / multi-textbook landing page
+    ├── lms/                     # NurseMastery LMS SPA
+    ├── foundations-of-nursing/  # Foundations of Nursing textbook app
+    │   ├── index.html
+    │   ├── css/style.css
+    │   ├── js/app.js
+    │   ├── content/             # Chapter markdown served to the browser
+    │   ├── index.md             # Alphabetical key-term index (auto-generated)
+    │   └── table-of-contents.md
+    └── medical-surgical-nursing/ # Medical-Surgical Nursing textbook app
+        ├── index.html
+        ├── css/style.css
+        ├── js/app.js            # 74-chapter TOC (17 units)
+        └── content/             # Chapter markdown (in development)
 ```
+
+---
+
+## Adding a New Textbook
+
+1. Create a new subdirectory under `docs/`, e.g. `docs/my-new-textbook/`.
+2. Copy the structure from `docs/foundations-of-nursing/` (index.html, css/, js/, content/).
+3. Update `js/app.js` in the new textbook directory with that book's chapter registry.
+4. Add a card for the new textbook in `docs/index.html`.
 
 ---
 
 ## Chapter Status
 
+### Foundations of Nursing
+
 | # | Chapter | Status |
 |---|---------|--------|
 | **1** | **History and Evolution of Nursing** | **Draft Available** |
 | **2** | **Legal, Ethical, and Professional Standards** | **Draft Available** |
-| 3 | Patient Rights, Advocacy, and Informed Consent | Coming Soon |
+| **3** | **Patient Rights, Advocacy, and Informed Consent** | **Draft Available** |
 | **4** | **Therapeutic Communication** | **Draft Available** (v2.0 — edited) |
-| 5–6 | Additional Unit 1 Chapters | Coming Soon |
+| **5** | **Cultural Humility, Health Literacy, and Inclusive Care** | **Draft Available** |
+| **6** | **End-of-Life Communication and Palliative Care** | **Draft Available** |
 | **7** | **Evidence-Based Practice and Quality Improvement** | **Draft Available** |
-| 8–9 | Additional Unit 2 Chapters | Coming Soon |
+| **8** | **The Nursing Process (ADPIE)** | **Draft Available** |
+| **9** | **Clinical Judgment and the NCSBN CJMM** | **Draft Available** |
 | **10** | **Health, Wellness, and Illness** | **Draft Available** |
-| 11–45 | Additional Chapters | Coming Soon |
+| **11** | **Lifespan Development and Age-Related Nursing** | **Draft Available** |
+| **12** | **Nutrition and Metabolic Health** | **Draft Available** |
+| **13** | **Introduction to Pathophysiology** | **Draft Available** |
+| **14** | **Fluid, Electrolyte, and Acid-Base Balance** | **Draft Available** |
+| 15–45 | Additional Chapters | Coming Soon |
 
----
+### Medical-Surgical Nursing
 
-## Sprint History
+74 chapters across 17 units — all in development. TOC synthesized from *Lewis's Medical-Surgical Nursing* (Harding et al., 11th ed.), *Brunner & Suddarth's Textbook of Medical-Surgical Nursing* (Hinkle & Cheever, 14th ed.), and *Medical-Surgical Nursing: Concepts for Interprofessional Collaborative Care* (Ignatavicius, 10th ed.).
 
-| Sprint | Date | Deliverables |
-|--------|------|--------------|
-| 2026-03-15-1210 | 2026-03-15 | Initial planning, merged TOC, Chapter 1 outline, sprint backlog |
-| 2026-03-15-1739 | 2026-03-15 | Chapter template, web app foundation, Chapter 1 full draft |
-| 2026-03-15-2030 | 2026-03-15 | Chapter 4 outline, parallel-work analysis |
-| 2026-03-15-2105 | 2026-03-15 | Chapters 2, 7, 10 full drafts |
-| 2026-03-15-2140 | 2026-03-15 | Chapter 4 full draft (v1.0) |
-| 2026-03-15-2214 | 2026-03-15 | Chapter 4 developmental edit + copy edit (v2.0) |
+| Unit | Title | Chapters |
+|------|-------|----------|
+| 1 | Foundations of Medical-Surgical Nursing | 1–6 |
+| 2 | Pathophysiologic Mechanisms of Disease | 7–9 |
+| 3 | Fluid, Electrolyte, and Acid-Base Balance | 10–12 |
+| 4 | Pain and Comfort Management | 13–14 |
+| 5 | Perioperative Nursing Care | 15–17 |
+| 6 | Problems of Oxygenation — Ventilation (Respiratory) | 18–22 |
+| 7 | Problems of Oxygenation — Perfusion (Cardiovascular) | 23–28 |
+| 8 | Problems of Oxygenation — Transport (Hematologic) | 29–32 |
+| 9 | Oncologic and Immunologic Nursing | 33–37 |
+| 10 | Problems of Digestion, Nutrition, and Elimination (GI) | 38–43 |
+| 11 | Problems of Excretion (Renal and Urinary) | 44–47 |
+| 12 | Problems of Endocrine Regulation | 48–52 |
+| 13 | Problems of Neurological Function | 53–57 |
+| 14 | Problems of Musculoskeletal Function | 58–62 |
+| 15 | Problems of the Integumentary System | 63–66 |
+| 16 | Problems of the Reproductive System | 67–70 |
+| 17 | Emergency, Critical Care, and Disaster Nursing | 71–74 |
 
 ---
 

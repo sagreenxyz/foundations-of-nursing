@@ -24,7 +24,7 @@ const path = require('path');
 // ── Paths ──────────────────────────────────────────────────────────────────
 const ROOT         = path.resolve(__dirname, '..');
 const CONTENT_DIR  = path.join(ROOT, 'content');
-const INDEX_FILE   = path.join(ROOT, 'docs', 'index.md');
+const INDEX_FILE   = path.join(ROOT, 'docs', 'foundations-of-nursing', 'index.md');
 
 // ── Parse a single chapter file ───────────────────────────────────────────
 // Returns an array of { term, definition } objects extracted from the

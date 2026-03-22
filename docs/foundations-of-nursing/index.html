@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Foundations of Nursing</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- ── Sidebar ───────────────────────────────────────── -->
+  <aside id="sidebar" role="complementary" aria-label="Textbook navigation">
+    <div class="sidebar-header">
+      <div class="book-title">
+        <a href="#" id="home-link" style="text-decoration:none;color:inherit;">
+          Foundations of Nursing
+        </a>
+      </div>
+      <div class="book-subtitle">A Comprehensive Pre-Licensure Textbook</div>
+    </div>
+    <!-- Navigation is built dynamically by app.js -->
+  </aside>
+
+  <!-- ── Main Content ──────────────────────────────────── -->
+  <main id="main" role="main">
+
+    <!-- Welcome / home page -->
+    <section id="welcome" aria-label="Welcome">
+      <h1>Foundations of Nursing</h1>
+      <p class="subtitle"><em>A Comprehensive Pre-Licensure Textbook</em></p>
+
+      <p>
+        Welcome to <strong>Foundations of Nursing</strong>, an open-access,
+        comprehensive textbook for pre-licensure nursing students pursuing
+        Associate Degree (ADN) or Bachelor of Science in Nursing (BSN) programs.
+      </p>
+      <p>
+        Select a chapter from the sidebar to begin reading. Chapters marked
+        <strong>Draft Available</strong> contain a full first draft. Chapters
+        marked <strong>Outline Only</strong> have a detailed outline but no
+        prose draft yet. All remaining chapters are <strong>Coming Soon</strong>
+        and will be added in future sprints.
+      </p>
+      <p>
+        All content follows APA 7th edition citation style and is written at a
+        formal, academic level appropriate for pre-licensure nursing education.
+        NCLEX-style review questions, case studies, learning objectives, and key
+        terms are embedded in every completed chapter.
+      </p>
+
+      <hr style="margin:2rem 0;" />
+
+      <h2 style="font-size:1.1rem;">Quick-Start Guide</h2>
+      <ul>
+        <li>Click any chapter title in the sidebar to load its content.</li>
+        <li>
+          <strong>Local file viewing:</strong> Because browsers block
+          cross-origin requests when opening <code>file://</code> URLs, a
+          local web server is required to load chapter content. Run:
+          <br /><code>python3 -m http.server 8080</code>
+          <br />then open <code>http://localhost:8080/docs/</code>.
+        </li>
+        <li>
+          <strong>GitHub Pages:</strong> All chapters load automatically when
+          the site is deployed at
+          <code>https://&lt;user&gt;.github.io/foundations-of-nursing/</code>.
+        </li>
+      </ul>
+    </section>
+
+    <!-- Chapter content (hidden until a chapter is loaded) -->
+    <article id="chapter-content" hidden aria-label="Chapter content"></article>
+
+    <!-- Loading indicator -->
+    <p id="loading" hidden aria-live="polite">Loading chapter…</p>
+
+    <!-- Error message -->
+    <pre id="error-msg" hidden role="alert" aria-live="assertive"></pre>
+
+  </main>
+
+  <!-- marked.js — MIT-licensed Markdown renderer (CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/marked@9.1.6/marked.min.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
