@@ -21,7 +21,7 @@ https://sagreenxyz.github.io/textbooks
 The project is published as a GitHub Pages site from the `docs/` directory. The top-level page is a multi-textbook catalog.
 
 - **Catalog:** `https://sagreenxyz.github.io/textbooks/`
-- **Textbooks:** `https://sagreenxyz.github.io/textbooks/textbooks/`
+- **Foundations of Nursing:** `https://sagreenxyz.github.io/textbooks/foundations-of-nursing/`
 - **Medical-Surgical Nursing:** `https://sagreenxyz.github.io/textbooks/medical-surgical-nursing/`
 - **Clinical Pharmacology for Nurses:** `https://sagreenxyz.github.io/textbooks/pharmacology/`
 - **LMS:** `https://sagreenxyz.github.io/textbooks/lms/`
