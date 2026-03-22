@@ -1,24 +1,28 @@
-# Foundations of Nursing
+# NurseMastery — Open Nursing Textbooks
 
 https://sagreenxyz.github.io/foundations-of-nursing
 
-*A Comprehensive Pre-Licensure Textbook*
+*Open-Access Nursing Textbooks & Learning Tools*
 
-**Audience:** Pre-licensure nursing students (ADN/BSN) — first-year, foundational level  
-**Tone:** Formal/academic  
-**Citation Style:** APA 7th edition  
-**Format:** Markdown source, HTML/web output  
-**Target Length:** 900+ pages across 45 chapters
+---
+
+## Textbooks
+
+| Textbook | Chapters | Status |
+|----------|----------|--------|
+| **Foundations of Nursing** | 45 chapters · 11 units | 14 chapters drafted |
+| **Medical-Surgical Nursing** | 74 chapters · 17 units | In development |
 
 ---
 
 ## Web Application
 
-The project is published as a GitHub Pages site from the `docs/` directory. The top-level page is a multi-textbook catalog. The *Foundations of Nursing* textbook lives under `docs/foundations-of-nursing/`.
+The project is published as a GitHub Pages site from the `docs/` directory. The top-level page is a multi-textbook catalog.
 
-- **GitHub Pages URL:** `https://sagreenxyz.github.io/foundations-of-nursing/`
-- **Textbook URL:** `https://sagreenxyz.github.io/foundations-of-nursing/foundations-of-nursing/`
-- **LMS URL:** `https://sagreenxyz.github.io/foundations-of-nursing/lms/`
+- **Catalog:** `https://sagreenxyz.github.io/foundations-of-nursing/`
+- **Foundations of Nursing:** `https://sagreenxyz.github.io/foundations-of-nursing/foundations-of-nursing/`
+- **Medical-Surgical Nursing:** `https://sagreenxyz.github.io/foundations-of-nursing/medical-surgical-nursing/`
+- **LMS:** `https://sagreenxyz.github.io/foundations-of-nursing/lms/`
 
 **Local development:**
 
@@ -26,22 +30,9 @@ The project is published as a GitHub Pages site from the `docs/` directory. The 
 python3 -m http.server 8080
 ```
 
-Then open `http://localhost:8080/docs/` for the catalog or  
-`http://localhost:8080/docs/foundations-of-nursing/` to go directly to the textbook.
+Then open `http://localhost:8080/docs/` for the catalog.
 
 The app requires no build step and no external dependencies beyond the marked.js CDN used to render Markdown.
-
----
-
-## About This Project
-
-**Foundations of Nursing** is an open-access textbook for pre-licensure nursing students (ADN/BSN programs). Content is authored in Markdown, version-controlled in this repository, and published as a web application via GitHub Pages.
-
-- **Audience:** Pre-licensure nursing students — first-year, foundational level
-- **Tone:** Formal/academic
-- **Citation Style:** APA 7th edition
-- **Format:** Markdown source → HTML rendered by the web application
-- **Target Length:** 900+ pages across 30+ chapters
 
 ---
 
@@ -104,13 +95,18 @@ foundations-of-nursing/
 └── docs/                        # GitHub Pages root
     ├── index.html               # Catalog / multi-textbook landing page
     ├── lms/                     # NurseMastery LMS SPA
-    └── foundations-of-nursing/  # Foundations of Nursing textbook app
+    ├── foundations-of-nursing/  # Foundations of Nursing textbook app
+    │   ├── index.html
+    │   ├── css/style.css
+    │   ├── js/app.js
+    │   ├── content/             # Chapter markdown served to the browser
+    │   ├── index.md             # Alphabetical key-term index (auto-generated)
+    │   └── table-of-contents.md
+    └── medical-surgical-nursing/ # Medical-Surgical Nursing textbook app
         ├── index.html
         ├── css/style.css
-        ├── js/app.js
-        ├── content/             # Chapter markdown served to the browser
-        ├── index.md             # Alphabetical key-term index (auto-generated)
-        └── table-of-contents.md
+        ├── js/app.js            # 74-chapter TOC (17 units)
+        └── content/             # Chapter markdown (in development)
 ```
 
 ---
@@ -125,6 +121,8 @@ foundations-of-nursing/
 ---
 
 ## Chapter Status
+
+### Foundations of Nursing
 
 | # | Chapter | Status |
 |---|---------|--------|
@@ -143,6 +141,30 @@ foundations-of-nursing/
 | **13** | **Introduction to Pathophysiology** | **Draft Available** |
 | **14** | **Fluid, Electrolyte, and Acid-Base Balance** | **Draft Available** |
 | 15–45 | Additional Chapters | Coming Soon |
+
+### Medical-Surgical Nursing
+
+74 chapters across 17 units — all in development. TOC synthesized from *Lewis's Medical-Surgical Nursing* (Harding et al., 11th ed.), *Brunner & Suddarth's Textbook of Medical-Surgical Nursing* (Hinkle & Cheever, 14th ed.), and *Medical-Surgical Nursing: Concepts for Interprofessional Collaborative Care* (Ignatavicius, 10th ed.).
+
+| Unit | Title | Chapters |
+|------|-------|----------|
+| 1 | Foundations of Medical-Surgical Nursing | 1–6 |
+| 2 | Pathophysiologic Mechanisms of Disease | 7–9 |
+| 3 | Fluid, Electrolyte, and Acid-Base Balance | 10–12 |
+| 4 | Pain and Comfort Management | 13–14 |
+| 5 | Perioperative Nursing Care | 15–17 |
+| 6 | Problems of Oxygenation — Ventilation (Respiratory) | 18–22 |
+| 7 | Problems of Oxygenation — Perfusion (Cardiovascular) | 23–28 |
+| 8 | Problems of Oxygenation — Transport (Hematologic) | 29–32 |
+| 9 | Oncologic and Immunologic Nursing | 33–37 |
+| 10 | Problems of Digestion, Nutrition, and Elimination (GI) | 38–43 |
+| 11 | Problems of Excretion (Renal and Urinary) | 44–47 |
+| 12 | Problems of Endocrine Regulation | 48–52 |
+| 13 | Problems of Neurological Function | 53–57 |
+| 14 | Problems of Musculoskeletal Function | 58–62 |
+| 15 | Problems of the Integumentary System | 63–66 |
+| 16 | Problems of the Reproductive System | 67–70 |
+| 17 | Emergency, Critical Care, and Disaster Nursing | 71–74 |
 
 ---
 
