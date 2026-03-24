@@ -9,6 +9,9 @@
 
 'use strict';
 
+/* ── Constants ────────────────────────────────────────────── */
+const MOBILE_BREAKPOINT = 768; // must match CSS @media (max-width: 768px)
+
 /* ── Article Registry ─────────────────────────────────────── */
 const CATEGORIES = [
   {
@@ -432,6 +435,37 @@ function init() {
   document.getElementById('home-link').addEventListener('click', e => {
     e.preventDefault();
     showWelcome();
+  });
+
+  // ── Mobile sidebar toggle ──────────────────────────────────
+  const hamburger = document.getElementById('hamburger');
+  const overlay   = document.getElementById('sidebar-overlay');
+
+  function openSidebar() {
+    document.body.classList.add('sidebar-open');
+    hamburger.setAttribute('aria-expanded', 'true');
+  }
+
+  function closeSidebar() {
+    document.body.classList.remove('sidebar-open');
+    hamburger.setAttribute('aria-expanded', 'false');
+  }
+
+  hamburger.addEventListener('click', () => {
+    if (document.body.classList.contains('sidebar-open')) {
+      closeSidebar();
+    } else {
+      openSidebar();
+    }
+  });
+
+  overlay.addEventListener('click', closeSidebar);
+
+  // Close sidebar when a nav article is clicked on mobile
+  sidebar.addEventListener('click', e => {
+    if (e.target.closest('.nav-article') && window.innerWidth <= MOBILE_BREAKPOINT) {
+      closeSidebar();
+    }
   });
 
   window.addEventListener('popstate', handleHash);
